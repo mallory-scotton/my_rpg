@@ -24,5 +24,6 @@
     #include <math.h>
     #include <string.h>
     #include <malloc.h>
+    #include <unistd.h>
 
 #endif /* !DEPENDENCIES_H_ */
