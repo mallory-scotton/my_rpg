@@ -25,7 +25,8 @@ string my_strpbrk(cstring s, cstring accept)
 
     for (; *s; s++) {
         a = accept;
-        FORALL(a, RETURN(*a == *s, (string)s));
+        for (; *a; a++)
+            RETURN(*a == *s, (string)s);
     }
     return (NULL);
 }
