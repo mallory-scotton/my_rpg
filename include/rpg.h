@@ -28,8 +28,8 @@
 /// Authors:
 ///     - Mallory Scotton (@mallory-scotton)
 ///     - Nathan Fievet (@natan-fievet)
-///     - Hugo Cathelain (@Hugo-Cathelain)
-///     - Ossan ...
+///     - Hugo Cathelain (@hugo-cathelain)
+///     - Ossan Msoili (@Omegalpha28)
 ///
 ///////////////////////////////////////////////////////////////////////////////
 ///
@@ -84,5 +84,6 @@
     #include "rpg/types.h"
     #include "rpg/libmy.h"
     #include "rpg/macros.h"
+    #include "configuration.h"
 
 #endif /* !RPG_H_ */
