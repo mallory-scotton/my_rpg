@@ -288,4 +288,76 @@ string my_strlwr(string str);
 ///////////////////////////////////////////////////////////////////////////////
 int my_strtol(char *s, char **ptr);
 
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Convert a string to a word array using a separator
+///
+/// \param str  Pointer to the null-derminated string
+/// \param str  The separator used
+///
+/// \return Array of words
+///
+///////////////////////////////////////////////////////////////////////////////
+warray my_strsplit(string str, char separator);
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Locate the first occurrence of any character in a set.
+///
+/// \param s        Pointer to the null-terminated string to search.
+/// \param accept   Pointer to the null-terminated set of characters to match.
+///
+/// \return A pointer to the first matching character in the string or NULL.
+///
+///////////////////////////////////////////////////////////////////////////////
+string my_strpbrk(cstring s, cstring accept);
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Locate the first occurrence of a character in a string.
+///
+/// \param p   Pointer to the null-terminated string to search.
+/// \param ch  The character to search for.
+///
+/// \return A pointer to the first matching character in the string or NULL.
+///
+///////////////////////////////////////////////////////////////////////////////
+string my_strchr(cstring p, int ch);
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Calculate the length of the initial segment of a string consisting
+///        of only characters from another string.
+///
+/// \param s1  Pointer to the null-terminated string to check.
+/// \param s2  Pointer to the null-terminated string containing characters to
+///            match against.
+///
+/// \return The length of the initial segment of s1 consisting of only
+///         characters from s2.
+///
+///////////////////////////////////////////////////////////////////////////////
+ulong my_strspn(cstring s1, cstring s2);
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Extract tokens from a string.
+///
+/// \param s          String to tokenize (NULL for subsequent calls).
+/// \param delim      Delimiter characters.
+/// \param save_ptr   Pointer to a string to maintain state across calls.
+///
+/// \return A pointer to the next token in the string, or NULL if no more
+///         tokens are found.
+///
+///////////////////////////////////////////////////////////////////////////////
+string my_strtok_r(string s, cstring delim, string *save_ptr);
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Extract tokens from a string.
+///
+/// \param str    String to tokenize (NULL for subsequent calls).
+/// \param delim  Delimiter characters.
+///
+/// \return A pointer to the next token in the string, or NULL if no more
+///         tokens are found.
+///
+///////////////////////////////////////////////////////////////////////////////
+string my_strtok(string str, cstring delim);
+
 #endif /* !LIBMY_H_ */

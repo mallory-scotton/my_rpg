@@ -1,0 +1,28 @@
+/*
+** EPITECH PROJECT, 2024
+** my_rpg
+** File description:
+** strtok
+*/
+
+///////////////////////////////////////////////////////////////////////////////
+// Headers
+///////////////////////////////////////////////////////////////////////////////
+#include "rpg.h"
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Extract tokens from a string.
+///
+/// \param str    String to tokenize (NULL for subsequent calls).
+/// \param delim  Delimiter characters.
+///
+/// \return A pointer to the next token in the string, or NULL if no more
+///         tokens are found.
+///
+///////////////////////////////////////////////////////////////////////////////
+string my_strtok(string str, cstring delim)
+{
+    static string save;
+
+    return (my_strtok_r(str, delim, &save));
+}
