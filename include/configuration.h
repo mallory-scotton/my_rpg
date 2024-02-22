@@ -58,8 +58,16 @@
 ///////////////////////////////////////////////////////////////////////////////
 // ASSETS CONFIGURATION
 
+    // DEFAULT ASSETS LOCATION
     #define ASSETS_PATH "assets/"
+
+    // ZONES LOCATION
     #define ZONES_DIR "zones"
+
+    // RESERVED KEYWORDS DIRECTORY
+    #define TRAPS_DIR "traps"
+    #define VFX_DIR "vfx"
+    #define DESTRUCTIBLES_DIR "destructibles"
 
 ///////////////////////////////////////////////////////////////////////////////
 
