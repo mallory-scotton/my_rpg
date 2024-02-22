@@ -67,6 +67,7 @@ status window_init(void)
         FREE(Win);
         return (fail);
     }
+    sfRenderWindow_setView(Win->self, Win->view);
     DOIF(WIN_ICON != NULL, window_init_icon);
     sfRenderWindow_setFramerateLimit(Win->self, WIN_FPS);
     RETURN(WIN_CENTERED == false, success);
