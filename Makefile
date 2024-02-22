@@ -42,7 +42,8 @@ LIBDIR	:=	./libmy/char \
 			./libmy/memory \
 			./libmy/parsing \
 			./libmy/puts \
-			./libmy/strings
+			./libmy/strings \
+			./libmy/crypto
 LIBMY	:=	$(shell find $(LIBDIR) -name '*.c')
 
 TESTDIR	:= 	./tests/
@@ -113,5 +114,24 @@ tests_re: tests_fclean tests_run
 
 style:
 	coding-style . . | grep "coding style error(s)"
+
+#-----------------------------------------------------------------------------#
+
+#-----------------------------------------------------------------------------#
+## ARCHIVE MANIPULATION FOR ASSETS
+
+ARCHIVE		:=	assets
+
+EXTENSION	:=	.tar.xz
+
+compress:
+	echo -e "\e[34mCompressing assets...\e[0m"
+	tar -cJf $(ARCHIVE)$(EXTENSION) assets
+	echo -e "\e[32mCompression done.\e[0m"
+
+decompress:
+	echo -e "\e[34mDecompressing assets...\e[0m"
+	tar -xJf $(ARCHIVE)$(EXTENSION)
+	echo -e "\e[32mDecompression done.\e[0m"
 
 #-----------------------------------------------------------------------------#
