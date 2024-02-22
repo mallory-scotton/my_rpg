@@ -94,7 +94,7 @@ void window_update(sfSizeEvent size)
     float factor = (float)((float)VIEW_WIDTH / (float)size.width);
 
     sfView_setSize(Win->view, VEC2(VIEW_WIDTH, size.height * factor));
-    sfRenderWindow_setView(Win->self,  Win->view);
+    sfRenderWindow_setView(Win->self, Win->view);
 }
 
 ///////////////////////////////////////////////////////////////////////////////
