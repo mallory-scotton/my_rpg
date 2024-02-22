@@ -53,6 +53,9 @@
     #define WIN_MAX_WIDTH 1920
     #define WIN_MAX_HEIGHT 1080
 
+    #define VIEW_WIDTH 512
+    #define VIEW_HEIGHT 288
+
 ///////////////////////////////////////////////////////////////////////////////
 
 ///////////////////////////////////////////////////////////////////////////////
@@ -68,6 +71,45 @@
     #define TRAPS_DIR "traps"
     #define VFX_DIR "vfx"
     #define DESTRUCTIBLES_DIR "destructibles"
+
+///////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////
+// MEMORY CONFIGURATION
+// /!\ CHANGING THE CONFIGURATION WILL CAUSE ISSUE WITH ALREADY SAVED MAP
+
+    // BITS USED FOR ZONES (2^x) ==> [16]
+    #define BITS_ZONES 4
+
+    // BITS USED FOR CATEGORY (2^x) ==> [16]
+    #define BITS_CATEGORY 4
+
+    // BITS USED FOR ASSETS (2^x) ==> [128]
+    #define BITS_ASSETS 7
+
+    // BITS USED FOR PUTTING ASSETS BEHIND (2^x) ==> [1] == boolean
+    #define BITS_IS_BACKGROUND 1
+
+    // CHUNKS SIZE
+    #define CHUNK_SIZE 8
+
+    // BITS USED FOR CHUNKS (2^x) ==> [128]
+    #define BITS_CHUNK 7
+
+    // THE CHUNK USED FOR ASSETS NOT IN CHUNK
+    #define RESTRICTED_CHUNK 127
+
+    // BITS USED FOR POSITIONS (2^x) ==> [256]
+    #define BITS_POSITION 8
+
+    // BITS USED FOR DESCRIPTION THE AREA TYPE (2^x) ==> [8]
+    #define BITS_AREA_TYPE 3
+
+    // BITS USED FOR AREA SIZE (2^x) ==> [2048]
+    #define BITS_AREA_SIZE 11
+
+    // MACRO TO CONVERT BIT TO BYTE
+    #define BITTOBYTE(value) ((int)((value) / 8 + 1))
 
 ///////////////////////////////////////////////////////////////////////////////
 
