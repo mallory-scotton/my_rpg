@@ -68,8 +68,10 @@ status window_init(void);
 /// it is clamped to the valid range using the CLAMP macro. The updated size
 /// is then applied to the window using sfRenderWindow_setSize.
 ///
+/// \param size     The resized event value
+///
 ///////////////////////////////////////////////////////////////////////////////
-void window_update(void);
+void window_update(sfSizeEvent size)
 
 ///////////////////////////////////////////////////////////////////////////////
 /// \brief Destroy the main window.

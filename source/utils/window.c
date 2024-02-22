@@ -60,7 +60,7 @@ status window_init(void)
     Win = malloc(sizeof(global_window_t));
     RETURN(Win == NULL, fail);
     Win->self = sfRenderWindow_create(WIN_MODE, WIN_TITLE, WIN_STYLE, NULL);
-    Win->view = sfView_createFromRect((rectf){0, 0, WIN_WIDTH, WIN_HEIGHT});
+    Win->view = sfView_createFromRect((rectf){0, 0, VIEW_WIDTH, VIEW_HEIGHT});
     RETURN(Win->self == NULL, fail);
     if (Win->view == NULL) {
         sfRenderWindow_destroy(Win->self);
@@ -68,6 +68,7 @@ status window_init(void)
         return (fail);
     }
     sfRenderWindow_setView(Win->self, Win->view);
+    sfView_setCenter(Win->view, VEC2(VIEW_WIDTH / 2.0f, VIEW_HEIGHT / 2.0f));
     DOIF(WIN_ICON != NULL, window_init_icon);
     sfRenderWindow_setFramerateLimit(Win->self, WIN_FPS);
     RETURN(WIN_CENTERED == false, success);
@@ -85,16 +86,15 @@ status window_init(void)
 /// it is clamped to the valid range using the CLAMP macro. The updated size
 /// is then applied to the window using sfRenderWindow_setSize.
 ///
+/// \param size     The resized event value
+///
 ///////////////////////////////////////////////////////////////////////////////
-void window_update(void)
+void window_update(sfSizeEvent size)
 {
-    vec2u win = sfRenderWindow_getSize(Win->self);
+    float factor = (float)((float)VIEW_WIDTH / (float)size.width);
 
-    RETURN((win.x >= WIN_MIN_WIDTH && win.x <= WIN_MAX_WIDTH) &&
-        (win.y >= WIN_MIN_HEIGHT && win.y <= WIN_MAX_HEIGHT), (void)0);
-    win.x = CLAMP(win.x, WIN_MIN_WIDTH, WIN_MAX_WIDTH);
-    win.y = CLAMP(win.y, WIN_MIN_HEIGHT, WIN_MAX_HEIGHT);
-    sfRenderWindow_setSize(Win->self, win);
+    sfView_setSize(Win->view, VEC2(VIEW_WIDTH, size.height * factor));
+    sfRenderWindow_setView(Win->self,  Win->view);
 }
 
 ///////////////////////////////////////////////////////////////////////////////
