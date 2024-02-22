@@ -113,4 +113,7 @@ typedef sfVector3f vec3f;
 typedef sfVector2u vec2u;
 typedef sfVector2i vec2i;
 
+typedef sfFloatRect rectf;
+typedef sfIntRect recti;
+
 #endif /* !TYPES_H_ */

@@ -60,7 +60,13 @@ status window_init(void)
     Win = malloc(sizeof(global_window_t));
     RETURN(Win == NULL, fail);
     Win->self = sfRenderWindow_create(WIN_MODE, WIN_TITLE, WIN_STYLE, NULL);
+    Win->view = sfView_createFromRect((rectf){0, 0, WIN_WIDTH, WIN_HEIGHT});
     RETURN(Win->self == NULL, fail);
+    if (Win->view == NULL) {
+        sfRenderWindow_destroy(Win->self);
+        FREE(Win);
+        return (fail);
+    }
     DOIF(WIN_ICON != NULL, window_init_icon);
     sfRenderWindow_setFramerateLimit(Win->self, WIN_FPS);
     RETURN(WIN_CENTERED == false, success);
@@ -103,5 +109,6 @@ void window_destroy(void)
 {
     RETURN(Win == NULL, (void)0);
     DOIFX(Win->self != NULL, sfRenderWindow_destroy, Win->self);
+    DOIFX(Win->view != NULL, sfView_destroy, Win->view);
     FREE(Win);
 }
