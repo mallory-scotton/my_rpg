@@ -1,0 +1,53 @@
+/*
+** EPITECH PROJECT, 2024
+** my_rpg
+** File description:
+** comparaison
+*/
+
+///////////////////////////////////////////////////////////////////////////////
+// Headers
+///////////////////////////////////////////////////////////////////////////////
+#include "rpg.h"
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Checks if two vectors are equal component-wise.
+///
+/// \param a    The first vector.
+/// \param b    The second vector.
+///
+/// \return true if vectors a and b are equal, false otherwise.
+///
+///////////////////////////////////////////////////////////////////////////////
+bool vec2f_equal(vec2f a, vec2f b)
+{
+    return ((a.x == b.x) && (a.y == b.y) ? true : false);
+}
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Returns the component-wise minimum of two vectors.
+///
+/// \param a    The first vector.
+/// \param b    The second vector.
+///
+/// \return The vector with the minimum components from vectors a and b.
+///
+///////////////////////////////////////////////////////////////////////////////
+vec2f vec2f_min(vec2f a, vec2f b)
+{
+    return (VEC2(fminf(a.x, b.x), fminf(a.y, b.y)));
+}
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Returns the component-wise maximum of two vectors.
+///
+/// \param a    The first vector.
+/// \param b    The second vector.
+///
+/// \return The vector with the maximum components from vectors a and b.
+///
+///////////////////////////////////////////////////////////////////////////////
+vec2f vec2f_max(vec2f a, vec2f b)
+{
+    return (VEC2(fmaxf(a.x, b.x), fmaxf(a.y, b.y)));
+}
