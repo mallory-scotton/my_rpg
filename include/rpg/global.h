@@ -133,6 +133,7 @@ void window_destroy(void);
 /// \param dot          Dot product of two vec2f
 /// \param min          The minimum of two vec2f
 /// \param max          The maximum of two vec2f
+/// \param end          Calculate the end point of a vector from an origin.
 ///
 ///////////////////////////////////////////////////////////////////////////////
 typedef struct global_vec2_s {
@@ -147,6 +148,7 @@ typedef struct global_vec2_s {
     float (*dot)(vec2f a, vec2f b);
     vec2f (*min)(vec2f a, vec2f b);
     vec2f (*max)(vec2f a, vec2f b);
+    vec2f (*end)(vec2f origin, vec2f direction, float distance);
 } global_vec2_t;
 
 ///////////////////////////////////////////////////////////////////////////////
@@ -272,6 +274,18 @@ float vec2f_dot(vec2f a, vec2f b);
 vec2f vec2f_lerp(vec2f a, vec2f b, float t);
 
 ///////////////////////////////////////////////////////////////////////////////
+/// \brief Calculate the end point of a vector from an origin.
+///
+/// \param origin The starting point of the vector.
+/// \param direction The direction vector of the vector.
+/// \param distance The distance from the origin to the end point.
+///
+/// \return The end point of the vector.
+///
+///////////////////////////////////////////////////////////////////////////////
+vec2f vec2f_end(vec2f origin, vec2f direction, float distance);
+
+///////////////////////////////////////////////////////////////////////////////
 /// \brief Vec2 operation structures
 ///
 /// \param lerp         Linear interpolation between two vec2f
@@ -285,6 +299,7 @@ vec2f vec2f_lerp(vec2f a, vec2f b, float t);
 /// \param dot          Dot product of two vec2f
 /// \param min          The minimum of two vec2f
 /// \param max          The maximum of two vec2f
+/// \param end          Calculate the end point of a vector from an origin.
 ///
 ///////////////////////////////////////////////////////////////////////////////
 extern global_vec2_t Vec2;

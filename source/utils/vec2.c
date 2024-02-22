@@ -38,4 +38,5 @@ global_vec2_t Vec2 = {
     &vec2f_dot,
     &vec2f_min,
     &vec2f_max,
+    &vec2f_end
 };

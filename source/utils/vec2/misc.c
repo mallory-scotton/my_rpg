@@ -72,3 +72,25 @@ vec2f vec2f_lerp(vec2f a, vec2f b, float t)
 {
     return (VEC2(a.x + (b.x - a.x) * t, a.y + (b.y - a.y) * t));
 }
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Calculate the end point of a vector from an origin.
+///
+/// \param origin The starting point of the vector.
+/// \param direction The direction vector of the vector.
+/// \param distance The distance from the origin to the end point.
+///
+/// \return The end point of the vector.
+///
+///////////////////////////////////////////////////////////////////////////////
+vec2f vec2f_end(vec2f origin, vec2f direction, float distance)
+{
+    vec2f normalized = vec2f_subtract(direction, origin);
+    float length = sqrtf(SQUARE(normalized.x) + SQUARE(normalized.y));
+
+    normalized = vec2f_divide(normalized, length);
+    return (VEC2F(
+        origin.x + normalized.x * distance,
+        origin.y + normalized.y * distance
+    ));
+}
