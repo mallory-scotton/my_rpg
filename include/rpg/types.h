@@ -48,16 +48,35 @@ typedef enum {
 /// These typedefs define commonly used unsigned integer types, providing more
 /// meaningful names for variables of these types.
 ///
-/// \typedef uchar   unsigned char
-/// \typedef ushort  unsigned short
-/// \typedef uint    unsigned int
-/// \typedef ulong   unsigned long
+/// \typedef uchar      unsigned char
+/// \typedef ushort     unsigned short
+/// \typedef uint       unsigned int
+/// \typedef ulong      unsigned long
+/// \typedef ullong     unsigned long long
 ///
 ///////////////////////////////////////////////////////////////////////////////
 typedef unsigned char uchar;
 typedef unsigned short ushort;
 typedef unsigned int uint;
 typedef unsigned long ulong;
+typedef unsigned long long ullong;
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Typedefs for commonly used unsigned integer types.
+///
+/// These typedefs define commonly used unsigned integer types, providing more
+/// meaningful names for variables of these types.
+///
+/// \typedef u8     unsigned char
+/// \typedef u16    unsigned short
+/// \typedef u32    unsigned int
+/// \typedef u64    unsigned long long
+///
+///////////////////////////////////////////////////////////////////////////////
+typedef unsigned char u8;
+typedef unsigned short u16;
+typedef unsigned int u32;
+typedef unsigned long long u64;
 
 ///////////////////////////////////////////////////////////////////////////////
 /// \brief Typedefs for string types.
