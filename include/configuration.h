@@ -15,6 +15,27 @@
     #include "rpg/dependencies.h"
 
 ///////////////////////////////////////////////////////////////////////////////
+// KEYBIND CONFIGURATION
+
+    #define ALT_UP sfKeyUp
+    #define ALT_DOWN sfKeyDown
+    #define ALT_RIGHT sfKeyRight
+    #define ALT_LEFT sfKeyLeft
+
+    #define DEFAULT_KEY_UP sfKeyW
+    #define DEFAULT_KEY_DOWN sfKeyS
+    #define DEFAULT_KEY_RIGHT sfKeyD
+    #define DEFAULT_KEY_LEFT sfKeyA
+    #define DEFAULT_KEY_RELOAD sfKeyR
+    #define DEFAULT_KEY_HEAL sfKeyQ
+    #define DEFAULT_KEY_DASH sfKeySpace
+    #define DEFAULT_KEY_INTERACT sfKeyE
+    #define DEFAULT_KEY_PAUSE sfKeyEscape
+    #define DEFAULT_MOUSE_SHOOT sfMouseLeft
+
+///////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////
 // WINDOW CONFIGURATION
 
     #define WIN_WIDTH 1920
