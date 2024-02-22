@@ -84,6 +84,7 @@
     #include "rpg/types.h"
     #include "rpg/libmy.h"
     #include "rpg/macros.h"
+    #include "rpg/global.h"
     #include "configuration.h"
 
 #endif /* !RPG_H_ */
