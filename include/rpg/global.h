@@ -460,7 +460,9 @@ typedef struct prop_s {
     string name;
     prop_type_t type;
     prop_animation_t anim;
+    bool animated;
     bool valid;
+    vec2u textureSize;
     sfTexture *text;
     recti mask;
 } prop_t;
