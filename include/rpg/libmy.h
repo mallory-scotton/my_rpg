@@ -365,4 +365,17 @@ string my_strtok_r(string s, cstring delim, string *save_ptr);
 ///////////////////////////////////////////////////////////////////////////////
 string my_strtok(string str, cstring delim);
 
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Concatenate three null-terminated strings and return the result.
+///
+/// \param s1  Pointer to the first null-terminated string.
+/// \param s2  Pointer to the second null-terminated string.
+/// \param s3  Pointer to the third null-terminated string.
+///
+/// \return    A dynamically allocated string containing the concatenated
+///            result, or NULL on allocation failure.
+///
+///////////////////////////////////////////////////////////////////////////////
+string my_strdcat(cstring s1, cstring s2, cstring s3);
+
 #endif /* !LIBMY_H_ */
