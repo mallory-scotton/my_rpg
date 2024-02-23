@@ -69,6 +69,6 @@ status settings_init(void)
 void settings_destroy(void)
 {
     RETURN(Settings == NULL, (void)0);
-    DOIFX(Settings->keybind != NULL, FREE, Settings->keybind);
+    DOIF(Settings->keybind != NULL, FREE(Settings->keybind));
     FREE(Settings);
 }

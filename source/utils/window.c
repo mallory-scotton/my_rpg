@@ -69,7 +69,7 @@ status window_init(void)
     }
     sfRenderWindow_setView(Win->self, Win->view);
     sfView_setCenter(Win->view, VEC2(VIEW_WIDTH / 2.0f, VIEW_HEIGHT / 2.0f));
-    DOIF(WIN_ICON != NULL, window_init_icon);
+    DOIF(WIN_ICON != NULL, window_init_icon());
     sfRenderWindow_setFramerateLimit(Win->self, WIN_FPS);
     RETURN(WIN_CENTERED == false, success);
     sfRenderWindow_setPosition(Win->self, VEC2I(MID(screen.width, WIN_WIDTH),
@@ -109,7 +109,7 @@ void window_update(sfSizeEvent size)
 void window_destroy(void)
 {
     RETURN(Win == NULL, (void)0);
-    DOIFX(Win->self != NULL, sfRenderWindow_destroy, Win->self);
-    DOIFX(Win->view != NULL, sfView_destroy, Win->view);
+    DOIF(Win->self != NULL, sfRenderWindow_destroy(Win->self));
+    DOIF(Win->view != NULL, sfView_destroy(Win->view));
     FREE(Win);
 }

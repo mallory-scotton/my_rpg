@@ -76,7 +76,7 @@ status time_update(void)
 status time_destroy(void)
 {
     RETURN(!Time, success);
-    DOIFX(Time->clock, sfClock_destroy, Time->clock);
+    DOIF(Time->clock, sfClock_destroy(Time->clock));
     FREE(Time);
     return (success);
 }
