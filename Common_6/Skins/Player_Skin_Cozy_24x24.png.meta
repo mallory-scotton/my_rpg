@@ -1,0 +1,4409 @@
+fileFormatVersion: 2
+guid: 304afcf4a93dcfb488128784ad33e7fc
+timeCreated: 1706119811
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Player_Skin_Cozy_24x24_39
+  - first:
+      213: 21300002
+    second: Player_Skin_Cozy_24x24_79
+  - first:
+      213: 21300004
+    second: Player_Skin_Cozy_24x24_31
+  - first:
+      213: 21300006
+    second: Player_Skin_Cozy_24x24_65
+  - first:
+      213: 21300008
+    second: Player_Skin_Cozy_24x24_45
+  - first:
+      213: 21300010
+    second: Player_Skin_Cozy_24x24_7
+  - first:
+      213: 21300012
+    second: Player_Skin_Cozy_24x24_42
+  - first:
+      213: 21300014
+    second: Player_Skin_Cozy_24x24_41
+  - first:
+      213: 21300016
+    second: Player_Skin_Cozy_24x24_82
+  - first:
+      213: 21300018
+    second: Player_Skin_Cozy_24x24_54
+  - first:
+      213: 21300020
+    second: Player_Skin_Cozy_24x24_61
+  - first:
+      213: 21300022
+    second: Player_Skin_Cozy_24x24_40
+  - first:
+      213: 21300024
+    second: Player_Skin_Cozy_24x24_91
+  - first:
+      213: 21300026
+    second: Player_Skin_Cozy_24x24_2
+  - first:
+      213: 21300028
+    second: Player_Skin_Cozy_24x24_60
+  - first:
+      213: 21300030
+    second: Player_Skin_Cozy_24x24_76
+  - first:
+      213: 21300032
+    second: Player_Skin_Cozy_24x24_37
+  - first:
+      213: 21300034
+    second: Player_Skin_Cozy_24x24_20
+  - first:
+      213: 21300036
+    second: Player_Skin_Cozy_24x24_6
+  - first:
+      213: 21300038
+    second: Player_Skin_Cozy_24x24_36
+  - first:
+      213: 21300040
+    second: Player_Skin_Cozy_24x24_24
+  - first:
+      213: 21300042
+    second: Player_Skin_Cozy_24x24_12
+  - first:
+      213: 21300044
+    second: Player_Skin_Cozy_24x24_33
+  - first:
+      213: 21300046
+    second: Player_Skin_Cozy_24x24_84
+  - first:
+      213: 21300048
+    second: Player_Skin_Cozy_24x24_8
+  - first:
+      213: 21300050
+    second: Player_Skin_Cozy_24x24_38
+  - first:
+      213: 21300052
+    second: Player_Skin_Cozy_24x24_27
+  - first:
+      213: 21300054
+    second: Player_Skin_Cozy_24x24_10
+  - first:
+      213: 21300056
+    second: Player_Skin_Cozy_24x24_89
+  - first:
+      213: 21300058
+    second: Player_Skin_Cozy_24x24_57
+  - first:
+      213: 21300060
+    second: Player_Skin_Cozy_24x24_77
+  - first:
+      213: 21300062
+    second: Player_Skin_Cozy_24x24_69
+  - first:
+      213: 21300064
+    second: Player_Skin_Cozy_24x24_75
+  - first:
+      213: 21300066
+    second: Player_Skin_Cozy_24x24_30
+  - first:
+      213: 21300068
+    second: Player_Skin_Cozy_24x24_29
+  - first:
+      213: 21300070
+    second: Player_Skin_Cozy_24x24_62
+  - first:
+      213: 21300072
+    second: Player_Skin_Cozy_24x24_19
+  - first:
+      213: 21300074
+    second: Player_Skin_Cozy_24x24_58
+  - first:
+      213: 21300076
+    second: Player_Skin_Cozy_24x24_94
+  - first:
+      213: 21300078
+    second: Player_Skin_Cozy_24x24_21
+  - first:
+      213: 21300080
+    second: Player_Skin_Cozy_24x24_1
+  - first:
+      213: 21300082
+    second: Player_Skin_Cozy_24x24_4
+  - first:
+      213: 21300084
+    second: Player_Skin_Cozy_24x24_59
+  - first:
+      213: 21300086
+    second: Player_Skin_Cozy_24x24_83
+  - first:
+      213: 21300088
+    second: Player_Skin_Cozy_24x24_32
+  - first:
+      213: 21300090
+    second: Player_Skin_Cozy_24x24_22
+  - first:
+      213: 21300092
+    second: Player_Skin_Cozy_24x24_63
+  - first:
+      213: 21300094
+    second: Player_Skin_Cozy_24x24_55
+  - first:
+      213: 21300096
+    second: Player_Skin_Cozy_24x24_35
+  - first:
+      213: 21300098
+    second: Player_Skin_Cozy_24x24_17
+  - first:
+      213: 21300100
+    second: Player_Skin_Cozy_24x24_87
+  - first:
+      213: 21300102
+    second: Player_Skin_Cozy_24x24_50
+  - first:
+      213: 21300104
+    second: Player_Skin_Cozy_24x24_53
+  - first:
+      213: 21300106
+    second: Player_Skin_Cozy_24x24_5
+  - first:
+      213: 21300108
+    second: Player_Skin_Cozy_24x24_3
+  - first:
+      213: 21300110
+    second: Player_Skin_Cozy_24x24_46
+  - first:
+      213: 21300112
+    second: Player_Skin_Cozy_24x24_28
+  - first:
+      213: 21300114
+    second: Player_Skin_Cozy_24x24_25
+  - first:
+      213: 21300116
+    second: Player_Skin_Cozy_24x24_56
+  - first:
+      213: 21300118
+    second: Player_Skin_Cozy_24x24_18
+  - first:
+      213: 21300120
+    second: Player_Skin_Cozy_24x24_70
+  - first:
+      213: 21300122
+    second: Player_Skin_Cozy_24x24_88
+  - first:
+      213: 21300124
+    second: Player_Skin_Cozy_24x24_95
+  - first:
+      213: 21300126
+    second: Player_Skin_Cozy_24x24_14
+  - first:
+      213: 21300128
+    second: Player_Skin_Cozy_24x24_34
+  - first:
+      213: 21300130
+    second: Player_Skin_Cozy_24x24_26
+  - first:
+      213: 21300132
+    second: Player_Skin_Cozy_24x24_68
+  - first:
+      213: 21300134
+    second: Player_Skin_Cozy_24x24_81
+  - first:
+      213: 21300136
+    second: Player_Skin_Cozy_24x24_72
+  - first:
+      213: 21300138
+    second: Player_Skin_Cozy_24x24_64
+  - first:
+      213: 21300140
+    second: Player_Skin_Cozy_24x24_67
+  - first:
+      213: 21300142
+    second: Player_Skin_Cozy_24x24_13
+  - first:
+      213: 21300144
+    second: Player_Skin_Cozy_24x24_15
+  - first:
+      213: 21300146
+    second: Player_Skin_Cozy_24x24_90
+  - first:
+      213: 21300148
+    second: Player_Skin_Cozy_24x24_71
+  - first:
+      213: 21300150
+    second: Player_Skin_Cozy_24x24_52
+  - first:
+      213: 21300152
+    second: Player_Skin_Cozy_24x24_74
+  - first:
+      213: 21300154
+    second: Player_Skin_Cozy_24x24_48
+  - first:
+      213: 21300156
+    second: Player_Skin_Cozy_24x24_51
+  - first:
+      213: 21300158
+    second: Player_Skin_Cozy_24x24_11
+  - first:
+      213: 21300160
+    second: Player_Skin_Cozy_24x24_93
+  - first:
+      213: 21300162
+    second: Player_Skin_Cozy_24x24_44
+  - first:
+      213: 21300164
+    second: Player_Skin_Cozy_24x24_78
+  - first:
+      213: 21300166
+    second: Player_Skin_Cozy_24x24_9
+  - first:
+      213: 21300168
+    second: Player_Skin_Cozy_24x24_0
+  - first:
+      213: 21300170
+    second: Player_Skin_Cozy_24x24_49
+  - first:
+      213: 21300172
+    second: Player_Skin_Cozy_24x24_43
+  - first:
+      213: 21300174
+    second: Player_Skin_Cozy_24x24_73
+  - first:
+      213: 21300176
+    second: Player_Skin_Cozy_24x24_47
+  - first:
+      213: 21300178
+    second: Player_Skin_Cozy_24x24_80
+  - first:
+      213: 21300180
+    second: Player_Skin_Cozy_24x24_66
+  - first:
+      213: 21300182
+    second: Player_Skin_Cozy_24x24_92
+  - first:
+      213: 21300184
+    second: Player_Skin_Cozy_24x24_16
+  - first:
+      213: 21300186
+    second: Player_Skin_Cozy_24x24_85
+  - first:
+      213: 21300188
+    second: Player_Skin_Cozy_24x24_86
+  - first:
+      213: 21300190
+    second: Player_Skin_Cozy_24x24_23
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -3}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6512a269081646828e4a2039f49a29cb
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_79
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 12}
+        - {x: -12, y: 11}
+        - {x: -12, y: -6}
+        - {x: -9, y: -10}
+        - {x: 8, y: -10}
+        - {x: 12, y: -8}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe712c65e264e53981da4a33af94282
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 3}
+        - {x: -12, y: -2}
+        - {x: -12, y: -9}
+        - {x: -8, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -8}
+        - {x: 11, y: -3}
+        - {x: 8, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdcd8573ec543918ae278830404527b
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 9}
+        - {x: -12, y: -7}
+        - {x: -7, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -8}
+        - {x: 12, y: 7}
+        - {x: 11, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485fffc717a74bf08b409533a372b122
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_45
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 9, y: 7}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 5, y: -12}
+        - {x: 11, y: -6}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff48a562ee4044708a3a77204ffa7af0
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 6}
+        - {x: -10, y: 2}
+        - {x: -10, y: -11}
+        - {x: -9, y: -12}
+        - {x: 6, y: -12}
+        - {x: 12, y: -5}
+        - {x: 12, y: 3}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025c79a016f4472db8dca61d32b1e569
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 7}
+        - {x: -12, y: 7}
+        - {x: -12, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d00b2bc120c4d3e8557f60701b3812f
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 11, y: 7}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 10, y: -12}
+        - {x: 12, y: -10}
+        - {x: 12, y: 1}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5caf4098d84958b8392fcac7e1a2a4
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 5}
+        - {x: -12, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -5}
+        - {x: 10, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c71604f68824dcf8abaa54df95438eb
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 9, y: 9}
+        - {x: -4, y: 9}
+        - {x: -12, y: 7}
+        - {x: -12, y: -4}
+        - {x: -7, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: 5}
+        - {x: 11, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d98aaafc8b84aa4bbfce5c030d68476
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 10}
+        - {x: -12, y: 9}
+        - {x: -12, y: -8}
+        - {x: -6, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f16c9de5204edeacd97272b9844f85
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 6}
+        - {x: 11, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bdd5a488a746f8ad0f166d7bee44ea
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_91
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -5}
+        - {x: -10, y: -7}
+        - {x: -11, y: -11}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b162e75ff6bd412680d385cfb4053d95
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 4}
+        - {x: -12, y: -12}
+        - {x: 9, y: -12}
+        - {x: 10, y: -10}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53017502f794a939f20a081e4f0ef20
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -12, y: -8}
+        - {x: -9, y: -11}
+        - {x: -3, y: -12}
+        - {x: 5, y: -12}
+        - {x: 12, y: -8}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dd677c268f439a8f6b24d04770bc49
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 11}
+        - {x: -12, y: 10}
+        - {x: -12, y: -7}
+        - {x: -7, y: -11}
+        - {x: 6, y: -11}
+        - {x: 12, y: -9}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826f4072dc644a67bc2e34002493a6c0
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -9, y: -12}
+        - {x: 7, y: -12}
+        - {x: 11, y: -6}
+        - {x: 11, y: 4}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4925c8011243ceb795d57cd83dd612
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: -5}
+        - {x: -12, y: -10}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -5}
+        - {x: 1, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9e7e5b73eb487fbf942bb2334cb5a2
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 4}
+        - {x: -10, y: -10}
+        - {x: -8, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -7}
+        - {x: 12, y: 1}
+        - {x: 11, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d9f829ff534090aa6557d709765cc3
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -8, y: -12}
+        - {x: 7, y: -12}
+        - {x: 11, y: -6}
+        - {x: 11, y: 4}
+        - {x: 7, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0200615e29492192529b1c7e0505bc
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 5}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -6}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e9d117a6bf4d489ea8b9d597ec015b
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -12, y: 7}
+        - {x: -12, y: -8}
+        - {x: -9, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -11}
+        - {x: 11, y: 6}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943d99a9cd8c4199ab396c2e4322630b
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 4, y: -12}
+        - {x: 10, y: -5}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6026e0c8c4ee481d8b6e31572bf4272a
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -11, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -6}
+        - {x: 11, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1691fb2ff6470fabc8f0e76748cc3b
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 6}
+        - {x: -11, y: 0}
+        - {x: -11, y: -12}
+        - {x: 5, y: -12}
+        - {x: 11, y: -6}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeae30694974b28bc3de0f322c26c24
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 10, y: -12}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dd504b07c646c0bc17137a17763b81
+      internalID: 21300050
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -12, y: 1}
+        - {x: -12, y: -9}
+        - {x: -10, y: -10}
+        - {x: 11, y: -10}
+        - {x: 12, y: -9}
+        - {x: 12, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700702b68c14441ab31995dc76f85d14
+      internalID: 21300052
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 8}
+        - {x: -12, y: -8}
+        - {x: -10, y: -12}
+        - {x: 7, y: -12}
+        - {x: 7, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f392f98bbd4038b6d2ade6c76bd599
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_89
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -5}
+        - {x: -10, y: -7}
+        - {x: -11, y: -11}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a350ca04a642a18fd4b6c432f5477e
+      internalID: 21300056
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_57
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -12, y: -4}
+        - {x: -5, y: -12}
+        - {x: 5, y: -12}
+        - {x: 12, y: -3}
+        - {x: 12, y: 7}
+        - {x: 11, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3561620536e446f1808b9528c46b15b9
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_77
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 12}
+        - {x: -12, y: 11}
+        - {x: -12, y: -6}
+        - {x: -9, y: -10}
+        - {x: 8, y: -10}
+        - {x: 12, y: -8}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a501444fcd4c46f393bd013842c5ccc0
+      internalID: 21300060
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_69
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 0, y: 0}
+        - {x: -3, y: -3}
+        - {x: -3, y: -5}
+        - {x: 0, y: -8}
+        - {x: 2, y: -8}
+        - {x: 5, y: -5}
+        - {x: 5, y: -3}
+        - {x: 2, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ec0e56b1224e819774f94abc75a5fc
+      internalID: 21300062
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -12, y: -6}
+        - {x: -6, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -7}
+        - {x: 12, y: 8}
+        - {x: 11, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55acc6b35aad4a91aacf740804971d4d
+      internalID: 21300064
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 2, y: 4}
+        - {x: -9, y: 4}
+        - {x: -12, y: 3}
+        - {x: -12, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: -8}
+        - {x: 10, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ee272ff0c74f5ca10d6453c982e12f
+      internalID: 21300066
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: 5}
+        - {x: -10, y: -1}
+        - {x: -10, y: -12}
+        - {x: 9, y: -12}
+        - {x: 9, y: -1}
+        - {x: 3, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ecd1d65a2142dba6a4bfdf61de0c8a
+      internalID: 21300068
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b9d420741840d783ac9e6bf6c9e0ac
+      internalID: 21300070
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: -5}
+        - {x: -12, y: -9}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbb22eb6445419ea0c7159a6d931d8a
+      internalID: 21300072
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -12, y: -4}
+        - {x: -5, y: -12}
+        - {x: 5, y: -12}
+        - {x: 12, y: -3}
+        - {x: 12, y: 7}
+        - {x: 11, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294e4804e9d54348b27f228f7e7ef64c
+      internalID: 21300074
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -7, y: 9}
+        - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: 4, y: -12}
+        - {x: 10, y: -4}
+        - {x: 10, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5213653720d6469bb7caa28329a58dc7
+      internalID: 21300076
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: -5}
+        - {x: -11, y: -10}
+        - {x: -11, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2310e4e3f76348a1a3e8f8bcb054e8da
+      internalID: 21300078
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 5}
+        - {x: -12, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -5}
+        - {x: 10, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c32d94f08c4d5981c7255d11117cf8
+      internalID: 21300080
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 6}
+        - {x: -12, y: 1}
+        - {x: -12, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -8}
+        - {x: 12, y: 0}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b6d7a061fd4aab9d459bc9b3655d0b
+      internalID: 21300082
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -12, y: -9}
+        - {x: -11, y: -12}
+        - {x: 4, y: -12}
+        - {x: 12, y: -8}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae23b852359c47c9b9d68a2d8100f8c3
+      internalID: 21300084
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 3}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0586e15f7e8a44e68d652655a8c55713
+      internalID: 21300086
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -11, y: -10}
+        - {x: -9, y: -12}
+        - {x: 9, y: -12}
+        - {x: 11, y: -8}
+        - {x: 11, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2b546a2b254d6280a5618719fd5576
+      internalID: 21300088
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 5}
+        - {x: -11, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdac8e732cc8491baad0b31cd42d94ea
+      internalID: 21300090
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -12, y: -9}
+        - {x: -9, y: -12}
+        - {x: 6, y: -12}
+        - {x: 12, y: -9}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7a90c00809497d8d5eceb1ce8c84af
+      internalID: 21300092
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: 10}
+        - {x: -12, y: 9}
+        - {x: -12, y: -1}
+        - {x: -7, y: -9}
+        - {x: -4, y: -12}
+        - {x: 5, y: -12}
+        - {x: 12, y: -2}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b72bd60044843279a50c7a276eb0946
+      internalID: 21300094
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -9, y: -12}
+        - {x: 7, y: -12}
+        - {x: 11, y: -8}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568385f0f75b40e2b44e2ab065e949ad
+      internalID: 21300096
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -12}
+        - {x: 9, y: -12}
+        - {x: 12, y: -4}
+        - {x: 12, y: 6}
+      - - {x: 9, y: -8}
+        - {x: 6, y: -11}
+        - {x: 6, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -9}
+        - {x: 11, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a7c6c750174281abe63755b8029203
+      internalID: 21300098
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -5}
+        - {x: -10, y: -7}
+        - {x: -11, y: -11}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87f6452aeef499097ac60ea5d657d35
+      internalID: 21300100
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 10, y: 1}
+        - {x: -5, y: 1}
+        - {x: -11, y: -2}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -10}
+        - {x: 12, y: -7}
+        - {x: 12, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd86c84f39f430497c116b586ea0158
+      internalID: 21300102
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 7}
+        - {x: -11, y: 5}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -9}
+        - {x: 11, y: 2}
+        - {x: 9, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f011998732384c9d80c9315bdf391d21
+      internalID: 21300104
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 11, y: 6}
+        - {x: -10, y: 6}
+        - {x: -11, y: 1}
+        - {x: -11, y: -12}
+        - {x: 7, y: -12}
+        - {x: 10, y: -11}
+        - {x: 12, y: -2}
+        - {x: 12, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230edb7ef9744e598b64dbc14f256751
+      internalID: 21300106
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -12, y: 6}
+        - {x: -12, y: -12}
+        - {x: 7, y: -12}
+        - {x: 10, y: -9}
+        - {x: 10, y: 4}
+        - {x: 9, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a75113d54f41c8b28230822549d480
+      internalID: 21300108
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 10, y: -12}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316bd1c8c0d146c7b195ee7b13e96e5f
+      internalID: 21300110
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 12, y: 2}
+        - {x: 1, y: 6}
+        - {x: -8, y: 6}
+        - {x: -10, y: 3}
+        - {x: -10, y: -10}
+        - {x: -7, y: -12}
+        - {x: 12, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32617c400504f3585f5be492a768cb5
+      internalID: 21300112
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 5}
+        - {x: -11, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -9}
+        - {x: 11, y: 4}
+        - {x: 9, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0615379b8fd7437aa37dc2ca1145d023
+      internalID: 21300114
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 11, y: 10}
+        - {x: -12, y: 10}
+        - {x: -12, y: -7}
+        - {x: -3, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -5}
+        - {x: 12, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb324b27ad544c7eaba03df610d2cb27
+      internalID: 21300116
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 5}
+        - {x: -12, y: 1}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8e47e9c3a348b29d88f3d63ce644fa
+      internalID: 21300118
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -1, y: -2}
+        - {x: -4, y: -3}
+        - {x: -4, y: -8}
+        - {x: -3, y: -10}
+        - {x: 4, y: -10}
+        - {x: 5, y: -7}
+        - {x: 5, y: -3}
+        - {x: 2, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4c4194e5ef476eab04748b27ad9e2a
+      internalID: 21300120
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -5}
+        - {x: -10, y: -7}
+        - {x: -11, y: -11}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f4cd03f8a84ca29deda4bd26eae5e9
+      internalID: 21300122
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_95
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 77
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154821f1cbae41bfb244352aed9183f1
+      internalID: 21300124
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: 3}
+        - {x: -12, y: 2}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 1}
+        - {x: 10, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec945cbdf1b4980ae21b80e4e56def4
+      internalID: 21300126
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 7, y: -12}
+        - {x: 11, y: -5}
+        - {x: 11, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f9869f51fa487f85999e4693408c52
+      internalID: 21300128
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 6}
+        - {x: -12, y: 2}
+        - {x: -12, y: -11}
+        - {x: -11, y: -12}
+        - {x: 5, y: -12}
+        - {x: 11, y: -5}
+        - {x: 11, y: 3}
+        - {x: 7, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327c57f87489425fb71d53dcedc06dbf
+      internalID: 21300130
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -11, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -6}
+        - {x: 11, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288b69ab88fb47be94dac7e59a0d9cc3
+      internalID: 21300132
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_81
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 5, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75c3fd9e8804133ac5714f339a22864
+      internalID: 21300134
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -1, y: 0}
+        - {x: -4, y: -3}
+        - {x: -4, y: -5}
+        - {x: -1, y: -8}
+        - {x: 1, y: -8}
+        - {x: 4, y: -5}
+        - {x: 4, y: -3}
+        - {x: 1, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6a4bffdb34458f8191317e9f8bd5e6
+      internalID: 21300136
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -12, y: -11}
+        - {x: -10, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afa08cb5436491db976f5a826fdc1ce
+      internalID: 21300138
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 3}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb2803d7bb74d56a05eccaa9a3050c6
+      internalID: 21300140
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 7, y: 7}
+        - {x: -11, y: 7}
+        - {x: -12, y: 4}
+        - {x: -12, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -4}
+        - {x: 10, y: 5}
+      - - {x: 9, y: -8}
+        - {x: 6, y: -11}
+        - {x: 6, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -9}
+        - {x: 11, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde529925ca14c899dad7632ad00072b
+      internalID: 21300142
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: 3}
+        - {x: -12, y: 1}
+        - {x: -12, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -8}
+        - {x: 10, y: 3}
+      - - {x: 12, y: -12}
+        - {x: 12, y: -9}
+        - {x: 8, y: -9}
+        - {x: 7, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cc38ca0d81420d8e6feb54f6bbfd4f
+      internalID: 21300144
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -5}
+        - {x: -10, y: -7}
+        - {x: -11, y: -11}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b933ebf23640a2be61b2cb077025e0
+      internalID: 21300146
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_71
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -1, y: -2}
+        - {x: -4, y: -5}
+        - {x: -4, y: -8}
+        - {x: -1, y: -10}
+        - {x: 3, y: -10}
+        - {x: 4, y: -8}
+        - {x: 4, y: -3}
+        - {x: 1, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0268df7ccc674d9e8dadeb3b79439296
+      internalID: 21300148
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 5}
+        - {x: -10, y: 4}
+        - {x: -10, y: -9}
+        - {x: -9, y: -12}
+        - {x: 9, y: -12}
+        - {x: 12, y: -10}
+        - {x: 12, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fa62416fa241d8a29f8b0393e5a846
+      internalID: 21300150
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -12, y: 5}
+        - {x: -12, y: -9}
+        - {x: -7, y: -12}
+        - {x: 7, y: -12}
+        - {x: 12, y: -8}
+        - {x: 12, y: 7}
+        - {x: 11, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f452d2ee7a410bbdbe6bb515a2a44b
+      internalID: 21300152
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: -5}
+        - {x: -11, y: -10}
+        - {x: -11, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50a2bf35163461c96bd63672983e7b5
+      internalID: 21300154
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 7, y: 3}
+        - {x: -6, y: 3}
+        - {x: -10, y: 0}
+        - {x: -10, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096bc790ac794b3a898d81b6393aa392
+      internalID: 21300156
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 8}
+        - {x: -12, y: -8}
+        - {x: -10, y: -12}
+        - {x: 7, y: -12}
+        - {x: 7, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e52ee1e6f84bb99f1ec11cfa2310d8
+      internalID: 21300158
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_93
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 5}
+        - {x: -12, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -5}
+        - {x: 10, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68283f73e544aa1a29bbb8c3f1f2438
+      internalID: 21300160
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7e115e97354d51b53643020670fcdd
+      internalID: 21300162
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 12}
+        - {x: -12, y: 11}
+        - {x: -12, y: -5}
+        - {x: -7, y: -9}
+        - {x: 12, y: -9}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46833e76b5b24896865b2a20ae09a428
+      internalID: 21300164
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 5}
+        - {x: -11, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -6}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cc4d74cc15467db738e7e92e5f09b6
+      internalID: 21300166
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 5, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2414277d049842cc83391b6443ab1af7
+      internalID: 21300168
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: 0}
+        - {x: -11, y: -3}
+        - {x: -11, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbe05cb55f247f4bdf4fdb8ea8b9857
+      internalID: 21300170
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40be8bffd1841a393b8a61807dfc1c5
+      internalID: 21300172
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: 7}
+        - {x: -9, y: 5}
+        - {x: -9, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -7}
+        - {x: 12, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f98ee343fc4e2db7bdfa1ae2d20936
+      internalID: 21300174
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -10}
+        - {x: -11, y: -12}
+        - {x: 6, y: -12}
+        - {x: 9, y: -7}
+        - {x: 9, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b76091379b44fb824d8ce66ed9cc74
+      internalID: 21300176
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -7, y: -12}
+        - {x: 6, y: -12}
+        - {x: 12, y: -7}
+        - {x: 12, y: 6}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3aea5ff45e4f1eb835746ea0d317ba
+      internalID: 21300178
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 7}
+        - {x: -12, y: 6}
+        - {x: -12, y: -10}
+        - {x: -11, y: -12}
+        - {x: 9, y: -12}
+        - {x: 12, y: -11}
+        - {x: 12, y: 6}
+        - {x: 11, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90833ed417744efdb197dde07629fd3b
+      internalID: 21300180
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -5}
+        - {x: -10, y: -7}
+        - {x: -11, y: -11}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26326cdaf5ec41359c7e6be3fac3f9e9
+      internalID: 21300182
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 3}
+        - {x: -12, y: 1}
+        - {x: -12, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -8}
+        - {x: 10, y: 3}
+      - - {x: 12, y: -12}
+        - {x: 12, y: -9}
+        - {x: 8, y: -9}
+        - {x: 7, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afa3aed2f604d9986f49acdf050cbbc
+      internalID: 21300184
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_85
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -5}
+        - {x: -10, y: -7}
+        - {x: -11, y: -11}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd4bd24c3444ee08815dc5354754aae
+      internalID: 21300186
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -5}
+        - {x: -10, y: -7}
+        - {x: -11, y: -11}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce9c971e9ae4cee8e04b0ff7a036693
+      internalID: 21300188
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cozy_24x24_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 5}
+        - {x: -11, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb68ed509ee4e2eb3f0b179bbeeb8dc
+      internalID: 21300190
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 9f23ea1fa7a66eee1e1c5100444a3da7.bundle
+  assetBundleVariant:

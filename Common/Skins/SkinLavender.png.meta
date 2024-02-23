@@ -1,0 +1,3779 @@
+fileFormatVersion: 2
+guid: f2009fb45318ee3499c91df1d7e0f45e
+timeCreated: 1706119843
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SkinLavender_78
+  - first:
+      213: 21300002
+    second: SkinLavender_5
+  - first:
+      213: 21300004
+    second: SkinLavender_76
+  - first:
+      213: 21300006
+    second: SkinLavender_58
+  - first:
+      213: 21300008
+    second: SkinLavender_4
+  - first:
+      213: 21300010
+    second: SkinLavender_20
+  - first:
+      213: 21300012
+    second: SkinLavender_65
+  - first:
+      213: 21300014
+    second: SkinLavender_10
+  - first:
+      213: 21300016
+    second: SkinLavender_28
+  - first:
+      213: 21300018
+    second: SkinLavender_66
+  - first:
+      213: 21300020
+    second: SkinLavender_62
+  - first:
+      213: 21300022
+    second: SkinLavender_40
+  - first:
+      213: 21300024
+    second: SkinLavender_42
+  - first:
+      213: 21300026
+    second: SkinLavender_64
+  - first:
+      213: 21300028
+    second: SkinLavender_68
+  - first:
+      213: 21300030
+    second: SkinLavender_67
+  - first:
+      213: 21300032
+    second: SkinLavender_45
+  - first:
+      213: 21300034
+    second: SkinLavender_53
+  - first:
+      213: 21300036
+    second: SkinLavender_57
+  - first:
+      213: 21300038
+    second: SkinLavender_17
+  - first:
+      213: 21300040
+    second: SkinLavender_60
+  - first:
+      213: 21300042
+    second: SkinLavender_77
+  - first:
+      213: 21300044
+    second: SkinLavender_1
+  - first:
+      213: 21300046
+    second: SkinLavender_47
+  - first:
+      213: 21300048
+    second: SkinLavender_55
+  - first:
+      213: 21300050
+    second: SkinLavender_44
+  - first:
+      213: 21300052
+    second: SkinLavender_33
+  - first:
+      213: 21300054
+    second: SkinLavender_6
+  - first:
+      213: 21300056
+    second: SkinLavender_29
+  - first:
+      213: 21300058
+    second: SkinLavender_48
+  - first:
+      213: 21300060
+    second: SkinLavender_70
+  - first:
+      213: 21300062
+    second: SkinLavender_39
+  - first:
+      213: 21300064
+    second: SkinLavender_51
+  - first:
+      213: 21300066
+    second: SkinLavender_26
+  - first:
+      213: 21300068
+    second: SkinLavender_50
+  - first:
+      213: 21300070
+    second: SkinLavender_11
+  - first:
+      213: 21300072
+    second: SkinLavender_7
+  - first:
+      213: 21300074
+    second: SkinLavender_49
+  - first:
+      213: 21300076
+    second: SkinLavender_30
+  - first:
+      213: 21300078
+    second: SkinLavender_79
+  - first:
+      213: 21300080
+    second: SkinLavender_41
+  - first:
+      213: 21300082
+    second: SkinLavender_3
+  - first:
+      213: 21300084
+    second: SkinLavender_35
+  - first:
+      213: 21300086
+    second: SkinLavender_38
+  - first:
+      213: 21300088
+    second: SkinLavender_61
+  - first:
+      213: 21300090
+    second: SkinLavender_73
+  - first:
+      213: 21300092
+    second: SkinLavender_71
+  - first:
+      213: 21300094
+    second: SkinLavender_0
+  - first:
+      213: 21300096
+    second: SkinLavender_8
+  - first:
+      213: 21300098
+    second: SkinLavender_56
+  - first:
+      213: 21300100
+    second: SkinLavender_46
+  - first:
+      213: 21300102
+    second: SkinLavender_15
+  - first:
+      213: 21300104
+    second: SkinLavender_52
+  - first:
+      213: 21300106
+    second: SkinLavender_63
+  - first:
+      213: 21300108
+    second: SkinLavender_75
+  - first:
+      213: 21300110
+    second: SkinLavender_18
+  - first:
+      213: 21300112
+    second: SkinLavender_2
+  - first:
+      213: 21300114
+    second: SkinLavender_80
+  - first:
+      213: 21300116
+    second: SkinLavender_74
+  - first:
+      213: 21300118
+    second: SkinLavender_21
+  - first:
+      213: 21300120
+    second: SkinLavender_34
+  - first:
+      213: 21300122
+    second: SkinLavender_19
+  - first:
+      213: 21300124
+    second: SkinLavender_22
+  - first:
+      213: 21300126
+    second: SkinLavender_14
+  - first:
+      213: 21300128
+    second: SkinLavender_72
+  - first:
+      213: 21300130
+    second: SkinLavender_23
+  - first:
+      213: 21300132
+    second: SkinLavender_27
+  - first:
+      213: 21300134
+    second: SkinLavender_12
+  - first:
+      213: 21300136
+    second: SkinLavender_43
+  - first:
+      213: 21300138
+    second: SkinLavender_69
+  - first:
+      213: 21300140
+    second: SkinLavender_54
+  - first:
+      213: 21300142
+    second: SkinLavender_59
+  - first:
+      213: 21300144
+    second: SkinLavender_37
+  - first:
+      213: 21300146
+    second: SkinLavender_36
+  - first:
+      213: 21300148
+    second: SkinLavender_32
+  - first:
+      213: 21300150
+    second: SkinLavender_9
+  - first:
+      213: 21300152
+    second: SkinLavender_24
+  - first:
+      213: 21300154
+    second: SkinLavender_31
+  - first:
+      213: 21300156
+    second: SkinLavender_25
+  - first:
+      213: 21300158
+    second: SkinLavender_13
+  - first:
+      213: 21300160
+    second: SkinLavender_16
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkinLavender_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 12}
+        - {x: -12, y: 11}
+        - {x: -12, y: -5}
+        - {x: -7, y: -9}
+        - {x: 12, y: -9}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899cb95f97894b48906550d3242feffa
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 11, y: 7}
+        - {x: -9, y: 7}
+        - {x: -10, y: 5}
+        - {x: -11, y: 0}
+        - {x: -11, y: -10}
+        - {x: -10, y: -12}
+        - {x: -2, y: -12}
+        - {x: 7, y: -11}
+        - {x: 9, y: -9}
+        - {x: 12, y: -5}
+        - {x: 12, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1027c82ad804b32a72ea5477b2be28d
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 11}
+        - {x: -12, y: 10}
+        - {x: -12, y: -7}
+        - {x: -7, y: -11}
+        - {x: 6, y: -11}
+        - {x: 12, y: -9}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df46fd3313a445ea4d7aea49544a61e
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 11}
+        - {x: -12, y: 9}
+        - {x: -12, y: -3}
+        - {x: -3, y: -11}
+        - {x: 5, y: -11}
+        - {x: 12, y: 0}
+        - {x: 12, y: 10}
+        - {x: 10, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18261fa4cd74026bdf244d431e84d39
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -12, y: 0}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 6}
+        - {x: 11, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f2977ece084027b9d3b25fed7bdbb0
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -3, y: -3}
+        - {x: -12, y: -8}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -4}
+        - {x: 8, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28ddc1b92fc4d19966b6b0705029918
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 11}
+        - {x: -12, y: -7}
+        - {x: -9, y: -12}
+        - {x: 7, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fb6afbefa24e9cb6a82ae49f994ffa
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 10}
+        - {x: -12, y: 9}
+        - {x: -12, y: -5}
+        - {x: -11, y: -9}
+        - {x: -9, y: -12}
+        - {x: 7, y: -12}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2b71a441c5479ca84aa2ad9dabcad6
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 12, y: 3}
+        - {x: 1, y: 7}
+        - {x: -8, y: 7}
+        - {x: -10, y: 4}
+        - {x: -10, y: -9}
+        - {x: -5, y: -12}
+        - {x: 12, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9509111add54422db1d657ef781c1a71
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -6, y: -12}
+        - {x: 6, y: -12}
+        - {x: 12, y: -7}
+        - {x: 12, y: 8}
+        - {x: 11, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fd04b3d18d41f1a9d83bee890d4d65
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 11}
+        - {x: -12, y: 8}
+        - {x: -12, y: -11}
+        - {x: 12, y: -11}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca126d886364a8fab3775818d4439f0
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 10, y: 8}
+        - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: 10, y: -12}
+        - {x: 12, y: -10}
+        - {x: 12, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b471eb6ff6b4a7fa9c4ab0638327334
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: 9, y: -12}
+        - {x: 12, y: -10}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031ebbfd36d84821bc2ed626f080d3fc
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 12}
+        - {x: -12, y: 10}
+        - {x: -12, y: -5}
+        - {x: -6, y: -12}
+        - {x: 5, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: 11}
+        - {x: 9, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4689db68894e789562b896bc323565
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 6}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dd631fc93a42abb00d35d12b7effec
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 5}
+        - {x: -11, y: 4}
+        - {x: -11, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 0}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b29f9da2c9b4bc0855d2093ab118b6d
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_45
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 8}
+        - {x: -12, y: -10}
+        - {x: -9, y: -12}
+        - {x: 5, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d4a83278af41ca927fbca79e1bd2e7
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -11, y: 6}
+        - {x: -11, y: -9}
+        - {x: -10, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -8}
+        - {x: 11, y: 3}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac623a15d5842e59ca738ee4aff8512
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_57
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 11}
+        - {x: -12, y: 9}
+        - {x: -12, y: -3}
+        - {x: -3, y: -11}
+        - {x: 5, y: -11}
+        - {x: 12, y: 0}
+        - {x: 12, y: 10}
+        - {x: 10, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38544ea78ab241c6ba72f62b1c437919
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -12}
+        - {x: 10, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: 6}
+      - - {x: 9, y: -8}
+        - {x: 7, y: -10}
+        - {x: 8, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90a71f8496b4c23810a3ba10725df88
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 11}
+        - {x: -12, y: -7}
+        - {x: -9, y: -10}
+        - {x: -3, y: -11}
+        - {x: 5, y: -11}
+        - {x: 12, y: -7}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a645151d074545879be0848a67954ac0
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_77
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 12}
+        - {x: -12, y: 11}
+        - {x: -12, y: -6}
+        - {x: -9, y: -10}
+        - {x: 8, y: -10}
+        - {x: 12, y: -8}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf19fff7ef054e3ba0e76c7388deb81e
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -11}
+        - {x: -10, y: -12}
+        - {x: 5, y: -12}
+        - {x: 10, y: -4}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c1223b397a4600b40bf44d3f928248
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: 5, y: -12}
+        - {x: 9, y: -4}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1589545c8c4ff7b074796d3b1d6af5
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: 11}
+        - {x: -12, y: 10}
+        - {x: -12, y: 0}
+        - {x: -7, y: -8}
+        - {x: -4, y: -11}
+        - {x: 5, y: -11}
+        - {x: 12, y: -1}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a024d04d43c54ea4917f1a6121adbdbe
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 9, y: 7}
+        - {x: -11, y: 7}
+        - {x: -12, y: 5}
+        - {x: -12, y: -11}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -11}
+        - {x: 12, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5f81185e114395b8efa83b5ea694b7
+      internalID: 21300050
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: 7, y: -12}
+        - {x: 10, y: -5}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbce43c661847fb9bd4a430ac52b2a7
+      internalID: 21300052
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 5}
+        - {x: -10, y: -10}
+        - {x: -9, y: -12}
+        - {x: 7, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bf7ffebf774f84a86dc5516848dfb9
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 5, y: 6}
+        - {x: -2, y: 6}
+        - {x: -9, y: 4}
+        - {x: -10, y: 1}
+        - {x: -10, y: -12}
+        - {x: 9, y: -12}
+        - {x: 9, y: -5}
+        - {x: 7, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7982f7fa31644cc6a35251a1ecffdf3a
+      internalID: 21300056
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: -4}
+        - {x: -11, y: -9}
+        - {x: -11, y: -11}
+        - {x: -10, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bbcde957d84b2c80d82cb92c7a4850
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -1, y: -1}
+        - {x: -4, y: -4}
+        - {x: -4, y: -6}
+        - {x: -1, y: -9}
+        - {x: 2, y: -9}
+        - {x: 5, y: -6}
+        - {x: 5, y: -4}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f87d71fbc444de8a67903b51e9394c6
+      internalID: 21300060
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 8}
+        - {x: -12, y: -11}
+        - {x: -11, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 4}
+        - {x: 11, y: 7}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f4d645d4f84faab11700bb3d487309
+      internalID: 21300062
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 4}
+        - {x: -10, y: 1}
+        - {x: -10, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 2}
+        - {x: 7, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3248d030bc3b443ba09be34bcaf68402
+      internalID: 21300064
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: 7}
+        - {x: -12, y: 6}
+        - {x: -12, y: -11}
+        - {x: -10, y: -12}
+        - {x: 7, y: -12}
+        - {x: 11, y: -4}
+        - {x: 11, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0099d79396e9436e8aa86ec0b732998a
+      internalID: 21300066
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 11, y: 2}
+        - {x: -9, y: 2}
+        - {x: -11, y: -1}
+        - {x: -11, y: -12}
+        - {x: 6, y: -12}
+        - {x: 11, y: -9}
+        - {x: 12, y: -6}
+        - {x: 12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e201f90c406a49359949ade2feb24607
+      internalID: 21300068
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 10}
+        - {x: -12, y: 9}
+        - {x: -12, y: -5}
+        - {x: -11, y: -9}
+        - {x: -9, y: -12}
+        - {x: 7, y: -12}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecdb22dafb14050a1d811501acaf8cf
+      internalID: 21300070
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -10, y: 3}
+        - {x: -10, y: -10}
+        - {x: -9, y: -12}
+        - {x: 5, y: -12}
+        - {x: 12, y: -4}
+        - {x: 12, y: 4}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a1b2770109405a83b94c6e55334f9f
+      internalID: 21300072
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: 1}
+        - {x: -11, y: -2}
+        - {x: -11, y: -12}
+        - {x: 10, y: -12}
+        - {x: 12, y: -11}
+        - {x: 12, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5738422a69bd4ef7acf10843b895efe2
+      internalID: 21300074
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 2, y: 5}
+        - {x: -9, y: 5}
+        - {x: -12, y: 4}
+        - {x: -12, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -11}
+        - {x: 11, y: -7}
+        - {x: 10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c8c87c00ff4e92aa7cc72924299bed
+      internalID: 21300076
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_79
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 12}
+        - {x: -12, y: 11}
+        - {x: -12, y: -6}
+        - {x: -9, y: -10}
+        - {x: 8, y: -10}
+        - {x: 12, y: -8}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916b7649bbee470b8610f6966805883b
+      internalID: 21300078
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -12, y: 7}
+        - {x: -12, y: -10}
+        - {x: -11, y: -12}
+        - {x: 7, y: -12}
+        - {x: 12, y: -9}
+        - {x: 12, y: 0}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5518002bfaf24b1fb862ed1ff55ba121
+      internalID: 21300080
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -8}
+        - {x: 10, y: 5}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d5654292d749538eb771545971da3a
+      internalID: 21300082
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -10, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -11}
+        - {x: 11, y: -9}
+        - {x: 11, y: 4}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e24445f60341b4802975ebcfafc4f5
+      internalID: 21300084
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -12, y: 7}
+        - {x: -12, y: -10}
+        - {x: -11, y: -12}
+        - {x: 4, y: -12}
+        - {x: 10, y: -5}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a0b2965351406fb112dd8046f1a7fb
+      internalID: 21300086
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 11}
+        - {x: -12, y: 10}
+        - {x: -12, y: -7}
+        - {x: -6, y: -11}
+        - {x: 12, y: -11}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29cd44af2a141949668ccb8e518f154
+      internalID: 21300088
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 8}
+        - {x: -9, y: -10}
+        - {x: -6, y: -12}
+        - {x: 7, y: -12}
+        - {x: 12, y: -5}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ece3166cba94802b754c0735b52fb03
+      internalID: 21300090
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_71
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -1, y: -1}
+        - {x: -4, y: -4}
+        - {x: -4, y: -6}
+        - {x: -1, y: -9}
+        - {x: 1, y: -9}
+        - {x: 4, y: -6}
+        - {x: 4, y: -4}
+        - {x: 1, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b6cadfdc384f119e80b46ad34415dc
+      internalID: 21300092
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 8}
+        - {x: -12, y: -10}
+        - {x: -9, y: -12}
+        - {x: 4, y: -12}
+        - {x: 10, y: -4}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2403b71144b24ee1ba73d75159dbcb32
+      internalID: 21300094
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 11, y: 7}
+        - {x: -7, y: 7}
+        - {x: -9, y: 6}
+        - {x: -11, y: -2}
+        - {x: -11, y: -12}
+        - {x: 5, y: -12}
+        - {x: 6, y: -11}
+        - {x: 11, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350b0e9db99842219848484c433cba65
+      internalID: 21300096
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 11, y: 11}
+        - {x: -12, y: 11}
+        - {x: -12, y: -6}
+        - {x: -3, y: -11}
+        - {x: 8, y: -11}
+        - {x: 12, y: -4}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdcba0e466b4afd864a5b067f01fa0d
+      internalID: 21300098
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -12, y: 7}
+        - {x: -12, y: -10}
+        - {x: -11, y: -12}
+        - {x: 4, y: -12}
+        - {x: 10, y: -4}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf95d33a56b4f16aa17e8bc4f323193
+      internalID: 21300100
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 9, y: 4}
+        - {x: -8, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -7}
+        - {x: 10, y: 1}
+      - - {x: 9, y: -8}
+        - {x: 7, y: -10}
+        - {x: 8, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954f0a99bd4d41acac3970cf5f1f7211
+      internalID: 21300102
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 7, y: 6}
+        - {x: -9, y: 6}
+        - {x: -10, y: 5}
+        - {x: -10, y: -12}
+        - {x: 9, y: -12}
+        - {x: 12, y: -9}
+        - {x: 12, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464902d74eb24769adb4dfb2679c92fb
+      internalID: 21300104
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 11}
+        - {x: -12, y: 10}
+        - {x: -12, y: -7}
+        - {x: -7, y: -11}
+        - {x: 6, y: -11}
+        - {x: 12, y: -9}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a46bcd0409f46d082099c2714772558
+      internalID: 21300106
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 11}
+        - {x: -12, y: -7}
+        - {x: -9, y: -12}
+        - {x: 7, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433100157faf40f8b6c93a20e5cf9dfc
+      internalID: 21300108
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 6}
+        - {x: -12, y: 3}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91f855225b841e58087fb1cfc3e4fe7
+      internalID: 21300110
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 9, y: 5}
+        - {x: -12, y: 5}
+        - {x: -12, y: -11}
+        - {x: -11, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -7}
+        - {x: 10, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7a14ece6e845aebe26fdb178ca2141
+      internalID: 21300112
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 7}
+        - {x: -12, y: -10}
+        - {x: -8, y: -12}
+        - {x: 10, y: -12}
+        - {x: 12, y: -7}
+        - {x: 12, y: 7}
+        - {x: 10, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d17d7142d94dbeb7b14edaf42bcaac
+      internalID: 21300114
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -6, y: -12}
+        - {x: 6, y: -12}
+        - {x: 12, y: -7}
+        - {x: 12, y: 8}
+        - {x: 11, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d44f1189994aa598d69b7ec04a491e
+      internalID: 21300116
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -3, y: -4}
+        - {x: -7, y: -5}
+        - {x: -12, y: -10}
+        - {x: -11, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8590d8333f13490980d22f4ec22928c4
+      internalID: 21300118
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 8}
+        - {x: -12, y: -10}
+        - {x: -10, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -5}
+        - {x: 11, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2020c8b34ba4a00bb51e68e3f16117a
+      internalID: 21300120
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: -4}
+        - {x: -12, y: -8}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e44d8b5d1a4b6aa49e8a80965a2f31
+      internalID: 21300122
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 6}
+        - {x: -11, y: 4}
+        - {x: -11, y: -10}
+        - {x: -10, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b552f71a46b04c43aeb2cfd760055444
+      internalID: 21300124
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 5, y: 4}
+        - {x: -12, y: 4}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -5}
+        - {x: 10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9939eb1846d4ecba72aad40c4f86b01
+      internalID: 21300126
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -1, y: 1}
+        - {x: -4, y: -2}
+        - {x: -4, y: -4}
+        - {x: -1, y: -7}
+        - {x: 1, y: -7}
+        - {x: 4, y: -4}
+        - {x: 4, y: -2}
+        - {x: 1, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b6a6e9378d483da86624d2b56b3245
+      internalID: 21300128
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 10, y: 6}
+        - {x: -10, y: 6}
+        - {x: -11, y: 4}
+        - {x: -11, y: -11}
+        - {x: -10, y: -12}
+        - {x: 9, y: -12}
+        - {x: 11, y: -7}
+        - {x: 11, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6270ef9a604fd1bc2b72010f3e0815
+      internalID: 21300130
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 8}
+        - {x: -12, y: 2}
+        - {x: -12, y: -8}
+        - {x: -10, y: -9}
+        - {x: 11, y: -9}
+        - {x: 12, y: -8}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a673d368424275a08744f7c5cc7933
+      internalID: 21300132
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -3, y: 9}
+        - {x: -10, y: 8}
+        - {x: -12, y: 8}
+        - {x: -12, y: -9}
+        - {x: -10, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -11}
+        - {x: 11, y: 7}
+        - {x: 7, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3c0514cb2f4fcc9460856d21c70964
+      internalID: 21300134
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 9}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc58f5c668e4174a6496e7b4a3997f1
+      internalID: 21300136
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_69
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 0, y: 1}
+        - {x: -3, y: -2}
+        - {x: -3, y: -4}
+        - {x: 0, y: -7}
+        - {x: 2, y: -7}
+        - {x: 5, y: -4}
+        - {x: 5, y: -2}
+        - {x: 2, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53620287ede045499ea26c739ab746ab
+      internalID: 21300138
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 9, y: 10}
+        - {x: -4, y: 10}
+        - {x: -12, y: 8}
+        - {x: -12, y: -2}
+        - {x: -11, y: -5}
+        - {x: -5, y: -12}
+        - {x: 6, y: -12}
+        - {x: 12, y: -5}
+        - {x: 12, y: 5}
+        - {x: 11, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92de07b92cc94d8083bf17448c228b92
+      internalID: 21300140
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 11}
+        - {x: -12, y: -8}
+        - {x: -11, y: -11}
+        - {x: 4, y: -11}
+        - {x: 12, y: -7}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5e71babe614ef5ac2af5c7ace8cb7d
+      internalID: 21300142
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -7, y: 9}
+        - {x: -12, y: 5}
+        - {x: -12, y: -5}
+        - {x: -10, y: -9}
+        - {x: -7, y: -12}
+        - {x: 5, y: -12}
+        - {x: 11, y: -5}
+        - {x: 11, y: 8}
+        - {x: 3, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfe52bd65dc4267985d7b4817393685
+      internalID: 21300144
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -7}
+        - {x: -6, y: -12}
+        - {x: 6, y: -12}
+        - {x: 11, y: -6}
+        - {x: 11, y: 4}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d659803fee0b4887bde1358b83918b4f
+      internalID: 21300146
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 5}
+        - {x: -11, y: -9}
+        - {x: -9, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 3}
+        - {x: 10, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213ae0c9f7e646eb8e22d488c9577e14
+      internalID: 21300148
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 6}
+        - {x: -11, y: -3}
+        - {x: -11, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -5}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda0f917616f4391aab742be7635a196
+      internalID: 21300150
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 6}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 4}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87db04579a244090a6c5267b02bb8280
+      internalID: 21300152
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 4}
+        - {x: -12, y: -1}
+        - {x: -12, y: -10}
+        - {x: -9, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 0}
+        - {x: 9, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72136ddcbaea450e955eafffacd877c7
+      internalID: 21300154
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: 6}
+        - {x: -11, y: 5}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 5}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17301d01d5c6494ea58680483855f063
+      internalID: 21300156
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -5}
+        - {x: 10, y: 6}
+        - {x: 7, y: 8}
+      - - {x: 9, y: -7}
+        - {x: 6, y: -10}
+        - {x: 7, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -8}
+        - {x: 11, y: -7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3364a0556234d5cb12686c4150c3159
+      internalID: 21300158
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinLavender_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 4}
+        - {x: -12, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -8}
+        - {x: 10, y: 2}
+        - {x: 9, y: 4}
+      - - {x: 9, y: -8}
+        - {x: 7, y: -10}
+        - {x: 8, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3200e943a8c64a4bacb5a94ce8703acb
+      internalID: 21300160
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

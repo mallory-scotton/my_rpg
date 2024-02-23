@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 1db1623d0ce6c944386ea31134b29975
+timeCreated: 1706119824
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BossCrab_RAGE_death_blood_drip-Sheet204x148_1
+  - first:
+      213: 21300002
+    second: BossCrab_RAGE_death_blood_drip-Sheet204x148_2
+  - first:
+      213: 21300004
+    second: BossCrab_RAGE_death_blood_drip-Sheet204x148_4
+  - first:
+      213: 21300006
+    second: BossCrab_RAGE_death_blood_drip-Sheet204x148_3
+  - first:
+      213: 21300008
+    second: BossCrab_RAGE_death_blood_drip-Sheet204x148_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossCrab_RAGE_death_blood_drip-Sheet204x148_1
+      rect:
+        serializedVersion: 2
+        x: 252.07613
+        y: 153.07613
+        width: 107.8183
+        height: 74.87257
+      alignment: 9
+      pivot: {x: 0.50013655, y: 0.10022194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.985275, y: -37.512413}
+        - {x: -53.985275, y: -28.512411}
+        - {x: -53.985275, y: -5.512411}
+        - {x: -14.985275, y: 37.487587}
+        - {x: 33.014725, y: 37.487587}
+        - {x: 54.014725, y: 16.487589}
+        - {x: 54.014725, y: -33.512413}
+        - {x: 52.014725, y: -35.512413}
+        - {x: 45.014725, y: -37.512413}
+      physicsShape:
+      - - {x: 39.014725, y: -35.512413}
+        - {x: 48.014725, y: -31.512411}
+        - {x: 53.014725, y: -21.512411}
+        - {x: 54.014725, y: -18.512411}
+        - {x: 54.014725, y: -14.512411}
+        - {x: 47.014725, y: -11.512411}
+        - {x: 28.014725, y: 17.487589}
+        - {x: 33.014725, y: 37.487587}
+        - {x: 14.014725, y: 37.487587}
+        - {x: 12.014725, y: 34.487587}
+        - {x: 5.0147247, y: 17.487589}
+        - {x: -4.9852753, y: 19.487589}
+        - {x: -21.985275, y: 19.487589}
+        - {x: -42.985275, y: -9.512411}
+        - {x: -53.985275, y: -14.512411}
+        - {x: -53.985275, y: -22.512411}
+        - {x: -43.985275, y: -35.512413}
+        - {x: -24.985275, y: -35.512413}
+        - {x: -18.985275, y: -32.512413}
+        - {x: -10.985275, y: -22.512411}
+        - {x: 20.014725, y: -28.512411}
+        - {x: 23.014725, y: -35.512413}
+      - - {x: 7.0147247, y: -24.512411}
+        - {x: 8.014725, y: -27.512411}
+        - {x: 14.014725, y: -27.512411}
+        - {x: 16.014725, y: -25.512411}
+        - {x: 15.014725, y: -22.512411}
+        - {x: 9.014725, y: -22.512411}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c417edc67d2c47adb4f9ee3654d82df2
+      internalID: 21300000
+      vertices:
+      - {x: 107.90915, y: 83.85628}
+      - {x: 105.90915, y: 31.856281}
+      - {x: 107.90915, y: 33.85628}
+      - {x: 98.90915, y: 29.856281}
+      - {x: 86.90915, y: 104.85628}
+      - {x: 38.90915, y: 104.85628}
+      - {x: 13.909149, y: 29.856281}
+      - {x: -0.09085083, y: 61.85628}
+      - {x: -0.09085083, y: 38.85628}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCrab_RAGE_death_blood_drip-Sheet204x148_2
+      rect:
+        serializedVersion: 2
+        x: 456.0761
+        y: 153.07613
+        width: 107.8183
+        height: 74.87257
+      alignment: 9
+      pivot: {x: 0.50013673, y: 0.10022194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.985256, y: -37.512413}
+        - {x: -53.985256, y: -28.512411}
+        - {x: -53.985256, y: -5.512411}
+        - {x: -14.985256, y: 37.487587}
+        - {x: 33.014744, y: 37.487587}
+        - {x: 54.014744, y: 16.487589}
+        - {x: 54.014744, y: -33.512413}
+        - {x: 52.014744, y: -35.512413}
+        - {x: 45.014744, y: -37.512413}
+      physicsShape:
+      - - {x: 16.014744, y: -25.512411}
+        - {x: 20.014744, y: -32.512413}
+        - {x: 26.014744, y: -35.512413}
+        - {x: 46.014744, y: -35.512413}
+        - {x: 54.014744, y: -26.512411}
+        - {x: 54.014744, y: -14.512411}
+        - {x: 47.014744, y: -11.512411}
+        - {x: 28.014744, y: 17.487589}
+        - {x: 33.014744, y: 37.487587}
+        - {x: 14.014744, y: 37.487587}
+        - {x: 12.014744, y: 34.487587}
+        - {x: 5.014744, y: 17.487589}
+        - {x: -4.985256, y: 19.487589}
+        - {x: -21.985256, y: 19.487589}
+        - {x: -42.985256, y: -9.512411}
+        - {x: -53.985256, y: -14.512411}
+        - {x: -53.985256, y: -22.512411}
+        - {x: -40.985256, y: -35.512413}
+        - {x: -24.985256, y: -35.512413}
+        - {x: -10.985256, y: -26.512411}
+        - {x: 7.014744, y: -29.512411}
+        - {x: 14.014744, y: -27.512411}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7399bad15944609bc63d2518c24aa1
+      internalID: 21300002
+      vertices:
+      - {x: 107.90915, y: 83.85628}
+      - {x: 105.90915, y: 31.856281}
+      - {x: 107.90915, y: 33.85628}
+      - {x: 98.90915, y: 29.856281}
+      - {x: 86.90915, y: 104.85628}
+      - {x: 38.90915, y: 104.85628}
+      - {x: 13.909149, y: 29.856281}
+      - {x: -0.09085083, y: 61.85628}
+      - {x: -0.09085083, y: 38.85628}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCrab_RAGE_death_blood_drip-Sheet204x148_4
+      rect:
+        serializedVersion: 2
+        x: 48.076122
+        y: 5.0761204
+        width: 107.8183
+        height: 74.87257
+      alignment: 9
+      pivot: {x: 0.5001366, y: 0.100222014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.98527, y: -37.512405}
+        - {x: -53.98527, y: -28.512405}
+        - {x: -53.98527, y: -5.5124054}
+        - {x: -14.985271, y: 37.487595}
+        - {x: 33.01473, y: 37.487595}
+        - {x: 54.01473, y: 16.487595}
+        - {x: 54.01473, y: -33.512405}
+        - {x: 52.01473, y: -35.512405}
+        - {x: 45.01473, y: -37.512405}
+      physicsShape:
+      - - {x: 39.01473, y: -35.512405}
+        - {x: 48.01473, y: -31.512405}
+        - {x: 53.01473, y: -21.512405}
+        - {x: 54.01473, y: -18.512405}
+        - {x: 54.01473, y: -14.512405}
+        - {x: 47.01473, y: -11.512405}
+        - {x: 28.014729, y: 17.487595}
+        - {x: 33.01473, y: 37.487595}
+        - {x: 14.014729, y: 37.487595}
+        - {x: 12.014729, y: 34.487595}
+        - {x: 5.0147285, y: 17.487595}
+        - {x: -4.9852715, y: 19.487595}
+        - {x: -21.985271, y: 19.487595}
+        - {x: -42.98527, y: -9.512405}
+        - {x: -53.98527, y: -14.512405}
+        - {x: -53.98527, y: -22.512405}
+        - {x: -43.98527, y: -35.512405}
+        - {x: -24.985271, y: -35.512405}
+        - {x: -18.985271, y: -32.512405}
+        - {x: -10.985271, y: -22.512405}
+        - {x: 20.014729, y: -28.512405}
+        - {x: 23.014729, y: -35.512405}
+      - - {x: 7.0147285, y: -24.512405}
+        - {x: 8.014729, y: -27.512405}
+        - {x: 14.014729, y: -27.512405}
+        - {x: 16.014729, y: -25.512405}
+        - {x: 15.014729, y: -22.512405}
+        - {x: 9.014729, y: -22.512405}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5df9349233a459782da013db1b0a877
+      internalID: 21300004
+      vertices:
+      - {x: 107.90915, y: 83.85628}
+      - {x: 105.90915, y: 31.856281}
+      - {x: 107.90915, y: 33.85628}
+      - {x: 98.90915, y: 29.856281}
+      - {x: 86.90915, y: 104.85628}
+      - {x: 38.90915, y: 104.85628}
+      - {x: 13.909149, y: 29.856281}
+      - {x: -0.09085083, y: 61.85628}
+      - {x: -0.09085083, y: 38.85628}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCrab_RAGE_death_blood_drip-Sheet204x148_3
+      rect:
+        serializedVersion: 2
+        x: 660.0761
+        y: 153.07613
+        width: 107.8183
+        height: 74.87257
+      alignment: 9
+      pivot: {x: 0.50013673, y: 0.10022194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.985256, y: -37.512413}
+        - {x: -53.985256, y: -28.512411}
+        - {x: -53.985256, y: -5.512411}
+        - {x: -14.985256, y: 37.487587}
+        - {x: 33.014744, y: 37.487587}
+        - {x: 54.014744, y: 16.487589}
+        - {x: 54.014744, y: -33.512413}
+        - {x: 52.014744, y: -35.512413}
+        - {x: 45.014744, y: -37.512413}
+      physicsShape:
+      - - {x: 39.014744, y: -35.512413}
+        - {x: 48.014744, y: -31.512411}
+        - {x: 53.014744, y: -21.512411}
+        - {x: 54.014744, y: -18.512411}
+        - {x: 54.014744, y: -14.512411}
+        - {x: 47.014744, y: -11.512411}
+        - {x: 28.014744, y: 17.487589}
+        - {x: 33.014744, y: 37.487587}
+        - {x: 14.014744, y: 37.487587}
+        - {x: 12.014744, y: 34.487587}
+        - {x: 5.014744, y: 17.487589}
+        - {x: -4.985256, y: 19.487589}
+        - {x: -21.985256, y: 19.487589}
+        - {x: -42.985256, y: -9.512411}
+        - {x: -53.985256, y: -14.512411}
+        - {x: -53.985256, y: -22.512411}
+        - {x: -43.985256, y: -35.512413}
+        - {x: -24.985256, y: -35.512413}
+        - {x: -18.985256, y: -32.512413}
+        - {x: -10.985256, y: -22.512411}
+        - {x: 20.014744, y: -28.512411}
+        - {x: 23.014744, y: -35.512413}
+      - - {x: 7.014744, y: -24.512411}
+        - {x: 8.014744, y: -27.512411}
+        - {x: 14.014744, y: -27.512411}
+        - {x: 16.014744, y: -25.512411}
+        - {x: 15.014744, y: -22.512411}
+        - {x: 9.014744, y: -22.512411}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a80f2514e149039a82a08b2fa01679
+      internalID: 21300006
+      vertices:
+      - {x: 107.90915, y: 83.85628}
+      - {x: 105.90915, y: 31.856281}
+      - {x: 107.90915, y: 33.85628}
+      - {x: 98.90915, y: 29.856281}
+      - {x: 86.90915, y: 104.85628}
+      - {x: 38.90915, y: 104.85628}
+      - {x: 13.909149, y: 29.856281}
+      - {x: -0.09085083, y: 61.85628}
+      - {x: -0.09085083, y: 38.85628}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossCrab_RAGE_death_blood_drip-Sheet204x148_0
+      rect:
+        serializedVersion: 2
+        x: 48.076122
+        y: 153.07613
+        width: 107.8183
+        height: 74.87257
+      alignment: 9
+      pivot: {x: 0.5001366, y: 0.10022194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.98527, y: -37.512413}
+        - {x: -53.98527, y: -28.512411}
+        - {x: -53.98527, y: -5.512411}
+        - {x: -14.985271, y: 37.487587}
+        - {x: 33.01473, y: 37.487587}
+        - {x: 54.01473, y: 16.487589}
+        - {x: 54.01473, y: -33.512413}
+        - {x: 52.01473, y: -35.512413}
+        - {x: 45.01473, y: -37.512413}
+      physicsShape:
+      - - {x: 39.01473, y: -35.512413}
+        - {x: 48.01473, y: -31.512411}
+        - {x: 53.01473, y: -21.512411}
+        - {x: 54.01473, y: -18.512411}
+        - {x: 54.01473, y: -14.512411}
+        - {x: 47.01473, y: -11.512411}
+        - {x: 28.014729, y: 17.487589}
+        - {x: 33.01473, y: 37.487587}
+        - {x: 14.014729, y: 37.487587}
+        - {x: 12.014729, y: 34.487587}
+        - {x: 5.0147285, y: 17.487589}
+        - {x: -4.9852715, y: 19.487589}
+        - {x: -21.985271, y: 19.487589}
+        - {x: -42.98527, y: -9.512411}
+        - {x: -53.98527, y: -14.512411}
+        - {x: -53.98527, y: -22.512411}
+        - {x: -43.98527, y: -35.512413}
+        - {x: -24.985271, y: -35.512413}
+        - {x: -18.985271, y: -32.512413}
+        - {x: -10.985271, y: -22.512411}
+        - {x: 20.014729, y: -28.512411}
+        - {x: 23.014729, y: -35.512413}
+      - - {x: 7.0147285, y: -24.512411}
+        - {x: 8.014729, y: -27.512411}
+        - {x: 14.014729, y: -27.512411}
+        - {x: 16.014729, y: -25.512411}
+        - {x: 15.014729, y: -22.512411}
+        - {x: 9.014729, y: -22.512411}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac279c3e903b4491b146cc49ec4e8de8
+      internalID: 21300008
+      vertices:
+      - {x: 107.90915, y: 83.85628}
+      - {x: 105.90915, y: 31.856281}
+      - {x: 107.90915, y: 33.85628}
+      - {x: 98.90915, y: 29.856281}
+      - {x: 86.90915, y: 104.85628}
+      - {x: 38.90915, y: 104.85628}
+      - {x: 13.909149, y: 29.856281}
+      - {x: -0.09085083, y: 61.85628}
+      - {x: -0.09085083, y: 38.85628}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

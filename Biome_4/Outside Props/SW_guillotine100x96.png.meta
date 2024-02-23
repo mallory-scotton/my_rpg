@@ -1,0 +1,935 @@
+fileFormatVersion: 2
+guid: eebd4d9bde2d007428baf2a9c1df8d71
+timeCreated: 1706119850
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SW_guillotine100x96_9
+  - first:
+      213: 21300002
+    second: SW_guillotine100x96_0
+  - first:
+      213: 21300004
+    second: SW_guillotine100x96_2
+  - first:
+      213: 21300006
+    second: SW_guillotine100x96_3
+  - first:
+      213: 21300008
+    second: SW_guillotine100x96_6
+  - first:
+      213: 21300010
+    second: SW_guillotine100x96_7
+  - first:
+      213: 21300012
+    second: SW_guillotine100x96_5
+  - first:
+      213: 21300014
+    second: SW_guillotine100x96_8
+  - first:
+      213: 21300016
+    second: SW_guillotine100x96_4
+  - first:
+      213: 21300018
+    second: SW_guillotine100x96_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SW_guillotine100x96_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -48}
+        - {x: -50, y: 48}
+        - {x: 50, y: 48}
+        - {x: 50, y: -48}
+      physicsShape:
+      - - {x: 50, y: -33}
+        - {x: 41, y: -16}
+        - {x: 31, y: -11}
+        - {x: 20, y: 11}
+        - {x: 19, y: 37}
+        - {x: 23, y: 38}
+        - {x: 22, y: 47}
+        - {x: 20, y: 48}
+        - {x: -26, y: 48}
+        - {x: -28, y: 47}
+        - {x: -36, y: 15}
+        - {x: -45, y: -18}
+        - {x: -50, y: -30}
+        - {x: -50, y: -40}
+        - {x: -42, y: -43}
+        - {x: -28, y: -48}
+        - {x: 32, y: -48}
+        - {x: 47, y: -41}
+        - {x: 50, y: -39}
+      - - {x: -34, y: -24}
+        - {x: -33, y: -25}
+        - {x: -36, y: -27}
+        - {x: -35, y: -27}
+      - - {x: -5, y: -7}
+        - {x: -2, y: -7}
+        - {x: -3, y: -8}
+        - {x: -6, y: -8}
+      - - {x: -14, y: 14}
+        - {x: -6, y: 17}
+        - {x: -5, y: 10}
+        - {x: 1, y: 4}
+        - {x: 3, y: 4}
+        - {x: 7, y: 8}
+        - {x: 6, y: 10}
+        - {x: 7, y: 11}
+        - {x: 7, y: 14}
+        - {x: 8, y: 14}
+        - {x: 9, y: 15}
+        - {x: 8, y: 6}
+        - {x: -14, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c780b2b665b94825b82b56e9365a6b9a
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 135}
+      - {x: 100, y: 135}
+      - {x: 0, y: 39}
+      - {x: 100, y: 39}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_guillotine100x96_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -48}
+        - {x: -50, y: 48}
+        - {x: 50, y: 48}
+        - {x: 50, y: -48}
+      physicsShape:
+      - - {x: 50, y: -33}
+        - {x: 41, y: -16}
+        - {x: 31, y: -11}
+        - {x: 20, y: 11}
+        - {x: 19, y: 37}
+        - {x: 23, y: 38}
+        - {x: 22, y: 47}
+        - {x: 20, y: 48}
+        - {x: -26, y: 48}
+        - {x: -28, y: 47}
+        - {x: -36, y: 15}
+        - {x: -45, y: -18}
+        - {x: -50, y: -30}
+        - {x: -50, y: -40}
+        - {x: -42, y: -43}
+        - {x: -28, y: -48}
+        - {x: 32, y: -48}
+        - {x: 47, y: -41}
+        - {x: 50, y: -39}
+      - - {x: -33, y: -26}
+        - {x: -31, y: -24}
+        - {x: -32, y: -24}
+        - {x: -36, y: -27}
+        - {x: -35, y: -27}
+      - - {x: -5, y: -7}
+        - {x: -2, y: -7}
+        - {x: -3, y: -8}
+        - {x: -6, y: -8}
+      - - {x: -14, y: 14}
+        - {x: -7, y: 17}
+        - {x: -6, y: 12}
+        - {x: -5, y: 11}
+        - {x: -5, y: 8}
+        - {x: -1, y: 4}
+        - {x: 1, y: 4}
+        - {x: 5, y: 8}
+        - {x: 5, y: 9}
+        - {x: 7, y: 11}
+        - {x: 7, y: 14}
+        - {x: 8, y: 14}
+        - {x: 9, y: 15}
+        - {x: 8, y: 6}
+        - {x: -14, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969335c1677f49c3a0e2eca666cc99ed
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 135}
+      - {x: 100, y: 135}
+      - {x: 0, y: 39}
+      - {x: 100, y: 39}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_guillotine100x96_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -48}
+        - {x: -50, y: 48}
+        - {x: 50, y: 48}
+        - {x: 50, y: -48}
+      physicsShape:
+      - - {x: 50, y: -33}
+        - {x: 41, y: -16}
+        - {x: 31, y: -11}
+        - {x: 20, y: 11}
+        - {x: 19, y: 37}
+        - {x: 23, y: 38}
+        - {x: 22, y: 47}
+        - {x: 20, y: 48}
+        - {x: -26, y: 48}
+        - {x: -28, y: 47}
+        - {x: -36, y: 15}
+        - {x: -45, y: -18}
+        - {x: -50, y: -30}
+        - {x: -50, y: -40}
+        - {x: -42, y: -43}
+        - {x: -28, y: -48}
+        - {x: 32, y: -48}
+        - {x: 47, y: -41}
+        - {x: 50, y: -39}
+      - - {x: -31, y: -23}
+        - {x: -34, y: -25}
+        - {x: -36, y: -27}
+        - {x: -35, y: -27}
+      - - {x: -29, y: -6}
+        - {x: -30, y: -7}
+        - {x: -28, y: -9}
+        - {x: -28, y: -10}
+      - - {x: -5, y: -7}
+        - {x: -2, y: -7}
+        - {x: -3, y: -8}
+        - {x: -6, y: -8}
+      - - {x: -14, y: 14}
+        - {x: -7, y: 17}
+        - {x: -8, y: 12}
+        - {x: -7, y: 11}
+        - {x: -7, y: 8}
+        - {x: -3, y: 4}
+        - {x: -1, y: 4}
+        - {x: 3, y: 7}
+        - {x: 6, y: 14}
+        - {x: 5, y: 15}
+        - {x: 6, y: 14}
+        - {x: 8, y: 14}
+        - {x: 9, y: 15}
+        - {x: 8, y: 6}
+        - {x: -14, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57819918eb84ea09c04076eb414320f
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 135}
+      - {x: 100, y: 135}
+      - {x: 0, y: 39}
+      - {x: 100, y: 39}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_guillotine100x96_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -48}
+        - {x: -50, y: 48}
+        - {x: 50, y: 48}
+        - {x: 50, y: -48}
+      physicsShape:
+      - - {x: 50, y: -33}
+        - {x: 41, y: -16}
+        - {x: 31, y: -11}
+        - {x: 20, y: 11}
+        - {x: 19, y: 37}
+        - {x: 23, y: 38}
+        - {x: 22, y: 47}
+        - {x: 20, y: 48}
+        - {x: -26, y: 48}
+        - {x: -28, y: 47}
+        - {x: -36, y: 15}
+        - {x: -45, y: -18}
+        - {x: -50, y: -30}
+        - {x: -50, y: -40}
+        - {x: -42, y: -43}
+        - {x: -28, y: -48}
+        - {x: 32, y: -48}
+        - {x: 47, y: -41}
+        - {x: 50, y: -39}
+      - - {x: -33, y: -26}
+        - {x: -31, y: -24}
+        - {x: -32, y: -24}
+        - {x: -36, y: -27}
+        - {x: -35, y: -27}
+      - - {x: -29, y: -6}
+        - {x: -30, y: -7}
+        - {x: -28, y: -9}
+        - {x: -28, y: -10}
+      - - {x: -5, y: -7}
+        - {x: -2, y: -7}
+        - {x: -3, y: -8}
+        - {x: -6, y: -8}
+      - - {x: -14, y: 14}
+        - {x: -7, y: 17}
+        - {x: -8, y: 14}
+        - {x: -8, y: 10}
+        - {x: -9, y: 8}
+        - {x: -5, y: 4}
+        - {x: -3, y: 4}
+        - {x: 3, y: 9}
+        - {x: 5, y: 15}
+        - {x: 6, y: 14}
+        - {x: 8, y: 14}
+        - {x: 9, y: 15}
+        - {x: 8, y: 6}
+        - {x: -14, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5df595a76544a0eb17232326655cf48
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 135}
+      - {x: 100, y: 135}
+      - {x: 0, y: 39}
+      - {x: 100, y: 39}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_guillotine100x96_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -48}
+        - {x: -50, y: 48}
+        - {x: 50, y: 48}
+        - {x: 50, y: -48}
+      physicsShape:
+      - - {x: 50, y: -33}
+        - {x: 41, y: -16}
+        - {x: 31, y: -11}
+        - {x: 20, y: 11}
+        - {x: 19, y: 37}
+        - {x: 23, y: 38}
+        - {x: 22, y: 47}
+        - {x: 20, y: 48}
+        - {x: -26, y: 48}
+        - {x: -28, y: 47}
+        - {x: -36, y: 15}
+        - {x: -45, y: -18}
+        - {x: -50, y: -30}
+        - {x: -50, y: -40}
+        - {x: -42, y: -43}
+        - {x: -28, y: -48}
+        - {x: 32, y: -48}
+        - {x: 47, y: -41}
+        - {x: 50, y: -39}
+      - - {x: -34, y: -23}
+        - {x: -33, y: -25}
+        - {x: -36, y: -27}
+        - {x: -35, y: -27}
+      - - {x: -5, y: -7}
+        - {x: -2, y: -7}
+        - {x: -3, y: -8}
+        - {x: -6, y: -8}
+      - - {x: -14, y: 14}
+        - {x: -7, y: 17}
+        - {x: -6, y: 12}
+        - {x: -5, y: 11}
+        - {x: -5, y: 8}
+        - {x: -1, y: 4}
+        - {x: 1, y: 4}
+        - {x: 5, y: 8}
+        - {x: 5, y: 9}
+        - {x: 7, y: 11}
+        - {x: 7, y: 14}
+        - {x: 8, y: 14}
+        - {x: 9, y: 15}
+        - {x: 8, y: 6}
+        - {x: -14, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4669230ace6e4b58ae5c6c2a22f9a99d
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 135}
+      - {x: 100, y: 135}
+      - {x: 0, y: 39}
+      - {x: 100, y: 39}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_guillotine100x96_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -48}
+        - {x: -50, y: 48}
+        - {x: 50, y: 48}
+        - {x: 50, y: -48}
+      physicsShape:
+      - - {x: 50, y: -33}
+        - {x: 41, y: -16}
+        - {x: 31, y: -11}
+        - {x: 20, y: 11}
+        - {x: 19, y: 37}
+        - {x: 23, y: 38}
+        - {x: 22, y: 47}
+        - {x: 20, y: 48}
+        - {x: -26, y: 48}
+        - {x: -28, y: 47}
+        - {x: -36, y: 15}
+        - {x: -45, y: -18}
+        - {x: -50, y: -30}
+        - {x: -50, y: -40}
+        - {x: -42, y: -43}
+        - {x: -28, y: -48}
+        - {x: 32, y: -48}
+        - {x: 47, y: -41}
+        - {x: 50, y: -39}
+      - - {x: -34, y: -23}
+        - {x: -33, y: -25}
+        - {x: -36, y: -27}
+        - {x: -35, y: -27}
+      - - {x: -5, y: -7}
+        - {x: -2, y: -7}
+        - {x: -3, y: -8}
+        - {x: -6, y: -8}
+      - - {x: -14, y: 14}
+        - {x: -7, y: 17}
+        - {x: -6, y: 12}
+        - {x: -4, y: 7}
+        - {x: 0, y: 4}
+        - {x: 2, y: 4}
+        - {x: 6, y: 8}
+        - {x: 6, y: 10}
+        - {x: 7, y: 11}
+        - {x: 7, y: 14}
+        - {x: 8, y: 14}
+        - {x: 9, y: 15}
+        - {x: 8, y: 6}
+        - {x: -14, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a94cfd3555f4dd7b6931fd456c1f200
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 135}
+      - {x: 100, y: 135}
+      - {x: 0, y: 39}
+      - {x: 100, y: 39}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_guillotine100x96_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -48}
+        - {x: -50, y: 48}
+        - {x: 50, y: 48}
+        - {x: 50, y: -48}
+      physicsShape:
+      - - {x: 50, y: -33}
+        - {x: 41, y: -16}
+        - {x: 31, y: -11}
+        - {x: 20, y: 11}
+        - {x: 19, y: 37}
+        - {x: 23, y: 38}
+        - {x: 22, y: 47}
+        - {x: 20, y: 48}
+        - {x: -26, y: 48}
+        - {x: -28, y: 47}
+        - {x: -36, y: 15}
+        - {x: -45, y: -18}
+        - {x: -50, y: -30}
+        - {x: -50, y: -40}
+        - {x: -42, y: -43}
+        - {x: -28, y: -48}
+        - {x: 32, y: -48}
+        - {x: 47, y: -41}
+        - {x: 50, y: -39}
+      - - {x: -34, y: -24}
+        - {x: -33, y: -25}
+        - {x: -36, y: -27}
+        - {x: -35, y: -27}
+      - - {x: -5, y: -7}
+        - {x: -2, y: -7}
+        - {x: -3, y: -8}
+        - {x: -6, y: -8}
+      - - {x: -14, y: 14}
+        - {x: -7, y: 17}
+        - {x: -7, y: 12}
+        - {x: -6, y: 11}
+        - {x: -6, y: 8}
+        - {x: -2, y: 4}
+        - {x: 0, y: 4}
+        - {x: 4, y: 8}
+        - {x: 4, y: 9}
+        - {x: 6, y: 11}
+        - {x: 6, y: 14}
+        - {x: 8, y: 14}
+        - {x: 9, y: 15}
+        - {x: 8, y: 6}
+        - {x: -14, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d559a5c97dbb46219d49801ec34e950f
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 135}
+      - {x: 100, y: 135}
+      - {x: 0, y: 39}
+      - {x: 100, y: 39}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_guillotine100x96_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -48}
+        - {x: -50, y: 48}
+        - {x: 50, y: 48}
+        - {x: 50, y: -48}
+      physicsShape:
+      - - {x: 50, y: -33}
+        - {x: 41, y: -16}
+        - {x: 31, y: -11}
+        - {x: 20, y: 11}
+        - {x: 19, y: 37}
+        - {x: 23, y: 38}
+        - {x: 22, y: 47}
+        - {x: 20, y: 48}
+        - {x: -26, y: 48}
+        - {x: -28, y: 47}
+        - {x: -36, y: 15}
+        - {x: -45, y: -18}
+        - {x: -50, y: -30}
+        - {x: -50, y: -40}
+        - {x: -42, y: -43}
+        - {x: -28, y: -48}
+        - {x: 32, y: -48}
+        - {x: 47, y: -41}
+        - {x: 50, y: -39}
+      - - {x: -34, y: -24}
+        - {x: -33, y: -25}
+        - {x: -36, y: -27}
+        - {x: -35, y: -27}
+      - - {x: -5, y: -7}
+        - {x: -2, y: -7}
+        - {x: -3, y: -8}
+        - {x: -6, y: -8}
+      - - {x: -14, y: 14}
+        - {x: -6, y: 17}
+        - {x: -5, y: 10}
+        - {x: 1, y: 4}
+        - {x: 3, y: 4}
+        - {x: 7, y: 8}
+        - {x: 6, y: 10}
+        - {x: 7, y: 11}
+        - {x: 7, y: 14}
+        - {x: 8, y: 14}
+        - {x: 9, y: 15}
+        - {x: 8, y: 6}
+        - {x: -14, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3044ea6daba14631a64a1d6b7312f752
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 135}
+      - {x: 100, y: 135}
+      - {x: 0, y: 39}
+      - {x: 100, y: 39}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_guillotine100x96_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -48}
+        - {x: -50, y: 48}
+        - {x: 50, y: 48}
+        - {x: 50, y: -48}
+      physicsShape:
+      - - {x: 50, y: -33}
+        - {x: 41, y: -16}
+        - {x: 31, y: -11}
+        - {x: 20, y: 11}
+        - {x: 19, y: 37}
+        - {x: 23, y: 38}
+        - {x: 22, y: 47}
+        - {x: 20, y: 48}
+        - {x: -26, y: 48}
+        - {x: -28, y: 47}
+        - {x: -36, y: 15}
+        - {x: -45, y: -18}
+        - {x: -50, y: -30}
+        - {x: -50, y: -40}
+        - {x: -42, y: -43}
+        - {x: -28, y: -48}
+        - {x: 32, y: -48}
+        - {x: 47, y: -41}
+        - {x: 50, y: -39}
+      - - {x: -35, y: -24}
+        - {x: -33, y: -26}
+        - {x: -33, y: -25}
+        - {x: -36, y: -27}
+        - {x: -35, y: -27}
+      - - {x: -29, y: -9}
+        - {x: -28, y: -10}
+      - - {x: -5, y: -7}
+        - {x: -2, y: -7}
+        - {x: -3, y: -8}
+        - {x: -6, y: -8}
+      - - {x: -14, y: 14}
+        - {x: -7, y: 17}
+        - {x: -8, y: 12}
+        - {x: -7, y: 11}
+        - {x: -8, y: 8}
+        - {x: -4, y: 4}
+        - {x: -2, y: 4}
+        - {x: 4, y: 9}
+        - {x: 6, y: 14}
+        - {x: 5, y: 15}
+        - {x: 6, y: 14}
+        - {x: 8, y: 14}
+        - {x: 9, y: 15}
+        - {x: 8, y: 6}
+        - {x: -14, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968a54d4730142d49eff522b3b436268
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 135}
+      - {x: 100, y: 135}
+      - {x: 0, y: 39}
+      - {x: 100, y: 39}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_guillotine100x96_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -48}
+        - {x: -50, y: 48}
+        - {x: 50, y: 48}
+        - {x: 50, y: -48}
+      physicsShape:
+      - - {x: 50, y: -33}
+        - {x: 41, y: -16}
+        - {x: 31, y: -11}
+        - {x: 20, y: 11}
+        - {x: 19, y: 37}
+        - {x: 23, y: 38}
+        - {x: 22, y: 47}
+        - {x: 20, y: 48}
+        - {x: -26, y: 48}
+        - {x: -28, y: 47}
+        - {x: -36, y: 15}
+        - {x: -45, y: -18}
+        - {x: -50, y: -30}
+        - {x: -50, y: -40}
+        - {x: -42, y: -43}
+        - {x: -28, y: -48}
+        - {x: 32, y: -48}
+        - {x: 47, y: -41}
+        - {x: 50, y: -39}
+      - - {x: -31, y: -23}
+        - {x: -34, y: -25}
+        - {x: -36, y: -27}
+        - {x: -35, y: -27}
+      - - {x: -29, y: -9}
+        - {x: -28, y: -10}
+      - - {x: -5, y: -7}
+        - {x: -2, y: -7}
+        - {x: -3, y: -8}
+        - {x: -6, y: -8}
+      - - {x: -14, y: 14}
+        - {x: -7, y: 17}
+        - {x: -7, y: 12}
+        - {x: -6, y: 11}
+        - {x: -6, y: 8}
+        - {x: -2, y: 4}
+        - {x: 0, y: 4}
+        - {x: 4, y: 8}
+        - {x: 4, y: 9}
+        - {x: 6, y: 11}
+        - {x: 6, y: 14}
+        - {x: 8, y: 14}
+        - {x: 9, y: 15}
+        - {x: 8, y: 6}
+        - {x: -14, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf6ab1797c04e1c891daeb4c359f3f5
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 135}
+      - {x: 100, y: 135}
+      - {x: 0, y: 39}
+      - {x: 100, y: 39}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 95d35bf82d4be93d9c0d7dd6f29fa4e4.bundle
+  assetBundleVariant:

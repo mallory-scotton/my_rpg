@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 2876eb34e38d2584cb3ffbd4097b0936
+timeCreated: 1706119845
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Weapons_AssaultRifles_SuperShooter_Drop
+  - first:
+      213: 21300002
+    second: Weapons_AssaultRifles_Cowpup_Drop
+  - first:
+      213: 21300004
+    second: Weapons_AssaultRifles_BigAK_HUD
+  - first:
+      213: 21300006
+    second: Weapons_AssaultRifles_AK
+  - first:
+      213: 21300008
+    second: Weapons_AssaultRifles_Karbine
+  - first:
+      213: 21300010
+    second: Weapons_AssaultRifles_SuperShooter
+  - first:
+      213: 21300012
+    second: Weapons_AssaultRifles_BigAK
+  - first:
+      213: 21300014
+    second: Weapons_AssaultRifles_SuperShooter_HUD
+  - first:
+      213: 21300016
+    second: Weapons_AssaultRifles_Cowpup_HUD
+  - first:
+      213: 21300018
+    second: Weapons_AssaultRifles_AK_HUD
+  - first:
+      213: 21300020
+    second: Weapons_AssaultRifles_Karbine_Drop
+  - first:
+      213: 21300022
+    second: Weapons_AssaultRifles_Cowpup
+  - first:
+      213: 21300024
+    second: Weapons_AssaultRifles_AK_Drop
+  - first:
+      213: 21300026
+    second: Weapons_AssaultRifles_BigAK_Drop
+  - first:
+      213: 21300028
+    second: Weapons_AssaultRifles_Karbine_HUD
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapons_AssaultRifles_SuperShooter_Drop
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 62
+        width: 35
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -8}
+        - {x: -17.5, y: 8}
+        - {x: 17.5, y: 8}
+        - {x: 17.5, y: -8}
+      physicsShape:
+      - - {x: -17.5, y: 8}
+        - {x: -17.5, y: -5}
+        - {x: -12.5, y: -8}
+        - {x: 11.5, y: -8}
+        - {x: 17.5, y: -4}
+        - {x: 17.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bb720e18c04c6d98c224d5e84c3a66
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 35, y: 24}
+      - {x: 0, y: 8}
+      - {x: 35, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AssaultRifles_Cowpup_Drop
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 62
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -8}
+        - {x: -16, y: 8}
+        - {x: 16, y: 8}
+        - {x: 16, y: -8}
+      physicsShape:
+      - - {x: 15, y: 8}
+        - {x: -15, y: 8}
+        - {x: -16, y: 7}
+        - {x: -16, y: -8}
+        - {x: 8, y: -8}
+        - {x: 15, y: -5}
+        - {x: 16, y: -4}
+        - {x: 16, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55f94e4f349417a94d4379e72e1c888
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 32, y: 24}
+      - {x: 0, y: 8}
+      - {x: 32, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AssaultRifles_BigAK_HUD
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 34
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -7}
+        - {x: -17, y: 7}
+        - {x: 17, y: 7}
+        - {x: 17, y: -7}
+      physicsShape:
+      - - {x: -17, y: 7}
+        - {x: -17, y: -7}
+        - {x: 16, y: -7}
+        - {x: 17, y: -6}
+        - {x: 17, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be7d03b13024131a2c027e15e9d4817
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 34, y: 14}
+      - {x: 0, y: 0}
+      - {x: 34, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AssaultRifles_AK
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 30
+        height: 10
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -5}
+        - {x: -15, y: 5}
+        - {x: 15, y: 5}
+        - {x: 15, y: -5}
+      physicsShape:
+      - - {x: -15, y: 5}
+        - {x: -15, y: -5}
+        - {x: 7, y: -5}
+        - {x: 15, y: -2}
+        - {x: 15, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda402c834c843a896fef3bb405fb79e
+      internalID: 21300006
+      vertices:
+      - {x: 1.5, y: 10}
+      - {x: 31.5, y: 10}
+      - {x: 1.5, y: 0}
+      - {x: 31.5, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AssaultRifles_Karbine
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 29
+        height: 12
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.500004, y: -6}
+        - {x: -14.500004, y: 6}
+        - {x: 14.499996, y: 6}
+        - {x: 14.499996, y: -6}
+      physicsShape:
+      - - {x: 14.499996, y: -6}
+        - {x: 14.499996, y: 6}
+        - {x: -14.500004, y: 6}
+        - {x: -14.500004, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae608b5c75894a3b867ce4e504110c34
+      internalID: 21300008
+      vertices:
+      - {x: 1.449997, y: 12}
+      - {x: 30.449997, y: 12}
+      - {x: 1.449997, y: 0}
+      - {x: 30.449997, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AssaultRifles_SuperShooter
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 33
+        height: 13
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.500008, y: -6.5}
+        - {x: -16.500008, y: 6.5}
+        - {x: 16.499992, y: 6.5}
+        - {x: 16.499992, y: -6.5}
+      physicsShape:
+      - - {x: -16.500008, y: 6.5}
+        - {x: -16.500008, y: -6.5}
+        - {x: 16.499992, y: -6.5}
+        - {x: 16.499992, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390298f6b58e498da315dfaa015385ec
+      internalID: 21300010
+      vertices:
+      - {x: 1.6499939, y: 13}
+      - {x: 34.649994, y: 13}
+      - {x: 1.6499939, y: 0}
+      - {x: 34.649994, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AssaultRifles_BigAK
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 32
+        height: 12
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.999994, y: -6}
+        - {x: -15.999994, y: 6}
+        - {x: 16.000006, y: 6}
+        - {x: 16.000006, y: -6}
+      physicsShape:
+      - - {x: -15.999994, y: 6}
+        - {x: -15.999994, y: -5}
+        - {x: -14.999994, y: -6}
+        - {x: 16.000006, y: -6}
+        - {x: 16.000006, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd67a257fcb146688723ca19b85595c6
+      internalID: 21300012
+      vertices:
+      - {x: 1.6000061, y: 12}
+      - {x: 33.600006, y: 12}
+      - {x: 1.6000061, y: 0}
+      - {x: 33.600006, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AssaultRifles_SuperShooter_HUD
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 35
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -7.5}
+        - {x: -17.5, y: 7.5}
+        - {x: 17.5, y: 7.5}
+        - {x: 17.5, y: -7.5}
+      physicsShape:
+      - - {x: -17.5, y: 7.5}
+        - {x: -17.5, y: -5.5}
+        - {x: -16.5, y: -7.5}
+        - {x: 14.5, y: -7.5}
+        - {x: 17.5, y: -6.5}
+        - {x: 17.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba6602a661c4bd7a81daac5f15c5024
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 15}
+      - {x: 35, y: 15}
+      - {x: 0, y: 0}
+      - {x: 35, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AssaultRifles_Cowpup_HUD
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 32
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -7.5}
+        - {x: -16, y: 7.5}
+        - {x: 16, y: 7.5}
+        - {x: 16, y: -7.5}
+      physicsShape:
+      - - {x: -12, y: 7.5}
+        - {x: -16, y: 6.5}
+        - {x: -16, y: -7.5}
+        - {x: 10, y: -7.5}
+        - {x: 16, y: -5.5}
+        - {x: 16, y: 6.5}
+        - {x: 15, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07514664d125434080b06ba9a7d75d28
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 15}
+      - {x: 32, y: 15}
+      - {x: 0, y: 0}
+      - {x: 32, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AssaultRifles_AK_HUD
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 32
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -6}
+        - {x: -16, y: 6}
+        - {x: 16, y: 6}
+        - {x: 16, y: -6}
+      physicsShape:
+      - - {x: -16, y: 6}
+        - {x: -16, y: -6}
+        - {x: 16, y: -6}
+        - {x: 16, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365315be6f2e4ffc8ac9cab4e7220fe0
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 32, y: 12}
+      - {x: 0, y: 0}
+      - {x: 32, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AssaultRifles_Karbine_Drop
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 62
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -7.5}
+        - {x: -15.5, y: 7.5}
+        - {x: 15.5, y: 7.5}
+        - {x: 15.5, y: -7.5}
+      physicsShape:
+      - - {x: -15.5, y: 7.5}
+        - {x: -15.5, y: -7.5}
+        - {x: 12.5, y: -7.5}
+        - {x: 15.5, y: -2.5}
+        - {x: 15.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0d6d90a37448d4a2446f31529c3af0
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 22.5}
+      - {x: 31, y: 22.5}
+      - {x: 0, y: 7.5}
+      - {x: 31, y: 7.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AssaultRifles_Cowpup
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 30
+        height: 13
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -6.5}
+        - {x: -15, y: 6.5}
+        - {x: 15, y: 6.5}
+        - {x: 15, y: -6.5}
+      physicsShape:
+      - - {x: -9, y: 6.5}
+        - {x: -14, y: 4.5}
+        - {x: -15, y: 3.5}
+        - {x: -15, y: -6.5}
+        - {x: 13, y: -6.5}
+        - {x: 15, y: -5.5}
+        - {x: 15, y: 4.5}
+        - {x: 14, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517193dfed904c6bb54f8ad084d9e103
+      internalID: 21300022
+      vertices:
+      - {x: 1.5, y: 13}
+      - {x: 31.5, y: 13}
+      - {x: 1.5, y: 0}
+      - {x: 31.5, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AssaultRifles_AK_Drop
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 62
+        width: 32
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -6.5}
+        - {x: -16, y: 6.5}
+        - {x: 16, y: 6.5}
+        - {x: 16, y: -6.5}
+      physicsShape:
+      - - {x: -16, y: 6.5}
+        - {x: -16, y: -6.5}
+        - {x: 5, y: -6.5}
+        - {x: 16, y: -2.5}
+        - {x: 16, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5f665020fc41f1b7d9fea19ee85fc8
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 19.5}
+      - {x: 32, y: 19.5}
+      - {x: 0, y: 6.5}
+      - {x: 32, y: 6.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AssaultRifles_BigAK_Drop
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 62
+        width: 34
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -7.5}
+        - {x: -17, y: 7.5}
+        - {x: 17, y: 7.5}
+        - {x: 17, y: -7.5}
+      physicsShape:
+      - - {x: -16, y: 7.5}
+        - {x: -17, y: 6.5}
+        - {x: -17, y: -6.5}
+        - {x: -13, y: -7.5}
+        - {x: 13, y: -7.5}
+        - {x: 17, y: -4.5}
+        - {x: 17, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713d54b36a854f13852ed5136faa276b
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 22.5}
+      - {x: 34, y: 22.5}
+      - {x: 0, y: 7.5}
+      - {x: 34, y: 7.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AssaultRifles_Karbine_HUD
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 31
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -7}
+        - {x: -15.5, y: 7}
+        - {x: 15.5, y: 7}
+        - {x: 15.5, y: -7}
+      physicsShape:
+      - - {x: -15.5, y: 7}
+        - {x: -15.5, y: -7}
+        - {x: 15.5, y: -7}
+        - {x: 15.5, y: 5}
+        - {x: 13.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2f2e3b6b7f4020af6cd0a053d02d4c
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 31, y: 14}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

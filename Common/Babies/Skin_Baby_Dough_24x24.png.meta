@@ -1,0 +1,969 @@
+fileFormatVersion: 2
+guid: d0dfe7a5fc2ecc34d9d22f180bf8d295
+timeCreated: 1706119845
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Skin_Baby_Dough_24x24_SitIdle2
+  - first:
+      213: 21300002
+    second: Skin_Baby_Dough_24x24_StandingIdle0
+  - first:
+      213: 21300004
+    second: Skin_Baby_Dough_24x24_Falling2
+  - first:
+      213: 21300006
+    second: Skin_Baby_Dough_24x24_Falling3
+  - first:
+      213: 21300008
+    second: Skin_Baby_Dough_24x24_Falling1
+  - first:
+      213: 21300010
+    second: Skin_Baby_Dough_24x24_Falling0
+  - first:
+      213: 21300012
+    second: Skin_Baby_Dough_24x24_StandingUp3
+  - first:
+      213: 21300014
+    second: Skin_Baby_Dough_24x24_StandingIdle1
+  - first:
+      213: 21300016
+    second: Skin_Baby_Dough_24x24_StandingUp1
+  - first:
+      213: 21300018
+    second: Skin_Baby_Dough_24x24_StandingIdle2
+  - first:
+      213: 21300020
+    second: Skin_Baby_Dough_24x24_StandingIdle3
+  - first:
+      213: 21300022
+    second: Skin_Baby_Dough_24x24_StandingUp2
+  - first:
+      213: 21300024
+    second: Skin_Baby_Dough_24x24_Falling6
+  - first:
+      213: 21300026
+    second: Skin_Baby_Dough_24x24_SitIdle1
+  - first:
+      213: 21300028
+    second: Skin_Baby_Dough_24x24_StandingUp0
+  - first:
+      213: 21300030
+    second: Skin_Baby_Dough_24x24_SitIdle0
+  - first:
+      213: 21300032
+    second: Skin_Baby_Dough_24x24_Falling4
+  - first:
+      213: 21300034
+    second: Skin_Baby_Dough_24x24_SitIdle3
+  - first:
+      213: 21300036
+    second: Skin_Baby_Dough_24x24_Falling5
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_SitIdle2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 6, y: -1}
+        - {x: -7, y: -1}
+        - {x: -8, y: -3}
+        - {x: -8, y: -11}
+        - {x: -7, y: -12}
+        - {x: 6, y: -12}
+        - {x: 9, y: -9}
+        - {x: 9, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5d0c7a801e4503a4b089fcdbe1062d
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_StandingIdle0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 1}
+        - {x: -6, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -8}
+        - {x: 11, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76334d43d77541129c8b073c5286f48a
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_Falling2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -4, y: 1}
+        - {x: -5, y: 0}
+        - {x: -5, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: -1}
+        - {x: 11, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12985c9d2684c30ab901dafbd18be0a
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_Falling3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 11, y: 2}
+        - {x: -5, y: 2}
+        - {x: -6, y: -1}
+        - {x: -6, y: -11}
+        - {x: -3, y: -12}
+        - {x: 7, y: -12}
+        - {x: 12, y: -7}
+        - {x: 12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74140f0444d48b492fb6ab76f8370af
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_Falling1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: 0}
+        - {x: -5, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -11}
+        - {x: 12, y: -2}
+        - {x: 11, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0281b02517274ed093751a2daddf6c80
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_Falling0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 1}
+        - {x: -6, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -8}
+        - {x: 11, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104e972e336e469284f2e59913c46464
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_StandingUp3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -4, y: 1}
+        - {x: -6, y: 0}
+        - {x: -6, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbb0435f84f4e3599eeb4388d51b37d
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_StandingIdle1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 1}
+        - {x: -6, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe08a7b82e9486589c4787eb717de5f
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_StandingUp1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 6, y: 0}
+        - {x: -7, y: 0}
+        - {x: -8, y: -3}
+        - {x: -8, y: -10}
+        - {x: -6, y: -12}
+        - {x: 7, y: -12}
+        - {x: 9, y: -9}
+        - {x: 9, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17b928269e64dc5a8d0ea4e1e2265d8
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_StandingIdle2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: 0}
+        - {x: -6, y: -1}
+        - {x: -6, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -9}
+        - {x: 11, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2711b099534a46898b6ffbcf48ca1b
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_StandingIdle3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -4, y: 1}
+        - {x: -6, y: 0}
+        - {x: -6, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0513976f1b7417680bc2dcac1b7f0b0
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_StandingUp2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: 1}
+        - {x: -7, y: -1}
+        - {x: -7, y: -11}
+        - {x: -6, y: -12}
+        - {x: 7, y: -12}
+        - {x: 10, y: -9}
+        - {x: 10, y: 0}
+        - {x: 7, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1ad4c725434b908b1f27f5504cc4e9
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_Falling6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -4, y: 0}
+        - {x: -8, y: -1}
+        - {x: -8, y: -9}
+        - {x: -7, y: -12}
+        - {x: 6, y: -12}
+        - {x: 9, y: -9}
+        - {x: 9, y: -2}
+        - {x: 7, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d177d5c8c8984ce395293e003df6adfc
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_SitIdle1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: -1}
+        - {x: -8, y: -9}
+        - {x: -7, y: -12}
+        - {x: 6, y: -12}
+        - {x: 9, y: -10}
+        - {x: 9, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38afd9d1cb7d4551bbd22842b1531162
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_StandingUp0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: -1}
+        - {x: -8, y: -9}
+        - {x: -7, y: -12}
+        - {x: 6, y: -12}
+        - {x: 9, y: -10}
+        - {x: 9, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dab7ca825114c4bac846d9e66f5f388
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_SitIdle0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 8, y: 0}
+        - {x: -7, y: 0}
+        - {x: -8, y: -1}
+        - {x: -8, y: -12}
+        - {x: 7, y: -12}
+        - {x: 9, y: -8}
+        - {x: 9, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c04d8d9cb04cfeae5ae7b045cd8044
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_Falling4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: 3}
+        - {x: -6, y: 2}
+        - {x: -6, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537921f60e844c34ae6b9c8d37d9b6a9
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_SitIdle3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -4, y: 0}
+        - {x: -8, y: -1}
+        - {x: -8, y: -9}
+        - {x: -7, y: -12}
+        - {x: 6, y: -12}
+        - {x: 9, y: -9}
+        - {x: 9, y: -2}
+        - {x: 7, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8812744c2eb84f3dbb640f7532f31ed2
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin_Baby_Dough_24x24_Falling5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: -1}
+        - {x: -9, y: -9}
+        - {x: -8, y: -12}
+        - {x: 6, y: -12}
+        - {x: 9, y: -10}
+        - {x: 9, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e84805409474428a1b822802e12bd26
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

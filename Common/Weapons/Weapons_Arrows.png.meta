@@ -1,0 +1,1042 @@
+fileFormatVersion: 2
+guid: a2767254a5735fb4992a69c2250d7971
+timeCreated: 1706119846
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Weapons_Arrows_Stringless_Charged
+  - first:
+      213: 21300002
+    second: Weapons_Arrows_Dragoon
+  - first:
+      213: 21300004
+    second: Weapons_Arrows_Compound_Drop
+  - first:
+      213: 21300006
+    second: Weapons_Arrows_Dragoon_Drop
+  - first:
+      213: 21300008
+    second: Weapons_Arrows_Stringless_HUD
+  - first:
+      213: 21300010
+    second: Weapons_Arrows_Dragoon_HUD
+  - first:
+      213: 21300012
+    second: Weapons_Arrows_Compound
+  - first:
+      213: 21300014
+    second: Weapons_Arrows_Compound_HUD
+  - first:
+      213: 21300016
+    second: Weapons_Arrows_Stringless_Drop
+  - first:
+      213: 21300018
+    second: Weapons_Arrows_Bow_Charged
+  - first:
+      213: 21300020
+    second: Weapons_Arrows_Skullhaver_HUD
+  - first:
+      213: 21300022
+    second: Weapons_Arrows_Skullhaver_Charged
+  - first:
+      213: 21300024
+    second: Weapons_Arrows_Compound_Charged
+  - first:
+      213: 21300026
+    second: Weapons_Arrows_Bow
+  - first:
+      213: 21300028
+    second: Weapons_Arrows_Bow_Drop
+  - first:
+      213: 21300030
+    second: Weapons_Arrows_Stringless
+  - first:
+      213: 21300032
+    second: Weapons_Arrows_Skullhaver_Drop
+  - first:
+      213: 21300034
+    second: Weapons_Arrows_Skullhaver
+  - first:
+      213: 21300036
+    second: Weapons_Arrows_Bow_HUD
+  - first:
+      213: 21300038
+    second: Weapons_Arrows_Dragoon_Charged
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapons_Arrows_Stringless_Charged
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -11.5}
+        - {x: -8.5, y: 11.5}
+        - {x: 8.5, y: 11.5}
+        - {x: 8.5, y: -11.5}
+      physicsShape:
+      - - {x: -2.5, y: 11.5}
+        - {x: -8.5, y: 4.5}
+        - {x: -8.5, y: -3.5}
+        - {x: -2.5, y: -10.5}
+        - {x: -1.5, y: -11.5}
+        - {x: 5.5, y: -11.5}
+        - {x: 8.5, y: -8.5}
+        - {x: 8.5, y: 7.5}
+        - {x: 6.5, y: 11.5}
+      - - {x: -1.5, y: -0.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+        - {x: 1.5, y: -2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab0ad75461a4b45b0e1717484bba973
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 23}
+      - {x: 17, y: 23}
+      - {x: 0, y: 0}
+      - {x: 17, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Dragoon
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 13
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -15}
+        - {x: -6.5, y: 15}
+        - {x: 6.5, y: 15}
+        - {x: 6.5, y: -15}
+      physicsShape:
+      - - {x: -6.5, y: 15}
+        - {x: -6.5, y: -15}
+        - {x: 1.5, y: -15}
+        - {x: 6.5, y: -9}
+        - {x: 6.5, y: 8}
+        - {x: 0.5, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b48bd81e054b2595a72cb00e4efbba
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 13, y: 30}
+      - {x: 0, y: 0}
+      - {x: 13, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Compound_Drop
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 12
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -13}
+        - {x: -6, y: 13}
+        - {x: 6, y: 13}
+        - {x: 6, y: -13}
+      physicsShape:
+      - - {x: -6, y: 13}
+        - {x: -6, y: -13}
+        - {x: 2, y: -13}
+        - {x: 6, y: -8}
+        - {x: 6, y: 8}
+        - {x: 2, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986d8014d51d48f9813627ed7a5378c9
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 12, y: 39}
+      - {x: 0, y: 13}
+      - {x: 12, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Dragoon_Drop
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 15
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -16}
+        - {x: -7.5, y: 16}
+        - {x: 7.5, y: 16}
+        - {x: 7.5, y: -16}
+      physicsShape:
+      - - {x: 0.5, y: 16}
+        - {x: -7.5, y: 16}
+        - {x: -7.5, y: -16}
+        - {x: 1.5, y: -16}
+        - {x: 7.5, y: -9}
+        - {x: 7.5, y: 8}
+        - {x: 2.5, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcc9bfba6014d2194f2eeeefadfef82
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 15, y: 48}
+      - {x: 0, y: 16}
+      - {x: 15, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Stringless_HUD
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 14
+        width: 11
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -12.5}
+        - {x: -5.5, y: 12.5}
+        - {x: 5.5, y: 12.5}
+        - {x: 5.5, y: -12.5}
+      physicsShape:
+      - - {x: -5.5, y: 12.5}
+        - {x: -5.5, y: -12.5}
+        - {x: 3.5, y: -12.5}
+        - {x: 5.5, y: -11.5}
+        - {x: 5.5, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d374bbb30b4689be37cc9a8ab67168
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 25}
+      - {x: 11, y: 25}
+      - {x: 0, y: 0}
+      - {x: 11, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Dragoon_HUD
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 14
+        width: 15
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -16}
+        - {x: -7.5, y: 16}
+        - {x: 7.5, y: 16}
+        - {x: 7.5, y: -16}
+      physicsShape:
+      - - {x: -7.5, y: 16}
+        - {x: -7.5, y: -16}
+        - {x: 0.5, y: -16}
+        - {x: 7.5, y: -9}
+        - {x: 7.5, y: 9}
+        - {x: 0.5, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d7ee980b9c4d9787ee6b3130a70071
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 32}
+      - {x: 15, y: 32}
+      - {x: 0, y: 0}
+      - {x: 15, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Compound
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 10
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -12}
+        - {x: -5, y: 12}
+        - {x: 5, y: 12}
+        - {x: 5, y: -12}
+      physicsShape:
+      - - {x: -5, y: 12}
+        - {x: -5, y: -12}
+        - {x: 2, y: -12}
+        - {x: 5, y: -9}
+        - {x: 5, y: 10}
+        - {x: 2, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54aa2993dc134e949b1027bd002978fa
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 10, y: 24}
+      - {x: 0, y: 0}
+      - {x: 10, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Compound_HUD
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 14
+        width: 12
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -13}
+        - {x: -6, y: 13}
+        - {x: 6, y: 13}
+        - {x: 6, y: -13}
+      physicsShape:
+      - - {x: -6, y: 13}
+        - {x: -6, y: -13}
+        - {x: 3, y: -13}
+        - {x: 6, y: -10}
+        - {x: 6, y: 11}
+        - {x: 3, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a8027fb86643d4b6f1bbaf032ec865
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 26}
+      - {x: 12, y: 26}
+      - {x: 0, y: 0}
+      - {x: 12, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Stringless_Drop
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 11
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -12.5}
+        - {x: -5.5, y: 12.5}
+        - {x: 5.5, y: 12.5}
+        - {x: 5.5, y: -12.5}
+      physicsShape:
+      - - {x: -5.5, y: 12.5}
+        - {x: -5.5, y: -12.5}
+        - {x: 5.5, y: -12.5}
+        - {x: 5.5, y: 10.5}
+        - {x: 3.5, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d48140e2a044b71b7aa443f3a609a7e
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 37.5}
+      - {x: 11, y: 37.5}
+      - {x: 0, y: 12.5}
+      - {x: 11, y: 12.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Bow_Charged
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 15
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -10.5}
+        - {x: -7.5, y: 10.5}
+        - {x: 7.5, y: 10.5}
+        - {x: 7.5, y: -10.5}
+      physicsShape:
+      - - {x: -2.5, y: 10.5}
+        - {x: -7.5, y: 5.5}
+        - {x: -7.5, y: -4.5}
+        - {x: -4.5, y: -10.5}
+        - {x: 5.5, y: -10.5}
+        - {x: 7.5, y: -8.5}
+        - {x: 7.5, y: 8.5}
+        - {x: 5.5, y: 10.5}
+      - - {x: -0.5, y: -0.5}
+        - {x: -0.5, y: 0.5}
+        - {x: 2.5, y: 4.5}
+        - {x: 0.5, y: 3.5}
+        - {x: 0.5, y: -3.5}
+        - {x: 2.5, y: -4.5}
+        - {x: 2.5, y: -2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3a46e2b26a47d78313a2b92a365da0
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 15, y: 21}
+      - {x: 0, y: 0}
+      - {x: 15, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Skullhaver_HUD
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 14
+        width: 15
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -13.5}
+        - {x: -7.5, y: 13.5}
+        - {x: 7.5, y: 13.5}
+        - {x: 7.5, y: -13.5}
+      physicsShape:
+      - - {x: -7.5, y: 13.5}
+        - {x: -7.5, y: -13.5}
+        - {x: 7.5, y: -13.5}
+        - {x: 7.5, y: 13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40135bcfa58443798ea192b96af0cc01
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 27}
+      - {x: 15, y: 27}
+      - {x: 0, y: 0}
+      - {x: 15, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Skullhaver_Charged
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 19
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -12.5}
+        - {x: -9.5, y: 12.5}
+        - {x: 9.5, y: 12.5}
+        - {x: 9.5, y: -12.5}
+      physicsShape:
+      - - {x: -7.5, y: 12.5}
+        - {x: -9.5, y: 8.5}
+        - {x: -9.5, y: -6.5}
+        - {x: -7.5, y: -12.5}
+        - {x: 6.5, y: -12.5}
+        - {x: 9.5, y: -8.5}
+        - {x: 9.5, y: 10.5}
+        - {x: 5.5, y: 12.5}
+      - - {x: -2.5, y: -0.5}
+        - {x: 0.5, y: 3.5}
+        - {x: 0.5, y: -1.5}
+        - {x: -0.5, y: -2.5}
+        - {x: 0.5, y: -3.5}
+        - {x: 0.5, y: -2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc186be9c1a2475cb292d6eaab85a711
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 25}
+      - {x: 19, y: 25}
+      - {x: 0, y: 0}
+      - {x: 19, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Compound_Charged
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -12}
+        - {x: -7.5, y: 12}
+        - {x: 7.5, y: 12}
+        - {x: 7.5, y: -12}
+      physicsShape:
+      - - {x: -5.5, y: 12}
+        - {x: -7.5, y: 8}
+        - {x: -7.5, y: -5}
+        - {x: -5.5, y: -12}
+        - {x: 4.5, y: -12}
+        - {x: 7.5, y: -9}
+        - {x: 7.5, y: 10}
+        - {x: 4.5, y: 12}
+      - - {x: -1.5, y: 0}
+        - {x: 0.5, y: 2}
+        - {x: 0.5, y: 3}
+        - {x: -0.5, y: 2}
+        - {x: -0.5, y: -1}
+        - {x: 0.5, y: -2}
+        - {x: 0.5, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd1e013336b42fcbd73c6f878c01f25
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 15, y: 24}
+      - {x: 0, y: 0}
+      - {x: 15, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Bow
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 9
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -10.5}
+        - {x: -4.5, y: 10.5}
+        - {x: 4.5, y: 10.5}
+        - {x: 4.5, y: -10.5}
+      physicsShape:
+      - - {x: -4.5, y: 10.5}
+        - {x: -4.5, y: -10.5}
+        - {x: 2.5, y: -10.5}
+        - {x: 4.5, y: -8.5}
+        - {x: 4.5, y: 8.5}
+        - {x: 2.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c7a02f4b9248378d45513ef28f1df5
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 9, y: 21}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Bow_Drop
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 11
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -11.5}
+        - {x: -5.5, y: 11.5}
+        - {x: 5.5, y: 11.5}
+        - {x: 5.5, y: -11.5}
+      physicsShape:
+      - - {x: -5.5, y: 11.5}
+        - {x: -5.5, y: -11.5}
+        - {x: 5.5, y: -11.5}
+        - {x: 5.5, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c04e3bf33549dca38fb27e224b1304
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 34.5}
+      - {x: 11, y: 34.5}
+      - {x: 0, y: 11.5}
+      - {x: 11, y: 11.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Stringless
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 9
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -11.5}
+        - {x: -4.5, y: 11.5}
+        - {x: 4.5, y: 11.5}
+        - {x: 4.5, y: -11.5}
+      physicsShape:
+      - - {x: -4.5, y: 11.5}
+        - {x: -4.5, y: -11.5}
+        - {x: 3.5, y: -11.5}
+        - {x: 4.5, y: -9.5}
+        - {x: 4.5, y: 9.5}
+        - {x: 3.5, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc946c1dba4b44feb243c3d5a7c9f366
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 23}
+      - {x: 9, y: 23}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Skullhaver_Drop
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 63
+        width: 15
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -13.5}
+        - {x: -7.5, y: 13.5}
+        - {x: 7.5, y: 13.5}
+        - {x: 7.5, y: -13.5}
+      physicsShape:
+      - - {x: -7.5, y: 13.5}
+        - {x: -7.5, y: -13.5}
+        - {x: 1.5, y: -13.5}
+        - {x: 7.5, y: -7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 1.5, y: 13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f32baef5da4c9caa6578e7f77d1eae
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 40.5}
+      - {x: 15, y: 40.5}
+      - {x: 0, y: 13.5}
+      - {x: 15, y: 13.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Skullhaver
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 13
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -12.5}
+        - {x: -6.5, y: 12.5}
+        - {x: 6.5, y: 12.5}
+        - {x: 6.5, y: -12.5}
+      physicsShape:
+      - - {x: -6.5, y: 12.5}
+        - {x: -6.5, y: -12.5}
+        - {x: 1.5, y: -12.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 6.5, y: 7.5}
+        - {x: 1.5, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cc247e78c14884a5070145bac11a49
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 25}
+      - {x: 13, y: 25}
+      - {x: 0, y: 0}
+      - {x: 13, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Bow_HUD
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 11
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -11.5}
+        - {x: -5.5, y: 11.5}
+        - {x: 5.5, y: 11.5}
+        - {x: 5.5, y: -11.5}
+      physicsShape:
+      - - {x: -5.5, y: 11.5}
+        - {x: -5.5, y: -11.5}
+        - {x: 5.5, y: -11.5}
+        - {x: 5.5, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788e578d896747a5aa622f1d9ac2c010
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 23}
+      - {x: 11, y: 23}
+      - {x: 0, y: 0}
+      - {x: 11, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Arrows_Dragoon_Charged
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -15}
+        - {x: -10.5, y: 15}
+        - {x: 10.5, y: 15}
+        - {x: 10.5, y: -15}
+      physicsShape:
+      - - {x: -4.5, y: 15}
+        - {x: -10.5, y: 8}
+        - {x: -10.5, y: -7}
+        - {x: -7.5, y: -15}
+        - {x: 9.5, y: -15}
+        - {x: 10.5, y: -13}
+        - {x: 10.5, y: 13}
+        - {x: 6.5, y: 15}
+      - - {x: -4.5, y: 0}
+        - {x: 0.5, y: 5}
+        - {x: 1.5, y: 4}
+        - {x: 1.5, y: 2}
+        - {x: 2.5, y: 1}
+        - {x: 1.5, y: -4}
+        - {x: 0.5, y: -5}
+        - {x: 0.5, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b9492db16a44b6866958494e4b7eae
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 21, y: 30}
+      - {x: 0, y: 0}
+      - {x: 21, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

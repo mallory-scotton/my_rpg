@@ -1,0 +1,1166 @@
+fileFormatVersion: 2
+guid: 474a70bfa4a50db4cb5fd399837cbb80
+timeCreated: 1706119823
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: EnemyBaldRat_Run5
+  - first:
+      213: 21300002
+    second: EnemyBaldRat_Death1
+  - first:
+      213: 21300004
+    second: EnemyBaldRat_Run3
+  - first:
+      213: 21300006
+    second: EnemyBaldRat_Idle2
+  - first:
+      213: 21300008
+    second: EnemyBaldRat_hand1
+  - first:
+      213: 21300010
+    second: EnemyBaldRat_Death2
+  - first:
+      213: 21300012
+    second: EnemyBaldRat_Idle1
+  - first:
+      213: 21300014
+    second: EnemyBaldRat_hand2
+  - first:
+      213: 21300016
+    second: EnemyBaldRat_Walk3
+  - first:
+      213: 21300018
+    second: EnemyBaldRat_Walk1
+  - first:
+      213: 21300020
+    second: EnemyBaldRat_Idle3
+  - first:
+      213: 21300022
+    second: EnemyBaldRat_Walk4
+  - first:
+      213: 21300024
+    second: EnemyBaldRat_Run6
+  - first:
+      213: 21300026
+    second: EnemyBaldRat_Damage1
+  - first:
+      213: 21300028
+    second: EnemyBaldRat_Walk2
+  - first:
+      213: 21300030
+    second: EnemyBaldRat_Idle4
+  - first:
+      213: 21300032
+    second: EnemyBaldRat_Walk6
+  - first:
+      213: 21300034
+    second: EnemyBaldRat_Damage2
+  - first:
+      213: 21300036
+    second: EnemyBaldRat_Run2
+  - first:
+      213: 21300038
+    second: EnemyBaldRat_Run4
+  - first:
+      213: 21300040
+    second: EnemyBaldRat_Run1
+  - first:
+      213: 21300042
+    second: EnemyBaldRat_weapon
+  - first:
+      213: 21300044
+    second: EnemyBaldRat_Walk5
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyBaldRat_Run5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: 9}
+        - {x: -8, y: -4}
+        - {x: -6, y: -10}
+        - {x: 5, y: -10}
+        - {x: 10, y: -1}
+        - {x: 10, y: 8}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d6ff0422304b19b77c7a767511f2bd
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Death1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: -1}
+        - {x: -11, y: -6}
+        - {x: -11, y: -8}
+        - {x: -10, y: -10}
+        - {x: -8, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: -4}
+        - {x: 8, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424b167c88694963902aad28f974de11
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Run3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -10, y: 6}
+        - {x: -10, y: -7}
+        - {x: -8, y: -10}
+        - {x: 5, y: -10}
+        - {x: 8, y: -7}
+        - {x: 8, y: 5}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b4efa86f884f10ad9ac5deea84e5f6
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Idle2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 8}
+        - {x: -10, y: -10}
+        - {x: 6, y: -10}
+        - {x: 8, y: -4}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa3fdf4bb6f45cebd7cef8d06646e44
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_hand1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd3740cd69f4247a96fe7ef4bb31f48
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Death2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: -1}
+        - {x: -11, y: -6}
+        - {x: -11, y: -8}
+        - {x: -10, y: -10}
+        - {x: -8, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: -4}
+        - {x: 8, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a676fc3fbc4e759aa463300c689213
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Idle1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: 9}
+        - {x: -10, y: 7}
+        - {x: -10, y: -7}
+        - {x: -8, y: -10}
+        - {x: 2, y: -10}
+        - {x: 7, y: -9}
+        - {x: 8, y: -1}
+        - {x: 8, y: 7}
+        - {x: 6, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1a2cda1ca3461f8411ca2ef3558a33
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_hand2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a50af952444687985f7bbc3c5545c9
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Walk3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -10, y: 6}
+        - {x: -10, y: -8}
+        - {x: -8, y: -10}
+        - {x: 5, y: -10}
+        - {x: 8, y: -8}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9579ba51a29544b897ca8ac2cf71a78a
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Walk1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -7, y: 9}
+        - {x: -9, y: 6}
+        - {x: -9, y: -10}
+        - {x: 7, y: -10}
+        - {x: 9, y: -8}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3fabcb1d4447c6bd416a200ea0b381
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Idle3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 6, y: 8}
+        - {x: -10, y: 8}
+        - {x: -10, y: -8}
+        - {x: -9, y: -10}
+        - {x: 3, y: -10}
+        - {x: 6, y: -9}
+        - {x: 8, y: 1}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668d72310b8e40cba711f08683b8de11
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Walk4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: -3}
+        - {x: -8, y: -9}
+        - {x: -8, y: -10}
+        - {x: 4, y: -10}
+        - {x: 9, y: -8}
+        - {x: 9, y: 9}
+        - {x: -8, y: 9}
+        - {x: -9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95f3c8f9d7c407bb31e3051a6776c70
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Run6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 7}
+        - {x: -9, y: 6}
+        - {x: -9, y: -2}
+        - {x: -8, y: -7}
+        - {x: -5, y: -10}
+        - {x: 3, y: -10}
+        - {x: 7, y: -9}
+        - {x: 9, y: -4}
+        - {x: 9, y: 4}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b39127ac24249ab91b3f5798b39067b
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Damage1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 6}
+        - {x: -11, y: 5}
+        - {x: -11, y: -2}
+        - {x: -10, y: -9}
+        - {x: -8, y: -12}
+        - {x: 7, y: -12}
+        - {x: 7, y: 5}
+        - {x: 6, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa47cef70a34cf5bc05ced21ebc04fd
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Walk2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 9}
+        - {x: -8, y: 6}
+        - {x: -8, y: -7}
+        - {x: -7, y: -10}
+        - {x: 8, y: -10}
+        - {x: 10, y: -8}
+        - {x: 10, y: 8}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871c3eb1d9f64027b02d5374ee50cb16
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Idle4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: 9}
+        - {x: -10, y: 7}
+        - {x: -10, y: -7}
+        - {x: -8, y: -10}
+        - {x: 2, y: -10}
+        - {x: 7, y: -9}
+        - {x: 8, y: -3}
+        - {x: 8, y: 7}
+        - {x: 6, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145665c5d5804db38e310145656a8b16
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Walk6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: 7}
+        - {x: -9, y: 6}
+        - {x: -9, y: -4}
+        - {x: -6, y: -10}
+        - {x: 2, y: -10}
+        - {x: 7, y: -8}
+        - {x: 9, y: -1}
+        - {x: 9, y: 6}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3a0dd2eb2248d1bc8bba8a349dacc1
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Damage2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 8}
+        - {x: -11, y: 7}
+        - {x: -11, y: -3}
+        - {x: -10, y: -7}
+        - {x: -6, y: -10}
+        - {x: 6, y: -10}
+        - {x: 7, y: -9}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c684532e1b945ad9e73de4d32d226df
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Run2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -7, y: 9}
+        - {x: -8, y: 8}
+        - {x: -8, y: -10}
+        - {x: 9, y: -10}
+        - {x: 10, y: -2}
+        - {x: 10, y: 8}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2b1e8fd8b5461db7a69092887efc83
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Run4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -10}
+        - {x: 8, y: -10}
+        - {x: 9, y: -5}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72931cac3ca7458db9cf61f754d65ca7
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Run1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -10, y: 7}
+        - {x: -10, y: -9}
+        - {x: -8, y: -10}
+        - {x: 6, y: -10}
+        - {x: 8, y: -2}
+        - {x: 8, y: 8}
+        - {x: 7, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dda6f37efe84d089010f422aa160b9b
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_weapon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 28
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -4}
+        - {x: -14, y: 4}
+        - {x: 14, y: 4}
+        - {x: 14, y: -4}
+      physicsShape:
+      - - {x: -14, y: 4}
+        - {x: -14, y: -4}
+        - {x: 14, y: -4}
+        - {x: 14, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d56edc17ea489b8d30c129d01bca36
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 28, y: 8}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBaldRat_Walk5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -7, y: 9}
+        - {x: -8, y: 8}
+        - {x: -8, y: -6}
+        - {x: -1, y: -10}
+        - {x: 4, y: -10}
+        - {x: 10, y: -4}
+        - {x: 10, y: 6}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bbb4045c22473f916292076e101d5c
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

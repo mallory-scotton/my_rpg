@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: dea5e41d05ac24941bd016b37b5a76bd
+timeCreated: 1706119836
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Menu_Blisstaker160x140_2
+  - first:
+      213: 21300002
+    second: Menu_Blisstaker160x140_0
+  - first:
+      213: 21300004
+    second: Menu_Blisstaker160x140_5
+  - first:
+      213: 21300006
+    second: Menu_Blisstaker160x140_7
+  - first:
+      213: 21300008
+    second: Menu_Blisstaker160x140_4
+  - first:
+      213: 21300010
+    second: Menu_Blisstaker160x140_1
+  - first:
+      213: 21300012
+    second: Menu_Blisstaker160x140_6
+  - first:
+      213: 21300014
+    second: Menu_Blisstaker160x140_3
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Menu_Blisstaker160x140_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 160
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -70}
+        - {x: -80, y: 70}
+        - {x: 80, y: 70}
+        - {x: 80, y: -70}
+      physicsShape:
+      - - {x: 48, y: -6}
+        - {x: 45, y: 28}
+        - {x: 32, y: 56}
+        - {x: 15, y: 62}
+        - {x: -4, y: 63}
+        - {x: -32, y: 64}
+        - {x: -39, y: 65}
+        - {x: -54, y: 65}
+        - {x: -56, y: 62}
+        - {x: -57, y: 41}
+        - {x: -67, y: 21}
+        - {x: -63, y: 20}
+        - {x: -61, y: 20}
+        - {x: -66, y: 20}
+        - {x: -70, y: 21}
+        - {x: -80, y: 6}
+        - {x: -80, y: -16}
+        - {x: -73, y: -28}
+        - {x: -54, y: -31}
+        - {x: -50, y: -17}
+        - {x: -31, y: -19}
+        - {x: -26, y: -28}
+        - {x: -32, y: -41}
+        - {x: -35, y: -49}
+        - {x: -35, y: -70}
+        - {x: 80, y: -70}
+        - {x: 80, y: -50}
+        - {x: 69, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d9b76361d7495882b0ee7c1d8ec0a3
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 140}
+      - {x: 160, y: 140}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Blisstaker160x140_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 160
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -70}
+        - {x: -80, y: 70}
+        - {x: 80, y: 70}
+        - {x: 80, y: -70}
+      physicsShape:
+      - - {x: 58, y: -14}
+        - {x: 48, y: -7}
+        - {x: 47, y: 35}
+        - {x: 26, y: 64}
+        - {x: -4, y: 69}
+        - {x: -18, y: 63}
+        - {x: -37, y: 70}
+        - {x: -52, y: 70}
+        - {x: -55, y: 58}
+        - {x: -47, y: 49}
+        - {x: -60, y: 37}
+        - {x: -76, y: 16}
+        - {x: -80, y: 8}
+        - {x: -80, y: -12}
+        - {x: -73, y: -24}
+        - {x: -55, y: -26}
+        - {x: -53, y: -21}
+        - {x: -42, y: -15}
+        - {x: -21, y: -13}
+        - {x: -28, y: -27}
+        - {x: -35, y: -47}
+        - {x: -35, y: -70}
+        - {x: 80, y: -70}
+        - {x: 80, y: -49}
+        - {x: 70, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e26855cb544679841dac9bcdf8d7ec
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 140}
+      - {x: 160, y: 140}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Blisstaker160x140_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 140
+        width: 160
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -70}
+        - {x: -80, y: 70}
+        - {x: 80, y: 70}
+        - {x: 80, y: -70}
+      physicsShape:
+      - - {x: 69, y: -29}
+        - {x: 59, y: -17}
+        - {x: 47, y: -6}
+        - {x: 45, y: 31}
+        - {x: 32, y: 52}
+        - {x: 23, y: 58}
+        - {x: 4, y: 61}
+        - {x: -5, y: 61}
+        - {x: -21, y: 53}
+        - {x: -43, y: 60}
+        - {x: -51, y: 61}
+        - {x: -52, y: 61}
+        - {x: -59, y: 54}
+        - {x: -57, y: 46}
+        - {x: -59, y: 31}
+        - {x: -76, y: 11}
+        - {x: -80, y: 3}
+        - {x: -80, y: -17}
+        - {x: -73, y: -29}
+        - {x: -54, y: -32}
+        - {x: -50, y: -18}
+        - {x: -31, y: -20}
+        - {x: -35, y: -62}
+        - {x: -35, y: -70}
+        - {x: 80, y: -70}
+        - {x: 80, y: -55}
+        - {x: 78, y: -48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c75624fe4234a498be0ddaf3210cac9
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 140}
+      - {x: 160, y: 140}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Blisstaker160x140_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -70}
+        - {x: -80, y: 70}
+        - {x: 80, y: 70}
+        - {x: 80, y: -70}
+      physicsShape:
+      - - {x: 58, y: -14}
+        - {x: 48, y: -7}
+        - {x: 47, y: 13}
+        - {x: 47, y: 33}
+        - {x: 29, y: 58}
+        - {x: 26, y: 63}
+        - {x: -3, y: 67}
+        - {x: -18, y: 61}
+        - {x: -42, y: 70}
+        - {x: -52, y: 70}
+        - {x: -56, y: 57}
+        - {x: -47, y: 48}
+        - {x: -60, y: 36}
+        - {x: -76, y: 15}
+        - {x: -80, y: 7}
+        - {x: -80, y: -13}
+        - {x: -73, y: -25}
+        - {x: -55, y: -27}
+        - {x: -53, y: -22}
+        - {x: -42, y: -16}
+        - {x: -21, y: -14}
+        - {x: -28, y: -28}
+        - {x: -35, y: -48}
+        - {x: -35, y: -70}
+        - {x: 80, y: -70}
+        - {x: 80, y: -50}
+        - {x: 68, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909025bc01f14e4fa767f33f3b94b56b
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 140}
+      - {x: 160, y: 140}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Blisstaker160x140_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 160
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -70}
+        - {x: -80, y: 70}
+        - {x: 80, y: 70}
+        - {x: 80, y: -70}
+      physicsShape:
+      - - {x: 59, y: -18}
+        - {x: 47, y: -8}
+        - {x: 45, y: 30}
+        - {x: 31, y: 51}
+        - {x: 24, y: 56}
+        - {x: 5, y: 59}
+        - {x: -5, y: 59}
+        - {x: -27, y: 52}
+        - {x: -35, y: 60}
+        - {x: -42, y: 61}
+        - {x: -52, y: 61}
+        - {x: -57, y: 57}
+        - {x: -56, y: 47}
+        - {x: -52, y: 41}
+        - {x: -67, y: 27}
+        - {x: -80, y: 5}
+        - {x: -80, y: -18}
+        - {x: -73, y: -30}
+        - {x: -54, y: -33}
+        - {x: -51, y: -18}
+        - {x: -42, y: -20}
+        - {x: -18, y: -20}
+        - {x: -35, y: -42}
+        - {x: -35, y: -70}
+        - {x: 80, y: -70}
+        - {x: 80, y: -54}
+        - {x: 70, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d99ec154c74b5285902f7accb99c66
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 140}
+      - {x: 160, y: 140}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Blisstaker160x140_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 420
+        width: 160
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -70}
+        - {x: -80, y: 70}
+        - {x: 80, y: 70}
+        - {x: 80, y: -70}
+      physicsShape:
+      - - {x: 47, y: -4}
+        - {x: 47, y: 26}
+        - {x: 46, y: 32}
+        - {x: 29, y: 58}
+        - {x: 26, y: 63}
+        - {x: -3, y: 67}
+        - {x: -18, y: 61}
+        - {x: -33, y: 66}
+        - {x: -42, y: 70}
+        - {x: -52, y: 70}
+        - {x: -56, y: 57}
+        - {x: -47, y: 48}
+        - {x: -60, y: 36}
+        - {x: -71, y: 24}
+        - {x: -80, y: 8}
+        - {x: -80, y: -13}
+        - {x: -73, y: -25}
+        - {x: -55, y: -27}
+        - {x: -53, y: -22}
+        - {x: -52, y: -12}
+        - {x: -42, y: -16}
+        - {x: -21, y: -14}
+        - {x: -15, y: -11}
+        - {x: -33, y: -39}
+        - {x: -35, y: -48}
+        - {x: -35, y: -70}
+        - {x: 80, y: -70}
+        - {x: 80, y: -50}
+        - {x: 68, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78287139e6af4525a7ebef15f1e04da6
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 140}
+      - {x: 160, y: 140}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Blisstaker160x140_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -70}
+        - {x: -80, y: 70}
+        - {x: 80, y: 70}
+        - {x: 80, y: -70}
+      physicsShape:
+      - - {x: 49, y: -8}
+        - {x: 47, y: 29}
+        - {x: 31, y: 56}
+        - {x: 15, y: 62}
+        - {x: 2, y: 63}
+        - {x: -4, y: 63}
+        - {x: -27, y: 54}
+        - {x: -35, y: 62}
+        - {x: -43, y: 63}
+        - {x: -52, y: 63}
+        - {x: -56, y: 58}
+        - {x: -56, y: 41}
+        - {x: -80, y: 14}
+        - {x: -80, y: -16}
+        - {x: -73, y: -28}
+        - {x: -54, y: -31}
+        - {x: -42, y: -19}
+        - {x: -21, y: -18}
+        - {x: -32, y: -38}
+        - {x: -35, y: -49}
+        - {x: -35, y: -70}
+        - {x: 80, y: -70}
+        - {x: 80, y: -50}
+        - {x: 69, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a938ba375600476c98a545e8487f54e8
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 140}
+      - {x: 160, y: 140}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Blisstaker160x140_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 280
+        width: 160
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -70}
+        - {x: -80, y: 70}
+        - {x: 80, y: 70}
+        - {x: 80, y: -70}
+      physicsShape:
+      - - {x: 68, y: -26}
+        - {x: 59, y: -17}
+        - {x: 47, y: -8}
+        - {x: 45, y: 31}
+        - {x: 32, y: 52}
+        - {x: 23, y: 58}
+        - {x: 4, y: 61}
+        - {x: -3, y: 62}
+        - {x: -19, y: 54}
+        - {x: -38, y: 63}
+        - {x: -51, y: 63}
+        - {x: -58, y: 61}
+        - {x: -57, y: 52}
+        - {x: -61, y: 34}
+        - {x: -68, y: 24}
+        - {x: -71, y: 20}
+        - {x: -80, y: 5}
+        - {x: -80, y: -17}
+        - {x: -73, y: -29}
+        - {x: -54, y: -32}
+        - {x: -50, y: -18}
+        - {x: -31, y: -20}
+        - {x: -17, y: -19}
+        - {x: -27, y: -29}
+        - {x: -36, y: -49}
+        - {x: -35, y: -70}
+        - {x: 80, y: -70}
+        - {x: 80, y: -54}
+        - {x: 79, y: -48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e839bc9c2bd34bfa994968c64423f03b
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 140}
+      - {x: 160, y: 140}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 7b7bcd85e6ff976d4d90e009d811c035.bundle
+  assetBundleVariant:

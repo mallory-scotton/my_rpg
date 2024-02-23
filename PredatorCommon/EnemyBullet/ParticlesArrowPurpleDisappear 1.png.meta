@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 35abe1a0b1c264c4bb9327fef8ae8f1d
+timeCreated: 1706119835
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ParticlesArrowPurpleDisappear 1_3
+  - first:
+      213: 21300002
+    second: ParticlesArrowPurpleDisappear 1_0
+  - first:
+      213: 21300004
+    second: ParticlesArrowPurpleDisappear 1_1
+  - first:
+      213: 21300006
+    second: ParticlesArrowPurpleDisappear 1_4
+  - first:
+      213: 21300008
+    second: ParticlesArrowPurpleDisappear 1_2
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParticlesArrowPurpleDisappear 1_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -3, y: -3}
+        - {x: 0, y: -2}
+        - {x: 0, y: 1}
+        - {x: -3, y: 2}
+        - {x: -5, y: 0}
+      - - {x: 4, y: 0}
+        - {x: 7, y: -3}
+        - {x: 10, y: -2}
+        - {x: 10, y: 0}
+        - {x: 7, y: 3}
+        - {x: 5, y: 3}
+      - - {x: -10, y: 0}
+        - {x: -7, y: 1}
+        - {x: -7, y: 4}
+        - {x: -10, y: 5}
+        - {x: -12, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08c57e5bc874091a983cca560e7c5ef
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 24, y: 24}
+      - {x: 0, y: 0}
+      - {x: 24, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesArrowPurpleDisappear 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 4}
+        - {x: -11, y: 3}
+        - {x: -11, y: -2}
+        - {x: -10, y: -5}
+        - {x: 10, y: -5}
+        - {x: 12, y: -3}
+        - {x: 12, y: 1}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06574b671cc8429aa45b05e6402af6cb
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 24, y: 24}
+      - {x: 0, y: 0}
+      - {x: 24, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesArrowPurpleDisappear 1_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 8, y: 5}
+        - {x: -12, y: 5}
+        - {x: -12, y: -4}
+        - {x: -10, y: -6}
+        - {x: -6, y: -5}
+        - {x: 0, y: -6}
+        - {x: 7, y: -6}
+        - {x: 11, y: -3}
+        - {x: 11, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917b2cfbd9f641f28d236e60b6c6fab1
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 24, y: 24}
+      - {x: 0, y: 0}
+      - {x: 24, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesArrowPurpleDisappear 1_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 5, y: -2}
+        - {x: 8, y: -1}
+        - {x: 8, y: 2}
+        - {x: 5, y: 3}
+        - {x: 3, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b1cb2f27844b62bcf38ac20e33311f
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 24, y: 24}
+      - {x: 0, y: 0}
+      - {x: 24, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesArrowPurpleDisappear 1_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: -6}
+        - {x: -11, y: -7}
+        - {x: -8, y: -6}
+        - {x: -8, y: -3}
+        - {x: -11, y: -2}
+        - {x: -12, y: -3}
+      - - {x: 5, y: 0}
+        - {x: 8, y: -4}
+        - {x: 11, y: -3}
+        - {x: 11, y: 0}
+        - {x: 8, y: 3}
+        - {x: 6, y: 3}
+      - - {x: -10, y: 4}
+        - {x: -11, y: 1}
+        - {x: -11, y: -3}
+        - {x: 1, y: -3}
+        - {x: 1, y: 2}
+        - {x: -8, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b11bceb08ad45c6bda1b52d8e28382b
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 24, y: 24}
+      - {x: 0, y: 0}
+      - {x: 24, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 30e948be952094fb8f652ba8ab91d1fb.bundle
+  assetBundleVariant:

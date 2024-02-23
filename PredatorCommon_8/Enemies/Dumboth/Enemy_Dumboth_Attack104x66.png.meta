@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 6c39ced29c986a141b7cb43f7893b841
+timeCreated: 1706119809
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Enemy_Dumboth_Attack104x66_1
+  - first:
+      213: 21300002
+    second: Enemy_Dumboth_Attack104x66_2
+  - first:
+      213: 21300004
+    second: Enemy_Dumboth_Attack104x66_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Attack104x66_1
+      rect:
+        serializedVersion: 2
+        x: 143.02675
+        y: 6.0761204
+        width: 41.9465
+        height: 59.880974
+      alignment: 9
+      pivot: {x: 0.3092809, y: -0.101469964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.999998, y: -29.01661}
+        - {x: -20.999998, y: -6.016609}
+        - {x: -20.999998, y: 9.983391}
+        - {x: -18.999998, y: 14.983391}
+        - {x: -9.999998, y: 26.98339}
+        - {x: 3.000002, y: 29.98339}
+        - {x: 20.000002, y: 29.98339}
+        - {x: 21.000002, y: 28.98339}
+        - {x: 21.000002, y: -5.016609}
+        - {x: 19.000002, y: -30.01661}
+        - {x: -16.999998, y: -30.01661}
+      physicsShape:
+      - - {x: 21.000002, y: -2.0166092}
+        - {x: 21.000002, y: 27.98339}
+        - {x: 19.000002, y: 29.98339}
+        - {x: 3.000002, y: 29.98339}
+        - {x: -8.999998, y: 25.98339}
+        - {x: -18.999998, y: 14.983391}
+        - {x: -20.999998, y: 9.983391}
+        - {x: -20.999998, y: -6.016609}
+        - {x: -19.999998, y: -29.01661}
+        - {x: -16.999998, y: -30.01661}
+        - {x: 14.000002, y: -30.01661}
+        - {x: 18.000002, y: -29.01661}
+        - {x: 20.000002, y: -8.016609}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fdfa6b6808415aa2f388a577b882ec
+      internalID: 21300000
+      vertices:
+      - {x: 48.97325, y: 95.94049}
+      - {x: 49.97325, y: 60.940487}
+      - {x: 49.97325, y: 94.94049}
+      - {x: 47.97325, y: 35.940487}
+      - {x: 31.97325, y: 95.94049}
+      - {x: 18.97325, y: 92.94049}
+      - {x: 11.973249, y: 35.940487}
+      - {x: 9.973249, y: 80.94049}
+      - {x: 8.973249, y: 36.940487}
+      - {x: 7.9732494, y: 75.94049}
+      - {x: 7.9732494, y: 59.940487}
+      indices:
+      - 10
+      - 9
+      - 8
+      - 7
+      - 8
+      - 9
+      - 6
+      - 8
+      - 7
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Attack104x66_2
+      rect:
+        serializedVersion: 2
+        x: 250.02675
+        y: 6.0761204
+        width: 40.921932
+        height: 67.84776
+      alignment: 9
+      pivot: {x: 0.2437141, y: -0.089555204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.512285, y: -34}
+        - {x: -20.487715, y: -34}
+        - {x: -20.487715, y: 6}
+        - {x: -13.487715, y: 14}
+        - {x: -7.487715, y: 20}
+        - {x: 8.512285, y: 34}
+        - {x: 20.512285, y: 34}
+        - {x: 20.512285, y: -16}
+      physicsShape:
+      - - {x: 20.512285, y: 30}
+        - {x: 16.512285, y: 34}
+        - {x: 9.512285, y: 34}
+        - {x: 0.51228523, y: 26}
+        - {x: -7.487715, y: 20}
+        - {x: -13.487715, y: 14}
+        - {x: -20.487715, y: 6}
+        - {x: -20.487715, y: -34}
+        - {x: 12.512285, y: -34}
+        - {x: 13.512285, y: -32}
+        - {x: 20.512285, y: -7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba3aba3b6f14de490699802def9a6fa
+      internalID: 21300002
+      vertices:
+      - {x: 51.460968, y: 107.92388}
+      - {x: 45.460968, y: 39.92388}
+      - {x: 51.460968, y: 57.92388}
+      - {x: 39.460968, y: 107.92388}
+      - {x: 23.460966, y: 93.92388}
+      - {x: 17.460966, y: 87.92388}
+      - {x: 10.460966, y: 79.92388}
+      - {x: 10.460966, y: 39.92388}
+      indices:
+      - 7
+      - 6
+      - 1
+      - 5
+      - 1
+      - 6
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Attack104x66_0
+      rect:
+        serializedVersion: 2
+        x: 40.026752
+        y: 6.0761204
+        width: 41.910183
+        height: 63.847763
+      alignment: 9
+      pivot: {x: 0.28568828, y: -0.09516575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.018157, y: -32}
+        - {x: -20.981842, y: -32}
+        - {x: -20.981842, y: 18}
+        - {x: 4.018157, y: 32}
+        - {x: 15.018157, y: 32}
+        - {x: 19.018158, y: 31}
+        - {x: 21.018158, y: 24}
+        - {x: 21.018158, y: -14}
+      physicsShape:
+      - - {x: 21.018158, y: 24}
+        - {x: 19.018158, y: 31}
+        - {x: 15.018157, y: 32}
+        - {x: 5.018157, y: 32}
+        - {x: -7.981843, y: 22}
+        - {x: -19.981842, y: 14}
+        - {x: -20.981842, y: 10}
+        - {x: -20.981842, y: -19}
+        - {x: -18.981842, y: -30}
+        - {x: -17.981842, y: -32}
+        - {x: 14.018157, y: -32}
+        - {x: 16.018158, y: -30}
+        - {x: 19.018158, y: -10}
+        - {x: 21.018158, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802c225ca3874dfb8d9ec67af9f97f67
+      internalID: 21300004
+      vertices:
+      - {x: 48.955093, y: 100.92388}
+      - {x: 50.955093, y: 55.92388}
+      - {x: 50.955093, y: 93.92388}
+      - {x: 44.955093, y: 101.92388}
+      - {x: 44.955093, y: 37.92388}
+      - {x: 33.955093, y: 101.92388}
+      - {x: 8.955091, y: 87.92388}
+      - {x: 8.955091, y: 37.92388}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 18979b6ea7ccdc86004681d90bf9ac05.bundle
+  assetBundleVariant:

@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: 17a1135a43ddc384897af7a25a28d0cd
+timeCreated: 1706119814
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Weapons_Explosivehands26x30_2
+  - first:
+      213: 21300002
+    second: Weapons_Explosivehands26x30_9
+  - first:
+      213: 21300004
+    second: Weapons_Explosivehands26x30_1
+  - first:
+      213: 21300006
+    second: Weapons_Explosivehands26x30_8
+  - first:
+      213: 21300008
+    second: Weapons_Explosivehands26x30_10
+  - first:
+      213: 21300010
+    second: Weapons_Explosivehands26x30_6
+  - first:
+      213: 21300012
+    second: Weapons_Explosivehands26x30_3
+  - first:
+      213: 21300014
+    second: Weapons_Explosivehands26x30_5
+  - first:
+      213: 21300016
+    second: Weapons_Explosivehands26x30_7
+  - first:
+      213: 21300018
+    second: Weapons_Explosivehands26x30_4
+  - first:
+      213: 21300020
+    second: Weapons_Explosivehands26x30_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapons_Explosivehands26x30_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4800611, y: 0.6339231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.000001, y: -15}
+        - {x: -13.000001, y: 15}
+        - {x: 12.999999, y: 15}
+        - {x: 12.999999, y: -15}
+      physicsShape:
+      - - {x: 0.99999905, y: 9}
+        - {x: -8.000001, y: 9}
+        - {x: -13.000001, y: 6}
+        - {x: -13.000001, y: -4}
+        - {x: -4.000001, y: -15}
+        - {x: 6.999999, y: -15}
+        - {x: 7.999999, y: -14}
+        - {x: 7.999999, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1974ea4b49ae481490766c1a3b829b55
+      internalID: 21300000
+      vertices:
+      - {x: 0.5184097, y: 25.982307}
+      - {x: 26.51841, y: 25.982307}
+      - {x: 0.5184097, y: -4.0176926}
+      - {x: 26.51841, y: -4.0176926}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosivehands26x30_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4800611, y: 0.6339231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.999993, y: -15}
+        - {x: -12.999993, y: 15}
+        - {x: 13.000007, y: 15}
+        - {x: 13.000007, y: -15}
+      physicsShape:
+      - - {x: -5.9999933, y: 11}
+        - {x: -12.999993, y: 7}
+        - {x: -12.999993, y: -2}
+        - {x: -7.9999933, y: -4}
+        - {x: 13.000007, y: -4}
+        - {x: 13.000007, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4390fa07f1467485aaf01d96319185
+      internalID: 21300002
+      vertices:
+      - {x: 0.51841736, y: 25.982307}
+      - {x: 26.518417, y: 25.982307}
+      - {x: 0.51841736, y: -4.0176926}
+      - {x: 26.518417, y: -4.0176926}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosivehands26x30_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4800611, y: 0.6339231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.000001, y: -15}
+        - {x: -13.000001, y: 15}
+        - {x: 12.999999, y: 15}
+        - {x: 12.999999, y: -15}
+      physicsShape:
+      - - {x: -6.000001, y: 15}
+        - {x: -13.000001, y: 13}
+        - {x: -13.000001, y: -1}
+        - {x: 0.99999905, y: -1}
+        - {x: 11.999999, y: 1}
+        - {x: 12.999999, y: 4}
+        - {x: 12.999999, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d744ea56131346eabb20e4a671d7a779
+      internalID: 21300004
+      vertices:
+      - {x: 0.5184097, y: 25.982307}
+      - {x: 26.51841, y: 25.982307}
+      - {x: 0.5184097, y: -4.0176926}
+      - {x: 26.51841, y: -4.0176926}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosivehands26x30_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4800611, y: 0.6339231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.999993, y: -15}
+        - {x: -12.999993, y: 15}
+        - {x: 13.000007, y: 15}
+        - {x: 13.000007, y: -15}
+      physicsShape:
+      - - {x: 6.67572E-06, y: 15}
+        - {x: -11.999993, y: 11}
+        - {x: -12.999993, y: 9}
+        - {x: -12.999993, y: -1}
+        - {x: 3.0000067, y: -1}
+        - {x: 12.000007, y: 0}
+        - {x: 13.000007, y: 4}
+        - {x: 13.000007, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bc3adf73dc4db592efbbb22640d9d0
+      internalID: 21300006
+      vertices:
+      - {x: 0.51841736, y: 25.982307}
+      - {x: 26.518417, y: 25.982307}
+      - {x: 0.51841736, y: -4.0176926}
+      - {x: 26.518417, y: -4.0176926}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosivehands26x30_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4800611, y: 0.6339231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.000009, y: -15}
+        - {x: -13.000009, y: 15}
+        - {x: 12.999991, y: 15}
+        - {x: 12.999991, y: -15}
+      physicsShape:
+      - - {x: -6.0000086, y: 11}
+        - {x: -13.000009, y: 7}
+        - {x: -13.000009, y: -1}
+        - {x: -12.000009, y: -2}
+        - {x: -6.0000086, y: -3}
+        - {x: 12.999991, y: -3}
+        - {x: 12.999991, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98026f69ea9147fdbbda4a059a77d502
+      internalID: 21300008
+      vertices:
+      - {x: 0.5184021, y: 25.982307}
+      - {x: 26.518402, y: 25.982307}
+      - {x: 0.5184021, y: -4.0176926}
+      - {x: 26.518402, y: -4.0176926}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosivehands26x30_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4800611, y: 0.6339231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.999993, y: -15}
+        - {x: -12.999993, y: 15}
+        - {x: 13.000007, y: 15}
+        - {x: 13.000007, y: -15}
+      physicsShape:
+      - - {x: 1.0000067, y: 10}
+        - {x: -7.9999933, y: 10}
+        - {x: -12.999993, y: 7}
+        - {x: -12.999993, y: -4}
+        - {x: -3.9999933, y: -15}
+        - {x: 5.0000067, y: -15}
+        - {x: 8.000007, y: -14}
+        - {x: 8.000007, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9b6e6406ff4aa48fc9932a5f626fac
+      internalID: 21300010
+      vertices:
+      - {x: 0.51841736, y: 25.982307}
+      - {x: 26.518417, y: 25.982307}
+      - {x: 0.51841736, y: -4.0176926}
+      - {x: 26.518417, y: -4.0176926}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosivehands26x30_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4800611, y: 0.6339231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.000001, y: -15}
+        - {x: -13.000001, y: 15}
+        - {x: 12.999999, y: 15}
+        - {x: 12.999999, y: -15}
+      physicsShape:
+      - - {x: -10.000001, y: 10}
+        - {x: -13.000001, y: 8}
+        - {x: -13.000001, y: -2}
+        - {x: -5.000001, y: -15}
+        - {x: 10.999999, y: -15}
+        - {x: 10.999999, y: 4}
+        - {x: 2.999999, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d84ae3e8d54ec59684f6c3ec27f083
+      internalID: 21300012
+      vertices:
+      - {x: 0.5184097, y: 25.982307}
+      - {x: 26.51841, y: 25.982307}
+      - {x: 0.5184097, y: -4.0176926}
+      - {x: 26.51841, y: -4.0176926}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosivehands26x30_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4800611, y: 0.6339231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.999993, y: -15}
+        - {x: -12.999993, y: 15}
+        - {x: 13.000007, y: 15}
+        - {x: 13.000007, y: -15}
+      physicsShape:
+      - - {x: 1.0000067, y: 10}
+        - {x: -7.9999933, y: 10}
+        - {x: -12.999993, y: 7}
+        - {x: -12.999993, y: -4}
+        - {x: -3.9999933, y: -15}
+        - {x: 5.0000067, y: -15}
+        - {x: 8.000007, y: -14}
+        - {x: 8.000007, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6329d1026e749a3ab86879bfababcf4
+      internalID: 21300014
+      vertices:
+      - {x: 0.51841736, y: 25.982307}
+      - {x: 26.518417, y: 25.982307}
+      - {x: 0.51841736, y: -4.0176926}
+      - {x: 26.518417, y: -4.0176926}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosivehands26x30_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4800611, y: 0.6339231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.999993, y: -15}
+        - {x: -12.999993, y: 15}
+        - {x: 13.000007, y: 15}
+        - {x: 13.000007, y: -15}
+      physicsShape:
+      - - {x: 1.0000067, y: 10}
+        - {x: -7.9999933, y: 10}
+        - {x: -12.999993, y: 7}
+        - {x: -12.999993, y: -4}
+        - {x: -3.9999933, y: -15}
+        - {x: 5.0000067, y: -15}
+        - {x: 8.000007, y: -14}
+        - {x: 8.000007, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00f3d89048944c6a8c57931e8dba776
+      internalID: 21300016
+      vertices:
+      - {x: 0.51841736, y: 25.982307}
+      - {x: 26.518417, y: 25.982307}
+      - {x: 0.51841736, y: -4.0176926}
+      - {x: 26.518417, y: -4.0176926}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosivehands26x30_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4800611, y: 0.6339231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.000001, y: -15}
+        - {x: -13.000001, y: 15}
+        - {x: 12.999999, y: 15}
+        - {x: 12.999999, y: -15}
+      physicsShape:
+      - - {x: 0.99999905, y: 10}
+        - {x: -8.000001, y: 10}
+        - {x: -13.000001, y: 7}
+        - {x: -13.000001, y: -4}
+        - {x: -4.000001, y: -15}
+        - {x: 4.999999, y: -15}
+        - {x: 7.999999, y: -14}
+        - {x: 7.999999, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8741fafe40c64c0f8b2bb35ad9321e8a
+      internalID: 21300018
+      vertices:
+      - {x: 0.5184097, y: 25.982307}
+      - {x: 26.51841, y: 25.982307}
+      - {x: 0.5184097, y: -4.0176926}
+      - {x: 26.51841, y: -4.0176926}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosivehands26x30_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4800611, y: 0.6339231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -15}
+        - {x: -13, y: 15}
+        - {x: 13, y: 15}
+        - {x: 13, y: -15}
+      physicsShape:
+      - - {x: -6, y: 11}
+        - {x: -13, y: 7}
+        - {x: -13, y: -1}
+        - {x: -12, y: -2}
+        - {x: -6, y: -3}
+        - {x: 13, y: -3}
+        - {x: 13, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bcebaa57a142ebae8eda29d1beb121
+      internalID: 21300020
+      vertices:
+      - {x: 0.5184107, y: 25.982307}
+      - {x: 26.51841, y: 25.982307}
+      - {x: 0.5184107, y: -4.0176926}
+      - {x: 26.51841, y: -4.0176926}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: dd14d2ddaa07bc34756cc666fad2ee2c.bundle
+  assetBundleVariant:

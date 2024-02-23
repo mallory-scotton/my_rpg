@@ -1,0 +1,1051 @@
+fileFormatVersion: 2
+guid: ae801204a18f4844b8d6bc7539d62dc5
+timeCreated: 1706119826
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: enemy_tardigrade_43x28_14
+  - first:
+      213: 21300002
+    second: enemy_tardigrade_43x28_5
+  - first:
+      213: 21300004
+    second: enemy_tardigrade_43x28_2
+  - first:
+      213: 21300006
+    second: enemy_tardigrade_43x28_19
+  - first:
+      213: 21300008
+    second: enemy_tardigrade_43x28_0
+  - first:
+      213: 21300010
+    second: enemy_tardigrade_43x28_4
+  - first:
+      213: 21300012
+    second: enemy_tardigrade_43x28_11
+  - first:
+      213: 21300014
+    second: enemy_tardigrade_43x28_17
+  - first:
+      213: 21300016
+    second: enemy_tardigrade_43x28_7
+  - first:
+      213: 21300018
+    second: enemy_tardigrade_43x28_13
+  - first:
+      213: 21300020
+    second: enemy_tardigrade_43x28_15
+  - first:
+      213: 21300022
+    second: enemy_tardigrade_43x28_16
+  - first:
+      213: 21300024
+    second: enemy_tardigrade_43x28_9
+  - first:
+      213: 21300026
+    second: enemy_tardigrade_43x28_1
+  - first:
+      213: 21300028
+    second: enemy_tardigrade_43x28_3
+  - first:
+      213: 21300030
+    second: enemy_tardigrade_43x28_6
+  - first:
+      213: 21300032
+    second: enemy_tardigrade_43x28_18
+  - first:
+      213: 21300034
+    second: enemy_tardigrade_43x28_12
+  - first:
+      213: 21300036
+    second: enemy_tardigrade_43x28_8
+  - first:
+      213: 21300038
+    second: enemy_tardigrade_43x28_10
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 28
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: -14.5, y: 10}
+        - {x: -20.5, y: 2}
+        - {x: -20.5, y: -10}
+        - {x: -17.5, y: -14}
+        - {x: 17.5, y: -14}
+        - {x: 21.5, y: -6}
+        - {x: 21.5, y: 6}
+        - {x: 16.5, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861f21b3a6b74355bb7cfbb0907b524b
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 84
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: -6.5, y: 12}
+        - {x: -21.5, y: 3}
+        - {x: -21.5, y: -13}
+        - {x: 16.5, y: -13}
+        - {x: 20.5, y: -8}
+        - {x: 20.5, y: 5}
+        - {x: 15.5, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa884f12a9284c3da3fc2bd000d2e87d
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 112
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: -13.5, y: 10}
+        - {x: -20.5, y: 5}
+        - {x: -20.5, y: -12}
+        - {x: -18.5, y: -14}
+        - {x: 15.5, y: -14}
+        - {x: 20.5, y: -9}
+        - {x: 20.5, y: 6}
+        - {x: 12.5, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e728576608342bfba9add1b1a39de06
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: -3.5, y: 6}
+        - {x: -14.5, y: 5}
+        - {x: -20.5, y: 1}
+        - {x: -20.5, y: -6}
+        - {x: -17.5, y: -11}
+        - {x: 17.5, y: -11}
+        - {x: 20.5, y: -5}
+        - {x: 20.5, y: 3}
+        - {x: 15.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0c63fc876c41cab9e099609a84c64e
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: -13.5, y: 13}
+        - {x: -21.5, y: 11}
+        - {x: -21.5, y: -5}
+        - {x: -15.5, y: -13}
+        - {x: 13.5, y: -13}
+        - {x: 20.5, y: -4}
+        - {x: 20.5, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8469c6699040d9aa083851e0c1888d
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: -13.5, y: 13}
+        - {x: -21.5, y: 11}
+        - {x: -21.5, y: -5}
+        - {x: -15.5, y: -13}
+        - {x: 13.5, y: -13}
+        - {x: 20.5, y: -4}
+        - {x: 20.5, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f510c9f351cc4b6d9f38a1bcebf56fb3
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 56
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: 8.5, y: 11}
+        - {x: -10.5, y: 11}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -11}
+        - {x: -20.5, y: -14}
+        - {x: 6.5, y: -14}
+        - {x: 14.5, y: -6}
+        - {x: 14.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3d6b7aa4b043b0a5523bc30b5f975d
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: 21.5, y: 14}
+        - {x: -14.5, y: 14}
+        - {x: -18.5, y: 12}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -5}
+        - {x: -17.5, y: -12}
+        - {x: 6.5, y: -12}
+        - {x: 12.5, y: -9}
+        - {x: 17.5, y: -6}
+        - {x: 21.5, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebdc2a51e374f5cbb827e4785db8370
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 84
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: 9.5, y: 10}
+        - {x: -6.5, y: 10}
+        - {x: -20.5, y: 4}
+        - {x: -20.5, y: -5}
+        - {x: -15.5, y: -14}
+        - {x: 12.5, y: -14}
+        - {x: 20.5, y: -8}
+        - {x: 20.5, y: 2}
+        - {x: 17.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787bcba941334e43850c90fb13e8cfa9
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: 13.5, y: 12}
+        - {x: -5.5, y: 12}
+        - {x: -21.5, y: 6}
+        - {x: -21.5, y: -5}
+        - {x: -16.5, y: -13}
+        - {x: 17.5, y: -13}
+        - {x: 20.5, y: -5}
+        - {x: 20.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc0ec5a2f21493a87f8332d9d9302c9
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 28
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: -12.5, y: 9}
+        - {x: -20.5, y: 1}
+        - {x: -20.5, y: -11}
+        - {x: -17.5, y: -14}
+        - {x: 18.5, y: -14}
+        - {x: 21.5, y: -9}
+        - {x: 21.5, y: 7}
+        - {x: 17.5, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f47ea473914c209544fbeccf69725b
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: 21.5, y: 14}
+        - {x: -14.5, y: 14}
+        - {x: -18.5, y: 12}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -5}
+        - {x: -17.5, y: -12}
+        - {x: 6.5, y: -12}
+        - {x: 12.5, y: -9}
+        - {x: 17.5, y: -6}
+        - {x: 21.5, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69baaa0bc61d46258fb305a925b57aac
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 56
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: -15.5, y: 12}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -13}
+        - {x: 8.5, y: -13}
+        - {x: 20.5, y: -8}
+        - {x: 20.5, y: 6}
+        - {x: 17.5, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523fbcd76dd34d4ba64d7fc49dd194e1
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 112
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: -12.5, y: 12}
+        - {x: -20.5, y: 5}
+        - {x: -21.5, y: 2}
+        - {x: -21.5, y: -5}
+        - {x: -20.5, y: -11}
+        - {x: -15.5, y: -13}
+        - {x: 9.5, y: -13}
+        - {x: 20.5, y: -5}
+        - {x: 20.5, y: 10}
+        - {x: 11.5, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696a55c034b44b6ea0267ce2c413b130
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 112
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: -9.5, y: 12}
+        - {x: -21.5, y: 3}
+        - {x: -21.5, y: -6}
+        - {x: -14.5, y: -14}
+        - {x: 8.5, y: -14}
+        - {x: 20.5, y: -8}
+        - {x: 20.5, y: 8}
+        - {x: 10.5, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e763ed6f15c4766bc8fd29ef812c2ae
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 84
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: -13.5, y: 11}
+        - {x: -20.5, y: 6}
+        - {x: -20.5, y: -11}
+        - {x: -16.5, y: -14}
+        - {x: 11.5, y: -14}
+        - {x: 20.5, y: -5}
+        - {x: 20.5, y: 6}
+        - {x: 13.5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e4b85754e1414e8cf9ffa3dd426238
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: -3.5, y: 6}
+        - {x: -14.5, y: 5}
+        - {x: -20.5, y: 1}
+        - {x: -20.5, y: -6}
+        - {x: -17.5, y: -11}
+        - {x: 17.5, y: -11}
+        - {x: 20.5, y: -5}
+        - {x: 20.5, y: 3}
+        - {x: 15.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51fa77aad354e289c0efcdf915ddff5
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: -15.5, y: 13}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -4}
+        - {x: -16.5, y: -13}
+        - {x: 12.5, y: -13}
+        - {x: 19.5, y: -4}
+        - {x: 19.5, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c78984e1584cb5a06153fabcde9dcf
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: -15.5, y: 10}
+        - {x: -21.5, y: 2}
+        - {x: -21.5, y: -9}
+        - {x: -17.5, y: -12}
+        - {x: -15.5, y: -13}
+        - {x: 15.5, y: -13}
+        - {x: 20.5, y: -5}
+        - {x: 20.5, y: 6}
+        - {x: 16.5, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65ff4c0970f4e778a2f5ae50742a8df
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tardigrade_43x28_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 56
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -14}
+      physicsShape:
+      - - {x: -10.5, y: 11}
+        - {x: -20.5, y: 3}
+        - {x: -20.5, y: -3}
+        - {x: -16.5, y: -14}
+        - {x: 6.5, y: -14}
+        - {x: 16.5, y: -8}
+        - {x: 16.5, y: 6}
+        - {x: 7.5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd5baaf127f42f9ae5fb03efe2c2f45
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 43, y: 42}
+      - {x: 0, y: 14}
+      - {x: 43, y: 14}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

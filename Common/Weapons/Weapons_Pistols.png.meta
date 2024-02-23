@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 0676cbcce0bfeb348b52726589a32cdd
+timeCreated: 1706119846
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Weapons_Pistols_Ratvolver_Drop
+  - first:
+      213: 21300002
+    second: Weapons_Pistols_PondEagle_Drop
+  - first:
+      213: 21300004
+    second: Weapons_Pistols_Wingers_HUD
+  - first:
+      213: 21300006
+    second: Weapons_Pistols_Tadpole_Drop
+  - first:
+      213: 21300008
+    second: Weapons_Pistols_TacticGun_Drop
+  - first:
+      213: 21300010
+    second: Weapons_Pistols_TacticGun_HUD
+  - first:
+      213: 21300012
+    second: Weapons_Pistols_Tadpole
+  - first:
+      213: 21300014
+    second: Weapons_Pistols_TacticGun
+  - first:
+      213: 21300016
+    second: Weapons_Pistols_Ratvolver_HUD
+  - first:
+      213: 21300018
+    second: Weapons_Pistols_Wingers_Drop
+  - first:
+      213: 21300020
+    second: Weapons_Pistols_PondEagle
+  - first:
+      213: 21300022
+    second: Weapons_Pistols_Ratvolver
+  - first:
+      213: 21300024
+    second: Weapons_Pistols_Wingers
+  - first:
+      213: 21300026
+    second: Weapons_Pistols_Tadpole_HUD
+  - first:
+      213: 21300028
+    second: Weapons_Pistols_PondEagle_HUD
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapons_Pistols_Ratvolver_Drop
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 62
+        width: 20
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -7}
+        - {x: -10, y: 7}
+        - {x: 10, y: 7}
+        - {x: 10, y: -7}
+      physicsShape:
+      - - {x: -10, y: 7}
+        - {x: -10, y: -7}
+        - {x: 0, y: -7}
+        - {x: 8, y: -2}
+        - {x: 10, y: 0}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04585f0312924811ab97adb725a9bd16
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 20, y: 21}
+      - {x: 0, y: 7}
+      - {x: 20, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistols_PondEagle_Drop
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 62
+        width: 17
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -7}
+        - {x: -8.5, y: 7}
+        - {x: 8.5, y: 7}
+        - {x: 8.5, y: -7}
+      physicsShape:
+      - - {x: -8.5, y: 7}
+        - {x: -8.5, y: -6}
+        - {x: -7.5, y: -7}
+        - {x: 1.5, y: -7}
+        - {x: 8.5, y: -3}
+        - {x: 8.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45bb43949d94b15ae0449783a91bb17
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 17, y: 21}
+      - {x: 0, y: 7}
+      - {x: 17, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistols_Wingers_HUD
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 28
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -8}
+        - {x: -14, y: 8}
+        - {x: 14, y: 8}
+        - {x: 14, y: -8}
+      physicsShape:
+      - - {x: -14, y: 8}
+        - {x: -14, y: -5}
+        - {x: -11, y: -8}
+        - {x: 13, y: -8}
+        - {x: 14, y: -7}
+        - {x: 14, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be10f16b457f43c1be63e93b2c247d1b
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 28, y: 16}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistols_Tadpole_Drop
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 62
+        width: 18
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -8.5}
+        - {x: -9, y: 8.5}
+        - {x: 9, y: 8.5}
+        - {x: 9, y: -8.5}
+      physicsShape:
+      - - {x: -9, y: 8.5}
+        - {x: -9, y: -6.5}
+        - {x: -8, y: -8.5}
+        - {x: 3, y: -8.5}
+        - {x: 9, y: -5.5}
+        - {x: 9, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06654c716b4b4ac588287b07b6446666
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 25.5}
+      - {x: 18, y: 25.5}
+      - {x: 0, y: 8.5}
+      - {x: 18, y: 8.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistols_TacticGun_Drop
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 62
+        width: 17
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -7}
+        - {x: -8.5, y: 7}
+        - {x: 8.5, y: 7}
+        - {x: 8.5, y: -7}
+      physicsShape:
+      - - {x: -8.5, y: 7}
+        - {x: -8.5, y: -7}
+        - {x: 2.5, y: -7}
+        - {x: 8.5, y: -2}
+        - {x: 8.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2278b89e55b6440d86147d57a2fb82e4
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 17, y: 21}
+      - {x: 0, y: 7}
+      - {x: 17, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistols_TacticGun_HUD
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 17
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -6.5}
+        - {x: -8.5, y: 6.5}
+        - {x: 8.5, y: 6.5}
+        - {x: 8.5, y: -6.5}
+      physicsShape:
+      - - {x: -8.5, y: 6.5}
+        - {x: -8.5, y: -6.5}
+        - {x: 8.5, y: -6.5}
+        - {x: 8.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfa56a4f4ce41bc8f27c548a0d4b23b
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 13}
+      - {x: 17, y: 13}
+      - {x: 0, y: 0}
+      - {x: 17, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistols_Tadpole
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.999997, y: -7}
+        - {x: -7.999997, y: 7}
+        - {x: 8.000003, y: 7}
+        - {x: 8.000003, y: -7}
+      physicsShape:
+      - - {x: -7.999997, y: 7}
+        - {x: -7.999997, y: -6}
+        - {x: -6.999997, y: -7}
+        - {x: 2.0000029, y: -7}
+        - {x: 8.000003, y: -3}
+        - {x: 8.000003, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f04a3bff5542cb95ed32ad7dd7924a
+      internalID: 21300012
+      vertices:
+      - {x: 0.80000305, y: 14}
+      - {x: 16.800003, y: 14}
+      - {x: 0.80000305, y: 0}
+      - {x: 16.800003, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistols_TacticGun
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 15
+        height: 11
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -5.5}
+        - {x: -7.5, y: 5.5}
+        - {x: 7.5, y: 5.5}
+        - {x: 7.5, y: -5.5}
+      physicsShape:
+      - - {x: -7.5, y: 5.5}
+        - {x: -7.5, y: -5.5}
+        - {x: 1.5, y: -5.5}
+        - {x: 7.5, y: -2.5}
+        - {x: 7.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234685ef4f41409d8382c493a85f84d6
+      internalID: 21300014
+      vertices:
+      - {x: 0.75, y: 11}
+      - {x: 15.75, y: 11}
+      - {x: 0.75, y: 0}
+      - {x: 15.75, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistols_Ratvolver_HUD
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 20
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -6.5}
+        - {x: -10, y: 6.5}
+        - {x: 10, y: 6.5}
+        - {x: 10, y: -6.5}
+      physicsShape:
+      - - {x: -10, y: 6.5}
+        - {x: -10, y: -6.5}
+        - {x: 1, y: -6.5}
+        - {x: 10, y: -2.5}
+        - {x: 10, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c16599193984f74aabb316cc4434d80
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 13}
+      - {x: 20, y: 13}
+      - {x: 0, y: 0}
+      - {x: 20, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistols_Wingers_Drop
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 62
+        width: 28
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -8.5}
+        - {x: -14, y: 8.5}
+        - {x: 14, y: 8.5}
+        - {x: 14, y: -8.5}
+      physicsShape:
+      - - {x: -14, y: 8.5}
+        - {x: -14, y: -5.5}
+        - {x: -12, y: -8.5}
+        - {x: 14, y: -8.5}
+        - {x: 14, y: 7.5}
+        - {x: 13, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cf8425ee064e10b6669f2782e165f6
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 25.5}
+      - {x: 28, y: 25.5}
+      - {x: 0, y: 8.5}
+      - {x: 28, y: 8.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistols_PondEagle
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 15
+        height: 11
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -5.5}
+        - {x: -7.5, y: 5.5}
+        - {x: 7.5, y: 5.5}
+        - {x: 7.5, y: -5.5}
+      physicsShape:
+      - - {x: -7.5, y: 5.5}
+        - {x: -7.5, y: -5.5}
+        - {x: 0.5, y: -5.5}
+        - {x: 7.5, y: -2.5}
+        - {x: 7.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7d4c0a4cdc4c229218e4dde279899c
+      internalID: 21300020
+      vertices:
+      - {x: 0.75, y: 11}
+      - {x: 15.75, y: 11}
+      - {x: 0.75, y: 0}
+      - {x: 15.75, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistols_Ratvolver
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 18
+        height: 11
+      alignment: 9
+      pivot: {x: 0.44999996, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.000007, y: -5.5}
+        - {x: -9.000007, y: 5.5}
+        - {x: 8.999993, y: 5.5}
+        - {x: 8.999993, y: -5.5}
+      physicsShape:
+      - - {x: -9.000007, y: 5.5}
+        - {x: -9.000007, y: -5.5}
+        - {x: -2.0000067, y: -5.5}
+        - {x: 7.9999933, y: -1.5}
+        - {x: 8.999993, y: -0.5}
+        - {x: 8.999993, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5476a983a0ff4034bb44245bafda03cc
+      internalID: 21300022
+      vertices:
+      - {x: 0.8999939, y: 11}
+      - {x: 18.899994, y: 11}
+      - {x: 0.8999939, y: 0}
+      - {x: 18.899994, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistols_Wingers
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 26
+        height: 14
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.999997, y: -7}
+        - {x: -12.999997, y: 7}
+        - {x: 13.000003, y: 7}
+        - {x: 13.000003, y: -7}
+      physicsShape:
+      - - {x: -12.999997, y: 7}
+        - {x: -12.999997, y: -3}
+        - {x: -11.999997, y: -6}
+        - {x: -8.999997, y: -7}
+        - {x: 4.000003, y: -7}
+        - {x: 13.000003, y: -3}
+        - {x: 13.000003, y: 6}
+        - {x: 12.000003, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4884b2395f624579a6e2619c509dd390
+      internalID: 21300024
+      vertices:
+      - {x: 1.300003, y: 14}
+      - {x: 27.300003, y: 14}
+      - {x: 1.300003, y: 0}
+      - {x: 27.300003, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistols_Tadpole_HUD
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 18
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -8}
+        - {x: -9, y: 8}
+        - {x: 9, y: 8}
+        - {x: 9, y: -8}
+      physicsShape:
+      - - {x: -9, y: 8}
+        - {x: -9, y: -8}
+        - {x: 5, y: -8}
+        - {x: 9, y: -7}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d851530cc1674c60986b97d672257126
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 18, y: 16}
+      - {x: 0, y: 0}
+      - {x: 18, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistols_PondEagle_HUD
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 17
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -6.5}
+        - {x: -8.5, y: 6.5}
+        - {x: 8.5, y: 6.5}
+        - {x: 8.5, y: -6.5}
+      physicsShape:
+      - - {x: -8.5, y: 6.5}
+        - {x: -8.5, y: -6.5}
+        - {x: 3.5, y: -6.5}
+        - {x: 8.5, y: -3.5}
+        - {x: 8.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d8affbb29f4b28afab86d11dc570f4
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 13}
+      - {x: 17, y: 13}
+      - {x: 0, y: 0}
+      - {x: 17, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

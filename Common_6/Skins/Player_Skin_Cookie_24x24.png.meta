@@ -1,0 +1,4406 @@
+fileFormatVersion: 2
+guid: 0261574c63cd189438610239742810bc
+timeCreated: 1706119811
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Player_Skin_Cookie_24x24_24
+  - first:
+      213: 21300002
+    second: Player_Skin_Cookie_24x24_32
+  - first:
+      213: 21300004
+    second: Player_Skin_Cookie_24x24_68
+  - first:
+      213: 21300006
+    second: Player_Skin_Cookie_24x24_36
+  - first:
+      213: 21300008
+    second: Player_Skin_Cookie_24x24_82
+  - first:
+      213: 21300010
+    second: Player_Skin_Cookie_24x24_46
+  - first:
+      213: 21300012
+    second: Player_Skin_Cookie_24x24_84
+  - first:
+      213: 21300014
+    second: Player_Skin_Cookie_24x24_21
+  - first:
+      213: 21300016
+    second: Player_Skin_Cookie_24x24_92
+  - first:
+      213: 21300018
+    second: Player_Skin_Cookie_24x24_19
+  - first:
+      213: 21300020
+    second: Player_Skin_Cookie_24x24_61
+  - first:
+      213: 21300022
+    second: Player_Skin_Cookie_24x24_23
+  - first:
+      213: 21300024
+    second: Player_Skin_Cookie_24x24_47
+  - first:
+      213: 21300026
+    second: Player_Skin_Cookie_24x24_81
+  - first:
+      213: 21300028
+    second: Player_Skin_Cookie_24x24_70
+  - first:
+      213: 21300030
+    second: Player_Skin_Cookie_24x24_76
+  - first:
+      213: 21300032
+    second: Player_Skin_Cookie_24x24_42
+  - first:
+      213: 21300034
+    second: Player_Skin_Cookie_24x24_4
+  - first:
+      213: 21300036
+    second: Player_Skin_Cookie_24x24_62
+  - first:
+      213: 21300038
+    second: Player_Skin_Cookie_24x24_88
+  - first:
+      213: 21300040
+    second: Player_Skin_Cookie_24x24_10
+  - first:
+      213: 21300042
+    second: Player_Skin_Cookie_24x24_89
+  - first:
+      213: 21300044
+    second: Player_Skin_Cookie_24x24_63
+  - first:
+      213: 21300046
+    second: Player_Skin_Cookie_24x24_18
+  - first:
+      213: 21300048
+    second: Player_Skin_Cookie_24x24_73
+  - first:
+      213: 21300050
+    second: Player_Skin_Cookie_24x24_37
+  - first:
+      213: 21300052
+    second: Player_Skin_Cookie_24x24_34
+  - first:
+      213: 21300054
+    second: Player_Skin_Cookie_24x24_86
+  - first:
+      213: 21300056
+    second: Player_Skin_Cookie_24x24_91
+  - first:
+      213: 21300058
+    second: Player_Skin_Cookie_24x24_26
+  - first:
+      213: 21300060
+    second: Player_Skin_Cookie_24x24_35
+  - first:
+      213: 21300062
+    second: Player_Skin_Cookie_24x24_56
+  - first:
+      213: 21300064
+    second: Player_Skin_Cookie_24x24_22
+  - first:
+      213: 21300066
+    second: Player_Skin_Cookie_24x24_71
+  - first:
+      213: 21300068
+    second: Player_Skin_Cookie_24x24_20
+  - first:
+      213: 21300070
+    second: Player_Skin_Cookie_24x24_67
+  - first:
+      213: 21300072
+    second: Player_Skin_Cookie_24x24_79
+  - first:
+      213: 21300074
+    second: Player_Skin_Cookie_24x24_48
+  - first:
+      213: 21300076
+    second: Player_Skin_Cookie_24x24_14
+  - first:
+      213: 21300078
+    second: Player_Skin_Cookie_24x24_8
+  - first:
+      213: 21300080
+    second: Player_Skin_Cookie_24x24_30
+  - first:
+      213: 21300082
+    second: Player_Skin_Cookie_24x24_87
+  - first:
+      213: 21300084
+    second: Player_Skin_Cookie_24x24_72
+  - first:
+      213: 21300086
+    second: Player_Skin_Cookie_24x24_55
+  - first:
+      213: 21300088
+    second: Player_Skin_Cookie_24x24_65
+  - first:
+      213: 21300090
+    second: Player_Skin_Cookie_24x24_90
+  - first:
+      213: 21300092
+    second: Player_Skin_Cookie_24x24_3
+  - first:
+      213: 21300094
+    second: Player_Skin_Cookie_24x24_25
+  - first:
+      213: 21300096
+    second: Player_Skin_Cookie_24x24_2
+  - first:
+      213: 21300098
+    second: Player_Skin_Cookie_24x24_0
+  - first:
+      213: 21300100
+    second: Player_Skin_Cookie_24x24_83
+  - first:
+      213: 21300102
+    second: Player_Skin_Cookie_24x24_74
+  - first:
+      213: 21300104
+    second: Player_Skin_Cookie_24x24_45
+  - first:
+      213: 21300106
+    second: Player_Skin_Cookie_24x24_49
+  - first:
+      213: 21300108
+    second: Player_Skin_Cookie_24x24_5
+  - first:
+      213: 21300110
+    second: Player_Skin_Cookie_24x24_52
+  - first:
+      213: 21300112
+    second: Player_Skin_Cookie_24x24_50
+  - first:
+      213: 21300114
+    second: Player_Skin_Cookie_24x24_29
+  - first:
+      213: 21300116
+    second: Player_Skin_Cookie_24x24_9
+  - first:
+      213: 21300118
+    second: Player_Skin_Cookie_24x24_27
+  - first:
+      213: 21300120
+    second: Player_Skin_Cookie_24x24_12
+  - first:
+      213: 21300122
+    second: Player_Skin_Cookie_24x24_33
+  - first:
+      213: 21300124
+    second: Player_Skin_Cookie_24x24_53
+  - first:
+      213: 21300126
+    second: Player_Skin_Cookie_24x24_58
+  - first:
+      213: 21300128
+    second: Player_Skin_Cookie_24x24_39
+  - first:
+      213: 21300130
+    second: Player_Skin_Cookie_24x24_6
+  - first:
+      213: 21300132
+    second: Player_Skin_Cookie_24x24_1
+  - first:
+      213: 21300134
+    second: Player_Skin_Cookie_24x24_38
+  - first:
+      213: 21300136
+    second: Player_Skin_Cookie_24x24_66
+  - first:
+      213: 21300138
+    second: Player_Skin_Cookie_24x24_95
+  - first:
+      213: 21300140
+    second: Player_Skin_Cookie_24x24_51
+  - first:
+      213: 21300142
+    second: Player_Skin_Cookie_24x24_54
+  - first:
+      213: 21300144
+    second: Player_Skin_Cookie_24x24_93
+  - first:
+      213: 21300146
+    second: Player_Skin_Cookie_24x24_80
+  - first:
+      213: 21300148
+    second: Player_Skin_Cookie_24x24_64
+  - first:
+      213: 21300150
+    second: Player_Skin_Cookie_24x24_85
+  - first:
+      213: 21300152
+    second: Player_Skin_Cookie_24x24_40
+  - first:
+      213: 21300154
+    second: Player_Skin_Cookie_24x24_41
+  - first:
+      213: 21300156
+    second: Player_Skin_Cookie_24x24_94
+  - first:
+      213: 21300158
+    second: Player_Skin_Cookie_24x24_75
+  - first:
+      213: 21300160
+    second: Player_Skin_Cookie_24x24_7
+  - first:
+      213: 21300162
+    second: Player_Skin_Cookie_24x24_43
+  - first:
+      213: 21300164
+    second: Player_Skin_Cookie_24x24_15
+  - first:
+      213: 21300166
+    second: Player_Skin_Cookie_24x24_60
+  - first:
+      213: 21300168
+    second: Player_Skin_Cookie_24x24_11
+  - first:
+      213: 21300170
+    second: Player_Skin_Cookie_24x24_16
+  - first:
+      213: 21300172
+    second: Player_Skin_Cookie_24x24_57
+  - first:
+      213: 21300174
+    second: Player_Skin_Cookie_24x24_44
+  - first:
+      213: 21300176
+    second: Player_Skin_Cookie_24x24_78
+  - first:
+      213: 21300178
+    second: Player_Skin_Cookie_24x24_13
+  - first:
+      213: 21300180
+    second: Player_Skin_Cookie_24x24_28
+  - first:
+      213: 21300182
+    second: Player_Skin_Cookie_24x24_31
+  - first:
+      213: 21300184
+    second: Player_Skin_Cookie_24x24_17
+  - first:
+      213: 21300186
+    second: Player_Skin_Cookie_24x24_59
+  - first:
+      213: 21300188
+    second: Player_Skin_Cookie_24x24_69
+  - first:
+      213: 21300190
+    second: Player_Skin_Cookie_24x24_77
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 5}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -6}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2877a3606072402fac9b36fa0249368e
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -11, y: -10}
+        - {x: -9, y: -12}
+        - {x: 9, y: -12}
+        - {x: 11, y: -8}
+        - {x: 11, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8ae9bcb03d43db9bbd465e4b1fc137
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -11, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -6}
+        - {x: 11, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69006374231041c1b603370ed0aa696a
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -8, y: -12}
+        - {x: 7, y: -12}
+        - {x: 11, y: -6}
+        - {x: 11, y: 4}
+        - {x: 7, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e95194f4a94dddaea95642a30f3ca6
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 5}
+        - {x: -12, y: -10}
+        - {x: -10, y: -12}
+        - {x: 5, y: -12}
+        - {x: 10, y: -7}
+        - {x: 10, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70244752e304395b69c2b2f919df8b3
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 10, y: -12}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f37831333e45e3b285c6b870d8ac7b
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -11, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -6}
+        - {x: 11, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf96a4870f248bdbd11539d6425ee2e
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: -5}
+        - {x: -11, y: -10}
+        - {x: -11, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b5058aabef4035935b7f12f6b12085
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -5}
+        - {x: -10, y: -7}
+        - {x: -11, y: -11}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1aba3aed8e4c02bee745c14a48dd58
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: -5}
+        - {x: -12, y: -9}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38575e2ac81d4de9b5397c66e9ceb10f
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 10}
+        - {x: -12, y: 9}
+        - {x: -12, y: -8}
+        - {x: -6, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc791d5b5b74292ba8201676ad1e5ef
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 5}
+        - {x: -11, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514af9e284d74bd48bc9268d92ca3f4c
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -10}
+        - {x: -11, y: -12}
+        - {x: 6, y: -12}
+        - {x: 9, y: -7}
+        - {x: 9, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2664a8f87a14fceb9f9874c96d89893
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_81
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 5, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f07fb51e688461ab8b78521c6a86c49
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -1, y: -2}
+        - {x: -4, y: -3}
+        - {x: -4, y: -8}
+        - {x: -3, y: -10}
+        - {x: 4, y: -10}
+        - {x: 5, y: -7}
+        - {x: 5, y: -3}
+        - {x: 2, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940240ed4e7844f994e78cf65f642231
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 11}
+        - {x: -12, y: 10}
+        - {x: -12, y: -7}
+        - {x: -7, y: -11}
+        - {x: 6, y: -11}
+        - {x: 12, y: -9}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cd9a54b92e48deadff0a54e58065cb
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 7}
+        - {x: -12, y: 7}
+        - {x: -12, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd10f4f94b34c25973bc79d690f18cc
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 6}
+        - {x: -12, y: 2}
+        - {x: -12, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -9}
+        - {x: 12, y: 1}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd37be6af254bc18531fc7cb04d9cbd
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb2412e93e047a8816a3c4124d75f6f
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -5}
+        - {x: -10, y: -7}
+        - {x: -11, y: -11}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b030c2d436c1418394f3d1ce919d3b2f
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 8}
+        - {x: -12, y: -8}
+        - {x: -10, y: -12}
+        - {x: 7, y: -12}
+        - {x: 7, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456f32356085463db2e8e8188edfb699
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_89
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -5}
+        - {x: -10, y: -7}
+        - {x: -11, y: -11}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ab53f14de84d0bbf054355bba5ab8b
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -12, y: -9}
+        - {x: -9, y: -12}
+        - {x: 6, y: -12}
+        - {x: 12, y: -9}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6299f1a3151c4507ab1723de125bc8f7
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 5}
+        - {x: -12, y: 1}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff587916e80e4f5c95223846be6e6a03
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: 7}
+        - {x: -9, y: 5}
+        - {x: -9, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -7}
+        - {x: 12, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396a284b02964a1fb767e5c02c914cf1
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -9, y: -12}
+        - {x: 7, y: -12}
+        - {x: 11, y: -6}
+        - {x: 11, y: 4}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a658bc24a50426f8b1bfd21643b7dfb
+      internalID: 21300050
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 7, y: -12}
+        - {x: 11, y: -5}
+        - {x: 11, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c56305d6d14434eade2b67edf9948e8
+      internalID: 21300052
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -5}
+        - {x: -10, y: -7}
+        - {x: -11, y: -11}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93427c3ee7d4c628d6bd71e24dfc658
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_91
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -5}
+        - {x: -10, y: -7}
+        - {x: -11, y: -11}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38916b22b32a462b9e8e7eda915acf52
+      internalID: 21300056
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 6}
+        - {x: -12, y: 4}
+        - {x: -12, y: -12}
+        - {x: 7, y: -12}
+        - {x: 11, y: -7}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29b7a1ce4894a0e86da03b58057184c
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -9, y: -12}
+        - {x: 7, y: -12}
+        - {x: 11, y: -8}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d1923c0d894613962f004574281c90
+      internalID: 21300060
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 11, y: 10}
+        - {x: -12, y: 10}
+        - {x: -12, y: -7}
+        - {x: -3, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -5}
+        - {x: 12, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd3583bc694450381cc89b8421f8a12
+      internalID: 21300062
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 5}
+        - {x: -11, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1b7347edff4631825f20b147f6c06d
+      internalID: 21300064
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_71
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -1, y: -2}
+        - {x: -4, y: -5}
+        - {x: -4, y: -8}
+        - {x: -1, y: -10}
+        - {x: 3, y: -10}
+        - {x: 4, y: -8}
+        - {x: 4, y: -3}
+        - {x: 1, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfc20259dc34f2b8461ba4d57683348
+      internalID: 21300066
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: -5}
+        - {x: -12, y: -10}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -5}
+        - {x: 1, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c5c95346644e9988d0f2f51f28813a
+      internalID: 21300068
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 3}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018f632e333c482fb1e557953fbad0cb
+      internalID: 21300070
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_79
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 12}
+        - {x: -12, y: 11}
+        - {x: -12, y: -6}
+        - {x: -9, y: -10}
+        - {x: 8, y: -10}
+        - {x: 12, y: -8}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1705c5b4c2544798b8e2452c65f256b
+      internalID: 21300072
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: -5}
+        - {x: -11, y: -10}
+        - {x: -11, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568882d7b08d4d0ca95f96a74b493252
+      internalID: 21300074
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: 3}
+        - {x: -12, y: 2}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 1}
+        - {x: 10, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffb1113013e44ddacd23d4df4033ef7
+      internalID: 21300076
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 10, y: 6}
+        - {x: -9, y: 6}
+        - {x: -11, y: 0}
+        - {x: -11, y: -12}
+        - {x: 5, y: -12}
+        - {x: 12, y: -4}
+        - {x: 12, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9210ae7f32374300b3094227c15e8fc6
+      internalID: 21300078
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 3, y: 4}
+        - {x: -9, y: 4}
+        - {x: -12, y: 3}
+        - {x: -12, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -11}
+        - {x: 11, y: -8}
+        - {x: 9, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4e0ae6b3cc465fa66674ff3383419d
+      internalID: 21300080
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -5}
+        - {x: -10, y: -7}
+        - {x: -11, y: -11}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2a86493ac44ae595634800fe38279d
+      internalID: 21300082
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -1, y: 0}
+        - {x: -4, y: -3}
+        - {x: -4, y: -5}
+        - {x: -1, y: -8}
+        - {x: 1, y: -8}
+        - {x: 4, y: -5}
+        - {x: 4, y: -3}
+        - {x: 1, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3d8c05a1014281b84ca0423b47f8dd
+      internalID: 21300084
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: 10}
+        - {x: -12, y: 9}
+        - {x: -12, y: -1}
+        - {x: -7, y: -9}
+        - {x: -4, y: -12}
+        - {x: 5, y: -12}
+        - {x: 12, y: -2}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb37301c846443fb292c65ab2a1bb36
+      internalID: 21300086
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 9}
+        - {x: -12, y: -7}
+        - {x: -7, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -8}
+        - {x: 12, y: 7}
+        - {x: 11, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c782cbf2564249a05c0dd611155013
+      internalID: 21300088
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -5}
+        - {x: -10, y: -7}
+        - {x: -11, y: -11}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996f26f148914370b00ba9aebf9a1635
+      internalID: 21300090
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 7}
+        - {x: -12, y: 3}
+        - {x: -12, y: -12}
+        - {x: 7, y: -12}
+        - {x: 10, y: -10}
+        - {x: 10, y: 4}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5e3fd6be0846a184646c21631a9031
+      internalID: 21300092
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 5}
+        - {x: -11, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -9}
+        - {x: 11, y: 4}
+        - {x: 9, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170a2adf3c15455cb92154beb85d1a09
+      internalID: 21300094
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 4}
+        - {x: -12, y: -12}
+        - {x: 9, y: -12}
+        - {x: 10, y: -10}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaac1f67fab4c7c888e203509014b0f
+      internalID: 21300096
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 5, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bd996da6b940eabce0812c00a9d4d0
+      internalID: 21300098
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 3}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56071b07f20c4e759bcea3f9c54b58fd
+      internalID: 21300100
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -12, y: 5}
+        - {x: -12, y: -9}
+        - {x: -7, y: -12}
+        - {x: 7, y: -12}
+        - {x: 12, y: -8}
+        - {x: 12, y: 7}
+        - {x: 11, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e055e64dab40ff8610ea30780c69bf
+      internalID: 21300102
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_45
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 9, y: 7}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 5, y: -12}
+        - {x: 11, y: -6}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bb2c5959d64be68e228de2d278a70c
+      internalID: 21300104
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -7, y: 0}
+        - {x: -11, y: -11}
+        - {x: -11, y: -12}
+        - {x: 10, y: -12}
+        - {x: 12, y: -11}
+        - {x: 12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486f361ebccf4328a5f05ffd87f5bb30
+      internalID: 21300106
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 6}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be8e483a1e64085a4b7844ca82d240a
+      internalID: 21300108
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 5}
+        - {x: -10, y: 4}
+        - {x: -10, y: -9}
+        - {x: -9, y: -12}
+        - {x: 9, y: -12}
+        - {x: 12, y: -10}
+        - {x: 12, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e046869930aa4bef87199e8536957781
+      internalID: 21300110
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 10, y: 1}
+        - {x: -5, y: 1}
+        - {x: -11, y: -2}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -10}
+        - {x: 12, y: -7}
+        - {x: 12, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7744cdabb2ed4b3b9794414b81019cf4
+      internalID: 21300112
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: 5}
+        - {x: -10, y: -1}
+        - {x: -10, y: -12}
+        - {x: 9, y: -12}
+        - {x: 9, y: -1}
+        - {x: 3, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c66a8093f7d4acab7b53c1c98ddd2bb
+      internalID: 21300114
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 5}
+        - {x: -11, y: -12}
+        - {x: 7, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293656333fa64ca490052810dad5da8f
+      internalID: 21300116
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -12, y: 1}
+        - {x: -12, y: -9}
+        - {x: -10, y: -10}
+        - {x: 11, y: -10}
+        - {x: 12, y: -9}
+        - {x: 12, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c83d4de4ea49ef9782015f4f09b59b
+      internalID: 21300118
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -12, y: 7}
+        - {x: -12, y: -8}
+        - {x: -9, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -11}
+        - {x: 11, y: 6}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f966950735d40ae8e4816d5e1be1fe4
+      internalID: 21300120
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 4, y: -12}
+        - {x: 10, y: -5}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e588fe7bda4b299b99c471f979e147
+      internalID: 21300122
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 7}
+        - {x: -11, y: 5}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -9}
+        - {x: 11, y: 2}
+        - {x: 9, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed712af5a8c9484e860b3ec8f513869b
+      internalID: 21300124
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -12, y: -4}
+        - {x: -5, y: -12}
+        - {x: 5, y: -12}
+        - {x: 12, y: -3}
+        - {x: 12, y: 7}
+        - {x: 11, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a927dbc17a94888921821150f5db810
+      internalID: 21300126
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -3}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab9ef5708ad48069d782777f21dfc4e
+      internalID: 21300128
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 4}
+        - {x: -10, y: 3}
+        - {x: -10, y: -10}
+        - {x: -8, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -7}
+        - {x: 12, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de115af51c274757a5aa508ae6f9ae23
+      internalID: 21300130
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 5}
+        - {x: -12, y: -10}
+        - {x: -10, y: -12}
+        - {x: 5, y: -12}
+        - {x: 10, y: -7}
+        - {x: 10, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971e6b874f4742d5bc69e40c7dedadbf
+      internalID: 21300132
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 10, y: -12}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2a318e0b5447748733c5e74fb775e0
+      internalID: 21300134
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -11}
+        - {x: -10, y: -12}
+        - {x: 11, y: -12}
+        - {x: 12, y: -11}
+        - {x: 12, y: 6}
+        - {x: 11, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d3d990c035467382310aa04f67e0ac
+      internalID: 21300136
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_95
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 77
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4443924c45447248bf0e4435f78fd7d
+      internalID: 21300138
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 7, y: 3}
+        - {x: -6, y: 3}
+        - {x: -10, y: 0}
+        - {x: -10, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb42cfd6abc416eaeebef24877dbb78
+      internalID: 21300140
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 9, y: 9}
+        - {x: -4, y: 9}
+        - {x: -12, y: 7}
+        - {x: -12, y: -4}
+        - {x: -7, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: 5}
+        - {x: 11, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe877189b11d41a68b139be2de65ded1
+      internalID: 21300142
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_93
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 5}
+        - {x: -12, y: -10}
+        - {x: -10, y: -12}
+        - {x: 5, y: -12}
+        - {x: 10, y: -7}
+        - {x: 10, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff3baf1fe4a42ef955b81173d8354a1
+      internalID: 21300144
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -7, y: -12}
+        - {x: 6, y: -12}
+        - {x: 12, y: -7}
+        - {x: 12, y: 6}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265f48463f7a4ee19b596d8739ac0568
+      internalID: 21300146
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -12, y: -11}
+        - {x: -10, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3feb0aa250284cc7b8c6e8772974b21b
+      internalID: 21300148
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_85
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -5}
+        - {x: -10, y: -7}
+        - {x: -11, y: -11}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8092a1b1dfc44d9b202891d07f15ef8
+      internalID: 21300150
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 6}
+        - {x: 11, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5b699f355944b28b2415af0f29f0b8
+      internalID: 21300152
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 11, y: 7}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 10, y: -12}
+        - {x: 12, y: -10}
+        - {x: 12, y: 1}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b292f58ef9874452a6862c7b382c488c
+      internalID: 21300154
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -7, y: 9}
+        - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: 4, y: -12}
+        - {x: 10, y: -4}
+        - {x: 10, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c9c706960247bf9b51fe7207d69fb4
+      internalID: 21300156
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -12, y: -6}
+        - {x: -6, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -7}
+        - {x: 12, y: 8}
+        - {x: 11, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f922f1c84bc47a29e96b7af34d0e6fe
+      internalID: 21300158
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 216
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 6}
+        - {x: -10, y: 5}
+        - {x: -10, y: -12}
+        - {x: 7, y: -12}
+        - {x: 12, y: -7}
+        - {x: 12, y: 3}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43438e045ca742d8bbd2c2d2d2da6a08
+      internalID: 21300160
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b5333f243c4315bc1567da8f4f6712
+      internalID: 21300162
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: 3}
+        - {x: -12, y: 1}
+        - {x: -12, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -8}
+        - {x: 10, y: 3}
+      - - {x: 12, y: -12}
+        - {x: 12, y: -9}
+        - {x: 8, y: -9}
+        - {x: 7, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8608e7c549f146bb988268b410b91c47
+      internalID: 21300164
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -12, y: -8}
+        - {x: -9, y: -11}
+        - {x: -3, y: -12}
+        - {x: 5, y: -12}
+        - {x: 12, y: -8}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dfe1aebc364bf999fc7caf9eb507a0
+      internalID: 21300166
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 8}
+        - {x: -12, y: -8}
+        - {x: -10, y: -12}
+        - {x: 7, y: -12}
+        - {x: 7, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fb1df6750a43dc823c7c44507c978f
+      internalID: 21300168
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 3}
+        - {x: -12, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -8}
+        - {x: 10, y: 3}
+      - - {x: 12, y: -12}
+        - {x: 12, y: -9}
+        - {x: 8, y: -9}
+        - {x: 7, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8695df66ef4f2e96d3704ee938702c
+      internalID: 21300170
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_57
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -12, y: -4}
+        - {x: -5, y: -12}
+        - {x: 5, y: -12}
+        - {x: 12, y: -3}
+        - {x: 12, y: 7}
+        - {x: 11, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076a7aab8d7344fd9d2bc7da0805cafa
+      internalID: 21300172
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb49d1973744c469df62a3c9d33dbb5
+      internalID: 21300174
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 12}
+        - {x: -12, y: 11}
+        - {x: -12, y: -5}
+        - {x: -7, y: -9}
+        - {x: 12, y: -9}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c8acb8b2ba465ea61fff3328bda735
+      internalID: 21300176
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 7, y: 7}
+        - {x: -11, y: 7}
+        - {x: -12, y: 4}
+        - {x: -12, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -4}
+        - {x: 10, y: 5}
+      - - {x: 9, y: -8}
+        - {x: 6, y: -11}
+        - {x: 6, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -9}
+        - {x: 11, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38938f70971e4e6091d5dccf263aec9e
+      internalID: 21300178
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 12, y: 2}
+        - {x: 1, y: 6}
+        - {x: -8, y: 6}
+        - {x: -10, y: 3}
+        - {x: -10, y: -10}
+        - {x: -7, y: -12}
+        - {x: 12, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe6d2b3bfaf417fb3fcbf9b2ab4ecf5
+      internalID: 21300180
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 3}
+        - {x: -12, y: -2}
+        - {x: -12, y: -11}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 2}
+        - {x: 9, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c46e2264a244e3d91cd2c4333a6e6cd
+      internalID: 21300182
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -12}
+        - {x: 9, y: -12}
+        - {x: 12, y: -4}
+        - {x: 12, y: 6}
+      - - {x: 9, y: -8}
+        - {x: 6, y: -11}
+        - {x: 6, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -9}
+        - {x: 11, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd565c63067d40b2890a89de087cd830
+      internalID: 21300184
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -12, y: -9}
+        - {x: -11, y: -12}
+        - {x: 4, y: -12}
+        - {x: 12, y: -8}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: addf567b98e44d5697655bd25b807c72
+      internalID: 21300186
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_69
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 0, y: 0}
+        - {x: -3, y: -3}
+        - {x: -3, y: -5}
+        - {x: 0, y: -8}
+        - {x: 2, y: -8}
+        - {x: 5, y: -5}
+        - {x: 5, y: -3}
+        - {x: 2, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a962d9532f44fb8bcc0143b03f884d
+      internalID: 21300188
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Cookie_24x24_77
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 12}
+        - {x: -12, y: 11}
+        - {x: -12, y: -6}
+        - {x: -9, y: -10}
+        - {x: 8, y: -10}
+        - {x: 12, y: -8}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02df8fda8cc042fb9425f785b1710967
+      internalID: 21300190
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 9f23ea1fa7a66eee1e1c5100444a3da7.bundle
+  assetBundleVariant:

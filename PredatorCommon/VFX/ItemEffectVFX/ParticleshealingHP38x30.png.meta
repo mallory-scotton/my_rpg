@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: 43b1406b962d67148911df7ef561bc76
+timeCreated: 1706119845
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ParticleshealingHP38x30_6
+  - first:
+      213: 21300002
+    second: ParticleshealingHP38x30_7
+  - first:
+      213: 21300004
+    second: ParticleshealingHP38x30_2
+  - first:
+      213: 21300006
+    second: ParticleshealingHP38x30_3
+  - first:
+      213: 21300008
+    second: ParticleshealingHP38x30_4
+  - first:
+      213: 21300010
+    second: ParticleshealingHP38x30_5
+  - first:
+      213: 21300012
+    second: ParticleshealingHP38x30_0
+  - first:
+      213: 21300014
+    second: ParticleshealingHP38x30_1
+  - first:
+      213: 21300016
+    second: ParticleshealingHP38x30_8
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParticleshealingHP38x30_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 38
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -15}
+        - {x: -19, y: 15}
+        - {x: 19, y: 15}
+        - {x: 19, y: -15}
+      physicsShape:
+      - - {x: -12, y: 2}
+        - {x: -15, y: 2}
+        - {x: -18, y: 1}
+        - {x: -18, y: -8}
+        - {x: -13, y: -10}
+        - {x: -10, y: -10}
+        - {x: -9, y: -9}
+        - {x: -9, y: -3}
+        - {x: -10, y: 0}
+      - - {x: 15, y: 8}
+        - {x: 12, y: 5}
+        - {x: 11, y: -1}
+        - {x: 11, y: -3}
+        - {x: 13, y: -5}
+        - {x: 15, y: -5}
+        - {x: 19, y: -4}
+        - {x: 19, y: 5}
+        - {x: 17, y: 8}
+      - - {x: -7, y: 10}
+        - {x: -10, y: 7}
+        - {x: -10, y: 1}
+        - {x: -9, y: -2}
+        - {x: -5, y: -2}
+        - {x: -3, y: -1}
+        - {x: -3, y: 8}
+        - {x: -6, y: 10}
+      - - {x: 4, y: 13}
+        - {x: 2, y: 10}
+        - {x: 2, y: 6}
+        - {x: 5, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1204dbb7b0994394bac9ebead31d63dc
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 38, y: 45}
+      - {x: 0, y: 15}
+      - {x: 38, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleshealingHP38x30_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 38
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -15}
+        - {x: -19, y: 15}
+        - {x: 19, y: 15}
+        - {x: 19, y: -15}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed18c366e02347219cd2b95faa5783e1
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 38, y: 45}
+      - {x: 0, y: 15}
+      - {x: 38, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleshealingHP38x30_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 38
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -15}
+        - {x: -19, y: 15}
+        - {x: 19, y: 15}
+        - {x: 19, y: -15}
+      physicsShape:
+      - - {x: -5, y: -2}
+        - {x: -5, y: -9}
+        - {x: -3, y: -15}
+        - {x: 5, y: -15}
+        - {x: 9, y: -13}
+        - {x: 9, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c9b708ebce4ac0aceb78300e52c34b
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 38, y: 45}
+      - {x: 0, y: 15}
+      - {x: 38, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleshealingHP38x30_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 38
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -15}
+        - {x: -19, y: 15}
+        - {x: 19, y: 15}
+        - {x: 19, y: -15}
+      physicsShape:
+      - - {x: 1, y: 3}
+        - {x: 0, y: 2}
+        - {x: -7, y: -4}
+        - {x: -7, y: -5}
+        - {x: -1, y: -14}
+        - {x: 7, y: -14}
+        - {x: 10, y: -7}
+        - {x: 10, y: 0}
+        - {x: 5, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395a5461d6e148d6b03cb0941a214105
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 38, y: 45}
+      - {x: 0, y: 15}
+      - {x: 38, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleshealingHP38x30_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 38
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -15}
+        - {x: -19, y: 15}
+        - {x: 19, y: 15}
+        - {x: 19, y: -15}
+      physicsShape:
+      - - {x: -1, y: -10}
+        - {x: 1, y: -12}
+        - {x: 4, y: -11}
+        - {x: 4, y: -8}
+        - {x: 2, y: -6}
+        - {x: -1, y: -7}
+      - - {x: 8, y: 6}
+        - {x: -2, y: 6}
+        - {x: -8, y: 5}
+        - {x: -9, y: 1}
+        - {x: -9, y: -7}
+        - {x: -6, y: -8}
+        - {x: 1, y: -5}
+        - {x: 9, y: -9}
+        - {x: 10, y: -9}
+        - {x: 13, y: -6}
+        - {x: 13, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88937ebce4844ae9a43dbf04b59e2527
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 38, y: 45}
+      - {x: 0, y: 15}
+      - {x: 38, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleshealingHP38x30_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 38
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -15}
+        - {x: -19, y: 15}
+        - {x: 19, y: 15}
+        - {x: 19, y: -15}
+      physicsShape:
+      - - {x: -6, y: 6}
+        - {x: -11, y: 4}
+        - {x: -14, y: 2}
+        - {x: -14, y: -6}
+        - {x: -11, y: -8}
+        - {x: -9, y: -8}
+        - {x: 0, y: -3}
+        - {x: 0, y: 3}
+        - {x: -1, y: 6}
+      - - {x: 12, y: 6}
+        - {x: 9, y: 3}
+        - {x: 8, y: -3}
+        - {x: 8, y: -5}
+        - {x: 10, y: -7}
+        - {x: 12, y: -7}
+        - {x: 16, y: -6}
+        - {x: 16, y: 3}
+        - {x: 14, y: 6}
+      - - {x: 5, y: 5}
+        - {x: 2, y: 2}
+        - {x: 2, y: 1}
+        - {x: 5, y: -2}
+        - {x: 6, y: -2}
+        - {x: 9, y: 1}
+        - {x: 9, y: 2}
+        - {x: 6, y: 5}
+      - - {x: 2, y: 11}
+        - {x: -1, y: 8}
+        - {x: -1, y: 7}
+        - {x: 2, y: 4}
+        - {x: 3, y: 4}
+        - {x: 6, y: 7}
+        - {x: 6, y: 8}
+        - {x: 3, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbd4c1045f34878a4240ffc1a74a61e
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 38, y: 45}
+      - {x: 0, y: 15}
+      - {x: 38, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleshealingHP38x30_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -15}
+        - {x: -19, y: 15}
+        - {x: 19, y: 15}
+        - {x: 19, y: -15}
+      physicsShape:
+      - - {x: 3, y: -5}
+        - {x: -5, y: -9}
+        - {x: -5, y: -15}
+        - {x: 9, y: -15}
+        - {x: 9, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf151fde59344b79aae7e9071a5fec2
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 38, y: 45}
+      - {x: 0, y: 15}
+      - {x: 38, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleshealingHP38x30_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 38
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -15}
+        - {x: -19, y: 15}
+        - {x: 19, y: 15}
+        - {x: 19, y: -15}
+      physicsShape:
+      - - {x: 4, y: -3}
+        - {x: -5, y: -7}
+        - {x: -5, y: -12}
+        - {x: -3, y: -15}
+        - {x: 8, y: -15}
+        - {x: 9, y: -13}
+        - {x: 9, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d5c09284404c8d998519ac463bcd19
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 38, y: 45}
+      - {x: 0, y: 15}
+      - {x: 38, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleshealingHP38x30_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 38
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -15}
+        - {x: -19, y: 15}
+        - {x: 19, y: 15}
+        - {x: 19, y: -15}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e2d8b79926440692c114ebddd940ff
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 38, y: 45}
+      - {x: 0, y: 15}
+      - {x: 38, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

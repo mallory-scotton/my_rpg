@@ -1,0 +1,615 @@
+fileFormatVersion: 2
+guid: d88f193468b78cb4b95bda6a6a9331fc
+timeCreated: 1706119813
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ParticlesSmokeCauldron24x40_8
+  - first:
+      213: 21300002
+    second: ParticlesSmokeCauldron24x40_4
+  - first:
+      213: 21300004
+    second: ParticlesSmokeCauldron24x40_5
+  - first:
+      213: 21300006
+    second: ParticlesSmokeCauldron24x40_3
+  - first:
+      213: 21300008
+    second: ParticlesSmokeCauldron24x40_6
+  - first:
+      213: 21300010
+    second: ParticlesSmokeCauldron24x40_1
+  - first:
+      213: 21300012
+    second: ParticlesSmokeCauldron24x40_7
+  - first:
+      213: 21300014
+    second: ParticlesSmokeCauldron24x40_0
+  - first:
+      213: 21300016
+    second: ParticlesSmokeCauldron24x40_9
+  - first:
+      213: 21300018
+    second: ParticlesSmokeCauldron24x40_2
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParticlesSmokeCauldron24x40_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -20}
+        - {x: -12, y: 20}
+        - {x: 12, y: 20}
+        - {x: 12, y: -20}
+      physicsShape:
+      - - {x: 1, y: 17}
+        - {x: -3, y: 17}
+        - {x: -5, y: 16}
+        - {x: -12, y: 11}
+        - {x: -12, y: -2}
+        - {x: -11, y: -6}
+        - {x: -11, y: -13}
+        - {x: -9, y: -20}
+        - {x: 8, y: -20}
+        - {x: 10, y: -18}
+        - {x: 10, y: -7}
+        - {x: 8, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abb849d890d4efda0306e766cbd9f3a
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 60}
+      - {x: 24, y: 60}
+      - {x: 0, y: 20}
+      - {x: 24, y: 20}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSmokeCauldron24x40_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -20}
+        - {x: -12, y: 20}
+        - {x: 12, y: 20}
+        - {x: 12, y: -20}
+      physicsShape:
+      - - {x: 2, y: 12}
+        - {x: -5, y: 7}
+        - {x: -11, y: 0}
+        - {x: -11, y: -13}
+        - {x: -10, y: -20}
+        - {x: 11, y: -20}
+        - {x: 11, y: 10}
+        - {x: 6, y: 12}
+      - - {x: 3, y: 16}
+        - {x: 4, y: 13}
+        - {x: 7, y: 12}
+        - {x: 10, y: 13}
+        - {x: 10, y: 15}
+        - {x: 7, y: 18}
+        - {x: 5, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2d4b966b5f4ea9a35050548e17003c
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 60}
+      - {x: 24, y: 60}
+      - {x: 0, y: 20}
+      - {x: 24, y: 20}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSmokeCauldron24x40_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -20}
+        - {x: -12, y: 20}
+        - {x: 12, y: 20}
+        - {x: 12, y: -20}
+      physicsShape:
+      - - {x: 9, y: 13}
+        - {x: 1, y: 14}
+        - {x: -12, y: 5}
+        - {x: -12, y: -18}
+        - {x: -9, y: -20}
+        - {x: 11, y: -20}
+        - {x: 11, y: -15}
+        - {x: 12, y: -4}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357fdfe2a1b54ef6840ca8b2929a0e1a
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 60}
+      - {x: 24, y: 60}
+      - {x: 0, y: 20}
+      - {x: 24, y: 20}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSmokeCauldron24x40_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -20}
+        - {x: -12, y: 20}
+        - {x: 12, y: 20}
+        - {x: 12, y: -20}
+      physicsShape:
+      - - {x: 3, y: 12}
+        - {x: -9, y: 12}
+        - {x: -9, y: -19}
+        - {x: -8, y: -20}
+        - {x: 10, y: -20}
+        - {x: 10, y: 6}
+      - - {x: 3, y: 18}
+        - {x: 2, y: 16}
+        - {x: 2, y: 13}
+        - {x: 6, y: 10}
+        - {x: 8, y: 10}
+        - {x: 10, y: 11}
+        - {x: 10, y: 15}
+        - {x: 6, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b557dbac4e34840a25264058bc94c75
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 60}
+      - {x: 24, y: 60}
+      - {x: 0, y: 20}
+      - {x: 24, y: 20}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSmokeCauldron24x40_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -20}
+        - {x: -12, y: 20}
+        - {x: 12, y: 20}
+        - {x: 12, y: -20}
+      physicsShape:
+      - - {x: -6, y: 15}
+        - {x: -12, y: 6}
+        - {x: -12, y: -1}
+        - {x: -10, y: -1}
+        - {x: -10, y: -16}
+        - {x: -9, y: -20}
+        - {x: 12, y: -20}
+        - {x: 12, y: 11}
+        - {x: 6, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543043dbad734392bcd2efd932844bd3
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 60}
+      - {x: 24, y: 60}
+      - {x: 0, y: 20}
+      - {x: 24, y: 20}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSmokeCauldron24x40_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -20}
+        - {x: -12, y: 20}
+        - {x: 12, y: 20}
+        - {x: 12, y: -20}
+      physicsShape:
+      - - {x: 3, y: 0}
+        - {x: 9, y: 4}
+        - {x: 11, y: 6}
+        - {x: 11, y: 10}
+        - {x: 10, y: 17}
+        - {x: -5, y: 17}
+        - {x: -12, y: 13}
+        - {x: -12, y: -17}
+        - {x: -11, y: -20}
+        - {x: 11, y: -20}
+        - {x: 11, y: -5}
+        - {x: 5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddb32f0b14f4a76b8f3d5feb7667bc4
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 60}
+      - {x: 24, y: 60}
+      - {x: 0, y: 20}
+      - {x: 24, y: 20}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSmokeCauldron24x40_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -20}
+        - {x: -12, y: 20}
+        - {x: 12, y: 20}
+        - {x: 12, y: -20}
+      physicsShape:
+      - - {x: 11, y: 14}
+        - {x: 4, y: 16}
+        - {x: -1, y: 16}
+        - {x: -3, y: 14}
+        - {x: -10, y: 9}
+        - {x: -12, y: 5}
+        - {x: -12, y: -4}
+        - {x: -9, y: -18}
+        - {x: -7, y: -20}
+        - {x: 11, y: -20}
+        - {x: 12, y: -12}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93857634f0824b7093b6f8d24fa42a80
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 60}
+      - {x: 24, y: 60}
+      - {x: 0, y: 20}
+      - {x: 24, y: 20}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSmokeCauldron24x40_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -20}
+        - {x: -12, y: 20}
+        - {x: 12, y: 20}
+        - {x: 12, y: -20}
+      physicsShape:
+      - - {x: -8, y: 9}
+        - {x: -5, y: 8}
+        - {x: -9, y: 5}
+        - {x: -12, y: 2}
+        - {x: -12, y: -8}
+        - {x: -11, y: -20}
+        - {x: 12, y: -20}
+        - {x: 12, y: 12}
+        - {x: 8, y: 16}
+        - {x: -3, y: 16}
+        - {x: -11, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45503f052f7447eb746f9c976af5f2a
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 60}
+      - {x: 24, y: 60}
+      - {x: 0, y: 20}
+      - {x: 24, y: 20}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSmokeCauldron24x40_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -20}
+        - {x: -12, y: 20}
+        - {x: 12, y: 20}
+        - {x: 12, y: -20}
+      physicsShape:
+      - - {x: -3, y: 18}
+        - {x: -5, y: 16}
+        - {x: -9, y: 8}
+        - {x: -9, y: -20}
+        - {x: 11, y: -20}
+        - {x: 11, y: 10}
+        - {x: 4, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6873d3c3dd3f454ea00c38fa0fa7f920
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 60}
+      - {x: 24, y: 60}
+      - {x: 0, y: 20}
+      - {x: 24, y: 20}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSmokeCauldron24x40_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -20}
+        - {x: -12, y: 20}
+        - {x: 12, y: 20}
+        - {x: 12, y: -20}
+      physicsShape:
+      - - {x: 11, y: 8}
+        - {x: 11, y: 16}
+        - {x: -5, y: 16}
+        - {x: -11, y: 15}
+        - {x: -11, y: -20}
+        - {x: 11, y: -20}
+        - {x: 11, y: -3}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875df64c6d7b4a0a8ae94a657f3c76a3
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 60}
+      - {x: 24, y: 60}
+      - {x: 0, y: 20}
+      - {x: 24, y: 20}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 1f0e03801170aa975b541c4c7d517a45.bundle
+  assetBundleVariant:

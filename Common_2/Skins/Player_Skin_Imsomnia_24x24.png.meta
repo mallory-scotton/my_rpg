@@ -1,0 +1,3829 @@
+fileFormatVersion: 2
+guid: c58da447b3bbca84cab52af88236923f
+timeCreated: 1706119814
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Player_Skin_Imsomnia_24x24_3
+  - first:
+      213: 21300002
+    second: Player_Skin_Imsomnia_24x24_57
+  - first:
+      213: 21300004
+    second: Player_Skin_Imsomnia_24x24_10
+  - first:
+      213: 21300006
+    second: Player_Skin_Imsomnia_24x24_42
+  - first:
+      213: 21300008
+    second: Player_Skin_Imsomnia_24x24_37
+  - first:
+      213: 21300010
+    second: Player_Skin_Imsomnia_24x24_41
+  - first:
+      213: 21300012
+    second: Player_Skin_Imsomnia_24x24_27
+  - first:
+      213: 21300014
+    second: Player_Skin_Imsomnia_24x24_48
+  - first:
+      213: 21300016
+    second: Player_Skin_Imsomnia_24x24_0
+  - first:
+      213: 21300018
+    second: Player_Skin_Imsomnia_24x24_24
+  - first:
+      213: 21300020
+    second: Player_Skin_Imsomnia_24x24_47
+  - first:
+      213: 21300022
+    second: Player_Skin_Imsomnia_24x24_33
+  - first:
+      213: 21300024
+    second: Player_Skin_Imsomnia_24x24_18
+  - first:
+      213: 21300026
+    second: Player_Skin_Imsomnia_24x24_60
+  - first:
+      213: 21300028
+    second: Player_Skin_Imsomnia_24x24_45
+  - first:
+      213: 21300030
+    second: Player_Skin_Imsomnia_24x24_78
+  - first:
+      213: 21300032
+    second: Player_Skin_Imsomnia_24x24_1
+  - first:
+      213: 21300034
+    second: Player_Skin_Imsomnia_24x24_19
+  - first:
+      213: 21300036
+    second: Player_Skin_Imsomnia_24x24_67
+  - first:
+      213: 21300038
+    second: Player_Skin_Imsomnia_24x24_15
+  - first:
+      213: 21300040
+    second: Player_Skin_Imsomnia_24x24_7
+  - first:
+      213: 21300042
+    second: Player_Skin_Imsomnia_24x24_76
+  - first:
+      213: 21300044
+    second: Player_Skin_Imsomnia_24x24_68
+  - first:
+      213: 21300046
+    second: Player_Skin_Imsomnia_24x24_11
+  - first:
+      213: 21300048
+    second: Player_Skin_Imsomnia_24x24_28
+  - first:
+      213: 21300050
+    second: Player_Skin_Imsomnia_24x24_70
+  - first:
+      213: 21300052
+    second: Player_Skin_Imsomnia_24x24_62
+  - first:
+      213: 21300054
+    second: Player_Skin_Imsomnia_24x24_44
+  - first:
+      213: 21300056
+    second: Player_Skin_Imsomnia_24x24_50
+  - first:
+      213: 21300058
+    second: Player_Skin_Imsomnia_Hand
+  - first:
+      213: 21300060
+    second: Player_Skin_Imsomnia_24x24_73
+  - first:
+      213: 21300062
+    second: Player_Skin_Imsomnia_24x24_52
+  - first:
+      213: 21300064
+    second: Player_Skin_Imsomnia_24x24_61
+  - first:
+      213: 21300066
+    second: Player_Skin_Imsomnia_24x24_38
+  - first:
+      213: 21300068
+    second: Player_Skin_Imsomnia_24x24_13
+  - first:
+      213: 21300070
+    second: Player_Skin_Imsomnia_24x24_66
+  - first:
+      213: 21300072
+    second: Player_Skin_Imsomnia_24x24_20
+  - first:
+      213: 21300074
+    second: Player_Skin_Imsomnia_24x24_26
+  - first:
+      213: 21300076
+    second: Player_Skin_Imsomnia_24x24_69
+  - first:
+      213: 21300078
+    second: Player_Skin_Imsomnia_24x24_31
+  - first:
+      213: 21300080
+    second: Player_Skin_Imsomnia_24x24_9
+  - first:
+      213: 21300082
+    second: Player_Skin_Imsomnia_24x24_75
+  - first:
+      213: 21300084
+    second: Player_Skin_Imsomnia_24x24_14
+  - first:
+      213: 21300086
+    second: Player_Skin_Imsomnia_24x24_16
+  - first:
+      213: 21300088
+    second: Player_Skin_Imsomnia_24x24_74
+  - first:
+      213: 21300090
+    second: Player_Skin_Imsomnia_24x24_22
+  - first:
+      213: 21300092
+    second: Player_Skin_Imsomnia_24x24_58
+  - first:
+      213: 21300094
+    second: Player_Skin_Imsomnia_24x24_23
+  - first:
+      213: 21300096
+    second: Player_Skin_Imsomnia_24x24_5
+  - first:
+      213: 21300098
+    second: Player_Skin_Imsomnia_24x24_34
+  - first:
+      213: 21300100
+    second: Player_Skin_Imsomnia_24x24_56
+  - first:
+      213: 21300102
+    second: Player_Skin_Imsomnia_24x24_64
+  - first:
+      213: 21300104
+    second: Player_Skin_Imsomnia_24x24_63
+  - first:
+      213: 21300106
+    second: Player_Skin_Imsomnia_24x24_77
+  - first:
+      213: 21300108
+    second: Player_Skin_Imsomnia_24x24_29
+  - first:
+      213: 21300110
+    second: Player_Skin_Imsomnia_24x24_17
+  - first:
+      213: 21300112
+    second: Player_Skin_Imsomnia_24x24_30
+  - first:
+      213: 21300114
+    second: Player_Skin_Imsomnia_24x24_36
+  - first:
+      213: 21300116
+    second: Player_Skin_Imsomnia_24x24_59
+  - first:
+      213: 21300118
+    second: Player_Skin_Imsomnia_24x24_72
+  - first:
+      213: 21300120
+    second: Player_Skin_Imsomnia_24x24_49
+  - first:
+      213: 21300122
+    second: Player_Skin_Imsomnia_24x24_71
+  - first:
+      213: 21300124
+    second: Player_Skin_Imsomnia_24x24_53
+  - first:
+      213: 21300126
+    second: Player_Skin_Imsomnia_24x24_35
+  - first:
+      213: 21300128
+    second: Player_Skin_Imsomnia_24x24_6
+  - first:
+      213: 21300130
+    second: Player_Skin_Imsomnia_24x24_55
+  - first:
+      213: 21300132
+    second: Player_Skin_Imsomnia_24x24_79
+  - first:
+      213: 21300134
+    second: Player_Skin_Imsomnia_24x24_39
+  - first:
+      213: 21300136
+    second: Player_Skin_Imsomnia_24x24_80
+  - first:
+      213: 21300138
+    second: Player_Skin_Imsomnia_24x24_4
+  - first:
+      213: 21300140
+    second: Player_Skin_Imsomnia_24x24_8
+  - first:
+      213: 21300142
+    second: Player_Skin_Imsomnia_24x24_51
+  - first:
+      213: 21300144
+    second: Player_Skin_Imsomnia_24x24_25
+  - first:
+      213: 21300146
+    second: Player_Skin_Imsomnia_24x24_32
+  - first:
+      213: 21300148
+    second: Player_Skin_Imsomnia_24x24_21
+  - first:
+      213: 21300150
+    second: Player_Skin_Imsomnia_24x24_46
+  - first:
+      213: 21300152
+    second: Player_Skin_Imsomnia_24x24_65
+  - first:
+      213: 21300154
+    second: Player_Skin_Imsomnia_24x24_2
+  - first:
+      213: 21300156
+    second: Player_Skin_Imsomnia_24x24_54
+  - first:
+      213: 21300158
+    second: Player_Skin_Imsomnia_24x24_43
+  - first:
+      213: 21300160
+    second: Player_Skin_Imsomnia_24x24_12
+  - first:
+      213: 21300162
+    second: Player_Skin_Imsomnia_24x24_40
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -8}
+        - {x: 10, y: 5}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3ced161b824379922ca2e73d29a90f
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_57
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 11}
+        - {x: -12, y: 9}
+        - {x: -12, y: -3}
+        - {x: -3, y: -11}
+        - {x: 5, y: -11}
+        - {x: 12, y: 0}
+        - {x: 12, y: 10}
+        - {x: 10, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb8cdd9b7d74213902da5736854fcb1
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 10}
+        - {x: -12, y: 9}
+        - {x: -12, y: -5}
+        - {x: -11, y: -9}
+        - {x: -9, y: -12}
+        - {x: 7, y: -12}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb52b91208c34c86b359de794e0972cc
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: 9, y: -12}
+        - {x: 12, y: -10}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a45fcdc37384832bc7edf3a69752acb
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -7, y: 9}
+        - {x: -12, y: 5}
+        - {x: -12, y: -5}
+        - {x: -10, y: -9}
+        - {x: -7, y: -12}
+        - {x: 5, y: -12}
+        - {x: 11, y: -5}
+        - {x: 11, y: 8}
+        - {x: 3, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b74117ac96f4b60959133ba46d82b0a
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -12, y: 7}
+        - {x: -12, y: -10}
+        - {x: -11, y: -12}
+        - {x: 7, y: -12}
+        - {x: 12, y: -9}
+        - {x: 12, y: 0}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3ca430a3954f1a952a527f7b83e442
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 8}
+        - {x: -12, y: 2}
+        - {x: -12, y: -8}
+        - {x: -10, y: -9}
+        - {x: 11, y: -9}
+        - {x: 12, y: -8}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b0bab4abe44d908baa51382bdd12fe
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: -4}
+        - {x: -11, y: -9}
+        - {x: -11, y: -11}
+        - {x: -10, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9794ce9d8f491fabf6c0c0e3fe65eb
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 8}
+        - {x: -12, y: -10}
+        - {x: -9, y: -12}
+        - {x: 4, y: -12}
+        - {x: 10, y: -4}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76000c7127254341bfc54982cd062535
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 6}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 4}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e57634fd53848cfb1ac237834137c03
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: 5, y: -12}
+        - {x: 9, y: -4}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff781b30ff554b27b996df4de81c155a
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: 7, y: -12}
+        - {x: 10, y: -5}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca599ee54df40009f42a874dc57baec
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 6}
+        - {x: -12, y: 3}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73521443094e4b128f5ca35023ff2c6c
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 11}
+        - {x: -12, y: -7}
+        - {x: -9, y: -10}
+        - {x: -3, y: -11}
+        - {x: 5, y: -11}
+        - {x: 12, y: -7}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e5f556821d443098771d6051ccd5a8
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_45
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 8}
+        - {x: -12, y: -10}
+        - {x: -9, y: -12}
+        - {x: 5, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d8cb1f390948258b032303d348cad0
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 12}
+        - {x: -12, y: 11}
+        - {x: -12, y: -5}
+        - {x: -7, y: -9}
+        - {x: 12, y: -9}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74edddb038f748df8c489fef351291bc
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -11}
+        - {x: -10, y: -12}
+        - {x: 5, y: -12}
+        - {x: 10, y: -4}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9f6be99c8844c28b8d92fdc2758458
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: -4}
+        - {x: -12, y: -8}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1b079483b0421e98830260bb94ac9f
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 7, y: -8}
+        - {x: 11, y: -5}
+        - {x: 11, y: 2}
+        - {x: 10, y: 4}
+        - {x: -10, y: 4}
+        - {x: -11, y: 3}
+        - {x: -11, y: -11}
+        - {x: -10, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -11}
+        - {x: 10, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f145b7b02f6047de97ca5ed4fdd71410
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 9, y: 4}
+        - {x: -8, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -7}
+        - {x: 10, y: 1}
+      - - {x: 9, y: -8}
+        - {x: 7, y: -10}
+        - {x: 8, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5350a2e6afed45ef8d179c464224da4b
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -10, y: 3}
+        - {x: -10, y: -10}
+        - {x: -9, y: -12}
+        - {x: 5, y: -12}
+        - {x: 12, y: -4}
+        - {x: 12, y: 4}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60865d703a8f4d7a9901848705f89f8f
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 11}
+        - {x: -12, y: 10}
+        - {x: -12, y: -7}
+        - {x: -7, y: -11}
+        - {x: 6, y: -11}
+        - {x: 12, y: -9}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4334ad8e1d4899aab02feb4f9d13e8
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 5}
+        - {x: -11, y: 3}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb11ecc12494c768ebf99c113e5cd38
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 10}
+        - {x: -12, y: 9}
+        - {x: -12, y: -5}
+        - {x: -11, y: -9}
+        - {x: -9, y: -12}
+        - {x: 7, y: -12}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04446a2daddd4fb2a07129eefff4a85d
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 12, y: 3}
+        - {x: 1, y: 7}
+        - {x: -8, y: 7}
+        - {x: -10, y: 4}
+        - {x: -10, y: -9}
+        - {x: -5, y: -12}
+        - {x: 12, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551411ce1c3240e8a547d45e9b7b52a2
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -1, y: -1}
+        - {x: -4, y: -4}
+        - {x: -4, y: -6}
+        - {x: -1, y: -9}
+        - {x: 2, y: -9}
+        - {x: 5, y: -6}
+        - {x: 5, y: -4}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c84833d81d4a1c93b64b754b12367c
+      internalID: 21300050
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 11}
+        - {x: -12, y: 8}
+        - {x: -12, y: -11}
+        - {x: 12, y: -11}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b460060aaf24a8ca0829bb1d49aa217
+      internalID: 21300052
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 9, y: 7}
+        - {x: -11, y: 7}
+        - {x: -12, y: 5}
+        - {x: -12, y: -11}
+        - {x: -11, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -11}
+        - {x: 12, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3153f9821cc0445e8c75cde6efcfcb55
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 11, y: 2}
+        - {x: -9, y: 2}
+        - {x: -11, y: -1}
+        - {x: -11, y: -12}
+        - {x: 6, y: -12}
+        - {x: 11, y: -9}
+        - {x: 12, y: -6}
+        - {x: 12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f2aec7edf247539b2105a322177783
+      internalID: 21300056
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_Hand
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 54
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1242a68584204fc79be044f41dd31aa4
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 8}
+        - {x: -9, y: -10}
+        - {x: -6, y: -12}
+        - {x: 7, y: -12}
+        - {x: 12, y: -5}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8455bfeab243cf8816b956fabd3289
+      internalID: 21300060
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 7, y: 6}
+        - {x: -9, y: 6}
+        - {x: -10, y: 5}
+        - {x: -10, y: -12}
+        - {x: 9, y: -12}
+        - {x: 12, y: -9}
+        - {x: 12, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5169290f72345b89b040c85bc847dd6
+      internalID: 21300062
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 11}
+        - {x: -12, y: 10}
+        - {x: -12, y: -7}
+        - {x: -6, y: -11}
+        - {x: 12, y: -11}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea310961fdf048f997e9ba280deb2dc8
+      internalID: 21300064
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -12, y: 7}
+        - {x: -12, y: -10}
+        - {x: -11, y: -12}
+        - {x: 4, y: -12}
+        - {x: 10, y: -5}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688aaa2cb9dc42de9fa65f6614d1d58e
+      internalID: 21300066
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -5}
+        - {x: 10, y: 6}
+        - {x: 7, y: 8}
+      - - {x: 9, y: -7}
+        - {x: 6, y: -10}
+        - {x: 7, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -8}
+        - {x: 11, y: -7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2561c568d9674057bfe2b92446012fd9
+      internalID: 21300068
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -12, y: 5}
+        - {x: -12, y: -9}
+        - {x: -7, y: -12}
+        - {x: 7, y: -12}
+        - {x: 12, y: -8}
+        - {x: 12, y: 7}
+        - {x: 11, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a12ec912e74ae3986cfd0ec870861f
+      internalID: 21300070
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -3, y: -3}
+        - {x: -12, y: -8}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -4}
+        - {x: 8, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8f424b5cdb4291a981b778a153f686
+      internalID: 21300072
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: 7}
+        - {x: -12, y: 6}
+        - {x: -12, y: -11}
+        - {x: -10, y: -12}
+        - {x: 7, y: -12}
+        - {x: 11, y: -4}
+        - {x: 11, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aa1fa44f2d48979e7ab2f261ed044a
+      internalID: 21300074
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_69
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 0, y: 1}
+        - {x: -3, y: -2}
+        - {x: -3, y: -4}
+        - {x: 0, y: -7}
+        - {x: 2, y: -7}
+        - {x: 5, y: -4}
+        - {x: 5, y: -2}
+        - {x: 2, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0178c478acec49eb85e5109a34608b57
+      internalID: 21300076
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 4}
+        - {x: -12, y: -1}
+        - {x: -12, y: -10}
+        - {x: -9, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 0}
+        - {x: 9, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1d89adc42e4620ba491cf77e4707b3
+      internalID: 21300078
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 6}
+        - {x: -11, y: -3}
+        - {x: -11, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -5}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654073f8c7b243859cb18c28dc1a79e2
+      internalID: 21300080
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 11}
+        - {x: -12, y: -7}
+        - {x: -9, y: -12}
+        - {x: 7, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbe311fd42b42e1af448c777a1a19e3
+      internalID: 21300082
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 5, y: 4}
+        - {x: -12, y: 4}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -5}
+        - {x: 10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a8e1c3afa34500aa3fc5a67475c86b
+      internalID: 21300084
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 4}
+        - {x: -12, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -8}
+        - {x: 10, y: 2}
+        - {x: 9, y: 4}
+      - - {x: 9, y: -8}
+        - {x: 7, y: -10}
+        - {x: 8, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc03d846d41c4ef3b33e9f7e22bf6815
+      internalID: 21300086
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -6, y: -12}
+        - {x: 6, y: -12}
+        - {x: 12, y: -7}
+        - {x: 12, y: 8}
+        - {x: 11, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478338690be24429976af645562464d1
+      internalID: 21300088
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 6}
+        - {x: -11, y: 4}
+        - {x: -11, y: -10}
+        - {x: -10, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59292fd4536407fa364a96d9025230c
+      internalID: 21300090
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 11}
+        - {x: -12, y: 9}
+        - {x: -12, y: -3}
+        - {x: -3, y: -11}
+        - {x: 5, y: -11}
+        - {x: 12, y: 0}
+        - {x: 12, y: 10}
+        - {x: 10, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4db0110e03430ca916bc0e80e06b4f
+      internalID: 21300092
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 10, y: 6}
+        - {x: -10, y: 6}
+        - {x: -11, y: 4}
+        - {x: -11, y: -11}
+        - {x: -10, y: -12}
+        - {x: 9, y: -12}
+        - {x: 11, y: -7}
+        - {x: 11, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18461f1cba7d466a88b2cf994388b09a
+      internalID: 21300094
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 11, y: 7}
+        - {x: -9, y: 7}
+        - {x: -10, y: 5}
+        - {x: -11, y: 0}
+        - {x: -11, y: -10}
+        - {x: -10, y: -12}
+        - {x: -2, y: -12}
+        - {x: 7, y: -11}
+        - {x: 9, y: -9}
+        - {x: 12, y: -5}
+        - {x: 12, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169e0a7c59914ad89fad598d3fbe1574
+      internalID: 21300096
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 8}
+        - {x: -12, y: -10}
+        - {x: -10, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -5}
+        - {x: 11, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3092cace15fb4699b4b6347bf7423762
+      internalID: 21300098
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 11, y: 11}
+        - {x: -12, y: 11}
+        - {x: -12, y: -6}
+        - {x: -3, y: -11}
+        - {x: 8, y: -11}
+        - {x: 12, y: -4}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb355581f660463c887581bc345eb2e3
+      internalID: 21300100
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 11}
+        - {x: -12, y: 10}
+        - {x: -12, y: -10}
+        - {x: -8, y: -12}
+        - {x: 11, y: -12}
+        - {x: 12, y: -11}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790ec131929842e9bbaf8f10297bdd33
+      internalID: 21300102
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 11}
+        - {x: -12, y: 10}
+        - {x: -12, y: -7}
+        - {x: -7, y: -11}
+        - {x: 6, y: -11}
+        - {x: 12, y: -9}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ddf8e7b0d04c18b74f26d7df588016
+      internalID: 21300104
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_77
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 12}
+        - {x: -12, y: 11}
+        - {x: -12, y: -6}
+        - {x: -9, y: -10}
+        - {x: 8, y: -10}
+        - {x: 12, y: -8}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e63e44231464083b85aabfafa4144cf
+      internalID: 21300106
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 5, y: 6}
+        - {x: -2, y: 6}
+        - {x: -9, y: 4}
+        - {x: -10, y: 1}
+        - {x: -10, y: -12}
+        - {x: 9, y: -12}
+        - {x: 9, y: -5}
+        - {x: 7, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f821a55f757d49efaf210b8c37049480
+      internalID: 21300108
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -12}
+        - {x: 10, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: 6}
+      - - {x: 9, y: -8}
+        - {x: 7, y: -10}
+        - {x: 8, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50aa51676324536b082bafa0bfda4ce
+      internalID: 21300110
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 2, y: 5}
+        - {x: -9, y: 5}
+        - {x: -12, y: 4}
+        - {x: -12, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -11}
+        - {x: 11, y: -7}
+        - {x: 10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3f195117164ff2966432ec4ad07a45
+      internalID: 21300112
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -7}
+        - {x: -6, y: -12}
+        - {x: 6, y: -12}
+        - {x: 11, y: -6}
+        - {x: 11, y: 4}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c74de06f784cfe8c008b76998b659d
+      internalID: 21300114
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 11}
+        - {x: -12, y: -8}
+        - {x: -11, y: -11}
+        - {x: 4, y: -11}
+        - {x: 12, y: -7}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629a8ee0b07247bb9129f8c5a41e2020
+      internalID: 21300116
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -1, y: 1}
+        - {x: -4, y: -2}
+        - {x: -4, y: -4}
+        - {x: -1, y: -7}
+        - {x: 1, y: -7}
+        - {x: 4, y: -4}
+        - {x: 4, y: -2}
+        - {x: 1, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55554b00b4814854b016ad21f2681226
+      internalID: 21300118
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: 1}
+        - {x: -11, y: -2}
+        - {x: -11, y: -12}
+        - {x: 10, y: -12}
+        - {x: 12, y: -11}
+        - {x: 12, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ef629d25a04ee2bdd6adcb6fb6943d
+      internalID: 21300120
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_71
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -1, y: -1}
+        - {x: -4, y: -4}
+        - {x: -4, y: -6}
+        - {x: -1, y: -9}
+        - {x: 1, y: -9}
+        - {x: 4, y: -6}
+        - {x: 4, y: -4}
+        - {x: 1, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65342209f60740bfa4cec3be9bd4fcf6
+      internalID: 21300122
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -11, y: 6}
+        - {x: -11, y: -9}
+        - {x: -10, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -8}
+        - {x: 11, y: 3}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e1760ab7b14d08a9abab9f93df83d0
+      internalID: 21300124
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -10, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -11}
+        - {x: 11, y: -9}
+        - {x: 11, y: 4}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e118217f8ab44d0b3e6565a4bbda59a
+      internalID: 21300126
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -10, y: 5}
+        - {x: -10, y: -10}
+        - {x: -9, y: -12}
+        - {x: 7, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e852c5bb628b4b158c2662e7e5a53bed
+      internalID: 21300128
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: 11}
+        - {x: -12, y: 10}
+        - {x: -12, y: 0}
+        - {x: -7, y: -8}
+        - {x: -4, y: -11}
+        - {x: 5, y: -11}
+        - {x: 12, y: -1}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64155b020cad43cbb226e3ee5b13f198
+      internalID: 21300130
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_79
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 12}
+        - {x: -12, y: 11}
+        - {x: -12, y: -6}
+        - {x: -9, y: -10}
+        - {x: 8, y: -10}
+        - {x: 12, y: -8}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbddd225bb49444dae9016584fdfa214
+      internalID: 21300132
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 8}
+        - {x: -12, y: -11}
+        - {x: -11, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 4}
+        - {x: 11, y: 7}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: df75c69223d34d089705680b2a25e454
+      internalID: 21300134
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 7}
+        - {x: -12, y: -10}
+        - {x: -8, y: -12}
+        - {x: 10, y: -12}
+        - {x: 12, y: -7}
+        - {x: 12, y: 7}
+        - {x: 10, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b169c0a1754a99acaea6af83c00914
+      internalID: 21300136
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -4, y: 7}
+        - {x: -11, y: 3}
+        - {x: -12, y: -5}
+        - {x: -12, y: -12}
+        - {x: 9, y: -12}
+        - {x: 12, y: -10}
+        - {x: 12, y: 4}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a663101b3874528b88e6385e812560b
+      internalID: 21300138
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 11, y: 7}
+        - {x: -7, y: 7}
+        - {x: -9, y: 6}
+        - {x: -11, y: -2}
+        - {x: -11, y: -12}
+        - {x: 5, y: -12}
+        - {x: 6, y: -11}
+        - {x: 11, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c05f82a68174fb2b6b291c6f03c219c
+      internalID: 21300140
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 4}
+        - {x: -10, y: 1}
+        - {x: -10, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 2}
+        - {x: 7, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4d13fe90cf48a9865f11054e64389d
+      internalID: 21300142
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: 6}
+        - {x: -11, y: 5}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 5}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb32491abeae48bcb476ad741a6a8de1
+      internalID: 21300144
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 5}
+        - {x: -11, y: -9}
+        - {x: -9, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 3}
+        - {x: 10, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd9a4230b7a44d8ae2e0fe78bb1e6c7
+      internalID: 21300146
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: -4}
+        - {x: -11, y: -9}
+        - {x: -11, y: -11}
+        - {x: -10, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd200a3d47604d60a7731a8f277c1c81
+      internalID: 21300148
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -12, y: 7}
+        - {x: -12, y: -10}
+        - {x: -11, y: -12}
+        - {x: 4, y: -12}
+        - {x: 10, y: -4}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec13a1915a44d20b72b8d8cb9056c1b
+      internalID: 21300150
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -12, y: -6}
+        - {x: -6, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -7}
+        - {x: 12, y: 8}
+        - {x: 11, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d1a3e4239c49949b8a47982ba2186e
+      internalID: 21300152
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 9, y: 5}
+        - {x: -12, y: 5}
+        - {x: -12, y: -11}
+        - {x: -11, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -7}
+        - {x: 10, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe6095d2dd243838df58dbcc571328a
+      internalID: 21300154
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 9, y: 10}
+        - {x: -4, y: 10}
+        - {x: -12, y: 8}
+        - {x: -12, y: -2}
+        - {x: -11, y: -5}
+        - {x: -5, y: -12}
+        - {x: 6, y: -12}
+        - {x: 12, y: -5}
+        - {x: 12, y: 5}
+        - {x: 11, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9e8a77394f493281439a3f07f3b543
+      internalID: 21300156
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 9}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768343fc47d5467f938ec070630799a3
+      internalID: 21300158
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -3, y: 9}
+        - {x: -10, y: 8}
+        - {x: -12, y: 8}
+        - {x: -12, y: -9}
+        - {x: -10, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -11}
+        - {x: 11, y: 7}
+        - {x: 7, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce6054dc1954937a853ccbe976564af
+      internalID: 21300160
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Imsomnia_24x24_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 10, y: 8}
+        - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: 10, y: -12}
+        - {x: 12, y: -10}
+        - {x: 12, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008a7948e1904751b9af8aba4de13c6e
+      internalID: 21300162
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: dd14d2ddaa07bc34756cc666fad2ee2c.bundle
+  assetBundleVariant:

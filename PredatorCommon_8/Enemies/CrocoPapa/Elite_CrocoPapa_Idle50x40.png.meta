@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 4fd4ed073893ff44aa96df647fffdf8b
+timeCreated: 1706119809
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Elite_CrocoPapa_Idle50x40_2
+  - first:
+      213: 21300002
+    second: Elite_CrocoPapa_Idle50x40_3
+  - first:
+      213: 21300004
+    second: Elite_CrocoPapa_Idle50x40_1
+  - first:
+      213: 21300006
+    second: Elite_CrocoPapa_Idle50x40_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elite_CrocoPapa_Idle50x40_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 50
+        height: 35.973248
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -17.986624}
+        - {x: -25, y: -11.986624}
+        - {x: -25, y: 7.013376}
+        - {x: -18, y: 18.013376}
+        - {x: 13, y: 18.013376}
+        - {x: 25, y: 9.013376}
+        - {x: 25, y: -1.9866238}
+        - {x: 11, y: -17.986624}
+      physicsShape:
+      - - {x: -2, y: 18.013376}
+        - {x: -11, y: 15.013376}
+        - {x: -18, y: 18.013376}
+        - {x: -25, y: 7.013376}
+        - {x: -25, y: -11.986624}
+        - {x: -18, y: -17.986624}
+        - {x: 11, y: -17.986624}
+        - {x: 25, y: -1.9866238}
+        - {x: 25, y: 9.013376}
+        - {x: 13, y: 18.013376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f52d1f9b3a4bb3a456f60d17ba6ee6
+      internalID: 21300000
+      vertices:
+      - {x: 38, y: 53.986626}
+      - {x: 50, y: 33.986626}
+      - {x: 50, y: 44.986626}
+      - {x: 36, y: 17.986624}
+      - {x: 7, y: 53.986626}
+      - {x: 7, y: 17.986624}
+      - {x: 0, y: 42.986626}
+      - {x: 0, y: 23.986624}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_CrocoPapa_Idle50x40_3
+      rect:
+        serializedVersion: 2
+        x: 150.02675
+        y: 0
+        width: 49.973248
+        height: 36.973248
+      alignment: 9
+      pivot: {x: 0.4997324, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.013372, y: -18.486624}
+        - {x: -25.013372, y: -15.486624}
+        - {x: -25.013372, y: 7.513376}
+        - {x: -21.013372, y: 18.513376}
+        - {x: 15.986628, y: 18.513376}
+        - {x: 24.986628, y: 12.513376}
+        - {x: 24.986628, y: -5.486624}
+        - {x: 16.986628, y: -18.486624}
+      physicsShape:
+      - - {x: 13.986628, y: 18.513376}
+        - {x: -11.013372, y: 18.513376}
+        - {x: -17.013372, y: 17.513376}
+        - {x: -25.013372, y: 4.513376}
+        - {x: -25.013372, y: -12.486624}
+        - {x: -18.013372, y: -18.486624}
+        - {x: 10.986628, y: -18.486624}
+        - {x: 13.986628, y: -8.486624}
+        - {x: 24.986628, y: -1.4866238}
+        - {x: 24.986628, y: 8.513376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0641ea35a34af89caf1b996167d922
+      internalID: 21300002
+      vertices:
+      - {x: 49.986626, y: 49.486626}
+      - {x: 41.986626, y: 18.486624}
+      - {x: 49.986626, y: 31.486624}
+      - {x: 40.986626, y: 55.486626}
+      - {x: 4.986624, y: 18.486624}
+      - {x: 3.9866238, y: 55.486626}
+      - {x: -0.013376236, y: 44.486626}
+      - {x: -0.013376236, y: 21.486624}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_CrocoPapa_Idle50x40_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 50
+        height: 37.973248
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -18.986624}
+        - {x: -25, y: -14.986624}
+        - {x: -25, y: 16.013376}
+        - {x: -17, y: 19.013376}
+        - {x: 20, y: 19.013376}
+        - {x: 25, y: 11.013376}
+        - {x: 25, y: -1.9866238}
+        - {x: 11, y: -18.986624}
+      physicsShape:
+      - - {x: -3, y: 19.013376}
+        - {x: -15, y: 16.013376}
+        - {x: -25, y: 11.013376}
+        - {x: -25, y: -12.986624}
+        - {x: -18, y: -18.986624}
+        - {x: 11, y: -18.986624}
+        - {x: 25, y: -1.9866238}
+        - {x: 25, y: 9.013376}
+        - {x: 13, y: 19.013376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c224611663c474db4b6c3dcc98c801d
+      internalID: 21300004
+      vertices:
+      - {x: 45, y: 56.986626}
+      - {x: 50, y: 35.986626}
+      - {x: 50, y: 48.986626}
+      - {x: 36, y: 18.986624}
+      - {x: 8, y: 56.986626}
+      - {x: 6, y: 18.986624}
+      - {x: 0, y: 53.986626}
+      - {x: 0, y: 22.986624}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_CrocoPapa_Idle50x40_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 38.973248
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -19.486624}
+        - {x: -25, y: -14.486624}
+        - {x: -25, y: 11.513376}
+        - {x: -19, y: 17.513376}
+        - {x: -10, y: 19.513376}
+        - {x: 11, y: 19.513376}
+        - {x: 16, y: 16.513376}
+        - {x: 25, y: 9.513376}
+        - {x: 25, y: -0.48662376}
+        - {x: 22, y: -4.486624}
+        - {x: 11, y: -19.486624}
+      physicsShape:
+      - - {x: 16, y: 16.513376}
+        - {x: 11, y: 19.513376}
+        - {x: -10, y: 19.513376}
+        - {x: -19, y: 17.513376}
+        - {x: -25, y: 6.513376}
+        - {x: -25, y: -13.486624}
+        - {x: -18, y: -19.486624}
+        - {x: 11, y: -19.486624}
+        - {x: 22, y: -4.486624}
+        - {x: 25, y: -0.48662376}
+        - {x: 25, y: 9.513376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b950fbef215b4625ada8cec45c1c407e
+      internalID: 21300006
+      vertices:
+      - {x: 50, y: 48.486626}
+      - {x: 47, y: 34.486626}
+      - {x: 50, y: 38.486626}
+      - {x: 41, y: 55.486626}
+      - {x: 36, y: 58.486626}
+      - {x: 36, y: 19.486624}
+      - {x: 15, y: 58.486626}
+      - {x: 6, y: 56.486626}
+      - {x: 3, y: 19.486624}
+      - {x: 0, y: 50.486626}
+      - {x: 0, y: 24.486624}
+      indices:
+      - 10
+      - 9
+      - 8
+      - 7
+      - 8
+      - 9
+      - 5
+      - 8
+      - 7
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 18979b6ea7ccdc86004681d90bf9ac05.bundle
+  assetBundleVariant:

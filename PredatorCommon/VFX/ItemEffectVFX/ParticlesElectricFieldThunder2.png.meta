@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 85c69eb4a52966b4982a02d856f38959
+timeCreated: 1706119845
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ParticlesElectricFieldThunder2_2
+  - first:
+      213: 21300002
+    second: ParticlesElectricFieldThunder2_3
+  - first:
+      213: 21300004
+    second: ParticlesElectricFieldThunder2_4
+  - first:
+      213: 21300006
+    second: ParticlesElectricFieldThunder2_0
+  - first:
+      213: 21300008
+    second: ParticlesElectricFieldThunder2_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParticlesElectricFieldThunder2_2
+      rect:
+        serializedVersion: 2
+        x: 360.0761
+        y: 29.012913
+        width: 44.872562
+        height: 53.97418
+      alignment: 9
+      pivot: {x: 1.0011438, y: 0.9631844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.512392, y: -27.000002}
+        - {x: -22.512392, y: -24.000002}
+        - {x: -22.512392, y: -23.000002}
+        - {x: -19.512392, y: -20.000002}
+        - {x: -17.512392, y: -20.000002}
+        - {x: -15.512392, y: -22.000002}
+        - {x: -16.512392, y: -26.000002}
+      - - {x: -9.512392, y: -12.000002}
+        - {x: -10.512392, y: -10.000002}
+        - {x: -5.512392, y: 5.999998}
+        - {x: 16.487608, y: 26.999998}
+        - {x: 22.487608, y: 26.999998}
+        - {x: 22.487608, y: 13.999998}
+        - {x: 7.487608, y: -12.000002}
+      physicsShape:
+      - - {x: -22.512392, y: -23.000002}
+        - {x: -22.512392, y: -24.000002}
+        - {x: -19.512392, y: -27.000002}
+        - {x: -16.512392, y: -26.000002}
+        - {x: -15.512392, y: -22.000002}
+        - {x: -17.512392, y: -20.000002}
+        - {x: -19.512392, y: -20.000002}
+      - - {x: 16.487608, y: 26.999998}
+        - {x: -5.512392, y: 5.999998}
+        - {x: -10.512392, y: -10.000002}
+        - {x: -9.512392, y: -12.000002}
+        - {x: 7.487608, y: -12.000002}
+        - {x: 22.487608, y: 13.999998}
+        - {x: 22.487608, y: 26.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b766850a624a53beaff7ab19fe3aed
+      internalID: 21300000
+      vertices:
+      - {x: 16.436281, y: 28.98709}
+      - {x: 22.436281, y: 15.987089}
+      - {x: 22.436281, y: 28.98709}
+      - {x: 7.436281, y: -10.012911}
+      - {x: -5.563719, y: 7.987089}
+      - {x: -9.563719, y: -10.012911}
+      - {x: -10.563719, y: -8.012911}
+      - {x: -17.563719, y: -18.01291}
+      - {x: -16.563719, y: -24.01291}
+      - {x: -15.563719, y: -20.01291}
+      - {x: -19.563719, y: -18.01291}
+      - {x: -19.563719, y: -25.01291}
+      - {x: -22.563719, y: -21.01291}
+      - {x: -22.563719, y: -22.01291}
+      indices:
+      - 13
+      - 12
+      - 11
+      - 10
+      - 11
+      - 12
+      - 8
+      - 11
+      - 10
+      - 7
+      - 8
+      - 10
+      - 9
+      - 8
+      - 7
+      - 6
+      - 4
+      - 5
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesElectricFieldThunder2_3
+      rect:
+        serializedVersion: 2
+        x: 535.02325
+        y: 46.076122
+        width: 23.96381
+        height: 23.910969
+      alignment: 9
+      pivot: {x: 1.3343766, y: 1.4605798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.0051575, y: -4.0316067}
+        - {x: -9.005157, y: -1.0316067}
+        - {x: -9.005157, y: 3.9683933}
+        - {x: -6.0051575, y: 4.9683933}
+        - {x: -2.0051575, y: -2.0316067}
+      - - {x: 2.9948425, y: -0.031606674}
+        - {x: -0.0051574707, y: 1.9683933}
+        - {x: -0.0051574707, y: 5.9683933}
+        - {x: 6.9948425, y: 10.968393}
+        - {x: 9.994843, y: 11.968393}
+        - {x: 11.994843, y: 9.968393}
+        - {x: 10.994843, y: 3.9683933}
+        - {x: 6.9948425, y: -0.031606674}
+      - - {x: -5.0051575, y: -12.031607}
+        - {x: -12.005157, y: -12.031607}
+        - {x: -12.005157, y: -9.031607}
+        - {x: -6.0051575, y: -4.0316067}
+        - {x: -5.0051575, y: -4.0316067}
+        - {x: -1.0051575, y: -4.0316067}
+        - {x: -0.0051574707, y: -7.0316067}
+        - {x: -2.0051575, y: -11.031607}
+      physicsShape:
+      - - {x: -12.005157, y: -9.031607}
+        - {x: -12.005157, y: -12.031607}
+        - {x: -5.0051575, y: -12.031607}
+        - {x: -2.0051575, y: -11.031607}
+        - {x: -0.0051574707, y: -7.0316067}
+        - {x: -1.0051575, y: -4.0316067}
+        - {x: -6.0051575, y: -4.0316067}
+      - - {x: -5.0051575, y: -4.0316067}
+        - {x: -2.0051575, y: -2.0316067}
+        - {x: -6.0051575, y: 4.9683933}
+        - {x: -9.005157, y: 3.9683933}
+        - {x: -9.005157, y: -1.0316067}
+      - - {x: 6.9948425, y: 10.968393}
+        - {x: -0.0051574707, y: 5.9683933}
+        - {x: -0.0051574707, y: 1.9683933}
+        - {x: 2.9948425, y: -0.031606674}
+        - {x: 6.9948425, y: -0.031606674}
+        - {x: 10.994843, y: 3.9683933}
+        - {x: 11.994843, y: 9.968393}
+        - {x: 9.994843, y: 11.968393}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238e3a1104d94afd90d4419b56ebe33e
+      internalID: 21300002
+      vertices:
+      - {x: -9.018095, y: -15.044516}
+      - {x: -10.018095, y: -22.044516}
+      - {x: -8.018095, y: -18.044516}
+      - {x: -13.018095, y: -15.044516}
+      - {x: -13.018095, y: -23.044516}
+      - {x: -14.018095, y: -15.044516}
+      - {x: -20.018095, y: -20.044516}
+      - {x: -20.018095, y: -23.044516}
+      - {x: 1.981905, y: 0.9554844}
+      - {x: 2.981905, y: -7.0445156}
+      - {x: 3.981905, y: -1.0445156}
+      - {x: -1.018095, y: -0.04451561}
+      - {x: -1.018095, y: -11.044516}
+      - {x: -5.018095, y: -11.044516}
+      - {x: -8.018095, y: -5.0445156}
+      - {x: -8.018095, y: -9.044516}
+      - {x: -14.018095, y: -6.0445156}
+      - {x: -10.018095, y: -13.044516}
+      - {x: -17.018095, y: -7.0445156}
+      - {x: -17.018095, y: -12.044516}
+      indices:
+      - 19
+      - 18
+      - 3
+      - 16
+      - 3
+      - 18
+      - 17
+      - 3
+      - 16
+      - 15
+      - 14
+      - 13
+      - 11
+      - 13
+      - 14
+      - 12
+      - 13
+      - 11
+      - 9
+      - 12
+      - 11
+      - 8
+      - 9
+      - 11
+      - 10
+      - 9
+      - 8
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesElectricFieldThunder2_4
+      rect:
+        serializedVersion: 2
+        x: 698.01294
+        y: 46.051315
+        width: 21.910969
+        height: 16.94675
+      alignment: 9
+      pivot: {x: 1.4142259, y: 2.0622647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.031576, y: 2.4753094}
+        - {x: 4.031576, y: 5.4753094}
+        - {x: 8.031576, y: 8.475309}
+        - {x: 11.031576, y: 7.4753094}
+        - {x: 11.031576, y: 5.4753094}
+        - {x: 8.031576, y: 2.4753094}
+      - - {x: -7.968424, y: 0.47530937}
+        - {x: -9.968424, y: 3.4753094}
+        - {x: -7.968424, y: 5.4753094}
+        - {x: -4.968424, y: 4.4753094}
+        - {x: -4.968424, y: 1.4753094}
+      - - {x: -8.968424, y: -8.524691}
+        - {x: -10.968424, y: -5.5246906}
+        - {x: -8.968424, y: -3.5246906}
+        - {x: -5.968424, y: -4.5246906}
+        - {x: -5.968424, y: -7.5246906}
+      physicsShape:
+      - - {x: -8.968424, y: -8.524691}
+        - {x: -5.968424, y: -7.5246906}
+        - {x: -5.968424, y: -4.5246906}
+        - {x: -8.968424, y: -3.5246906}
+        - {x: -10.968424, y: -5.5246906}
+      - - {x: -7.968424, y: 0.47530937}
+        - {x: -4.968424, y: 1.4753094}
+        - {x: -4.968424, y: 4.4753094}
+        - {x: -7.968424, y: 5.4753094}
+        - {x: -9.968424, y: 3.4753094}
+      - - {x: 4.031576, y: 5.4753094}
+        - {x: 5.031576, y: 2.4753094}
+        - {x: 8.031576, y: 2.4753094}
+        - {x: 11.031576, y: 5.4753094}
+        - {x: 11.031576, y: 7.4753094}
+        - {x: 8.031576, y: 8.475309}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700c68c1e0234aa8a62add90952a929c
+      internalID: 21300004
+      vertices:
+      - {x: -18.044516, y: -21.526625}
+      - {x: -15.044516, y: -25.526625}
+      - {x: -15.044516, y: -22.526625}
+      - {x: -18.044516, y: -26.526625}
+      - {x: -20.044516, y: -23.526625}
+      - {x: -17.044516, y: -12.526625}
+      - {x: -14.044516, y: -16.526625}
+      - {x: -14.044516, y: -13.526625}
+      - {x: -17.044516, y: -17.526625}
+      - {x: -19.044516, y: -14.526625}
+      - {x: -1.0445156, y: -9.526625}
+      - {x: 1.9554844, y: -12.526625}
+      - {x: 1.9554844, y: -10.526625}
+      - {x: -1.0445156, y: -15.526625}
+      - {x: -4.0445156, y: -15.526625}
+      - {x: -5.0445156, y: -12.526625}
+      indices:
+      - 15
+      - 10
+      - 14
+      - 13
+      - 14
+      - 10
+      - 11
+      - 13
+      - 10
+      - 12
+      - 11
+      - 10
+      - 9
+      - 5
+      - 8
+      - 6
+      - 8
+      - 5
+      - 7
+      - 6
+      - 5
+      - 4
+      - 0
+      - 3
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesElectricFieldThunder2_0
+      rect:
+        serializedVersion: 2
+        x: 70.01291
+        y: 71.01291
+        width: 10.944183
+        height: 11.935776
+      alignment: 9
+      pivot: {x: 1.0039206, y: 0.83673584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.4850006, y: -5.980797}
+        - {x: -5.4850006, y: -1.9807968}
+        - {x: -5.4850006, y: 3.0192032}
+        - {x: -2.4850006, y: 6.019203}
+        - {x: 2.5149994, y: 5.019203}
+        - {x: 5.5149994, y: 3.0192032}
+        - {x: 5.5149994, y: -2.9807968}
+        - {x: 4.5149994, y: -4.980797}
+        - {x: 1.5149994, y: -5.980797}
+      physicsShape:
+      - - {x: -2.4850006, y: 6.019203}
+        - {x: -5.4850006, y: 3.0192032}
+        - {x: -5.4850006, y: -1.9807968}
+        - {x: -3.4850006, y: -5.980797}
+        - {x: 1.5149994, y: -5.980797}
+        - {x: 4.5149994, y: -4.980797}
+        - {x: 5.5149994, y: -2.9807968}
+        - {x: 5.5149994, y: 3.0192032}
+        - {x: 2.5149994, y: 5.019203}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b534b7f05b374ce7a48f5751751ad1d7
+      internalID: 21300006
+      vertices:
+      - {x: 5.4720917, y: 4.967888}
+      - {x: 4.4720917, y: -3.0321121}
+      - {x: 5.4720917, y: -1.0321121}
+      - {x: 2.4720917, y: 6.967888}
+      - {x: 1.4720917, y: -4.032112}
+      - {x: -2.5279083, y: 7.967888}
+      - {x: -3.5279083, y: -4.032112}
+      - {x: -5.5279083, y: 4.967888}
+      - {x: -5.5279083, y: -0.03211212}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesElectricFieldThunder2_1
+      rect:
+        serializedVersion: 2
+        x: 209.02675
+        y: 44.076122
+        width: 32.921932
+        height: 38.91097
+      alignment: 9
+      pivot: {x: 1.0319337, y: 0.94893235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.487715, y: -19.531607}
+        - {x: -16.487715, y: -19.531607}
+        - {x: -16.487715, y: -2.5316067}
+        - {x: 0.51228523, y: 17.468393}
+        - {x: 10.512285, y: 19.468393}
+        - {x: 14.512285, y: 19.468393}
+        - {x: 16.512285, y: 18.468393}
+        - {x: 16.512285, y: 16.468393}
+        - {x: 12.512285, y: 3.4683933}
+        - {x: 1.5122852, y: -14.531607}
+        - {x: -5.487715, y: -17.531607}
+      physicsShape:
+      - - {x: 16.512285, y: 18.468393}
+        - {x: 14.512285, y: 19.468393}
+        - {x: 12.512285, y: 19.468393}
+        - {x: 7.512285, y: 13.468393}
+        - {x: -12.487715, y: 1.4683933}
+        - {x: -16.487715, y: -8.531607}
+        - {x: -16.487715, y: -19.531607}
+        - {x: -11.487715, y: -19.531607}
+        - {x: -5.487715, y: -17.531607}
+        - {x: 1.5122852, y: -14.531607}
+        - {x: 12.512285, y: 3.4683933}
+        - {x: 16.512285, y: 16.468393}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942ef53f99b241b9a7ad34030bf5d365
+      internalID: 21300008
+      vertices:
+      - {x: 13.460966, y: 21.455484}
+      - {x: 15.460966, y: 18.455484}
+      - {x: 15.460966, y: 20.455484}
+      - {x: 11.460966, y: 5.4554844}
+      - {x: 9.460966, y: 21.455484}
+      - {x: 0.4609661, y: -12.544516}
+      - {x: -0.5390339, y: 19.455484}
+      - {x: -6.539034, y: -15.544516}
+      - {x: -12.539034, y: -17.544516}
+      - {x: -17.539034, y: -0.5445156}
+      - {x: -17.539034, y: -17.544516}
+      indices:
+      - 10
+      - 9
+      - 8
+      - 6
+      - 8
+      - 9
+      - 7
+      - 8
+      - 6
+      - 5
+      - 7
+      - 6
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

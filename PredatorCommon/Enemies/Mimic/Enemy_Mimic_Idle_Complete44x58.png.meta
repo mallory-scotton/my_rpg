@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: d26ef997439f36544a3fcf9dffcab8ea
+timeCreated: 1706119828
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Enemy_Mimic_Idle_Complete44x58_2
+  - first:
+      213: 21300002
+    second: Enemy_Mimic_Idle_Complete44x58_4
+  - first:
+      213: 21300004
+    second: Enemy_Mimic_Idle_Complete44x58_0
+  - first:
+      213: 21300006
+    second: Enemy_Mimic_Idle_Complete44x58_3
+  - first:
+      213: 21300008
+    second: Enemy_Mimic_Idle_Complete44x58_1
+  - first:
+      213: 21300010
+    second: Enemy_Mimic_Idle_Complete44x58_5
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Mimic_Idle_Complete44x58_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 44
+        height: 55.948685
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.6255732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -27.974342}
+        - {x: -22, y: -24.974342}
+        - {x: -22, y: 8.025658}
+        - {x: -15, y: 28.025658}
+        - {x: 15, y: 28.025658}
+        - {x: 19, y: 27.025658}
+        - {x: 22, y: 16.025658}
+        - {x: 22, y: -23.974342}
+        - {x: 14, y: -27.974342}
+      physicsShape:
+      - - {x: 10, y: 28.025658}
+        - {x: -11, y: 28.025658}
+        - {x: -16, y: 25.025658}
+        - {x: -22, y: 7.0256577}
+        - {x: -22, y: -21.974342}
+        - {x: -14, y: -27.974342}
+        - {x: 11, y: -27.974342}
+        - {x: 22, y: -19.974342}
+        - {x: 22, y: 5.0256577}
+        - {x: 15, y: 24.025658}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29432e1a9df247b0b14f85ae49134022
+      internalID: 21300000
+      vertices:
+      - {x: 43, y: 47.974342}
+      - {x: 46, y: -3.0256577}
+      - {x: 46, y: 36.974342}
+      - {x: 39, y: 48.974342}
+      - {x: 38, y: -7.0256577}
+      - {x: 9, y: 48.974342}
+      - {x: 5, y: -7.0256577}
+      - {x: 2, y: 28.974342}
+      - {x: 2, y: -4.0256577}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_Idle_Complete44x58_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.076120496
+        width: 44
+        height: 56.872562
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.6140725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -28.512403}
+        - {x: -22, y: -23.512403}
+        - {x: -22, y: 12.4875965}
+        - {x: -16, y: 28.487597}
+        - {x: 22, y: 28.487597}
+        - {x: 22, y: -25.512403}
+        - {x: 17, y: -28.512403}
+      physicsShape:
+      - - {x: 19, y: 27.487597}
+        - {x: 11, y: 28.487597}
+        - {x: -15, y: 28.487597}
+        - {x: -17, y: 25.487597}
+        - {x: -22, y: 8.4875965}
+        - {x: -22, y: -20.512403}
+        - {x: -7, y: -28.512403}
+        - {x: 11, y: -28.512403}
+        - {x: 22, y: -20.512403}
+        - {x: 22, y: 2.4875965}
+        - {x: 16, y: 8.4875965}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad349e24cfea429e98afd2eb0a76d0b4
+      internalID: 21300002
+      vertices:
+      - {x: 46, y: 50.43628}
+      - {x: 41, y: -6.563719}
+      - {x: 46, y: -3.5637188}
+      - {x: 17, y: -6.563719}
+      - {x: 8, y: 50.43628}
+      - {x: 2, y: 34.43628}
+      - {x: 2, y: -1.5637188}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_Idle_Complete44x58_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118.07612
+        width: 44
+        height: 55.92388
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.5887267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -28.03806}
+        - {x: -22, y: -23.03806}
+        - {x: -22, y: 13.961941}
+        - {x: -17, y: 27.96194}
+        - {x: 19, y: 27.96194}
+        - {x: 22, y: 10.961941}
+        - {x: 22, y: -22.03806}
+        - {x: 10, y: -28.03806}
+      physicsShape:
+      - - {x: -16, y: 27.96194}
+        - {x: -17, y: 14.961941}
+        - {x: -22, y: 3.9619408}
+        - {x: -22, y: -23.03806}
+        - {x: -13, y: -28.03806}
+        - {x: 10, y: -28.03806}
+        - {x: 22, y: -22.03806}
+        - {x: 22, y: 3.9619408}
+        - {x: 19, y: 27.96194}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb9cb24a30749a7a2f23050b503f95f
+      internalID: 21300004
+      vertices:
+      - {x: 43, y: 50.96194}
+      - {x: 46, y: 0.96194077}
+      - {x: 46, y: 33.96194}
+      - {x: 34, y: -5.038059}
+      - {x: 7, y: 50.96194}
+      - {x: 6, y: -5.038059}
+      - {x: 2, y: 36.96194}
+      - {x: 2, y: -0.038059235}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_Idle_Complete44x58_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 58
+        width: 44
+        height: 54.948685
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.63695794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -27.474342}
+        - {x: -22, y: -21.474342}
+        - {x: -22, y: 23.525658}
+        - {x: -20, y: 26.525658}
+        - {x: -11, y: 27.525658}
+        - {x: 18, y: 27.525658}
+        - {x: 20, y: 26.525658}
+        - {x: 22, y: 19.525658}
+        - {x: 22, y: -24.474342}
+        - {x: 16, y: -27.474342}
+      physicsShape:
+      - - {x: 13, y: 27.525658}
+        - {x: -11, y: 27.525658}
+        - {x: -20, y: 26.525658}
+        - {x: -22, y: 15.525658}
+        - {x: -22, y: -19.474342}
+        - {x: -9, y: -27.474342}
+        - {x: 12, y: -27.474342}
+        - {x: 22, y: -20.474342}
+        - {x: 22, y: 7.5256577}
+        - {x: 15, y: 23.525658}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601cd6aeeffa428cb80d447ecb4e3299
+      internalID: 21300006
+      vertices:
+      - {x: 44, y: 46.474342}
+      - {x: 46, y: -4.5256577}
+      - {x: 46, y: 39.474342}
+      - {x: 42, y: 47.474342}
+      - {x: 40, y: -7.5256577}
+      - {x: 13, y: 47.474342}
+      - {x: 5, y: -7.5256577}
+      - {x: 4, y: 46.474342}
+      - {x: 2, y: 43.474342}
+      - {x: 2, y: -1.5256577}
+      indices:
+      - 9
+      - 8
+      - 6
+      - 7
+      - 6
+      - 8
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_Idle_Complete44x58_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 116.07612
+        width: 44
+        height: 57.872562
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.6034618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -29.0124}
+        - {x: -22, y: -21.0124}
+        - {x: -22, y: 18.9876}
+        - {x: -20, y: 27.9876}
+        - {x: -14, y: 28.9876}
+        - {x: 15, y: 28.9876}
+        - {x: 22, y: 8.9876}
+        - {x: 22, y: -28.0124}
+        - {x: 20, y: -29.0124}
+      physicsShape:
+      - - {x: 13, y: 28.9876}
+        - {x: -11, y: 28.9876}
+        - {x: -20, y: 27.9876}
+        - {x: -22, y: 8.9876}
+        - {x: -22, y: -21.0124}
+        - {x: -6, y: -29.0124}
+        - {x: 10, y: -29.0124}
+        - {x: 22, y: -21.0124}
+        - {x: 22, y: 5.9876003}
+        - {x: 15, y: 24.9876}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a447dfad2454158a588faf19f935c60
+      internalID: 21300008
+      vertices:
+      - {x: 46, y: 31.936281}
+      - {x: 44, y: -6.063719}
+      - {x: 46, y: -5.063719}
+      - {x: 39, y: 51.93628}
+      - {x: 10, y: 51.93628}
+      - {x: 8, y: -6.063719}
+      - {x: 4, y: 50.93628}
+      - {x: 2, y: 41.93628}
+      - {x: 2, y: 1.9362812}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_Idle_Complete44x58_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1.0761205
+        width: 44
+        height: 56.923878
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.5959516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -28.538061}
+        - {x: -22, y: -23.538061}
+        - {x: -22, y: 27.461939}
+        - {x: -21, y: 28.461939}
+        - {x: 19, y: 28.461939}
+        - {x: 22, y: 12.461939}
+        - {x: 22, y: -25.538061}
+        - {x: 18, y: -28.538061}
+      physicsShape:
+      - - {x: 12, y: 28.461939}
+        - {x: -13, y: 28.461939}
+        - {x: -17, y: 26.461939}
+        - {x: -16, y: 7.461939}
+        - {x: -22, y: 4.461939}
+        - {x: -22, y: -21.538061}
+        - {x: -8, y: -28.538061}
+        - {x: 9, y: -28.538061}
+        - {x: 22, y: -21.538061}
+        - {x: 22, y: 3.4619389}
+        - {x: 15, y: 25.461939}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7788664c0f3c4a609570c9c7ebb5fce3
+      internalID: 21300010
+      vertices:
+      - {x: 43, y: 51.461937}
+      - {x: 46, y: -2.5380611}
+      - {x: 46, y: 35.461937}
+      - {x: 42, y: -5.538061}
+      - {x: 6, y: -5.538061}
+      - {x: 3, y: 51.461937}
+      - {x: 2, y: 50.461937}
+      - {x: 2, y: -0.53806114}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

@@ -1,0 +1,810 @@
+fileFormatVersion: 2
+guid: 3f198bae5e1a3c1428db727f5c9db579
+timeCreated: 1706119823
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GN_transitionRoom_pool136x108_6
+  - first:
+      213: 21300002
+    second: GN_transitionRoom_pool136x108_8
+  - first:
+      213: 21300004
+    second: GN_transitionRoom_pool136x108_2
+  - first:
+      213: 21300006
+    second: GN_transitionRoom_pool136x108_0
+  - first:
+      213: 21300008
+    second: GN_transitionRoom_pool136x108_1
+  - first:
+      213: 21300010
+    second: GN_transitionRoom_pool136x108_7
+  - first:
+      213: 21300012
+    second: GN_transitionRoom_pool136x108_3
+  - first:
+      213: 21300014
+    second: GN_transitionRoom_pool136x108_4
+  - first:
+      213: 21300016
+    second: GN_transitionRoom_pool136x108_5
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GN_transitionRoom_pool136x108_6
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 136
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -54}
+        - {x: -68, y: 54}
+        - {x: 68, y: 54}
+        - {x: 68, y: -54}
+      physicsShape:
+      - - {x: 26, y: -53}
+        - {x: 35, y: -51}
+        - {x: 48, y: -41}
+        - {x: 52, y: -37}
+        - {x: 64, y: -18}
+        - {x: 67, y: -10}
+        - {x: 68, y: -7}
+        - {x: 68, y: 13}
+        - {x: 66, y: 17}
+        - {x: 63, y: 24}
+        - {x: 60, y: 27}
+        - {x: 54, y: 38}
+        - {x: 47, y: 43}
+        - {x: 23, y: 53}
+        - {x: 10, y: 50}
+        - {x: -2, y: 54}
+        - {x: -26, y: 54}
+        - {x: -29, y: 51}
+        - {x: -38, y: 50}
+        - {x: -45, y: 46}
+        - {x: -53, y: 37}
+        - {x: -52, y: 31}
+        - {x: -60, y: 25}
+        - {x: -64, y: 16}
+        - {x: -68, y: 10}
+        - {x: -68, y: -21}
+        - {x: -64, y: -28}
+        - {x: -61, y: -37}
+        - {x: -53, y: -46}
+        - {x: -45, y: -46}
+        - {x: -35, y: -54}
+        - {x: -30, y: -54}
+        - {x: -16, y: -52}
+        - {x: -14, y: -54}
+        - {x: -6, y: -54}
+        - {x: -4, y: -53}
+        - {x: -3, y: -54}
+        - {x: 23, y: -54}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a22dffecd454790878561d1da38a785
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 108}
+      - {x: 136, y: 108}
+      - {x: 0, y: 0}
+      - {x: 136, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_transitionRoom_pool136x108_8
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 136
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -54}
+        - {x: -68, y: 54}
+        - {x: 68, y: 54}
+        - {x: 68, y: -54}
+      physicsShape:
+      - - {x: 26, y: -53}
+        - {x: 35, y: -51}
+        - {x: 48, y: -41}
+        - {x: 52, y: -37}
+        - {x: 64, y: -18}
+        - {x: 67, y: -10}
+        - {x: 68, y: -7}
+        - {x: 68, y: 13}
+        - {x: 66, y: 17}
+        - {x: 63, y: 24}
+        - {x: 60, y: 27}
+        - {x: 54, y: 38}
+        - {x: 47, y: 43}
+        - {x: 23, y: 53}
+        - {x: 10, y: 50}
+        - {x: -2, y: 54}
+        - {x: -26, y: 54}
+        - {x: -29, y: 51}
+        - {x: -38, y: 50}
+        - {x: -45, y: 46}
+        - {x: -53, y: 37}
+        - {x: -52, y: 31}
+        - {x: -60, y: 25}
+        - {x: -64, y: 16}
+        - {x: -68, y: 10}
+        - {x: -68, y: -21}
+        - {x: -64, y: -28}
+        - {x: -61, y: -37}
+        - {x: -53, y: -46}
+        - {x: -45, y: -46}
+        - {x: -35, y: -54}
+        - {x: -30, y: -54}
+        - {x: -16, y: -52}
+        - {x: -14, y: -54}
+        - {x: -6, y: -54}
+        - {x: -4, y: -53}
+        - {x: -3, y: -54}
+        - {x: 23, y: -54}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af184fe2e224faf9c6fd17cfaaca3f5
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 108}
+      - {x: 136, y: 108}
+      - {x: 0, y: 0}
+      - {x: 136, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_transitionRoom_pool136x108_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 136
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -54}
+        - {x: -68, y: 54}
+        - {x: 68, y: 54}
+        - {x: 68, y: -54}
+      physicsShape:
+      - - {x: 26, y: -53}
+        - {x: 35, y: -51}
+        - {x: 48, y: -41}
+        - {x: 52, y: -37}
+        - {x: 64, y: -18}
+        - {x: 67, y: -10}
+        - {x: 68, y: -7}
+        - {x: 68, y: 13}
+        - {x: 66, y: 17}
+        - {x: 63, y: 24}
+        - {x: 60, y: 27}
+        - {x: 54, y: 38}
+        - {x: 47, y: 43}
+        - {x: 23, y: 53}
+        - {x: 10, y: 50}
+        - {x: -2, y: 54}
+        - {x: -26, y: 54}
+        - {x: -29, y: 51}
+        - {x: -38, y: 50}
+        - {x: -45, y: 46}
+        - {x: -53, y: 37}
+        - {x: -52, y: 31}
+        - {x: -60, y: 25}
+        - {x: -64, y: 16}
+        - {x: -68, y: 10}
+        - {x: -68, y: -21}
+        - {x: -64, y: -28}
+        - {x: -61, y: -37}
+        - {x: -53, y: -46}
+        - {x: -45, y: -46}
+        - {x: -35, y: -54}
+        - {x: -30, y: -54}
+        - {x: -16, y: -52}
+        - {x: -14, y: -54}
+        - {x: -6, y: -54}
+        - {x: -4, y: -53}
+        - {x: -3, y: -54}
+        - {x: 23, y: -54}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3b3907850d45c2a1498552a7698691
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 108}
+      - {x: 136, y: 108}
+      - {x: 0, y: 0}
+      - {x: 136, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_transitionRoom_pool136x108_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 136
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -54}
+        - {x: -68, y: 54}
+        - {x: 68, y: 54}
+        - {x: 68, y: -54}
+      physicsShape:
+      - - {x: 26, y: -53}
+        - {x: 35, y: -51}
+        - {x: 48, y: -41}
+        - {x: 52, y: -37}
+        - {x: 64, y: -18}
+        - {x: 67, y: -10}
+        - {x: 68, y: -7}
+        - {x: 68, y: 13}
+        - {x: 66, y: 17}
+        - {x: 63, y: 24}
+        - {x: 60, y: 27}
+        - {x: 54, y: 38}
+        - {x: 47, y: 43}
+        - {x: 23, y: 53}
+        - {x: 10, y: 50}
+        - {x: -2, y: 54}
+        - {x: -26, y: 54}
+        - {x: -29, y: 51}
+        - {x: -38, y: 50}
+        - {x: -45, y: 46}
+        - {x: -53, y: 37}
+        - {x: -52, y: 31}
+        - {x: -60, y: 25}
+        - {x: -64, y: 16}
+        - {x: -68, y: 10}
+        - {x: -68, y: -21}
+        - {x: -64, y: -28}
+        - {x: -61, y: -37}
+        - {x: -53, y: -46}
+        - {x: -45, y: -46}
+        - {x: -35, y: -54}
+        - {x: -30, y: -54}
+        - {x: -16, y: -52}
+        - {x: -14, y: -54}
+        - {x: -6, y: -54}
+        - {x: -4, y: -53}
+        - {x: -3, y: -54}
+        - {x: 23, y: -54}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4503a796fbfc427db3bd43b49fdf771a
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 108}
+      - {x: 136, y: 108}
+      - {x: 0, y: 0}
+      - {x: 136, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_transitionRoom_pool136x108_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 136
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -54}
+        - {x: -68, y: 54}
+        - {x: 68, y: 54}
+        - {x: 68, y: -54}
+      physicsShape:
+      - - {x: 26, y: -53}
+        - {x: 35, y: -51}
+        - {x: 48, y: -41}
+        - {x: 52, y: -37}
+        - {x: 64, y: -18}
+        - {x: 67, y: -10}
+        - {x: 68, y: -7}
+        - {x: 68, y: 13}
+        - {x: 66, y: 17}
+        - {x: 63, y: 24}
+        - {x: 60, y: 27}
+        - {x: 54, y: 38}
+        - {x: 47, y: 43}
+        - {x: 23, y: 53}
+        - {x: 10, y: 50}
+        - {x: -2, y: 54}
+        - {x: -26, y: 54}
+        - {x: -29, y: 51}
+        - {x: -38, y: 50}
+        - {x: -45, y: 46}
+        - {x: -53, y: 37}
+        - {x: -52, y: 31}
+        - {x: -60, y: 25}
+        - {x: -64, y: 16}
+        - {x: -68, y: 10}
+        - {x: -68, y: -21}
+        - {x: -64, y: -28}
+        - {x: -61, y: -37}
+        - {x: -53, y: -46}
+        - {x: -45, y: -46}
+        - {x: -35, y: -54}
+        - {x: -30, y: -54}
+        - {x: -16, y: -52}
+        - {x: -14, y: -54}
+        - {x: -6, y: -54}
+        - {x: -4, y: -53}
+        - {x: -3, y: -54}
+        - {x: 23, y: -54}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f92f36520e349dcb7726abd31aab965
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 108}
+      - {x: 136, y: 108}
+      - {x: 0, y: 0}
+      - {x: 136, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_transitionRoom_pool136x108_7
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 136
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -54}
+        - {x: -68, y: 54}
+        - {x: 68, y: 54}
+        - {x: 68, y: -54}
+      physicsShape:
+      - - {x: 26, y: -53}
+        - {x: 35, y: -51}
+        - {x: 48, y: -41}
+        - {x: 52, y: -37}
+        - {x: 64, y: -18}
+        - {x: 67, y: -10}
+        - {x: 68, y: -7}
+        - {x: 68, y: 13}
+        - {x: 66, y: 17}
+        - {x: 63, y: 24}
+        - {x: 60, y: 27}
+        - {x: 54, y: 38}
+        - {x: 47, y: 43}
+        - {x: 23, y: 53}
+        - {x: 10, y: 50}
+        - {x: -2, y: 54}
+        - {x: -26, y: 54}
+        - {x: -29, y: 51}
+        - {x: -38, y: 50}
+        - {x: -45, y: 46}
+        - {x: -53, y: 37}
+        - {x: -52, y: 31}
+        - {x: -60, y: 25}
+        - {x: -64, y: 16}
+        - {x: -68, y: 10}
+        - {x: -68, y: -21}
+        - {x: -64, y: -28}
+        - {x: -61, y: -37}
+        - {x: -53, y: -46}
+        - {x: -45, y: -46}
+        - {x: -35, y: -54}
+        - {x: -30, y: -54}
+        - {x: -16, y: -52}
+        - {x: -14, y: -54}
+        - {x: -6, y: -54}
+        - {x: -4, y: -53}
+        - {x: -3, y: -54}
+        - {x: 23, y: -54}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d4b98a8a9a479b945b6a502ac10378
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 108}
+      - {x: 136, y: 108}
+      - {x: 0, y: 0}
+      - {x: 136, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_transitionRoom_pool136x108_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 136
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -54}
+        - {x: -68, y: 54}
+        - {x: 68, y: 54}
+        - {x: 68, y: -54}
+      physicsShape:
+      - - {x: 26, y: -53}
+        - {x: 35, y: -51}
+        - {x: 48, y: -41}
+        - {x: 52, y: -37}
+        - {x: 64, y: -18}
+        - {x: 67, y: -10}
+        - {x: 68, y: -7}
+        - {x: 68, y: 13}
+        - {x: 66, y: 17}
+        - {x: 63, y: 24}
+        - {x: 60, y: 27}
+        - {x: 54, y: 38}
+        - {x: 47, y: 43}
+        - {x: 23, y: 53}
+        - {x: 10, y: 50}
+        - {x: -2, y: 54}
+        - {x: -26, y: 54}
+        - {x: -29, y: 51}
+        - {x: -38, y: 50}
+        - {x: -45, y: 46}
+        - {x: -53, y: 37}
+        - {x: -52, y: 31}
+        - {x: -60, y: 25}
+        - {x: -64, y: 16}
+        - {x: -68, y: 10}
+        - {x: -68, y: -21}
+        - {x: -64, y: -28}
+        - {x: -61, y: -37}
+        - {x: -53, y: -46}
+        - {x: -45, y: -46}
+        - {x: -35, y: -54}
+        - {x: -30, y: -54}
+        - {x: -16, y: -52}
+        - {x: -14, y: -54}
+        - {x: -6, y: -54}
+        - {x: -4, y: -53}
+        - {x: -3, y: -54}
+        - {x: 23, y: -54}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e394b691d7ab4d63a88fe739936258ae
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 108}
+      - {x: 136, y: 108}
+      - {x: 0, y: 0}
+      - {x: 136, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_transitionRoom_pool136x108_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 136
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -54}
+        - {x: -68, y: 54}
+        - {x: 68, y: 54}
+        - {x: 68, y: -54}
+      physicsShape:
+      - - {x: 26, y: -53}
+        - {x: 35, y: -51}
+        - {x: 48, y: -41}
+        - {x: 52, y: -37}
+        - {x: 64, y: -18}
+        - {x: 67, y: -10}
+        - {x: 68, y: -7}
+        - {x: 68, y: 13}
+        - {x: 66, y: 17}
+        - {x: 63, y: 24}
+        - {x: 60, y: 27}
+        - {x: 54, y: 38}
+        - {x: 47, y: 43}
+        - {x: 23, y: 53}
+        - {x: 10, y: 50}
+        - {x: -2, y: 54}
+        - {x: -26, y: 54}
+        - {x: -29, y: 51}
+        - {x: -38, y: 50}
+        - {x: -45, y: 46}
+        - {x: -53, y: 37}
+        - {x: -52, y: 31}
+        - {x: -60, y: 25}
+        - {x: -64, y: 16}
+        - {x: -68, y: 10}
+        - {x: -68, y: -21}
+        - {x: -64, y: -28}
+        - {x: -61, y: -37}
+        - {x: -53, y: -46}
+        - {x: -45, y: -46}
+        - {x: -35, y: -54}
+        - {x: -30, y: -54}
+        - {x: -16, y: -52}
+        - {x: -14, y: -54}
+        - {x: -6, y: -54}
+        - {x: -4, y: -53}
+        - {x: -3, y: -54}
+        - {x: 23, y: -54}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f0b697b1924ea99c5475ab6620cac1
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 108}
+      - {x: 136, y: 108}
+      - {x: 0, y: 0}
+      - {x: 136, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_transitionRoom_pool136x108_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 136
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -54}
+        - {x: -68, y: 54}
+        - {x: 68, y: 54}
+        - {x: 68, y: -54}
+      physicsShape:
+      - - {x: 26, y: -53}
+        - {x: 35, y: -51}
+        - {x: 48, y: -41}
+        - {x: 52, y: -37}
+        - {x: 64, y: -18}
+        - {x: 67, y: -10}
+        - {x: 68, y: -7}
+        - {x: 68, y: 13}
+        - {x: 66, y: 17}
+        - {x: 63, y: 24}
+        - {x: 60, y: 27}
+        - {x: 54, y: 38}
+        - {x: 47, y: 43}
+        - {x: 23, y: 53}
+        - {x: 10, y: 50}
+        - {x: -2, y: 54}
+        - {x: -26, y: 54}
+        - {x: -29, y: 51}
+        - {x: -38, y: 50}
+        - {x: -45, y: 46}
+        - {x: -53, y: 37}
+        - {x: -52, y: 31}
+        - {x: -60, y: 25}
+        - {x: -64, y: 16}
+        - {x: -68, y: 10}
+        - {x: -68, y: -21}
+        - {x: -64, y: -28}
+        - {x: -61, y: -37}
+        - {x: -53, y: -46}
+        - {x: -45, y: -46}
+        - {x: -35, y: -54}
+        - {x: -30, y: -54}
+        - {x: -16, y: -52}
+        - {x: -14, y: -54}
+        - {x: -6, y: -54}
+        - {x: -4, y: -53}
+        - {x: -3, y: -54}
+        - {x: 23, y: -54}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5843d34086b342aa87bffae5e8010dc8
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 108}
+      - {x: 136, y: 108}
+      - {x: 0, y: 0}
+      - {x: 136, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 65827e5843426b7463705ba31aebab29.bundle
+  assetBundleVariant:

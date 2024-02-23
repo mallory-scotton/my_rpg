@@ -1,0 +1,969 @@
+fileFormatVersion: 2
+guid: 81cc665eb92d2454eb8966fe060aa255
+timeCreated: 1706119843
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CharacterBabyIdle_Wooper24x24_StandingIdle3
+  - first:
+      213: 21300002
+    second: CharacterBabyIdle_Wooper24x24_StandingUp1
+  - first:
+      213: 21300004
+    second: CharacterBabyIdle_Wooper24x24_Falling2
+  - first:
+      213: 21300006
+    second: CharacterBabyIdle_Wooper24x24_Falling6
+  - first:
+      213: 21300008
+    second: CharacterBabyIdle_Wooper24x24_StandingUp0
+  - first:
+      213: 21300010
+    second: CharacterBabyIdle_Wooper24x24_SitIdle0
+  - first:
+      213: 21300012
+    second: CharacterBabyIdle_Wooper24x24_StandingIdle1
+  - first:
+      213: 21300014
+    second: CharacterBabyIdle_Wooper24x24_SitIdle2
+  - first:
+      213: 21300016
+    second: CharacterBabyIdle_Wooper24x24_StandingUp3
+  - first:
+      213: 21300018
+    second: CharacterBabyIdle_Wooper24x24_SitIdle1
+  - first:
+      213: 21300020
+    second: CharacterBabyIdle_Wooper24x24_Falling0
+  - first:
+      213: 21300022
+    second: CharacterBabyIdle_Wooper24x24_StandingIdle0
+  - first:
+      213: 21300024
+    second: CharacterBabyIdle_Wooper24x24_StandingIdle2
+  - first:
+      213: 21300026
+    second: CharacterBabyIdle_Wooper24x24_SitIdle3
+  - first:
+      213: 21300028
+    second: CharacterBabyIdle_Wooper24x24_Falling5
+  - first:
+      213: 21300030
+    second: CharacterBabyIdle_Wooper24x24_Falling3
+  - first:
+      213: 21300032
+    second: CharacterBabyIdle_Wooper24x24_StandingUp2
+  - first:
+      213: 21300034
+    second: CharacterBabyIdle_Wooper24x24_Falling4
+  - first:
+      213: 21300036
+    second: CharacterBabyIdle_Wooper24x24_Falling1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_StandingIdle3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -4, y: 1}
+        - {x: -6, y: 0}
+        - {x: -6, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84e230cb8574a74ad3660c758843fde
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_StandingUp1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 6, y: 0}
+        - {x: -7, y: 0}
+        - {x: -8, y: -3}
+        - {x: -8, y: -10}
+        - {x: -6, y: -12}
+        - {x: 7, y: -12}
+        - {x: 9, y: -9}
+        - {x: 9, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a770988c18704d89bb893be2df0a1f05
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_Falling2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -4, y: 1}
+        - {x: -5, y: 0}
+        - {x: -5, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: -1}
+        - {x: 11, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5778e73b7f42f5927eb6d0621f22d7
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_Falling6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -4, y: 0}
+        - {x: -8, y: -1}
+        - {x: -8, y: -9}
+        - {x: -7, y: -12}
+        - {x: 6, y: -12}
+        - {x: 9, y: -9}
+        - {x: 9, y: -2}
+        - {x: 7, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b060518ca924cc7beb84a1d2258ac2c
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_StandingUp0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: -1}
+        - {x: -8, y: -9}
+        - {x: -7, y: -12}
+        - {x: 6, y: -12}
+        - {x: 9, y: -10}
+        - {x: 9, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e6f20dae554e2cb992a54de4664af0
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_SitIdle0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 8, y: 0}
+        - {x: -7, y: 0}
+        - {x: -8, y: -1}
+        - {x: -8, y: -12}
+        - {x: 7, y: -12}
+        - {x: 9, y: -8}
+        - {x: 9, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fdedfe766448df843bc6e69c6e89ab
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_StandingIdle1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 1}
+        - {x: -6, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1952505226ef4280b23a47fb1afe0ee6
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_SitIdle2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 6, y: -1}
+        - {x: -7, y: -1}
+        - {x: -8, y: -3}
+        - {x: -8, y: -11}
+        - {x: -7, y: -12}
+        - {x: 6, y: -12}
+        - {x: 9, y: -9}
+        - {x: 9, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95f8a1189d24c4383f2edd6649d5c5b
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_StandingUp3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -4, y: 1}
+        - {x: -6, y: 0}
+        - {x: -6, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ecbce9a3ff4d41b675a6867d221458
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_SitIdle1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -8, y: -1}
+        - {x: -8, y: -9}
+        - {x: -7, y: -12}
+        - {x: 6, y: -12}
+        - {x: 9, y: -10}
+        - {x: 9, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf79055eb444ea49867bddb28175651
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_Falling0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 1}
+        - {x: -6, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -8}
+        - {x: 11, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f19ce19a474aabb82efd779867f893
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_StandingIdle0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -6, y: 1}
+        - {x: -6, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -8}
+        - {x: 11, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11701f2fe6724922a598519a08f854f4
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_StandingIdle2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: 0}
+        - {x: -6, y: -1}
+        - {x: -6, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -9}
+        - {x: 11, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428624bbecc94cf68af2be62ac3e7ff5
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_SitIdle3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -4, y: 0}
+        - {x: -8, y: -1}
+        - {x: -8, y: -9}
+        - {x: -7, y: -12}
+        - {x: 6, y: -12}
+        - {x: 9, y: -9}
+        - {x: 9, y: -2}
+        - {x: 7, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da4427f38be41bda2494c0eb4943b3c
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_Falling5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -9, y: -1}
+        - {x: -9, y: -9}
+        - {x: -8, y: -12}
+        - {x: 6, y: -12}
+        - {x: 9, y: -10}
+        - {x: 9, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a713a2f64ad4e8994a19d9042df201c
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_Falling3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 11, y: 2}
+        - {x: -5, y: 2}
+        - {x: -6, y: -1}
+        - {x: -6, y: -11}
+        - {x: -3, y: -12}
+        - {x: 7, y: -12}
+        - {x: 12, y: -7}
+        - {x: 12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac7f69d13404b2087d1dae53ae00f67
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_StandingUp2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: 1}
+        - {x: -7, y: -1}
+        - {x: -7, y: -11}
+        - {x: -6, y: -12}
+        - {x: 7, y: -12}
+        - {x: 10, y: -9}
+        - {x: 10, y: 0}
+        - {x: 7, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc029627ba843dc92db90bafaabfa5d
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_Falling4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: 3}
+        - {x: -6, y: 2}
+        - {x: -6, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceb8cc015f34948abd2dbc176e08c25
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBabyIdle_Wooper24x24_Falling1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: 0}
+        - {x: -5, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -11}
+        - {x: 12, y: -2}
+        - {x: 11, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3419c0b9b1546afad5b8dbc0d8b36ab
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 36}
+      - {x: 24, y: 36}
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

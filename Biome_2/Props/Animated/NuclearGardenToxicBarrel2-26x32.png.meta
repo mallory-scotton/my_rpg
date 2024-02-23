@@ -1,0 +1,737 @@
+fileFormatVersion: 2
+guid: 873a798428623f342b4498094714b76d
+timeCreated: 1706119810
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: NuclearGardenToxicBarrel2-26x32_12
+  - first:
+      213: 21300002
+    second: NuclearGardenToxicBarrel2-26x32_5
+  - first:
+      213: 21300004
+    second: NuclearGardenToxicBarrel2-26x32_0
+  - first:
+      213: 21300006
+    second: NuclearGardenToxicBarrel2-26x32_11
+  - first:
+      213: 21300008
+    second: NuclearGardenToxicBarrel2-26x32_3
+  - first:
+      213: 21300010
+    second: NuclearGardenToxicBarrel2-26x32_9
+  - first:
+      213: 21300012
+    second: NuclearGardenToxicBarrel2-26x32_10
+  - first:
+      213: 21300014
+    second: NuclearGardenToxicBarrel2-26x32_1
+  - first:
+      213: 21300016
+    second: NuclearGardenToxicBarrel2-26x32_4
+  - first:
+      213: 21300018
+    second: NuclearGardenToxicBarrel2-26x32_2
+  - first:
+      213: 21300020
+    second: NuclearGardenToxicBarrel2-26x32_8
+  - first:
+      213: 21300022
+    second: NuclearGardenToxicBarrel2-26x32_7
+  - first:
+      213: 21300024
+    second: NuclearGardenToxicBarrel2-26x32_6
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NuclearGardenToxicBarrel2-26x32_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -16}
+        - {x: -13, y: 16}
+        - {x: 13, y: 16}
+        - {x: 13, y: -16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 12}
+        - {x: -13, y: 3}
+        - {x: -13, y: -11}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 14}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e56b95ab664ebbbd8b818754f1d91b
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 26, y: 48}
+      - {x: 0, y: 16}
+      - {x: 26, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenToxicBarrel2-26x32_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 64
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -16}
+        - {x: -13, y: 16}
+        - {x: 13, y: 16}
+        - {x: 13, y: -16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 12}
+        - {x: -13, y: 3}
+        - {x: -13, y: -11}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 14}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590b8316b988490f82dd08cc6f1103e1
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 26, y: 48}
+      - {x: 0, y: 16}
+      - {x: 26, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenToxicBarrel2-26x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -16}
+        - {x: -13, y: 16}
+        - {x: 13, y: 16}
+        - {x: 13, y: -16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 12}
+        - {x: -13, y: 3}
+        - {x: -13, y: -11}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 14}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ff5b2ed10c4eee868850debd05bdf9
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 26, y: 48}
+      - {x: 0, y: 16}
+      - {x: 26, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenToxicBarrel2-26x32_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 32
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -16}
+        - {x: -13, y: 16}
+        - {x: 13, y: 16}
+        - {x: 13, y: -16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 12}
+        - {x: -13, y: 3}
+        - {x: -13, y: -11}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 14}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88837436218488eacfa05aeba748b5e
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 26, y: 48}
+      - {x: 0, y: 16}
+      - {x: 26, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenToxicBarrel2-26x32_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 96
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -16}
+        - {x: -13, y: 16}
+        - {x: 13, y: 16}
+        - {x: 13, y: -16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 12}
+        - {x: -13, y: 3}
+        - {x: -13, y: -11}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 14}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c797f437c14cbfbed18e0efafc09d8
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 26, y: 48}
+      - {x: 0, y: 16}
+      - {x: 26, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenToxicBarrel2-26x32_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 32
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -16}
+        - {x: -13, y: 16}
+        - {x: 13, y: 16}
+        - {x: 13, y: -16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 12}
+        - {x: -13, y: 3}
+        - {x: -13, y: -11}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 14}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540e11731aa84537900e3d8d725a9128
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 26, y: 48}
+      - {x: 0, y: 16}
+      - {x: 26, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenToxicBarrel2-26x32_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 32
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -16}
+        - {x: -13, y: 16}
+        - {x: 13, y: 16}
+        - {x: 13, y: -16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 12}
+        - {x: -13, y: 3}
+        - {x: -13, y: -11}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 14}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d447d92367214ca99a794afb46097edd
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 26, y: 48}
+      - {x: 0, y: 16}
+      - {x: 26, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenToxicBarrel2-26x32_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 96
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -16}
+        - {x: -13, y: 16}
+        - {x: 13, y: 16}
+        - {x: 13, y: -16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 12}
+        - {x: -13, y: 3}
+        - {x: -13, y: -11}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 14}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f6b34ae5d5492d930b9b4b3af76c35
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 26, y: 48}
+      - {x: 0, y: 16}
+      - {x: 26, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenToxicBarrel2-26x32_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -16}
+        - {x: -13, y: 16}
+        - {x: 13, y: 16}
+        - {x: 13, y: -16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 12}
+        - {x: -13, y: 3}
+        - {x: -13, y: -11}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 14}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38647c7515d413d91de5f6c63793f82
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 26, y: 48}
+      - {x: 0, y: 16}
+      - {x: 26, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenToxicBarrel2-26x32_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 96
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -16}
+        - {x: -13, y: 16}
+        - {x: 13, y: 16}
+        - {x: 13, y: -16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 12}
+        - {x: -13, y: 3}
+        - {x: -13, y: -11}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 14}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af659668bd44325bbbe9f509f6b385f
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 26, y: 48}
+      - {x: 0, y: 16}
+      - {x: 26, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenToxicBarrel2-26x32_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -16}
+        - {x: -13, y: 16}
+        - {x: 13, y: 16}
+        - {x: 13, y: -16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 12}
+        - {x: -13, y: 3}
+        - {x: -13, y: -11}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 14}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f897c04f9f8a424a8b0ea2b83f542f61
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 26, y: 48}
+      - {x: 0, y: 16}
+      - {x: 26, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenToxicBarrel2-26x32_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 64
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -16}
+        - {x: -13, y: 16}
+        - {x: 13, y: 16}
+        - {x: 13, y: -16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 12}
+        - {x: -13, y: 3}
+        - {x: -13, y: -11}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 14}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdd5a03a2a44eff9fc5d5ccb5268c4b
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 26, y: 48}
+      - {x: 0, y: 16}
+      - {x: 26, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenToxicBarrel2-26x32_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 64
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -16}
+        - {x: -13, y: 16}
+        - {x: 13, y: 16}
+        - {x: 13, y: -16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 12}
+        - {x: -13, y: 3}
+        - {x: -13, y: -11}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 14}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d05e6d1c6384c6691820ea7a1a137ca
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 26, y: 48}
+      - {x: 0, y: 16}
+      - {x: 26, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 4cccb9c8fa36edf1f03dae7baaef6041.bundle
+  assetBundleVariant:

@@ -1,0 +1,1233 @@
+fileFormatVersion: 2
+guid: 8131627a7dd120342b38dfebd9b55ebd
+timeCreated: 1706119823
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: enemy_anglereye_33x33_3
+  - first:
+      213: 21300002
+    second: enemy_anglereye_33x33_15
+  - first:
+      213: 21300004
+    second: enemy_anglereye_33x33_0
+  - first:
+      213: 21300006
+    second: enemy_anglereye_33x33_6
+  - first:
+      213: 21300008
+    second: enemy_anglereye_33x33_7
+  - first:
+      213: 21300010
+    second: enemy_anglereye_33x33_14
+  - first:
+      213: 21300012
+    second: enemy_anglereye_33x33_13
+  - first:
+      213: 21300014
+    second: enemy_anglereye_33x33_1
+  - first:
+      213: 21300016
+    second: enemy_anglereye_33x33_16
+  - first:
+      213: 21300018
+    second: enemy_anglereye_33x33_2
+  - first:
+      213: 21300020
+    second: enemy_anglereye_33x33_11
+  - first:
+      213: 21300022
+    second: enemy_anglereye_33x33_9
+  - first:
+      213: 21300024
+    second: enemy_anglereye_33x33_8
+  - first:
+      213: 21300026
+    second: enemy_anglereye_33x33_4
+  - first:
+      213: 21300028
+    second: enemy_anglereye_33x33_5
+  - first:
+      213: 21300030
+    second: enemy_anglereye_33x33_12
+  - first:
+      213: 21300032
+    second: enemy_anglereye_33x33_10
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy_anglereye_33x33_3
+      rect:
+        serializedVersion: 2
+        x: 100.011116
+        y: 0
+        width: 30.912762
+        height: 30.97325
+      alignment: 9
+      pivot: {x: 0.5010514, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.467498, y: -15.486625}
+        - {x: -15.467498, y: -12.486625}
+        - {x: -15.467498, y: -2.4866247}
+        - {x: -8.467498, y: 10.513375}
+        - {x: 3.5325022, y: 15.513375}
+        - {x: 8.532502, y: 15.513375}
+        - {x: 15.532502, y: 9.513375}
+        - {x: 15.532502, y: 4.5133753}
+        - {x: 12.532502, y: -9.486625}
+        - {x: 9.532502, y: -15.486625}
+      physicsShape:
+      - - {x: 8.532502, y: 15.513375}
+        - {x: 3.5325022, y: 15.513375}
+        - {x: -8.467498, y: 10.513375}
+        - {x: -15.467498, y: -2.4866247}
+        - {x: -15.467498, y: -12.486625}
+        - {x: -12.467498, y: -15.486625}
+        - {x: 9.532502, y: -15.486625}
+        - {x: 12.532502, y: -9.486625}
+        - {x: 15.532502, y: 4.5133753}
+        - {x: 15.532502, y: 9.513375}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76faee55c9464a14aa964de06a31243a
+      internalID: 21300000
+      vertices:
+      - {x: 30.95638, y: 40.486626}
+      - {x: 27.95638, y: 21.486626}
+      - {x: 30.95638, y: 35.486626}
+      - {x: 24.95638, y: 15.486625}
+      - {x: 23.95638, y: 46.486626}
+      - {x: 18.95638, y: 46.486626}
+      - {x: 6.956381, y: 41.486626}
+      - {x: 2.9563808, y: 15.486625}
+      - {x: -0.043619156, y: 28.486626}
+      - {x: -0.043619156, y: 18.486626}
+      indices:
+      - 9
+      - 8
+      - 7
+      - 6
+      - 7
+      - 8
+      - 3
+      - 7
+      - 6
+      - 5
+      - 3
+      - 6
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_anglereye_33x33_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 8
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -2.5}
+        - {x: -2.5, y: 2.5}
+        - {x: 2.5, y: 2.5}
+        - {x: 2.5, y: -2.5}
+      physicsShape:
+      - - {x: -2.5, y: 2.5}
+        - {x: -2.5, y: -2.5}
+        - {x: 2.5, y: -2.5}
+        - {x: 2.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eb16f162104c899abda9b8ee3355de
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 5, y: 5}
+      - {x: 0, y: 0}
+      - {x: 5, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_anglereye_33x33_0
+      rect:
+        serializedVersion: 2
+        x: 1.026751
+        y: 0
+        width: 31.897127
+        height: 33
+      alignment: 9
+      pivot: {x: 0.48509854, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.975314, y: -16.5}
+        - {x: -15.975314, y: -14.5}
+        - {x: -15.975314, y: -0.5}
+        - {x: -4.975314, y: 14.5}
+        - {x: 1.0246859, y: 16.5}
+        - {x: 13.024686, y: 16.5}
+        - {x: 16.024685, y: 12.5}
+        - {x: 16.024685, y: 1.5}
+        - {x: 9.024686, y: -16.5}
+      physicsShape:
+      - - {x: 3.0246859, y: 16.5}
+        - {x: -3.9753141, y: 13.5}
+        - {x: -10.975314, y: 6.5}
+        - {x: -15.975314, y: -1.5}
+        - {x: -15.975314, y: -12.5}
+        - {x: -14.975314, y: -16.5}
+        - {x: 9.024686, y: -16.5}
+        - {x: 16.024685, y: 1.5}
+        - {x: 16.024685, y: 12.5}
+        - {x: 13.024686, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84459a0a3964e40b6499f24e55c75ca
+      internalID: 21300004
+      vertices:
+      - {x: 29.448563, y: 49.5}
+      - {x: 32.448563, y: 34.5}
+      - {x: 32.448563, y: 45.5}
+      - {x: 25.448563, y: 16.5}
+      - {x: 17.448563, y: 49.5}
+      - {x: 11.448564, y: 47.5}
+      - {x: 1.4485636, y: 16.5}
+      - {x: 0.44856358, y: 32.5}
+      - {x: 0.44856358, y: 18.5}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_anglereye_33x33_6
+      rect:
+        serializedVersion: 2
+        x: 199.02675
+        y: 0
+        width: 30.921932
+        height: 32.923878
+      alignment: 9
+      pivot: {x: 0.5003973, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.487714, y: -16.461939}
+        - {x: -15.487714, y: -13.461939}
+        - {x: -15.487714, y: -6.461939}
+        - {x: -10.487714, y: 7.538061}
+        - {x: 2.5122862, y: 16.538061}
+        - {x: 11.512286, y: 16.538061}
+        - {x: 15.512286, y: 14.538061}
+        - {x: 15.512286, y: -2.4619389}
+        - {x: 12.512286, y: -16.461939}
+      physicsShape:
+      - - {x: 11.512286, y: 16.538061}
+        - {x: 2.5122862, y: 16.538061}
+        - {x: -10.487714, y: 7.538061}
+        - {x: -15.487714, y: -6.461939}
+        - {x: -15.487714, y: -13.461939}
+        - {x: -12.487714, y: -16.461939}
+        - {x: 12.512286, y: -16.461939}
+        - {x: 15.512286, y: -2.4619389}
+        - {x: 15.512286, y: 14.538061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31cfa94094c42eaa9ecc2357ebb9785
+      internalID: 21300006
+      vertices:
+      - {x: 30.960966, y: 47.461937}
+      - {x: 27.960966, y: 16.461939}
+      - {x: 30.960966, y: 30.461939}
+      - {x: 26.960966, y: 49.461937}
+      - {x: 17.960966, y: 49.461937}
+      - {x: 4.960966, y: 40.461937}
+      - {x: 2.960966, y: 16.461939}
+      - {x: -0.03903389, y: 26.461939}
+      - {x: -0.03903389, y: 19.461939}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 1
+      - 6
+      - 5
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_anglereye_33x33_7
+      rect:
+        serializedVersion: 2
+        x: 233.02675
+        y: 0
+        width: 29.921932
+        height: 31.92388
+      alignment: 9
+      pivot: {x: 0.48370042, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.987715, y: -15.96194}
+        - {x: -14.987715, y: -13.96194}
+        - {x: -14.987715, y: -4.96194}
+        - {x: -11.987715, y: 7.03806}
+        - {x: 1.0122852, y: 16.03806}
+        - {x: 11.012285, y: 16.03806}
+        - {x: 15.012285, y: 14.03806}
+        - {x: 15.012285, y: -3.9619398}
+        - {x: 7.012285, y: -15.96194}
+      physicsShape:
+      - - {x: 1.0122852, y: 16.03806}
+        - {x: -11.987715, y: 7.03806}
+        - {x: -14.987715, y: -4.96194}
+        - {x: -14.987715, y: -13.96194}
+        - {x: -10.987715, y: -15.96194}
+        - {x: 7.012285, y: -15.96194}
+        - {x: 15.012285, y: -3.9619398}
+        - {x: 15.012285, y: 14.03806}
+        - {x: 11.012285, y: 16.03806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ed78dac2264c9f8b069240ff5f18b1
+      internalID: 21300008
+      vertices:
+      - {x: 26.460966, y: 47.96194}
+      - {x: 30.460966, y: 27.96194}
+      - {x: 30.460966, y: 45.96194}
+      - {x: 22.460966, y: 15.96194}
+      - {x: 16.460966, y: 47.96194}
+      - {x: 4.460966, y: 15.96194}
+      - {x: 3.460966, y: 38.96194}
+      - {x: 0.4609661, y: 26.96194}
+      - {x: 0.4609661, y: 17.96194}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_anglereye_33x33_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 18
+        width: 33
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -6}
+        - {x: -16.5, y: 6}
+        - {x: 16.5, y: 6}
+        - {x: 16.5, y: -6}
+      physicsShape:
+      - - {x: -12.5, y: 6}
+        - {x: -16.5, y: 5}
+        - {x: -16.5, y: -6}
+        - {x: 10.5, y: -6}
+        - {x: 16.5, y: -3}
+        - {x: 16.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f914f3c61064f969e5470f23a2010ed
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 33, y: 12}
+      - {x: 0, y: 0}
+      - {x: 33, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_anglereye_33x33_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 33
+        height: 18.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -9.46194}
+        - {x: -16.5, y: -9.46194}
+        - {x: -16.5, y: -5.46194}
+        - {x: -9.5, y: 2.5380602}
+        - {x: -3.5, y: 5.53806}
+        - {x: 7.5, y: 9.53806}
+        - {x: 14.5, y: 9.53806}
+        - {x: 16.5, y: 8.53806}
+      physicsShape:
+      - - {x: 7.5, y: 9.53806}
+        - {x: -3.5, y: 5.53806}
+        - {x: -9.5, y: 2.5380602}
+        - {x: -16.5, y: -5.46194}
+        - {x: -16.5, y: -9.46194}
+        - {x: 16.5, y: -9.46194}
+        - {x: 16.5, y: 8.53806}
+        - {x: 14.5, y: 9.53806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418def80312d4a28bab10306c5c6f058
+      internalID: 21300012
+      vertices:
+      - {x: 31, y: 28.46194}
+      - {x: 33, y: 9.46194}
+      - {x: 33, y: 27.46194}
+      - {x: 24, y: 28.46194}
+      - {x: 13, y: 24.46194}
+      - {x: 7, y: 21.46194}
+      - {x: 0, y: 13.46194}
+      - {x: 0, y: 9.46194}
+      indices:
+      - 7
+      - 6
+      - 1
+      - 5
+      - 1
+      - 6
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_anglereye_33x33_1
+      rect:
+        serializedVersion: 2
+        x: 34.00885
+        y: 0
+        width: 31.91503
+        height: 31.940271
+      alignment: 9
+      pivot: {x: 0.4853873, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.033635, y: -15.970136}
+        - {x: -15.966365, y: -15.970136}
+        - {x: -15.966365, y: 0.029864311}
+        - {x: -2.9663649, y: 16.029865}
+        - {x: 11.033635, y: 16.029865}
+        - {x: 16.033634, y: 10.029864}
+        - {x: 16.033634, y: 1.0298643}
+        - {x: 12.033635, y: -8.970136}
+      physicsShape:
+      - - {x: 11.033635, y: 16.029865}
+        - {x: -2.9663649, y: 16.029865}
+        - {x: -15.966365, y: 0.029864311}
+        - {x: -15.966365, y: -15.970136}
+        - {x: 9.033635, y: -15.970136}
+        - {x: 12.033635, y: -8.970136}
+        - {x: 16.033634, y: 1.0298643}
+        - {x: 16.033634, y: 10.029864}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2a45c8adc04719b31c7365878974e5
+      internalID: 21300014
+      vertices:
+      - {x: 32.457516, y: 41.970135}
+      - {x: 28.457516, y: 22.970135}
+      - {x: 32.457516, y: 32.970135}
+      - {x: 27.457516, y: 47.970135}
+      - {x: 25.457516, y: 15.970136}
+      - {x: 13.457515, y: 47.970135}
+      - {x: 0.45751476, y: 31.970135}
+      - {x: 0.45751476, y: 15.970136}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_anglereye_33x33_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 8
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -2.5}
+        - {x: -2.5, y: 2.5}
+        - {x: 2.5, y: 2.5}
+        - {x: 2.5, y: -2.5}
+      physicsShape:
+      - - {x: -2.5, y: 2.5}
+        - {x: -2.5, y: -2.5}
+        - {x: 2.5, y: -2.5}
+        - {x: 2.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49f2f6d56c448a98ad79310e3c17b6f
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 5, y: 5}
+      - {x: 0, y: 0}
+      - {x: 5, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_anglereye_33x33_2
+      rect:
+        serializedVersion: 2
+        x: 67.011116
+        y: 0
+        width: 30.912762
+        height: 29.97325
+      alignment: 9
+      pivot: {x: 0.5010514, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.467498, y: -14.986625}
+        - {x: -15.467498, y: -9.986625}
+        - {x: -15.467498, y: -3.9866247}
+        - {x: -14.467498, y: 1.0133753}
+        - {x: 1.5325022, y: 15.013375}
+        - {x: 8.532502, y: 15.013375}
+        - {x: 15.532502, y: 10.013375}
+        - {x: 15.532502, y: 4.0133753}
+        - {x: 12.532502, y: -9.986625}
+        - {x: 8.532502, y: -14.986625}
+      physicsShape:
+      - - {x: 8.532502, y: 15.013375}
+        - {x: 1.5325022, y: 15.013375}
+        - {x: -14.467498, y: 1.0133753}
+        - {x: -15.467498, y: -3.9866247}
+        - {x: -15.467498, y: -9.986625}
+        - {x: -11.467498, y: -14.986625}
+        - {x: 8.532502, y: -14.986625}
+        - {x: 12.532502, y: -9.986625}
+        - {x: 15.532502, y: 4.0133753}
+        - {x: 15.532502, y: 10.013375}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054a97ae4a994456aa17dcceac92b261
+      internalID: 21300018
+      vertices:
+      - {x: 30.95638, y: 39.986626}
+      - {x: 27.95638, y: 19.986626}
+      - {x: 30.95638, y: 33.986626}
+      - {x: 23.95638, y: 44.986626}
+      - {x: 23.95638, y: 14.986625}
+      - {x: 16.95638, y: 44.986626}
+      - {x: 3.9563808, y: 14.986625}
+      - {x: 0.95638084, y: 30.986626}
+      - {x: -0.043619156, y: 25.986626}
+      - {x: -0.043619156, y: 19.986626}
+      indices:
+      - 9
+      - 8
+      - 6
+      - 7
+      - 6
+      - 8
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_anglereye_33x33_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 31.92388
+        height: 33
+      alignment: 9
+      pivot: {x: 0.51685447, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.96194, y: -16.5}
+        - {x: -15.96194, y: -12.5}
+        - {x: -15.96194, y: 12.5}
+        - {x: -5.96194, y: 16.5}
+        - {x: 11.03806, y: 16.5}
+        - {x: 12.03806, y: 7.5}
+        - {x: 16.03806, y: -14.5}
+        - {x: 16.03806, y: -16.5}
+      physicsShape:
+      - - {x: 11.03806, y: 16.5}
+        - {x: -5.96194, y: 16.5}
+        - {x: -15.96194, y: 12.5}
+        - {x: -15.96194, y: -12.5}
+        - {x: -14.96194, y: -16.5}
+        - {x: 16.03806, y: -16.5}
+        - {x: 16.03806, y: -14.5}
+        - {x: 12.03806, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5e723a81a642b0bc9cc27b1d4ff446
+      internalID: 21300020
+      vertices:
+      - {x: 27.46194, y: 40.5}
+      - {x: 31.46194, y: 16.5}
+      - {x: 31.46194, y: 18.5}
+      - {x: 9.46194, y: 49.5}
+      - {x: 26.46194, y: 49.5}
+      - {x: 0.4619398, y: 16.5}
+      - {x: -0.5380602, y: 45.5}
+      - {x: -0.5380602, y: 20.5}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 3
+      - 5
+      - 6
+      - 1
+      - 5
+      - 3
+      - 0
+      - 1
+      - 3
+      - 4
+      - 0
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_anglereye_33x33_9
+      rect:
+        serializedVersion: 2
+        x: 298.02676
+        y: 0
+        width: 29.89713
+        height: 31.963715
+      alignment: 9
+      pivot: {x: 0.5175492, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.975328, y: -15.981857}
+        - {x: -14.975328, y: -14.981857}
+        - {x: -14.975328, y: -3.9818573}
+        - {x: -10.975328, y: 7.0181427}
+        - {x: 4.0246716, y: 16.018143}
+        - {x: 9.024672, y: 16.018143}
+        - {x: 15.024672, y: 14.018143}
+        - {x: 15.024672, y: -14.981857}
+        - {x: 12.024672, y: -15.981857}
+      physicsShape:
+      - - {x: 4.0246716, y: 16.018143}
+        - {x: -10.975328, y: 7.0181427}
+        - {x: -14.975328, y: -3.9818573}
+        - {x: -14.975328, y: -14.981857}
+        - {x: -13.975328, y: -15.981857}
+        - {x: 12.024672, y: -15.981857}
+        - {x: 15.024672, y: -14.981857}
+        - {x: 15.024672, y: 14.018143}
+        - {x: 9.024672, y: 16.018143}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10bacaf46ff49e9a9f6b0fee919cb84
+      internalID: 21300022
+      vertices:
+      - {x: 29.448565, y: 45.981857}
+      - {x: 26.448565, y: 15.981857}
+      - {x: 29.448565, y: 16.981857}
+      - {x: 23.448565, y: 47.981857}
+      - {x: 18.448565, y: 47.981857}
+      - {x: 3.4485645, y: 38.981857}
+      - {x: 0.44856453, y: 15.981857}
+      - {x: -0.5514355, y: 27.981857}
+      - {x: -0.5514355, y: 16.981857}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 1
+      - 6
+      - 5
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_anglereye_33x33_8
+      rect:
+        serializedVersion: 2
+        x: 266.02676
+        y: 0
+        width: 29.89713
+        height: 31.963715
+      alignment: 9
+      pivot: {x: 0.4841012, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.975328, y: -15.981857}
+        - {x: -14.975328, y: -11.981857}
+        - {x: -14.975328, y: -0.9818573}
+        - {x: -0.97532845, y: 16.018143}
+        - {x: 13.024672, y: 16.018143}
+        - {x: 15.024672, y: 14.018143}
+        - {x: 15.024672, y: -9.981857}
+        - {x: 7.0246716, y: -15.981857}
+      physicsShape:
+      - - {x: -0.97532845, y: 16.018143}
+        - {x: -14.975328, y: -0.9818573}
+        - {x: -14.975328, y: -11.981857}
+        - {x: -8.975328, y: -15.981857}
+        - {x: 7.0246716, y: -15.981857}
+        - {x: 15.024672, y: -9.981857}
+        - {x: 15.024672, y: 14.018143}
+        - {x: 13.024672, y: 16.018143}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed08940c304413ba21110e2fe015236
+      internalID: 21300024
+      vertices:
+      - {x: 28.448565, y: 47.981857}
+      - {x: 30.448565, y: 21.981857}
+      - {x: 30.448565, y: 45.981857}
+      - {x: 22.448565, y: 15.981857}
+      - {x: 14.448565, y: 47.981857}
+      - {x: 6.4485645, y: 15.981857}
+      - {x: 0.44856453, y: 30.981857}
+      - {x: 0.44856453, y: 19.981857}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_anglereye_33x33_4
+      rect:
+        serializedVersion: 2
+        x: 133.02675
+        y: 0
+        width: 30.946499
+        height: 33
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.499998, y: -16.5}
+        - {x: -15.499998, y: -10.5}
+        - {x: -15.499998, y: -0.5}
+        - {x: -10.499998, y: 6.5}
+        - {x: 3.500002, y: 16.5}
+        - {x: 13.500002, y: 16.5}
+        - {x: 15.500002, y: 12.5}
+        - {x: 15.500002, y: -0.5}
+        - {x: 12.500002, y: -7.5}
+        - {x: 8.500002, y: -16.5}
+      physicsShape:
+      - - {x: 13.500002, y: 16.5}
+        - {x: 3.500002, y: 16.5}
+        - {x: -10.499998, y: 6.5}
+        - {x: -15.499998, y: -0.5}
+        - {x: -15.499998, y: -10.5}
+        - {x: -11.499998, y: -16.5}
+        - {x: 8.500002, y: -16.5}
+        - {x: 12.500002, y: -7.5}
+        - {x: 15.500002, y: -0.5}
+        - {x: 15.500002, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef8840353134fd3bb394d6fc6f6542c
+      internalID: 21300026
+      vertices:
+      - {x: 28.97325, y: 49.5}
+      - {x: 30.97325, y: 32.5}
+      - {x: 30.97325, y: 45.5}
+      - {x: 27.97325, y: 25.5}
+      - {x: 23.97325, y: 16.5}
+      - {x: 18.97325, y: 49.5}
+      - {x: 4.9732494, y: 39.5}
+      - {x: 3.9732494, y: 16.5}
+      - {x: -0.026750565, y: 32.5}
+      - {x: -0.026750565, y: 22.5}
+      indices:
+      - 9
+      - 8
+      - 7
+      - 6
+      - 7
+      - 8
+      - 4
+      - 7
+      - 6
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_anglereye_33x33_5
+      rect:
+        serializedVersion: 2
+        x: 166.02675
+        y: 0
+        width: 30.946499
+        height: 33
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.500002, y: -16.5}
+        - {x: -15.499998, y: -16.5}
+        - {x: -15.499998, y: 8.5}
+        - {x: -2.499998, y: 16.5}
+        - {x: 15.500002, y: 16.5}
+        - {x: 15.500002, y: -0.5}
+        - {x: 13.500002, y: -15.5}
+      physicsShape:
+      - - {x: -2.499998, y: 16.5}
+        - {x: -15.499998, y: 8.5}
+        - {x: -15.499998, y: -16.5}
+        - {x: 12.500002, y: -16.5}
+        - {x: 13.500002, y: -15.5}
+        - {x: 15.500002, y: -0.5}
+        - {x: 15.500002, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaade3f6b05b4fe79d3e550da382854c
+      internalID: 21300028
+      vertices:
+      - {x: 30.97325, y: 49.5}
+      - {x: 28.97325, y: 17.5}
+      - {x: 30.97325, y: 32.5}
+      - {x: 27.97325, y: 16.5}
+      - {x: 12.973249, y: 49.5}
+      - {x: -0.026750565, y: 41.5}
+      - {x: -0.026750565, y: 16.5}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_anglereye_33x33_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 33
+        height: 18.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -9.46194}
+        - {x: -16.5, y: -9.46194}
+        - {x: -16.5, y: -5.46194}
+        - {x: -9.5, y: 2.5380602}
+        - {x: -3.5, y: 5.53806}
+        - {x: 7.5, y: 9.53806}
+        - {x: 14.5, y: 9.53806}
+        - {x: 16.5, y: 8.53806}
+      physicsShape:
+      - - {x: 7.5, y: 9.53806}
+        - {x: -3.5, y: 5.53806}
+        - {x: -9.5, y: 2.5380602}
+        - {x: -16.5, y: -5.46194}
+        - {x: -16.5, y: -9.46194}
+        - {x: 16.5, y: -9.46194}
+        - {x: 16.5, y: 8.53806}
+        - {x: 14.5, y: 9.53806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e49587957514b18805ff6b0894b99b9
+      internalID: 21300030
+      vertices:
+      - {x: 31, y: 28.46194}
+      - {x: 33, y: 9.46194}
+      - {x: 33, y: 27.46194}
+      - {x: 24, y: 28.46194}
+      - {x: 13, y: 24.46194}
+      - {x: 7, y: 21.46194}
+      - {x: 0, y: 13.46194}
+      - {x: 0, y: 9.46194}
+      indices:
+      - 7
+      - 6
+      - 1
+      - 5
+      - 1
+      - 6
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_anglereye_33x33_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 31.92388
+        height: 33
+      alignment: 9
+      pivot: {x: 0.51685447, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.96194, y: -16.5}
+        - {x: -15.96194, y: -12.5}
+        - {x: -15.96194, y: 12.5}
+        - {x: -5.96194, y: 16.5}
+        - {x: 11.03806, y: 16.5}
+        - {x: 12.03806, y: 7.5}
+        - {x: 16.03806, y: -14.5}
+        - {x: 16.03806, y: -16.5}
+      physicsShape:
+      - - {x: 11.03806, y: 16.5}
+        - {x: -5.96194, y: 16.5}
+        - {x: -15.96194, y: 12.5}
+        - {x: -15.96194, y: -12.5}
+        - {x: -14.96194, y: -16.5}
+        - {x: 16.03806, y: -16.5}
+        - {x: 16.03806, y: -14.5}
+        - {x: 12.03806, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73103ad0a4444c7d95a51eca87aded79
+      internalID: 21300032
+      vertices:
+      - {x: 27.46194, y: 40.5}
+      - {x: 31.46194, y: 16.5}
+      - {x: 31.46194, y: 18.5}
+      - {x: 9.46194, y: 49.5}
+      - {x: 26.46194, y: 49.5}
+      - {x: 0.4619398, y: 16.5}
+      - {x: -0.5380602, y: 45.5}
+      - {x: -0.5380602, y: 20.5}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 3
+      - 5
+      - 6
+      - 1
+      - 5
+      - 3
+      - 0
+      - 1
+      - 3
+      - 4
+      - 0
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

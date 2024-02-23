@@ -1,0 +1,1176 @@
+fileFormatVersion: 2
+guid: a73326dda167fd645b7e875a1e1ea140
+timeCreated: 1706119823
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GN_fisher_NPC54x72_15
+  - first:
+      213: 21300002
+    second: GN_fisher_NPC54x72_17
+  - first:
+      213: 21300004
+    second: GN_fisher_NPC54x72_4
+  - first:
+      213: 21300006
+    second: GN_fisher_NPC54x72_6
+  - first:
+      213: 21300008
+    second: GN_fisher_NPC54x72_5
+  - first:
+      213: 21300010
+    second: GN_fisher_NPC54x72_0
+  - first:
+      213: 21300012
+    second: GN_fisher_NPC54x72_16
+  - first:
+      213: 21300014
+    second: GN_fisher_NPC54x72_18
+  - first:
+      213: 21300016
+    second: GN_fisher_NPC54x72_12
+  - first:
+      213: 21300018
+    second: GN_fisher_NPC54x72_8
+  - first:
+      213: 21300020
+    second: GN_fisher_NPC54x72_9
+  - first:
+      213: 21300022
+    second: GN_fisher_NPC54x72_10
+  - first:
+      213: 21300024
+    second: GN_fisher_NPC54x72_3
+  - first:
+      213: 21300026
+    second: GN_fisher_NPC54x72_2
+  - first:
+      213: 21300028
+    second: GN_fisher_NPC54x72_7
+  - first:
+      213: 21300030
+    second: GN_fisher_NPC54x72_11
+  - first:
+      213: 21300032
+    second: GN_fisher_NPC54x72_1
+  - first:
+      213: 21300034
+    second: GN_fisher_NPC54x72_13
+  - first:
+      213: 21300036
+    second: GN_fisher_NPC54x72_19
+  - first:
+      213: 21300038
+    second: GN_fisher_NPC54x72_14
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 72
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: -13, y: 10}
+        - {x: 1, y: 12}
+        - {x: 7, y: 6}
+        - {x: 15, y: 1}
+        - {x: 27, y: 5}
+        - {x: 27, y: 29}
+        - {x: 16, y: 33}
+        - {x: 5, y: 33}
+        - {x: -3, y: 27}
+        - {x: -19, y: 26}
+        - {x: -22, y: 23}
+        - {x: -23, y: 4}
+        - {x: -21, y: -12}
+        - {x: -26, y: -26}
+        - {x: -26, y: -33}
+        - {x: -25, y: -35}
+        - {x: -16, y: -35}
+        - {x: -10, y: -34}
+        - {x: -10, y: -24}
+        - {x: -14, y: -11}
+        - {x: -15, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123d0a3ad5704967808e16b768866cfa
+      internalID: 21300000
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 27, y: 3}
+        - {x: 27, y: 30}
+        - {x: 17, y: 31}
+        - {x: 6, y: 31}
+        - {x: 2, y: 30}
+        - {x: -24, y: 19}
+        - {x: -26, y: -7}
+        - {x: -26, y: -32}
+        - {x: -24, y: -35}
+        - {x: -8, y: -35}
+        - {x: -12, y: 8}
+        - {x: 18, y: 0}
+      - - {x: -13, y: -21}
+        - {x: -14, y: -24}
+        - {x: -11, y: -27}
+        - {x: -9, y: -27}
+        - {x: -7, y: -25}
+        - {x: -7, y: -24}
+        - {x: -10, y: -21}
+      - - {x: -27, y: -22}
+        - {x: -24, y: -25}
+        - {x: -21, y: -24}
+        - {x: -21, y: -22}
+        - {x: -24, y: -19}
+        - {x: -26, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfae6b0e6c44b88ac3c9c72cc151210
+      internalID: 21300002
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 27, y: 3}
+        - {x: 27, y: 30}
+        - {x: 17, y: 31}
+        - {x: 6, y: 31}
+        - {x: 2, y: 30}
+        - {x: -24, y: 19}
+        - {x: -26, y: -7}
+        - {x: -26, y: -32}
+        - {x: -24, y: -35}
+        - {x: -8, y: -35}
+        - {x: -12, y: 8}
+        - {x: 18, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55290d2ceb9145cf86b684d66a3214a7
+      internalID: 21300004
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 216
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 27, y: 3}
+        - {x: 27, y: 30}
+        - {x: 17, y: 31}
+        - {x: 6, y: 31}
+        - {x: 2, y: 30}
+        - {x: -24, y: 19}
+        - {x: -26, y: -7}
+        - {x: -26, y: -32}
+        - {x: -24, y: -35}
+        - {x: -8, y: -35}
+        - {x: -12, y: 8}
+        - {x: 18, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29556808dda42b6940a92e30c6c345a
+      internalID: 21300006
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 216
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 27, y: 3}
+        - {x: 27, y: 30}
+        - {x: 17, y: 31}
+        - {x: 6, y: 31}
+        - {x: 2, y: 30}
+        - {x: -24, y: 19}
+        - {x: -26, y: -7}
+        - {x: -26, y: -32}
+        - {x: -24, y: -35}
+        - {x: -8, y: -35}
+        - {x: -12, y: 8}
+        - {x: 18, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126ec5c0a576497e960e7cefcd57dfac
+      internalID: 21300008
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 27, y: 3}
+        - {x: 27, y: 30}
+        - {x: 17, y: 31}
+        - {x: 6, y: 31}
+        - {x: 2, y: 30}
+        - {x: -24, y: 19}
+        - {x: -26, y: -7}
+        - {x: -26, y: -32}
+        - {x: -24, y: -35}
+        - {x: -8, y: -35}
+        - {x: -12, y: 8}
+        - {x: 18, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500a4225416a44acb7494e537b5c0ed0
+      internalID: 21300010
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 11, y: 2}
+        - {x: 26, y: 2}
+        - {x: 27, y: 6}
+        - {x: 27, y: 29}
+        - {x: 16, y: 31}
+        - {x: 9, y: 31}
+        - {x: 2, y: 26}
+        - {x: -9, y: 22}
+        - {x: -23, y: 14}
+        - {x: -23, y: -5}
+        - {x: -26, y: -17}
+        - {x: -26, y: -33}
+        - {x: -22, y: -35}
+        - {x: -15, y: -35}
+        - {x: -10, y: -33}
+        - {x: -6, y: -22}
+        - {x: -15, y: -14}
+        - {x: -15, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b01b39eabd64f32a4a05a02f6ba5666
+      internalID: 21300012
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 27, y: 3}
+        - {x: 27, y: 30}
+        - {x: 17, y: 31}
+        - {x: 6, y: 31}
+        - {x: 2, y: 30}
+        - {x: -24, y: 19}
+        - {x: -26, y: -7}
+        - {x: -26, y: -32}
+        - {x: -24, y: -35}
+        - {x: -8, y: -35}
+        - {x: -12, y: 8}
+        - {x: 18, y: 0}
+      - - {x: -12, y: -25}
+        - {x: -9, y: -28}
+        - {x: -6, y: -27}
+        - {x: -6, y: -25}
+        - {x: -9, y: -22}
+        - {x: -11, y: -22}
+      - - {x: -25, y: -25}
+        - {x: -22, y: -24}
+        - {x: -22, y: -21}
+        - {x: -25, y: -20}
+        - {x: -27, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96586dac6a3a46fdbb8a88079fa3aa59
+      internalID: 21300014
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 18, y: 0}
+        - {x: 27, y: 3}
+        - {x: 27, y: 31}
+        - {x: 0, y: 31}
+        - {x: -15, y: 23}
+        - {x: -22, y: 18}
+        - {x: -21, y: -25}
+        - {x: -26, y: -28}
+        - {x: -26, y: -33}
+        - {x: -25, y: -35}
+        - {x: -7, y: -35}
+        - {x: -11, y: -17}
+        - {x: -15, y: 12}
+        - {x: -2, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44695b7d32ed4afa87d6b52efd04f398
+      internalID: 21300016
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 27, y: 3}
+        - {x: 27, y: 30}
+        - {x: 17, y: 31}
+        - {x: 6, y: 31}
+        - {x: 2, y: 30}
+        - {x: -24, y: 19}
+        - {x: -26, y: -7}
+        - {x: -26, y: -32}
+        - {x: -24, y: -35}
+        - {x: -8, y: -35}
+        - {x: -12, y: 8}
+        - {x: 18, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1086bdd75d0148beb1f1a8288495c912
+      internalID: 21300018
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 144
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 27, y: 3}
+        - {x: 27, y: 30}
+        - {x: 17, y: 31}
+        - {x: 6, y: 31}
+        - {x: 2, y: 30}
+        - {x: -24, y: 19}
+        - {x: -26, y: -7}
+        - {x: -26, y: -32}
+        - {x: -24, y: -35}
+        - {x: -8, y: -35}
+        - {x: -12, y: 8}
+        - {x: 18, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9a69536c544da8b127f13b32d10261
+      internalID: 21300020
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 144
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 27, y: 3}
+        - {x: 27, y: 31}
+        - {x: 0, y: 31}
+        - {x: -24, y: 19}
+        - {x: -22, y: -24}
+        - {x: -26, y: -28}
+        - {x: -26, y: -34}
+        - {x: -23, y: -35}
+        - {x: -15, y: -35}
+        - {x: -10, y: -34}
+        - {x: -9, y: -29}
+        - {x: -15, y: 12}
+        - {x: 18, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3e0eb4ccb94c9fb2ea88a91eaccd92
+      internalID: 21300022
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 288
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 27, y: 3}
+        - {x: 27, y: 30}
+        - {x: 17, y: 31}
+        - {x: 6, y: 31}
+        - {x: 2, y: 30}
+        - {x: -24, y: 19}
+        - {x: -26, y: -7}
+        - {x: -26, y: -32}
+        - {x: -24, y: -35}
+        - {x: -8, y: -35}
+        - {x: -12, y: 8}
+        - {x: 18, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b01aa908704701b2280100fb90b63e
+      internalID: 21300024
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 288
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 27, y: 3}
+        - {x: 27, y: 30}
+        - {x: 17, y: 31}
+        - {x: 6, y: 31}
+        - {x: 2, y: 30}
+        - {x: -24, y: 19}
+        - {x: -26, y: -7}
+        - {x: -26, y: -32}
+        - {x: -24, y: -35}
+        - {x: -8, y: -35}
+        - {x: -12, y: 8}
+        - {x: 18, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeee1d923f80458f81381cc8247997e0
+      internalID: 21300026
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 216
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 27, y: 3}
+        - {x: 27, y: 30}
+        - {x: 17, y: 31}
+        - {x: 6, y: 31}
+        - {x: 2, y: 30}
+        - {x: -24, y: 19}
+        - {x: -26, y: -7}
+        - {x: -26, y: -32}
+        - {x: -24, y: -35}
+        - {x: -8, y: -35}
+        - {x: -12, y: 8}
+        - {x: 18, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f64edd2fa994a2ab83853d10eba6e54
+      internalID: 21300028
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 144
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 27, y: 3}
+        - {x: 27, y: 30}
+        - {x: 17, y: 31}
+        - {x: 6, y: 31}
+        - {x: 2, y: 30}
+        - {x: -24, y: 19}
+        - {x: -26, y: -7}
+        - {x: -26, y: -32}
+        - {x: -24, y: -35}
+        - {x: -8, y: -35}
+        - {x: -12, y: 8}
+        - {x: 18, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb551f222ff490c961a903dafca954e
+      internalID: 21300030
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 288
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 27, y: 3}
+        - {x: 27, y: 30}
+        - {x: 17, y: 31}
+        - {x: 6, y: 31}
+        - {x: 2, y: 30}
+        - {x: -24, y: 19}
+        - {x: -26, y: -7}
+        - {x: -26, y: -32}
+        - {x: -24, y: -35}
+        - {x: -8, y: -35}
+        - {x: -12, y: 8}
+        - {x: 18, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898b3d37d9084cbdaea018cbb5367a7d
+      internalID: 21300032
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 72
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 27, y: 1}
+        - {x: 27, y: 30}
+        - {x: 18, y: 31}
+        - {x: 7, y: 31}
+        - {x: -20, y: 23}
+        - {x: -22, y: 15}
+        - {x: -24, y: -27}
+        - {x: -26, y: -28}
+        - {x: -26, y: -33}
+        - {x: -25, y: -35}
+        - {x: -7, y: -35}
+        - {x: -10, y: -23}
+        - {x: -1, y: 15}
+        - {x: 11, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c29bc0d6394cb4b486ff5fe576880c
+      internalID: 21300034
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 27, y: 3}
+        - {x: 27, y: 30}
+        - {x: 17, y: 31}
+        - {x: 6, y: 31}
+        - {x: 2, y: 30}
+        - {x: -24, y: 19}
+        - {x: -26, y: -7}
+        - {x: -26, y: -32}
+        - {x: -24, y: -35}
+        - {x: -8, y: -35}
+        - {x: -12, y: 8}
+        - {x: 18, y: 0}
+      - - {x: -8, y: -29}
+        - {x: -5, y: -28}
+        - {x: -5, y: -25}
+        - {x: -8, y: -24}
+        - {x: -10, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aeb241d9f24f3c8b516faf78805933
+      internalID: 21300036
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_fisher_NPC54x72_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 72
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -36}
+        - {x: -27, y: 36}
+        - {x: 27, y: 36}
+        - {x: 27, y: -36}
+      physicsShape:
+      - - {x: 27, y: 29}
+        - {x: 23, y: 32}
+        - {x: 10, y: 32}
+        - {x: 5, y: 28}
+        - {x: -20, y: 26}
+        - {x: -22, y: 17}
+        - {x: -26, y: -16}
+        - {x: -26, y: -32}
+        - {x: -24, y: -35}
+        - {x: -16, y: -35}
+        - {x: -11, y: -33}
+        - {x: -9, y: -29}
+        - {x: 27, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26de9fb572c24f2ea9d38442ddf08fe7
+      internalID: 21300038
+      vertices:
+      - {x: -15, y: 66}
+      - {x: 39, y: 66}
+      - {x: -15, y: -6}
+      - {x: 39, y: -6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 65827e5843426b7463705ba31aebab29.bundle
+  assetBundleVariant:

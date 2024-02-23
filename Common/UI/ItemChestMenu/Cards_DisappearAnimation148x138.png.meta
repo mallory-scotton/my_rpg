@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: cdc847f6a75da174cb02655985571cb0
+timeCreated: 1706119848
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Cards_DisappearAnimation148x138_0
+  - first:
+      213: 21300002
+    second: Cards_DisappearAnimation148x138_5
+  - first:
+      213: 21300004
+    second: Cards_DisappearAnimation148x138_3
+  - first:
+      213: 21300006
+    second: Cards_DisappearAnimation148x138_1
+  - first:
+      213: 21300008
+    second: Cards_DisappearAnimation148x138_2
+  - first:
+      213: 21300010
+    second: Cards_DisappearAnimation148x138_4
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cards_DisappearAnimation148x138_0
+      rect:
+        serializedVersion: 2
+        x: 14.026751
+        y: 0
+        width: 111.9465
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5357314, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.999996, y: -69}
+        - {x: -55.999996, y: -62}
+        - {x: -55.999996, y: 62}
+        - {x: -49.999996, y: 69}
+        - {x: 49.000004, y: 69}
+        - {x: 55.000004, y: 64}
+        - {x: 56.000004, y: 61}
+        - {x: 56.000004, y: -61}
+        - {x: 55.000004, y: -64}
+        - {x: 49.000004, y: -69}
+      physicsShape:
+      - - {x: -53.999996, y: 69}
+        - {x: -53.999996, y: -67}
+        - {x: -48.999996, y: -69}
+        - {x: 54.000004, y: -69}
+        - {x: 54.000004, y: 69}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef373615fd348c889f1fe0cf6ccf090
+      internalID: 21300000
+      vertices:
+      - {x: 106.97325, y: 133}
+      - {x: 107.97325, y: 8}
+      - {x: 107.97325, y: 130}
+      - {x: 106.97325, y: 5}
+      - {x: 100.97325, y: 138}
+      - {x: 100.97325, y: 0}
+      - {x: 1.9732513, y: 138}
+      - {x: 1.9732513, y: 0}
+      - {x: -4.0267487, y: 131}
+      - {x: -4.0267487, y: 7}
+      indices:
+      - 9
+      - 8
+      - 7
+      - 6
+      - 7
+      - 8
+      - 5
+      - 7
+      - 6
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_DisappearAnimation148x138_5
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -21}
+        - {x: -22, y: 21}
+        - {x: 22, y: 21}
+        - {x: 22, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed375bebb854fc58ca338e769de4622
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 44, y: 42}
+      - {x: 0, y: 0}
+      - {x: 44, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_DisappearAnimation148x138_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 65.07612
+        width: 148
+        height: 8.847763
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44348854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: -4.5}
+        - {x: -74, y: -3.5}
+        - {x: -74, y: 3.5}
+        - {x: -73, y: 4.5}
+        - {x: 73, y: 4.5}
+        - {x: 74, y: 3.5}
+        - {x: 74, y: -3.5}
+        - {x: 73, y: -4.5}
+      physicsShape:
+      - - {x: -73, y: 2.5}
+        - {x: -74, y: 1.5}
+        - {x: -74, y: -2.5}
+        - {x: 73, y: -2.5}
+        - {x: 74, y: -1.5}
+        - {x: 74, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad441bef7174770ad5179dbeaa90b89
+      internalID: 21300004
+      vertices:
+      - {x: 147, y: 9.423882}
+      - {x: 148, y: 1.4238815}
+      - {x: 148, y: 8.423882}
+      - {x: 147, y: 0.42388153}
+      - {x: 1, y: 9.423882}
+      - {x: 1, y: 0.42388153}
+      - {x: 0, y: 8.423882}
+      - {x: 0, y: 1.4238815}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_DisappearAnimation148x138_1
+      rect:
+        serializedVersion: 2
+        x: 153.07613
+        y: 44.076122
+        width: 133.89713
+        height: 44.84776
+      alignment: 9
+      pivot: {x: 0.51475245, y: 0.5557441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.02469, y: -22.500002}
+        - {x: -67.02469, y: -17.500002}
+        - {x: -67.02469, y: 22.499998}
+        - {x: 66.97531, y: 22.499998}
+        - {x: 66.97531, y: -16.500002}
+        - {x: 65.97531, y: -22.500002}
+      physicsShape:
+      - - {x: -60.02469, y: 20.499998}
+        - {x: -65.02469, y: 15.499998}
+        - {x: -65.02469, y: -16.500002}
+        - {x: -61.02469, y: -20.500002}
+        - {x: 63.97531, y: -20.500002}
+        - {x: 64.97531, y: -15.500002}
+        - {x: 64.97531, y: 19.499998}
+        - {x: 60.97531, y: 20.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9ecaea72914417b229706c3cf2e01f
+      internalID: 21300006
+      vertices:
+      - {x: 131.94856, y: 42.42388}
+      - {x: 130.94856, y: -2.5761204}
+      - {x: 131.94856, y: 3.4238796}
+      - {x: -1.0514374, y: -2.5761204}
+      - {x: -2.0514374, y: 42.42388}
+      - {x: -2.0514374, y: 2.4238796}
+      indices:
+      - 5
+      - 4
+      - 3
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_DisappearAnimation148x138_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 63.076122
+        width: 143.92387
+        height: 12.847759
+      alignment: 9
+      pivot: {x: 0.5141607, y: 0.46108255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.96194, y: -6.500002}
+        - {x: -71.96194, y: -5.500002}
+        - {x: -71.96194, y: 3.499998}
+        - {x: -70.96194, y: 6.499998}
+        - {x: 69.03806, y: 6.499998}
+        - {x: 72.03806, y: 1.4999981}
+        - {x: 72.03806, y: -2.500002}
+        - {x: 66.03806, y: -6.500002}
+      physicsShape:
+      - - {x: -67.96194, y: 4.499998}
+        - {x: -71.96194, y: 2.499998}
+        - {x: -71.96194, y: -1.5000019}
+        - {x: -70.96194, y: -4.500002}
+        - {x: 68.03806, y: -4.500002}
+        - {x: 70.03806, y: -0.5000019}
+        - {x: 70.03806, y: 3.499998}
+        - {x: 67.03806, y: 4.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b2cab8dab04416a8b6ccf354b5f84a
+      internalID: 21300008
+      vertices:
+      - {x: 138.96194, y: 13.42388}
+      - {x: 141.96194, y: 4.4238796}
+      - {x: 141.96194, y: 8.42388}
+      - {x: 135.96194, y: 0.42387962}
+      - {x: 0.96193695, y: 0.42387962}
+      - {x: -1.038063, y: 13.42388}
+      - {x: -2.038063, y: 10.42388}
+      - {x: -2.038063, y: 1.4238796}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_DisappearAnimation148x138_4
+      rect:
+        serializedVersion: 2
+        x: 651.0761
+        y: 65.07612
+        width: 25.84776
+        height: 8.847763
+      alignment: 9
+      pivot: {x: 0.57737654, y: 0.44348854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.9999895, y: -4.5}
+        - {x: -12.9999895, y: -0.5}
+        - {x: -12.9999895, y: 2.5}
+        - {x: -8.9999895, y: 4.5}
+        - {x: 9.0000105, y: 4.5}
+        - {x: 13.0000105, y: 0.5}
+        - {x: 13.0000105, y: -0.5}
+        - {x: 9.0000105, y: -4.5}
+      physicsShape:
+      - - {x: -10.9999895, y: 0.5}
+        - {x: -9.9999895, y: -2.5}
+        - {x: 9.0000105, y: -2.5}
+        - {x: 11.0000105, y: -0.5}
+        - {x: 10.0000105, y: 2.5}
+        - {x: -8.9999895, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1211c8d9efda4086bfe9a7d810016490
+      internalID: 21300010
+      vertices:
+      - {x: 19.92388, y: 9.423882}
+      - {x: 23.92388, y: 4.4238815}
+      - {x: 23.92388, y: 5.4238815}
+      - {x: 19.92388, y: 0.42388153}
+      - {x: 1.9238796, y: 9.423882}
+      - {x: -0.07612038, y: 0.42388153}
+      - {x: -2.0761204, y: 7.4238815}
+      - {x: -2.0761204, y: 4.4238815}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

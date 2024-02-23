@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: f9bb7f44c4b76984d9c6a63bc2fe2e27
+timeCreated: 1706119813
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: NG_b02_barrel_02_Particles_5
+  - first:
+      213: 21300002
+    second: NG_b02_barrel_02_Particles_2
+  - first:
+      213: 21300004
+    second: NG_b02_barrel_02_Particles_7
+  - first:
+      213: 21300006
+    second: NG_b02_barrel_02_Particles_1
+  - first:
+      213: 21300008
+    second: NG_b02_barrel_02_Particles_16
+  - first:
+      213: 21300010
+    second: NG_b02_barrel_02_Particles_11
+  - first:
+      213: 21300012
+    second: NG_b02_barrel_02_Particles_12
+  - first:
+      213: 21300014
+    second: NG_b02_barrel_02_Particles_10
+  - first:
+      213: 21300016
+    second: NG_b02_barrel_02_Particles_8
+  - first:
+      213: 21300018
+    second: NG_b02_barrel_02_Particles_14
+  - first:
+      213: 21300020
+    second: NG_b02_barrel_02_Particles_19
+  - first:
+      213: 21300022
+    second: NG_b02_barrel_02_Particles_15
+  - first:
+      213: 21300024
+    second: NG_b02_barrel_02_Particles_0
+  - first:
+      213: 21300026
+    second: NG_b02_barrel_02_Particles_18
+  - first:
+      213: 21300028
+    second: NG_b02_barrel_02_Particles_4
+  - first:
+      213: 21300030
+    second: NG_b02_barrel_02_Particles_9
+  - first:
+      213: 21300032
+    second: NG_b02_barrel_02_Particles_6
+  - first:
+      213: 21300034
+    second: NG_b02_barrel_02_Particles_13
+  - first:
+      213: 21300036
+    second: NG_b02_barrel_02_Particles_3
+  - first:
+      213: 21300038
+    second: NG_b02_barrel_02_Particles_17
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 36
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 2}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed403748f8a4ba7bc4b7176d0a1bd42
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 53
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -4, y: 2}
+        - {x: -3, y: -2}
+        - {x: 0, y: -4}
+        - {x: 1, y: -4}
+        - {x: 4, y: -1}
+        - {x: 4, y: 1}
+        - {x: 1, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3ed9491a8a4e2886d0af2583644bff
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -2, y: 3}
+        - {x: -4, y: 1}
+        - {x: -4, y: -2}
+        - {x: -2, y: -4}
+        - {x: 1, y: -4}
+        - {x: 4, y: -1}
+        - {x: 4, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827121da057147a882f8247cb041db75
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 52
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -1, y: 4}
+        - {x: -4, y: 1}
+        - {x: -3, y: -3}
+        - {x: -1, y: -4}
+        - {x: 2, y: -4}
+        - {x: 4, y: -2}
+        - {x: 4, y: 1}
+        - {x: 1, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7aedbb29e2d470f8fa3489c3f260957
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -2}
+        - {x: -1, y: -4}
+        - {x: 2, y: -4}
+        - {x: 4, y: -3}
+        - {x: 4, y: 1}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fdef49228044fbbb97a44f6ebf389c
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 19
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 3}
+        - {x: -4, y: 3}
+        - {x: -4, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6af0be0a5d4cffbedb016cee8a8079
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 21
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -4, y: 3}
+        - {x: -4, y: 1}
+        - {x: -2, y: -4}
+        - {x: 2, y: -4}
+        - {x: 4, y: -2}
+        - {x: 4, y: 2}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319d97e0914540d7ace19984a5fbf3cc
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 19
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -4, y: 0}
+        - {x: -1, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 1}
+        - {x: 0, y: 4}
+        - {x: -4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cace840a9b498e87dd69c390f96e51
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 36
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -4, y: 3}
+        - {x: -4, y: -3}
+        - {x: -3, y: -4}
+        - {x: 2, y: -4}
+        - {x: 4, y: -2}
+        - {x: 4, y: 1}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96532bc35724c6da15d0f894aa0195e
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 20
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: 2, y: 4}
+        - {x: -2, y: 4}
+        - {x: -4, y: 1}
+        - {x: -4, y: -3}
+        - {x: -3, y: -4}
+        - {x: 2, y: -4}
+        - {x: 4, y: -1}
+        - {x: 4, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9328eb5ed4b34cdc8a980612658d8dea
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: 0, y: 4}
+        - {x: -4, y: 2}
+        - {x: -4, y: -2}
+        - {x: -3, y: -4}
+        - {x: 2, y: -4}
+        - {x: 4, y: -2}
+        - {x: 4, y: 3}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe09cd6aea246a8bf95718a5dc9809b
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -1}
+        - {x: -1, y: -4}
+        - {x: 2, y: -3}
+        - {x: 2, y: 2}
+        - {x: 0, y: 4}
+        - {x: -2, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c580c296cb7430aaf6a01e967d5e561
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -4, y: 2}
+        - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 4, y: -1}
+        - {x: 4, y: 1}
+        - {x: 1, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b198aec80a4c539e345f3902b5cd29
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -1, y: 4}
+        - {x: -4, y: 1}
+        - {x: -4, y: -3}
+        - {x: 2, y: -3}
+        - {x: 4, y: -2}
+        - {x: 4, y: 3}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adf6732f7b745e2bf3e5b8b3f34c3b4
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 51
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -4, y: 2}
+        - {x: -4, y: 0}
+        - {x: -1, y: -4}
+        - {x: 3, y: -4}
+        - {x: 4, y: -3}
+        - {x: 4, y: 2}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff44a135270546969520bce2b2ada140
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 36
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -4, y: 2}
+        - {x: -4, y: -3}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 1}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecee117ff031400d980d353ca7d16ffd
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 35
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -4, y: 2}
+        - {x: -4, y: -1}
+        - {x: -3, y: -4}
+        - {x: 1, y: -4}
+        - {x: 4, y: -2}
+        - {x: 4, y: 3}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb061daaf004daa8ba3fa8e8a9131b3
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 19
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -4, y: 3}
+        - {x: -4, y: -3}
+        - {x: -3, y: -4}
+        - {x: 2, y: -4}
+        - {x: 4, y: -3}
+        - {x: 4, y: 3}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9ecaba8dff4f3a959d76a28ea079a7
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 51
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -3}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 3}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d2683355784bff95b8ccc20d1d266c
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_barrel_02_Particles_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: 3, y: 4}
+        - {x: -3, y: 4}
+        - {x: -4, y: 3}
+        - {x: -4, y: -2}
+        - {x: -2, y: -4}
+        - {x: 0, y: -4}
+        - {x: 4, y: -2}
+        - {x: 4, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c67f4756124e9e9ecc26f6f6d0388a
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: d56c6be660daaa82a18e3bccb9b133a9.bundle
+  assetBundleVariant:

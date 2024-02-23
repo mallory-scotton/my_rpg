@@ -1,0 +1,863 @@
+fileFormatVersion: 2
+guid: 02ff5d3e6c339b142a49c11845413a05
+timeCreated: 1706119824
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Boss_Appear_Tentacle28x42_9
+  - first:
+      213: 21300002
+    second: Boss_Appear_Tentacle28x42_1
+  - first:
+      213: 21300004
+    second: Boss_Appear_Tentacle28x42_12
+  - first:
+      213: 21300006
+    second: Boss_Appear_Tentacle28x42_8
+  - first:
+      213: 21300008
+    second: Boss_Appear_Tentacle28x42_15
+  - first:
+      213: 21300010
+    second: Boss_Appear_Tentacle28x42_11
+  - first:
+      213: 21300012
+    second: Boss_Appear_Tentacle28x42_10
+  - first:
+      213: 21300014
+    second: Boss_Appear_Tentacle28x42_0
+  - first:
+      213: 21300016
+    second: Boss_Appear_Tentacle28x42_2
+  - first:
+      213: 21300018
+    second: Boss_Appear_Tentacle28x42_4
+  - first:
+      213: 21300020
+    second: Boss_Appear_Tentacle28x42_6
+  - first:
+      213: 21300022
+    second: Boss_Appear_Tentacle28x42_3
+  - first:
+      213: 21300024
+    second: Boss_Appear_Tentacle28x42_5
+  - first:
+      213: 21300026
+    second: Boss_Appear_Tentacle28x42_7
+  - first:
+      213: 21300028
+    second: Boss_Appear_Tentacle28x42_13
+  - first:
+      213: 21300030
+    second: Boss_Appear_Tentacle28x42_14
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Appear_Tentacle28x42_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 84
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -21}
+        - {x: -14, y: 21}
+        - {x: 14, y: 21}
+        - {x: 14, y: -21}
+      physicsShape:
+      - - {x: -9, y: 21}
+        - {x: -12, y: 18}
+        - {x: -13, y: 4}
+        - {x: -13, y: -18}
+        - {x: -9, y: -21}
+        - {x: 4, y: -21}
+        - {x: 9, y: -20}
+        - {x: 12, y: -19}
+        - {x: 12, y: 5}
+        - {x: 7, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e420aab31f8d4351bcc349610aca1647
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 61}
+      - {x: 28, y: 61}
+      - {x: 0, y: 19}
+      - {x: 28, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_Tentacle28x42_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 126
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -21}
+        - {x: -14, y: 21}
+        - {x: 14, y: 21}
+        - {x: 14, y: -21}
+      physicsShape:
+      - - {x: -6, y: -10}
+        - {x: -11, y: -14}
+        - {x: -12, y: -17}
+        - {x: -12, y: -20}
+        - {x: -11, y: -21}
+        - {x: 8, y: -21}
+        - {x: 11, y: -19}
+        - {x: 10, y: -15}
+        - {x: 4, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dc34118d1d4488b1283f08f168884b
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 63}
+      - {x: 28, y: 63}
+      - {x: 0, y: 21}
+      - {x: 28, y: 21}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_Tentacle28x42_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 42
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -21}
+        - {x: -14, y: 21}
+        - {x: 14, y: 21}
+        - {x: 14, y: -21}
+      physicsShape:
+      - - {x: -14, y: -3}
+        - {x: -14, y: -19}
+        - {x: -12, y: -21}
+        - {x: 6, y: -21}
+        - {x: 11, y: -19}
+        - {x: 11, y: 11}
+        - {x: 4, y: 21}
+        - {x: -5, y: 21}
+        - {x: -11, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b483e3b234147edab1a3d6750fa7bab
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 61}
+      - {x: 28, y: 61}
+      - {x: 0, y: 19}
+      - {x: 28, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_Tentacle28x42_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 84
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -21}
+        - {x: -14, y: 21}
+        - {x: 14, y: 21}
+        - {x: 14, y: -21}
+      physicsShape:
+      - - {x: -7, y: 21}
+        - {x: -14, y: 2}
+        - {x: -14, y: -18}
+        - {x: -9, y: -21}
+        - {x: 10, y: -21}
+        - {x: 11, y: -18}
+        - {x: 11, y: 6}
+        - {x: 5, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e22f987525430d8ac36617f68532ae
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 61}
+      - {x: 28, y: 61}
+      - {x: 0, y: 19}
+      - {x: 28, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_Tentacle28x42_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -21}
+        - {x: -14, y: 21}
+        - {x: 14, y: 21}
+        - {x: 14, y: -21}
+      physicsShape:
+      - - {x: -5, y: 21}
+        - {x: -14, y: 4}
+        - {x: -14, y: -20}
+        - {x: -13, y: -21}
+        - {x: 7, y: -21}
+        - {x: 11, y: -20}
+        - {x: 11, y: 12}
+        - {x: 3, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701dd4997e8440889ae6287fad37384f
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 61}
+      - {x: 28, y: 61}
+      - {x: 0, y: 19}
+      - {x: 28, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_Tentacle28x42_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 42
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -21}
+        - {x: -14, y: 21}
+        - {x: 14, y: 21}
+        - {x: 14, y: -21}
+      physicsShape:
+      - - {x: -5, y: 21}
+        - {x: -14, y: 4}
+        - {x: -14, y: -20}
+        - {x: -13, y: -21}
+        - {x: 7, y: -21}
+        - {x: 11, y: -20}
+        - {x: 11, y: 12}
+        - {x: 3, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc4efeb4169485d8aa363e33457e2f2
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 61}
+      - {x: 28, y: 61}
+      - {x: 0, y: 19}
+      - {x: 28, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_Tentacle28x42_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -21}
+        - {x: -14, y: 21}
+        - {x: 14, y: 21}
+        - {x: 14, y: -21}
+      physicsShape:
+      - - {x: -14, y: -3}
+        - {x: -14, y: -19}
+        - {x: -12, y: -21}
+        - {x: 6, y: -21}
+        - {x: 11, y: -19}
+        - {x: 11, y: 11}
+        - {x: 4, y: 21}
+        - {x: -5, y: 21}
+        - {x: -11, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a228274f654405d91ac715a26239941
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 61}
+      - {x: 28, y: 61}
+      - {x: 0, y: 19}
+      - {x: 28, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_Tentacle28x42_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -21}
+        - {x: -14, y: 21}
+        - {x: 14, y: 21}
+        - {x: 14, y: -21}
+      physicsShape:
+      - - {x: -10, y: -18}
+        - {x: -10, y: -21}
+        - {x: 7, y: -21}
+        - {x: 7, y: -18}
+        - {x: 3, y: -14}
+        - {x: -6, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ce8381bddc4d46957a915bf58220ed
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 63}
+      - {x: 28, y: 63}
+      - {x: 0, y: 21}
+      - {x: 28, y: 21}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_Tentacle28x42_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 126
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -21}
+        - {x: -14, y: 21}
+        - {x: 14, y: 21}
+        - {x: 14, y: -21}
+      physicsShape:
+      - - {x: -7, y: -4}
+        - {x: -14, y: -11}
+        - {x: -14, y: -19}
+        - {x: -12, y: -21}
+        - {x: 11, y: -21}
+        - {x: 14, y: -18}
+        - {x: 14, y: -11}
+        - {x: 5, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ae14f60efc4f0da0fecd70ed7732f0
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 63}
+      - {x: 28, y: 63}
+      - {x: 0, y: 21}
+      - {x: 28, y: 21}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_Tentacle28x42_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 126
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -21}
+        - {x: -14, y: 21}
+        - {x: 14, y: 21}
+        - {x: 14, y: -21}
+      physicsShape:
+      - - {x: -6, y: 14}
+        - {x: -12, y: 4}
+        - {x: -13, y: -17}
+        - {x: -8, y: -21}
+        - {x: 11, y: -21}
+        - {x: 14, y: -16}
+        - {x: 14, y: 9}
+        - {x: 11, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0217f73f4d474c2782a8f38a7d051a1d
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 61}
+      - {x: 28, y: 61}
+      - {x: 0, y: 19}
+      - {x: 28, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_Tentacle28x42_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 84
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -21}
+        - {x: -14, y: 21}
+        - {x: 14, y: 21}
+        - {x: 14, y: -21}
+      physicsShape:
+      - - {x: -7, y: 21}
+        - {x: -14, y: -5}
+        - {x: -14, y: -21}
+        - {x: 9, y: -21}
+        - {x: 14, y: -8}
+        - {x: 14, y: 19}
+        - {x: 12, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7063ac99b234abe8b5114dac4848a18
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 61}
+      - {x: 28, y: 61}
+      - {x: 0, y: 19}
+      - {x: 28, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_Tentacle28x42_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 126
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -21}
+        - {x: -14, y: 21}
+        - {x: 14, y: 21}
+        - {x: 14, y: -21}
+      physicsShape:
+      - - {x: -14, y: -19}
+        - {x: -12, y: -21}
+        - {x: 8, y: -21}
+        - {x: 13, y: -19}
+        - {x: 13, y: 4}
+        - {x: -11, y: 4}
+        - {x: -14, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89070e0950a481689cc3493e83ff0dd
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 61}
+      - {x: 28, y: 61}
+      - {x: 0, y: 19}
+      - {x: 28, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_Tentacle28x42_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -21}
+        - {x: -14, y: 21}
+        - {x: 14, y: 21}
+        - {x: 14, y: -21}
+      physicsShape:
+      - - {x: -9, y: 18}
+        - {x: -12, y: 11}
+        - {x: -13, y: 7}
+        - {x: -13, y: -21}
+        - {x: 14, y: -21}
+        - {x: 14, y: 16}
+        - {x: 8, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcd41c001a14f3792e01829816c9013
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 61}
+      - {x: 28, y: 61}
+      - {x: 0, y: 19}
+      - {x: 28, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_Tentacle28x42_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 84
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -21}
+        - {x: -14, y: 21}
+        - {x: 14, y: 21}
+        - {x: 14, y: -21}
+      physicsShape:
+      - - {x: 12, y: 21}
+        - {x: 3, y: 21}
+        - {x: -7, y: 9}
+        - {x: -14, y: -8}
+        - {x: -14, y: -21}
+        - {x: 8, y: -21}
+        - {x: 11, y: -16}
+        - {x: 14, y: 7}
+        - {x: 14, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c187d6f995e4f30acafe6c6835dba8e
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 61}
+      - {x: 28, y: 61}
+      - {x: 0, y: 19}
+      - {x: 28, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_Tentacle28x42_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 42
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -21}
+        - {x: -14, y: 21}
+        - {x: 14, y: 21}
+        - {x: 14, y: -21}
+      physicsShape:
+      - - {x: -5, y: 21}
+        - {x: -14, y: 4}
+        - {x: -14, y: -20}
+        - {x: -13, y: -21}
+        - {x: 7, y: -21}
+        - {x: 11, y: -20}
+        - {x: 11, y: 12}
+        - {x: 3, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d628a8862bd452d8093e4228a551992
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 61}
+      - {x: 28, y: 61}
+      - {x: 0, y: 19}
+      - {x: 28, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_Tentacle28x42_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 42
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -21}
+        - {x: -14, y: 21}
+        - {x: 14, y: 21}
+        - {x: 14, y: -21}
+      physicsShape:
+      - - {x: -5, y: 21}
+        - {x: -14, y: 4}
+        - {x: -14, y: -20}
+        - {x: -13, y: -21}
+        - {x: 7, y: -21}
+        - {x: 11, y: -20}
+        - {x: 11, y: 12}
+        - {x: 3, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649c146eccc940468d0e5054c571e141
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 61}
+      - {x: 28, y: 61}
+      - {x: 0, y: 19}
+      - {x: 28, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

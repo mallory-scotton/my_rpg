@@ -1,0 +1,4405 @@
+fileFormatVersion: 2
+guid: 35d016a371c9da64daee132a4bbf1b4e
+timeCreated: 1706119811
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Player_Skin_Bucket_26x26_77
+  - first:
+      213: 21300002
+    second: Player_Skin_Bucket_26x26_0
+  - first:
+      213: 21300004
+    second: Player_Skin_Bucket_26x26_68
+  - first:
+      213: 21300006
+    second: Player_Skin_Bucket_26x26_65
+  - first:
+      213: 21300008
+    second: Player_Skin_Bucket_26x26_8
+  - first:
+      213: 21300010
+    second: Player_Skin_Bucket_26x26_95
+  - first:
+      213: 21300012
+    second: Player_Skin_Bucket_26x26_3
+  - first:
+      213: 21300014
+    second: Player_Skin_Bucket_26x26_14
+  - first:
+      213: 21300016
+    second: Player_Skin_Bucket_26x26_74
+  - first:
+      213: 21300018
+    second: Player_Skin_Bucket_26x26_15
+  - first:
+      213: 21300020
+    second: Player_Skin_Bucket_26x26_93
+  - first:
+      213: 21300022
+    second: Player_Skin_Bucket_26x26_20
+  - first:
+      213: 21300024
+    second: Player_Skin_Bucket_26x26_79
+  - first:
+      213: 21300026
+    second: Player_Skin_Bucket_26x26_40
+  - first:
+      213: 21300028
+    second: Player_Skin_Bucket_26x26_91
+  - first:
+      213: 21300030
+    second: Player_Skin_Bucket_26x26_4
+  - first:
+      213: 21300032
+    second: Player_Skin_Bucket_26x26_45
+  - first:
+      213: 21300034
+    second: Player_Skin_Bucket_26x26_62
+  - first:
+      213: 21300036
+    second: Player_Skin_Bucket_26x26_80
+  - first:
+      213: 21300038
+    second: Player_Skin_Bucket_26x26_49
+  - first:
+      213: 21300040
+    second: Player_Skin_Bucket_26x26_6
+  - first:
+      213: 21300042
+    second: Player_Skin_Bucket_26x26_34
+  - first:
+      213: 21300044
+    second: Player_Skin_Bucket_26x26_63
+  - first:
+      213: 21300046
+    second: Player_Skin_Bucket_26x26_42
+  - first:
+      213: 21300048
+    second: Player_Skin_Bucket_26x26_32
+  - first:
+      213: 21300050
+    second: Player_Skin_Bucket_26x26_5
+  - first:
+      213: 21300052
+    second: Player_Skin_Bucket_26x26_37
+  - first:
+      213: 21300054
+    second: Player_Skin_Bucket_26x26_85
+  - first:
+      213: 21300056
+    second: Player_Skin_Bucket_26x26_67
+  - first:
+      213: 21300058
+    second: Player_Skin_Bucket_26x26_17
+  - first:
+      213: 21300060
+    second: Player_Skin_Bucket_26x26_94
+  - first:
+      213: 21300062
+    second: Player_Skin_Bucket_26x26_54
+  - first:
+      213: 21300064
+    second: Player_Skin_Bucket_26x26_44
+  - first:
+      213: 21300066
+    second: Player_Skin_Bucket_26x26_69
+  - first:
+      213: 21300068
+    second: Player_Skin_Bucket_26x26_25
+  - first:
+      213: 21300070
+    second: Player_Skin_Bucket_26x26_47
+  - first:
+      213: 21300072
+    second: Player_Skin_Bucket_26x26_51
+  - first:
+      213: 21300074
+    second: Player_Skin_Bucket_26x26_33
+  - first:
+      213: 21300076
+    second: Player_Skin_Bucket_26x26_28
+  - first:
+      213: 21300078
+    second: Player_Skin_Bucket_26x26_76
+  - first:
+      213: 21300080
+    second: Player_Skin_Bucket_26x26_57
+  - first:
+      213: 21300082
+    second: Player_Skin_Bucket_26x26_27
+  - first:
+      213: 21300084
+    second: Player_Skin_Bucket_26x26_78
+  - first:
+      213: 21300086
+    second: Player_Skin_Bucket_26x26_39
+  - first:
+      213: 21300088
+    second: Player_Skin_Bucket_26x26_2
+  - first:
+      213: 21300090
+    second: Player_Skin_Bucket_26x26_75
+  - first:
+      213: 21300092
+    second: Player_Skin_Bucket_26x26_83
+  - first:
+      213: 21300094
+    second: Player_Skin_Bucket_26x26_84
+  - first:
+      213: 21300096
+    second: Player_Skin_Bucket_26x26_56
+  - first:
+      213: 21300098
+    second: Player_Skin_Bucket_26x26_18
+  - first:
+      213: 21300100
+    second: Player_Skin_Bucket_26x26_41
+  - first:
+      213: 21300102
+    second: Player_Skin_Bucket_26x26_38
+  - first:
+      213: 21300104
+    second: Player_Skin_Bucket_26x26_53
+  - first:
+      213: 21300106
+    second: Player_Skin_Bucket_26x26_11
+  - first:
+      213: 21300108
+    second: Player_Skin_Bucket_26x26_82
+  - first:
+      213: 21300110
+    second: Player_Skin_Bucket_26x26_58
+  - first:
+      213: 21300112
+    second: Player_Skin_Bucket_26x26_52
+  - first:
+      213: 21300114
+    second: Player_Skin_Bucket_26x26_50
+  - first:
+      213: 21300116
+    second: Player_Skin_Bucket_26x26_60
+  - first:
+      213: 21300118
+    second: Player_Skin_Bucket_26x26_64
+  - first:
+      213: 21300120
+    second: Player_Skin_Bucket_26x26_88
+  - first:
+      213: 21300122
+    second: Player_Skin_Bucket_26x26_61
+  - first:
+      213: 21300124
+    second: Player_Skin_Bucket_26x26_22
+  - first:
+      213: 21300126
+    second: Player_Skin_Bucket_26x26_86
+  - first:
+      213: 21300128
+    second: Player_Skin_Bucket_26x26_43
+  - first:
+      213: 21300130
+    second: Player_Skin_Bucket_26x26_46
+  - first:
+      213: 21300132
+    second: Player_Skin_Bucket_26x26_71
+  - first:
+      213: 21300134
+    second: Player_Skin_Bucket_26x26_29
+  - first:
+      213: 21300136
+    second: Player_Skin_Bucket_26x26_59
+  - first:
+      213: 21300138
+    second: Player_Skin_Bucket_26x26_21
+  - first:
+      213: 21300140
+    second: Player_Skin_Bucket_26x26_26
+  - first:
+      213: 21300142
+    second: Player_Skin_Bucket_26x26_24
+  - first:
+      213: 21300144
+    second: Player_Skin_Bucket_26x26_23
+  - first:
+      213: 21300146
+    second: Player_Skin_Bucket_26x26_36
+  - first:
+      213: 21300148
+    second: Player_Skin_Bucket_26x26_48
+  - first:
+      213: 21300150
+    second: Player_Skin_Bucket_26x26_10
+  - first:
+      213: 21300152
+    second: Player_Skin_Bucket_26x26_35
+  - first:
+      213: 21300154
+    second: Player_Skin_Bucket_26x26_89
+  - first:
+      213: 21300156
+    second: Player_Skin_Bucket_26x26_90
+  - first:
+      213: 21300158
+    second: Player_Skin_Bucket_26x26_87
+  - first:
+      213: 21300160
+    second: Player_Skin_Bucket_26x26_19
+  - first:
+      213: 21300162
+    second: Player_Skin_Bucket_26x26_13
+  - first:
+      213: 21300164
+    second: Player_Skin_Bucket_26x26_7
+  - first:
+      213: 21300166
+    second: Player_Skin_Bucket_26x26_66
+  - first:
+      213: 21300168
+    second: Player_Skin_Bucket_26x26_81
+  - first:
+      213: 21300170
+    second: Player_Skin_Bucket_26x26_92
+  - first:
+      213: 21300172
+    second: Player_Skin_Bucket_26x26_70
+  - first:
+      213: 21300174
+    second: Player_Skin_Bucket_26x26_73
+  - first:
+      213: 21300176
+    second: Player_Skin_Bucket_26x26_9
+  - first:
+      213: 21300178
+    second: Player_Skin_Bucket_26x26_30
+  - first:
+      213: 21300180
+    second: Player_Skin_Bucket_26x26_16
+  - first:
+      213: 21300182
+    second: Player_Skin_Bucket_26x26_72
+  - first:
+      213: 21300184
+    second: Player_Skin_Bucket_26x26_31
+  - first:
+      213: 21300186
+    second: Player_Skin_Bucket_26x26_1
+  - first:
+      213: 21300188
+    second: Player_Skin_Bucket_26x26_55
+  - first:
+      213: 21300190
+    second: Player_Skin_Bucket_26x26_12
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_77
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 52
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -7}
+        - {x: -11, y: -11}
+        - {x: 8, y: -11}
+        - {x: 13, y: -7}
+        - {x: 13, y: 8}
+        - {x: 12, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50fbc1ffbdf4245a0e7acb5e1f948ff
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -13, y: 9}
+        - {x: -13, y: -11}
+        - {x: -12, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -8}
+        - {x: 10, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ccb7f6d560465b8e02a7807a129881
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_68
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 78
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -11, y: 6}
+        - {x: -11, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: 5}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0baee696a3d402aaf731ebd272096c8
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_65
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 78
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -13, y: 11}
+        - {x: -13, y: -10}
+        - {x: -10, y: -13}
+        - {x: 13, y: -13}
+        - {x: 13, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2ebe2900194125bc9d17ebb628c4e2
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 234
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -11, y: -13}
+        - {x: 5, y: -13}
+        - {x: 12, y: -7}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0288558bb93b4474b72e1179a365019c
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_95
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 83
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e1c540dc3c474fae6e21e8a0e1a3b1
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 234
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 8}
+        - {x: -12, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -8}
+        - {x: 10, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d13a37b273455dbb0e5c95a0c9587b
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 208
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -11, y: 5}
+        - {x: -13, y: 0}
+        - {x: -13, y: -13}
+        - {x: 13, y: -13}
+        - {x: 13, y: 4}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99534bd2c9b54997886541edc9b2d4fd
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_74
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 52
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -13, y: 6}
+        - {x: -13, y: -10}
+        - {x: -9, y: -13}
+        - {x: 7, y: -13}
+        - {x: 13, y: -8}
+        - {x: 13, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5b597bf4d64fa5809cb3513367f1e2
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 208
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 13, y: -8}
+        - {x: 9, y: 5}
+        - {x: -8, y: 5}
+        - {x: -13, y: 3}
+        - {x: -13, y: -13}
+        - {x: 13, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b5e006be1940288e20c34d4987d8f7
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_93
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -13}
+        - {x: 8, y: -13}
+        - {x: 10, y: -9}
+        - {x: 10, y: 6}
+        - {x: 9, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cafd9fb047645d79af9d343d7686edd
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -6, y: -4}
+        - {x: -13, y: -10}
+        - {x: -13, y: -13}
+        - {x: 13, y: -13}
+        - {x: 13, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6ba495800a4dc3913fa8cb32b13b54
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_79
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 52
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -7}
+        - {x: -11, y: -11}
+        - {x: 8, y: -11}
+        - {x: 13, y: -7}
+        - {x: 13, y: 8}
+        - {x: 12, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08c2c474e9c443991e6156785b27ea7
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 10, y: 9}
+        - {x: -11, y: 9}
+        - {x: -13, y: 4}
+        - {x: -13, y: -13}
+        - {x: 12, y: -13}
+        - {x: 12, y: -1}
+        - {x: 11, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea304fa8f4e4c0f83e47bd7cd8901c0
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_91
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -13}
+        - {x: 7, y: -13}
+        - {x: 10, y: -11}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6c1eed74e1429b94ca868b380d60de
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 234
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -9, y: 8}
+        - {x: -12, y: 1}
+        - {x: -12, y: -13}
+        - {x: 11, y: -13}
+        - {x: 12, y: -10}
+        - {x: 12, y: 6}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcee82f3750f464592bb4e9272c5aeb4
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_45
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -13, y: 9}
+        - {x: -13, y: -11}
+        - {x: -12, y: -13}
+        - {x: 6, y: -13}
+        - {x: 11, y: -7}
+        - {x: 11, y: 7}
+        - {x: 10, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e733a309d55c4c22bdb5efd76a89bb0b
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_62
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 78
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 7, y: 12}
+        - {x: -12, y: 12}
+        - {x: -13, y: 8}
+        - {x: -13, y: -10}
+        - {x: -7, y: -13}
+        - {x: 9, y: -13}
+        - {x: 13, y: -8}
+        - {x: 13, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efcde41560c492996ba23874b92f1fb
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -13, y: 10}
+        - {x: -13, y: -10}
+        - {x: -10, y: -13}
+        - {x: 6, y: -13}
+        - {x: 12, y: -8}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1965ef09194a8ba7924b178d607068
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_49
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 130
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 8, y: -1}
+        - {x: -6, y: -1}
+        - {x: -11, y: -9}
+        - {x: -11, y: -13}
+        - {x: 12, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea1af844c244e99b0520d4e3cf7a1ac
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 234
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -8, y: 6}
+        - {x: -11, y: 5}
+        - {x: -11, y: -10}
+        - {x: -9, y: -13}
+        - {x: 11, y: -13}
+        - {x: 12, y: -12}
+        - {x: 12, y: 4}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8d41ad824542e29942a6a4d3f62393
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 156
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -13, y: 9}
+        - {x: -13, y: -11}
+        - {x: -10, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -6}
+        - {x: 11, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf9d0824b9e4fcfb8c8323f89a9fdc7
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_63
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 78
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 12}
+        - {x: -13, y: 9}
+        - {x: -13, y: -10}
+        - {x: -5, y: -13}
+        - {x: 8, y: -13}
+        - {x: 13, y: -8}
+        - {x: 13, y: 10}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcc0346b6c0466f845c3d6e61fcd362
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 130
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 9}
+        - {x: -13, y: 7}
+        - {x: -13, y: -12}
+        - {x: -11, y: -13}
+        - {x: 11, y: -13}
+        - {x: 12, y: -11}
+        - {x: 12, y: 1}
+        - {x: 11, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ec61ebc5ca4d90bdfd7a13f917d430
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_32
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 156
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -11, y: 6}
+        - {x: -11, y: -11}
+        - {x: -9, y: -13}
+        - {x: 10, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78228b12e2a46af8fafa8a829bc814b
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 234
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: -10, y: -13}
+        - {x: 11, y: -13}
+        - {x: 12, y: -10}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e27d39ae7ae4fefa9a2ba98d5b68077
+      internalID: 21300050
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_37
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 156
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -5, y: 9}
+        - {x: -13, y: 7}
+        - {x: -13, y: -3}
+        - {x: -8, y: -13}
+        - {x: 10, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: 7}
+        - {x: 8, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8889fab3d8504ef4b7fecf9ce663dc73
+      internalID: 21300052
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_85
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 26
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -13}
+        - {x: 7, y: -13}
+        - {x: 10, y: -11}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105ef7370f894363a4bebcad3134a4f6
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_67
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 78
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 10, y: 5}
+        - {x: -11, y: 5}
+        - {x: -11, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66b9a9c8b844101a319f650326ff1b6
+      internalID: 21300056
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 208
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -13, y: -2}
+        - {x: -13, y: -13}
+        - {x: 13, y: -13}
+        - {x: 13, y: 2}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5243425ab81243699a5c8dafca61df20
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_94
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -8, y: 11}
+        - {x: -13, y: 9}
+        - {x: -13, y: -10}
+        - {x: -9, y: -13}
+        - {x: 7, y: -13}
+        - {x: 10, y: -7}
+        - {x: 10, y: 8}
+        - {x: 9, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb1975be13f47db92b927fb4c64d6d3
+      internalID: 21300060
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_54
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 4, y: 11}
+        - {x: -8, y: 11}
+        - {x: -12, y: 7}
+        - {x: -12, y: -6}
+        - {x: -7, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -10}
+        - {x: 12, y: -4}
+        - {x: 12, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e9da643e584103963cf36d289a0580
+      internalID: 21300062
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_44
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 130
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 9, y: 8}
+        - {x: -11, y: 8}
+        - {x: -12, y: 6}
+        - {x: -13, y: -6}
+        - {x: -13, y: -10}
+        - {x: -9, y: -13}
+        - {x: 6, y: -13}
+        - {x: 12, y: -4}
+        - {x: 12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723c9a82fdf14e75889c14c76f7bc35c
+      internalID: 21300064
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_69
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 78
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 0, y: -1}
+        - {x: -3, y: -4}
+        - {x: -3, y: -6}
+        - {x: 0, y: -9}
+        - {x: 2, y: -9}
+        - {x: 5, y: -6}
+        - {x: 5, y: -4}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78740107dbc4369a5cb9bedcd90449a
+      internalID: 21300066
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 182
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -10, y: 7}
+        - {x: -11, y: 6}
+        - {x: -11, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: 6}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46874f068421405fb5cc39073912cd67
+      internalID: 21300068
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_47
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 130
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -13, y: 9}
+        - {x: -13, y: -13}
+        - {x: 8, y: -13}
+        - {x: 9, y: -10}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b904107ed5c468e9411a54bebbea03b
+      internalID: 21300070
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_51
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 104
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: -1, y: 5}
+        - {x: -10, y: 2}
+        - {x: -10, y: -13}
+        - {x: 8, y: -13}
+        - {x: 11, y: -10}
+        - {x: 12, y: -7}
+        - {x: 12, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c492bc810948cfba1dc118d7b7d1ba
+      internalID: 21300072
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_33
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 156
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: -10, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -8}
+        - {x: 10, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7c9da37ebb4eaa9a06fc2d143ccb1a
+      internalID: 21300074
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 182
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 13, y: 1}
+        - {x: 3, y: 5}
+        - {x: -8, y: 5}
+        - {x: -10, y: 2}
+        - {x: -10, y: -11}
+        - {x: -7, y: -13}
+        - {x: 11, y: -13}
+        - {x: 12, y: -12}
+        - {x: 13, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1fc76f88b549a5bf2fd9f336ba6297
+      internalID: 21300076
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_76
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 52
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -13, y: 13}
+        - {x: -13, y: -8}
+        - {x: -9, y: -12}
+        - {x: 13, y: -12}
+        - {x: 13, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf59aa21135d42b9b6883f6a331dc216
+      internalID: 21300078
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_57
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 104
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 12}
+        - {x: -12, y: -11}
+        - {x: -3, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -9}
+        - {x: 12, y: -6}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd77274689c0452ea3e22dadcf2af810
+      internalID: 21300080
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_27
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 182
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -8, y: 9}
+        - {x: -13, y: -1}
+        - {x: -13, y: -11}
+        - {x: 10, y: -11}
+        - {x: 13, y: -10}
+        - {x: 13, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c89be7ea5c342c6ab3730d86194b417
+      internalID: 21300082
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_78
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 52
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -11, y: 13}
+        - {x: -12, y: 12}
+        - {x: -13, y: 7}
+        - {x: -13, y: -6}
+        - {x: -9, y: -10}
+        - {x: 6, y: -10}
+        - {x: 13, y: -6}
+        - {x: 13, y: 8}
+        - {x: 12, y: 12}
+        - {x: 11, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7d238e8c5f4b23a8e1ea08cc9aa773
+      internalID: 21300084
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 156
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -13, y: 9}
+        - {x: -13, y: -11}
+        - {x: -12, y: -13}
+        - {x: 11, y: -13}
+        - {x: 12, y: -11}
+        - {x: 12, y: -1}
+        - {x: 10, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4083668a0640c7b809baa9155309b0
+      internalID: 21300086
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 234
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -13}
+        - {x: 8, y: -13}
+        - {x: 10, y: -11}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8167b6483aa24e66b5bafbfa87df2e90
+      internalID: 21300088
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_75
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 52
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -13, y: 12}
+        - {x: -13, y: -11}
+        - {x: -11, y: -13}
+        - {x: 10, y: -13}
+        - {x: 13, y: -9}
+        - {x: 13, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b42d16ff0a4e4b8839f968702145ac
+      internalID: 21300090
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_83
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 26
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -11, y: 5}
+        - {x: -11, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dc61b71cd145ee8cc8916124fd30b6
+      internalID: 21300092
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_84
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 26
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -11, y: 6}
+        - {x: -11, y: -13}
+        - {x: 9, y: -13}
+        - {x: 11, y: -11}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1b1be885644d449f81bbb8e03cd943
+      internalID: 21300094
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_56
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 104
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 12}
+        - {x: -12, y: -6}
+        - {x: -11, y: -11}
+        - {x: -6, y: -13}
+        - {x: 8, y: -13}
+        - {x: 12, y: -8}
+        - {x: 12, y: 11}
+        - {x: 11, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68f26da9c5c48ef93fb08d26976a1ea
+      internalID: 21300096
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -8, y: 7}
+        - {x: -10, y: 6}
+        - {x: -13, y: -12}
+        - {x: -13, y: -13}
+        - {x: 13, y: -13}
+        - {x: 13, y: 5}
+        - {x: 11, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b604d558c92c4a1ab3dc919976e7cf08
+      internalID: 21300098
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_41
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 130
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 10, y: 9}
+        - {x: -13, y: 9}
+        - {x: -13, y: -11}
+        - {x: -12, y: -13}
+        - {x: 10, y: -13}
+        - {x: 12, y: -11}
+        - {x: 12, y: 0}
+        - {x: 11, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5643f3410e9a406a8ee2b32f2a6fd543
+      internalID: 21300100
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 156
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -11, y: 9}
+        - {x: -13, y: 4}
+        - {x: -13, y: -13}
+        - {x: 9, y: -13}
+        - {x: 10, y: -9}
+        - {x: 10, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c220dc9f2c2c4a25a5e1b386c5672d99
+      internalID: 21300102
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_53
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 104
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -11, y: 9}
+        - {x: -11, y: -9}
+        - {x: -10, y: -13}
+        - {x: 10, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09eb71ffd3554b889dd6b86d58a67ecf
+      internalID: 21300104
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 208
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 7, y: 9}
+        - {x: 4, y: 10}
+        - {x: -13, y: 10}
+        - {x: -13, y: -10}
+        - {x: -12, y: -12}
+        - {x: -11, y: -13}
+        - {x: 6, y: -13}
+        - {x: 7, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04db10a1f17947e9985375ce2ff3562b
+      internalID: 21300106
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_82
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 26
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -13}
+        - {x: 8, y: -13}
+        - {x: 10, y: -10}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3678900bb06497989b0b5d868bb3106
+      internalID: 21300108
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 104
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 12}
+        - {x: -12, y: -11}
+        - {x: -3, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -9}
+        - {x: 12, y: -6}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdaa4fd608b74d4880ddae1c96755deb
+      internalID: 21300110
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_52
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 104
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 11, y: 7}
+        - {x: -10, y: 7}
+        - {x: -10, y: -13}
+        - {x: 12, y: -13}
+        - {x: 12, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05a5e52975a4ada898ebb9f999c9cd4
+      internalID: 21300112
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 12, y: -1}
+        - {x: 7, y: 3}
+        - {x: -6, y: 3}
+        - {x: -10, y: -3}
+        - {x: -11, y: -13}
+        - {x: 7, y: -13}
+        - {x: 10, y: -10}
+        - {x: 12, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f3cfda56eb4ea08b3fa6815dfe7d55
+      internalID: 21300114
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 8, y: 12}
+        - {x: -12, y: 12}
+        - {x: -13, y: 9}
+        - {x: -13, y: -11}
+        - {x: -12, y: -13}
+        - {x: 8, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bccd4a81c884367913bda9af607e44e
+      internalID: 21300116
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_64
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 78
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 12}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -8, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -11}
+        - {x: 13, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59749988678845d0a3d1bf335eef4c8d
+      internalID: 21300118
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 26
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -13}
+        - {x: 7, y: -13}
+        - {x: 10, y: -11}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6625d792bb2484fb200961715c4bfa8
+      internalID: 21300120
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_61
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 78
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 12}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -9, y: -13}
+        - {x: 9, y: -13}
+        - {x: 13, y: -8}
+        - {x: 13, y: 10}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a74b583f6941c88d34f97f03c83105
+      internalID: 21300122
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 182
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -11, y: 7}
+        - {x: -11, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ebcab9096c4ee19be30a0d5d68ef11
+      internalID: 21300124
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_86
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 26
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -13}
+        - {x: 7, y: -13}
+        - {x: 10, y: -11}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f04ee02ff54ea4a5d701f65de946ed
+      internalID: 21300126
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_43
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 130
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -13, y: 10}
+        - {x: -13, y: -13}
+        - {x: 9, y: -13}
+        - {x: 12, y: -9}
+        - {x: 12, y: 9}
+        - {x: 11, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ede7d1130dc4fa99a6502dfcd4560d2
+      internalID: 21300128
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_46
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 130
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -13, y: 9}
+        - {x: -13, y: -11}
+        - {x: -12, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -8}
+        - {x: 10, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906d9e56bfa44c0494b1d19484254d17
+      internalID: 21300130
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_71
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 52
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -1, y: -3}
+        - {x: -4, y: -6}
+        - {x: -4, y: -9}
+        - {x: -1, y: -11}
+        - {x: 3, y: -11}
+        - {x: 4, y: -9}
+        - {x: 4, y: -4}
+        - {x: 1, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb8071068844b4eba9620dc0a7390e2
+      internalID: 21300132
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_29
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 182
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -9, y: 5}
+        - {x: -10, y: -5}
+        - {x: -10, y: -13}
+        - {x: 9, y: -13}
+        - {x: 11, y: -10}
+        - {x: 11, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e5dd2083914aec9c9766e6f8e31ce4
+      internalID: 21300134
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_59
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 104
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 12}
+        - {x: -13, y: 10}
+        - {x: -13, y: -10}
+        - {x: -7, y: -13}
+        - {x: 9, y: -13}
+        - {x: 12, y: -10}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c204dbb25441668d7066c0ac2f192e
+      internalID: 21300136
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_21
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 182
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -6, y: -4}
+        - {x: -11, y: -9}
+        - {x: -11, y: -13}
+        - {x: 13, y: -13}
+        - {x: 13, y: -5}
+        - {x: 11, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d146d821118c44f599a3d211ed109288
+      internalID: 21300138
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_26
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 182
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 8}
+        - {x: -13, y: 6}
+        - {x: -13, y: -13}
+        - {x: 9, y: -13}
+        - {x: 11, y: -12}
+        - {x: 11, y: 4}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d646378f9e643cda63818f8c0f3b4ea
+      internalID: 21300140
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 182
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -11, y: 7}
+        - {x: -11, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4751e186a44addb9cf3beb98d52694
+      internalID: 21300142
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 182
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 10, y: 7}
+        - {x: -11, y: 7}
+        - {x: -11, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3707506e71804a179f858fd25d0ef7ac
+      internalID: 21300144
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_36
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 156
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -9, y: 8}
+        - {x: -13, y: 6}
+        - {x: -13, y: -8}
+        - {x: -9, y: -13}
+        - {x: 8, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: 6}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2926b3323240c3b5e09d6d9c693401
+      internalID: 21300146
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 130
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -6, y: -4}
+        - {x: -11, y: -9}
+        - {x: -11, y: -13}
+        - {x: 13, y: -13}
+        - {x: 13, y: -5}
+        - {x: 11, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82eb49f6439141739f2e34f0db8291cc
+      internalID: 21300148
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 6, y: 10}
+        - {x: -9, y: 10}
+        - {x: -13, y: 9}
+        - {x: -13, y: -8}
+        - {x: -10, y: -13}
+        - {x: 6, y: -13}
+        - {x: 7, y: -12}
+        - {x: 7, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b153baa402e4253bba6c54bc610e7e8
+      internalID: 21300150
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_35
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 156
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -13, y: 8}
+        - {x: -13, y: -8}
+        - {x: -10, y: -13}
+        - {x: 10, y: -13}
+        - {x: 11, y: -4}
+        - {x: 11, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16af8f681e44b0ea5101564fff58c0a
+      internalID: 21300152
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_89
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 26
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -13}
+        - {x: 7, y: -13}
+        - {x: 10, y: -11}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb6e0ac4dd54c52adb6efa4025c775d
+      internalID: 21300154
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -13}
+        - {x: 7, y: -13}
+        - {x: 10, y: -11}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382497d3962b4bdda67f6e29c93e1a2f
+      internalID: 21300156
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_87
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 26
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -13}
+        - {x: 7, y: -13}
+        - {x: 10, y: -11}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35de4708ea5f407f9406494ad3254794
+      internalID: 21300158
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 208
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -6, y: -4}
+        - {x: -13, y: -10}
+        - {x: -13, y: -13}
+        - {x: 13, y: -13}
+        - {x: 13, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d4bf78f7ae4d1dae4b73efc295140a
+      internalID: 21300160
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 208
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 7, y: 9}
+        - {x: -13, y: 9}
+        - {x: -13, y: -13}
+        - {x: 13, y: -13}
+        - {x: 13, y: 2}
+        - {x: 11, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2939599eb83945ff9a39b54b34651bc5
+      internalID: 21300162
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 234
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -11, y: 5}
+        - {x: -11, y: -13}
+        - {x: 10, y: -13}
+        - {x: 12, y: -10}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814cf1cde05f4f739d2f692133a9bd06
+      internalID: 21300164
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_66
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 78
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: 10, y: 9}
+        - {x: -11, y: 9}
+        - {x: -13, y: 8}
+        - {x: -13, y: -12}
+        - {x: -9, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -9}
+        - {x: 13, y: -3}
+        - {x: 12, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c8e706f2e749d99d9a22fa68242f86
+      internalID: 21300166
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_81
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 26
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -13, y: 9}
+        - {x: -13, y: -11}
+        - {x: -12, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -8}
+        - {x: 10, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f4b20ccb924c84813579ee1ae6821c
+      internalID: 21300168
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_92
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -13}
+        - {x: 7, y: -13}
+        - {x: 10, y: -11}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c48ca199f034180b4903227d485d947
+      internalID: 21300170
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -1, y: -3}
+        - {x: -4, y: -4}
+        - {x: -4, y: -9}
+        - {x: -3, y: -11}
+        - {x: 4, y: -11}
+        - {x: 5, y: -8}
+        - {x: 5, y: -4}
+        - {x: 2, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30e2da7c1ab4b86abf29021a870e7f6
+      internalID: 21300172
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_73
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 52
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -8, y: 9}
+        - {x: -9, y: 7}
+        - {x: -10, y: -6}
+        - {x: -10, y: -10}
+        - {x: -6, y: -13}
+        - {x: 9, y: -13}
+        - {x: 13, y: -8}
+        - {x: 13, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301ec8b3b8064c46b3c00d3c793eb4cf
+      internalID: 21300174
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 234
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -10, y: 6}
+        - {x: -11, y: -3}
+        - {x: -11, y: -13}
+        - {x: 10, y: -13}
+        - {x: 12, y: -12}
+        - {x: 12, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd0324dbb2242099e07bfa7bf27ed64
+      internalID: 21300176
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -4, y: 3}
+        - {x: -11, y: 3}
+        - {x: -13, y: 2}
+        - {x: -13, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: -6}
+        - {x: 7, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577560dfb9904ff285fe98c895ab5d36
+      internalID: 21300178
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 208
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 5}
+        - {x: -12, y: 3}
+        - {x: -13, y: -9}
+        - {x: -13, y: -13}
+        - {x: 13, y: -13}
+        - {x: 13, y: -4}
+        - {x: 12, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2cae856e0d4a68a5d7d084886acb85
+      internalID: 21300180
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_72
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -1, y: -1}
+        - {x: -4, y: -4}
+        - {x: -4, y: -6}
+        - {x: -1, y: -9}
+        - {x: 1, y: -9}
+        - {x: 4, y: -6}
+        - {x: 4, y: -4}
+        - {x: 1, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0f51101b7e438a927a9dda5f294c71
+      internalID: 21300182
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_31
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 156
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -8, y: 5}
+        - {x: -12, y: 2}
+        - {x: -12, y: -7}
+        - {x: -6, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: 4}
+        - {x: 6, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fe96d1e28c43da9395d83179e4d953
+      internalID: 21300184
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 234
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -13}
+        - {x: 7, y: -13}
+        - {x: 10, y: -9}
+        - {x: 10, y: 6}
+        - {x: 9, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ee38d85c8c40c98098d3a220126ad4
+      internalID: 21300186
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_55
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 104
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 12}
+        - {x: -12, y: -7}
+        - {x: -5, y: -13}
+        - {x: 5, y: -13}
+        - {x: 12, y: -4}
+        - {x: 12, y: 11}
+        - {x: 10, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f4583faec24fb7abb15134ebd6ed54
+      internalID: 21300188
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Bucket_26x26_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 208
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape:
+      - - {x: -12, y: 9}
+        - {x: -13, y: 5}
+        - {x: -13, y: -8}
+        - {x: -9, y: -13}
+        - {x: 8, y: -13}
+        - {x: 11, y: -12}
+        - {x: 11, y: 7}
+        - {x: 7, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ec893b4abe4885a065b5ca7550dcca
+      internalID: 21300190
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 26, y: 39}
+      - {x: 0, y: 13}
+      - {x: 26, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 9f23ea1fa7a66eee1e1c5100444a3da7.bundle
+  assetBundleVariant:

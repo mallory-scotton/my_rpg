@@ -1,0 +1,1074 @@
+fileFormatVersion: 2
+guid: 634dcec989c807045afab81861de08d5
+timeCreated: 1706119809
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Enemy_Dumboth_Death104x66_8
+  - first:
+      213: 21300002
+    second: Enemy_Dumboth_Death104x66_12
+  - first:
+      213: 21300004
+    second: Enemy_Dumboth_Death104x66_4
+  - first:
+      213: 21300006
+    second: Enemy_Dumboth_Death104x66_7
+  - first:
+      213: 21300008
+    second: Enemy_Dumboth_Death104x66_13
+  - first:
+      213: 21300010
+    second: Enemy_Dumboth_Death104x66_0
+  - first:
+      213: 21300012
+    second: Enemy_Dumboth_Death104x66_6
+  - first:
+      213: 21300014
+    second: Enemy_Dumboth_Death104x66_11
+  - first:
+      213: 21300016
+    second: Enemy_Dumboth_Death104x66_3
+  - first:
+      213: 21300018
+    second: Enemy_Dumboth_Death104x66_2
+  - first:
+      213: 21300020
+    second: Enemy_Dumboth_Death104x66_9
+  - first:
+      213: 21300022
+    second: Enemy_Dumboth_Death104x66_5
+  - first:
+      213: 21300024
+    second: Enemy_Dumboth_Death104x66_10
+  - first:
+      213: 21300026
+    second: Enemy_Dumboth_Death104x66_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Death104x66_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 132
+        width: 53.923878
+        height: 35.923878
+      alignment: 9
+      pivot: {x: 0.9643223, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.038061, y: -17.961939}
+        - {x: -26.961939, y: -17.961939}
+        - {x: -26.961939, y: 14.038061}
+        - {x: -24.961939, y: 18.038061}
+        - {x: 20.038061, y: 18.038061}
+        - {x: 27.038061, y: 16.038061}
+        - {x: 27.038061, y: -16.961939}
+      physicsShape:
+      - - {x: -17.961939, y: 18.038061}
+        - {x: -26.961939, y: 10.038061}
+        - {x: -26.961939, y: -17.961939}
+        - {x: 23.038061, y: -17.961939}
+        - {x: 27.038061, y: -16.961939}
+        - {x: 27.038061, y: 4.038061}
+        - {x: 24.038061, y: 10.038061}
+        - {x: 16.038061, y: 18.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4623efe02c04b1e9f8c1f667511a923
+      internalID: 21300000
+      vertices:
+      - {x: 28.961939, y: 51.961937}
+      - {x: 24.961939, y: 17.961939}
+      - {x: 28.961939, y: 18.961939}
+      - {x: 21.961939, y: 53.961937}
+      - {x: -23.038061, y: 53.961937}
+      - {x: -25.038061, y: 49.961937}
+      - {x: -25.038061, y: 17.961939}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Death104x66_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 53.923878
+        height: 32.923878
+      alignment: 9
+      pivot: {x: 0.9643223, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.961939, y: -16.461939}
+        - {x: -26.961939, y: -15.461939}
+        - {x: -26.961939, y: 16.538061}
+        - {x: 1.0380611, y: 16.538061}
+        - {x: 27.038061, y: 6.538061}
+        - {x: 27.038061, y: -13.461939}
+        - {x: 7.038061, y: -16.461939}
+      physicsShape:
+      - - {x: -9.961939, y: 16.538061}
+        - {x: -24.961939, y: 16.538061}
+        - {x: -26.961939, y: 14.538061}
+        - {x: -26.961939, y: -15.461939}
+        - {x: -25.961939, y: -16.461939}
+        - {x: 7.038061, y: -16.461939}
+        - {x: 27.038061, y: -13.461939}
+        - {x: 27.038061, y: 0.53806114}
+        - {x: 10.038061, y: 12.538061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e182f27b471e41f3b2157885ad736e8e
+      internalID: 21300002
+      vertices:
+      - {x: 28.961939, y: 39.461937}
+      - {x: 8.961939, y: 16.461939}
+      - {x: 28.961939, y: 19.461939}
+      - {x: 2.9619389, y: 49.461937}
+      - {x: -24.038061, y: 16.461939}
+      - {x: -25.038061, y: 49.461937}
+      - {x: -25.038061, y: 17.461939}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Death104x66_4
+      rect:
+        serializedVersion: 2
+        x: 135.02675
+        y: 204.07613
+        width: 49.897133
+        height: 57.897125
+      alignment: 9
+      pivot: {x: 0.42032978, y: -0.10494694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.975315, y: -29.024689}
+        - {x: -24.975315, y: 1.9753113}
+        - {x: -24.975315, y: 18.975311}
+        - {x: -21.975315, y: 25.975311}
+        - {x: -9.975315, y: 28.975311}
+        - {x: 12.024685, y: 28.975311}
+        - {x: 18.024685, y: 23.975311}
+        - {x: 25.024685, y: 6.9753113}
+        - {x: 25.024685, y: -16.024689}
+        - {x: 17.024685, y: -27.024689}
+        - {x: 15.024685, y: -29.024689}
+      physicsShape:
+      - - {x: 25.024685, y: -3.0246887}
+        - {x: 23.024685, y: -0.02468872}
+        - {x: 14.024685, y: 21.975311}
+        - {x: 7.024685, y: 28.975311}
+        - {x: -8.975315, y: 28.975311}
+        - {x: -19.975315, y: 23.975311}
+        - {x: -24.975315, y: 17.975311}
+        - {x: -24.975315, y: 9.975311}
+        - {x: -23.975315, y: 1.9753113}
+        - {x: -18.975315, y: -15.024689}
+        - {x: -13.975315, y: -29.024689}
+        - {x: 15.024685, y: -29.024689}
+        - {x: 17.024685, y: -27.024689}
+        - {x: 20.024685, y: -11.024689}
+        - {x: 25.024685, y: -8.024689}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6641d9c27f4f02b12fa02337378589
+      internalID: 21300004
+      vertices:
+      - {x: 46.948566, y: 87.94856}
+      - {x: 53.948566, y: 47.948563}
+      - {x: 53.948566, y: 70.94856}
+      - {x: 45.948566, y: 36.948563}
+      - {x: 43.948566, y: 34.948563}
+      - {x: 40.948566, y: 92.94856}
+      - {x: 18.948566, y: 92.94856}
+      - {x: 14.948566, y: 34.948563}
+      - {x: 6.9485664, y: 89.94856}
+      - {x: 3.9485664, y: 82.94856}
+      - {x: 3.9485664, y: 65.94856}
+      indices:
+      - 10
+      - 9
+      - 7
+      - 8
+      - 7
+      - 9
+      - 6
+      - 7
+      - 8
+      - 4
+      - 7
+      - 6
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Death104x66_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 132.02675
+        width: 53.923878
+        height: 38.946495
+      alignment: 9
+      pivot: {x: 0.9643223, y: -0.00068680523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.96193886, y: -19.499996}
+        - {x: -26.961939, y: -19.499996}
+        - {x: -26.961939, y: 11.500004}
+        - {x: -6.961939, y: 19.500004}
+        - {x: 20.038061, y: 19.500004}
+        - {x: 25.038061, y: 11.500004}
+        - {x: 27.038061, y: 3.5000038}
+        - {x: 27.038061, y: -5.499996}
+        - {x: 16.038061, y: -15.499996}
+      physicsShape:
+      - - {x: 20.038061, y: 19.500004}
+        - {x: -6.961939, y: 19.500004}
+        - {x: -26.961939, y: 11.500004}
+        - {x: -26.961939, y: -19.499996}
+        - {x: -0.96193886, y: -19.499996}
+        - {x: 16.038061, y: -15.499996}
+        - {x: 27.038061, y: -5.499996}
+        - {x: 27.038061, y: 3.5000038}
+        - {x: 25.038061, y: 11.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6ab557ed694f01aa4e655cc76711ab
+      internalID: 21300006
+      vertices:
+      - {x: 26.961939, y: 50.473248}
+      - {x: 28.961939, y: 33.473248}
+      - {x: 28.961939, y: 42.473248}
+      - {x: 21.961939, y: 58.473248}
+      - {x: 17.961939, y: 23.473248}
+      - {x: 0.96193886, y: 19.473248}
+      - {x: -5.038061, y: 58.473248}
+      - {x: -25.038061, y: 50.473248}
+      - {x: -25.038061, y: 19.473248}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 3
+      - 5
+      - 6
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Death104x66_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 53.923878
+        height: 32.923878
+      alignment: 9
+      pivot: {x: 0.9643223, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.961939, y: -16.461939}
+        - {x: -26.961939, y: -15.461939}
+        - {x: -26.961939, y: 16.538061}
+        - {x: 1.0380611, y: 16.538061}
+        - {x: 27.038061, y: 6.538061}
+        - {x: 27.038061, y: -13.461939}
+        - {x: 7.038061, y: -16.461939}
+      physicsShape:
+      - - {x: -9.961939, y: 16.538061}
+        - {x: -24.961939, y: 16.538061}
+        - {x: -26.961939, y: 14.538061}
+        - {x: -26.961939, y: -15.461939}
+        - {x: -25.961939, y: -16.461939}
+        - {x: 7.038061, y: -16.461939}
+        - {x: 27.038061, y: -13.461939}
+        - {x: 27.038061, y: 0.53806114}
+        - {x: 10.038061, y: 12.538061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccad63ef88e648beb3a4faec261954a7
+      internalID: 21300008
+      vertices:
+      - {x: 28.961939, y: 39.461937}
+      - {x: 8.961939, y: 16.461939}
+      - {x: 28.961939, y: 19.461939}
+      - {x: 2.9619389, y: 49.461937}
+      - {x: -24.038061, y: 16.461939}
+      - {x: -25.038061, y: 49.461937}
+      - {x: -25.038061, y: 17.461939}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Death104x66_0
+      rect:
+        serializedVersion: 2
+        x: 39.042908
+        y: 270.0761
+        width: 46.880974
+        height: 46.887596
+      alignment: 9
+      pivot: {x: 0.27638274, y: -0.12958887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.516605, y: -23.519909}
+        - {x: -23.483395, y: -23.519909}
+        - {x: -23.483395, y: 16.480091}
+        - {x: -12.483395, y: 23.480091}
+        - {x: 17.516605, y: 23.480091}
+        - {x: 23.516605, y: 18.480091}
+        - {x: 23.516605, y: -17.519909}
+      physicsShape:
+      - - {x: 23.516605, y: -16.519909}
+        - {x: 23.516605, y: 14.480091}
+        - {x: 16.516605, y: 20.480091}
+        - {x: 9.516605, y: 23.480091}
+        - {x: -8.483395, y: 23.480091}
+        - {x: -13.483395, y: 22.480091}
+        - {x: -22.483395, y: 10.480091}
+        - {x: -23.483395, y: 7.480091}
+        - {x: -23.483395, y: -7.519909}
+        - {x: -21.483395, y: -22.519909}
+        - {x: -19.483395, y: -23.519909}
+        - {x: -7.4833946, y: -23.519909}
+        - {x: -6.4833946, y: -22.519909}
+        - {x: -0.48339462, y: -23.519909}
+        - {x: 12.516605, y: -23.519909}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946caff2e4d54127b77fb7439170f965
+      internalID: 21300010
+      vertices:
+      - {x: 51.440487, y: 76.4438}
+      - {x: 57.440487, y: 35.443798}
+      - {x: 57.440487, y: 71.4438}
+      - {x: 50.440487, y: 29.443798}
+      - {x: 21.440487, y: 76.4438}
+      - {x: 10.440487, y: 69.4438}
+      - {x: 10.440487, y: 29.443798}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Death104x66_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 53.923878
+        height: 35.923878
+      alignment: 9
+      pivot: {x: 0.9643223, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.038061, y: -17.961939}
+        - {x: -26.961939, y: -17.961939}
+        - {x: -26.961939, y: 14.038061}
+        - {x: -24.961939, y: 18.038061}
+        - {x: 20.038061, y: 18.038061}
+        - {x: 27.038061, y: 16.038061}
+        - {x: 27.038061, y: -16.961939}
+      physicsShape:
+      - - {x: -17.961939, y: 18.038061}
+        - {x: -26.961939, y: 10.038061}
+        - {x: -26.961939, y: -17.961939}
+        - {x: 23.038061, y: -17.961939}
+        - {x: 27.038061, y: -16.961939}
+        - {x: 27.038061, y: 4.038061}
+        - {x: 24.038061, y: 10.038061}
+        - {x: 16.038061, y: 18.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae09c535313547f084ae17826b096e8d
+      internalID: 21300012
+      vertices:
+      - {x: 28.961939, y: 51.961937}
+      - {x: 24.961939, y: 17.961939}
+      - {x: 28.961939, y: 18.961939}
+      - {x: 21.961939, y: 53.961937}
+      - {x: -23.038061, y: 53.961937}
+      - {x: -25.038061, y: 49.961937}
+      - {x: -25.038061, y: 17.961939}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Death104x66_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66.051315
+        width: 53.923878
+        height: 35.921932
+      alignment: 9
+      pivot: {x: 0.9643223, y: -0.001428523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.961939, y: -18.012281}
+        - {x: -26.961939, y: -15.012281}
+        - {x: -26.961939, y: 16.987719}
+        - {x: -25.961939, y: 17.987719}
+        - {x: -4.961939, y: 17.987719}
+        - {x: 21.038061, y: 8.987719}
+        - {x: 27.038061, y: -4.0122814}
+        - {x: 27.038061, y: -13.012281}
+        - {x: -0.96193886, y: -18.012281}
+      physicsShape:
+      - - {x: -26.961939, y: -15.012281}
+        - {x: -23.961939, y: -18.012281}
+        - {x: -0.96193886, y: -18.012281}
+        - {x: 27.038061, y: -13.012281}
+        - {x: 27.038061, y: -4.0122814}
+        - {x: 21.038061, y: 8.987719}
+        - {x: -4.961939, y: 17.987719}
+        - {x: -25.961939, y: 17.987719}
+        - {x: -26.961939, y: 16.987719}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac50fcf9f43a4f2e878f827675f0f9dc
+      internalID: 21300014
+      vertices:
+      - {x: 22.961939, y: 44.960968}
+      - {x: 28.961939, y: 22.960966}
+      - {x: 28.961939, y: 31.960966}
+      - {x: 0.96193886, y: 17.960966}
+      - {x: -3.0380611, y: 53.960968}
+      - {x: -22.038061, y: 17.960966}
+      - {x: -24.038061, y: 53.960968}
+      - {x: -25.038061, y: 52.960968}
+      - {x: -25.038061, y: 20.960966}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Death104x66_3
+      rect:
+        serializedVersion: 2
+        x: 34.026752
+        y: 204.07613
+        width: 47.89713
+        height: 56.897125
+      alignment: 9
+      pivot: {x: 0.37524685, y: -0.106791444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.975317, y: -28.524689}
+        - {x: -23.975317, y: 3.4753113}
+        - {x: -23.975317, y: 18.475311}
+        - {x: -20.975317, y: 25.475311}
+        - {x: -9.975317, y: 28.475311}
+        - {x: 24.024683, y: 28.475311}
+        - {x: 24.024683, y: -28.524689}
+      physicsShape:
+      - - {x: 20.024683, y: -14.524689}
+        - {x: 24.024683, y: -8.524689}
+        - {x: 24.024683, y: -4.5246887}
+        - {x: 19.024683, y: -1.5246887}
+        - {x: 18.024683, y: 12.475311}
+        - {x: 15.024683, y: 21.475311}
+        - {x: 8.024683, y: 28.475311}
+        - {x: -7.975317, y: 28.475311}
+        - {x: -18.975317, y: 23.475311}
+        - {x: -23.975317, y: 17.475311}
+        - {x: -23.975317, y: 7.4753113}
+        - {x: -17.975317, y: -27.524689}
+        - {x: -14.975317, y: -28.524689}
+        - {x: -2.975317, y: -28.524689}
+        - {x: -1.975317, y: -27.524689}
+        - {x: 2.024683, y: -28.524689}
+        - {x: 16.024683, y: -28.524689}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f619f69ec6f64dd79b19461207b8c8ed
+      internalID: 21300016
+      vertices:
+      - {x: 19.948565, y: 91.44856}
+      - {x: 53.948563, y: 34.448563}
+      - {x: 53.948563, y: 91.44856}
+      - {x: 9.948565, y: 34.448563}
+      - {x: 8.948565, y: 88.44856}
+      - {x: 5.9485645, y: 81.44856}
+      - {x: 5.9485645, y: 66.44856}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Death104x66_2
+      rect:
+        serializedVersion: 2
+        x: 250.07613
+        y: 270.0761
+        width: 50.90952
+        height: 42.897125
+      alignment: 9
+      pivot: {x: 0.1949316, y: -0.14164378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.469114, y: -21.524673}
+        - {x: -25.530886, y: -21.524673}
+        - {x: -25.530886, y: -2.5246735}
+        - {x: -13.530886, y: 21.475327}
+        - {x: 21.469114, y: 21.475327}
+        - {x: 25.469114, y: 15.475327}
+        - {x: 25.469114, y: -6.5246735}
+      physicsShape:
+      - - {x: 19.469114, y: 18.475327}
+        - {x: 10.469114, y: 21.475327}
+        - {x: -8.530886, y: 21.475327}
+        - {x: -19.530886, y: 6.4753265}
+        - {x: -25.530886, y: -7.5246735}
+        - {x: -25.530886, y: -21.524673}
+        - {x: 20.469114, y: -21.524673}
+        - {x: 25.469114, y: -6.5246735}
+        - {x: 25.469114, y: 11.475327}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e00162f11b48708b10a39d2683a3b6
+      internalID: 21300018
+      vertices:
+      - {x: 66.45476, y: 64.44856}
+      - {x: 63.454758, y: 27.448563}
+      - {x: 66.45476, y: 42.448563}
+      - {x: 62.454758, y: 70.44856}
+      - {x: 27.45476, y: 70.44856}
+      - {x: 15.45476, y: 46.448563}
+      - {x: 15.45476, y: 27.448563}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Death104x66_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 53.923878
+        height: 34.923878
+      alignment: 9
+      pivot: {x: 0.9643223, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.038061, y: -17.461939}
+        - {x: -26.961939, y: -17.461939}
+        - {x: -26.961939, y: 12.538061}
+        - {x: -19.961939, y: 17.538061}
+        - {x: 23.038061, y: 17.538061}
+        - {x: 27.038061, y: 8.538061}
+        - {x: 27.038061, y: -10.461939}
+      physicsShape:
+      - - {x: -19.961939, y: 17.538061}
+        - {x: -26.961939, y: 10.538061}
+        - {x: -26.961939, y: -14.461939}
+        - {x: -25.961939, y: -17.461939}
+        - {x: 8.038061, y: -17.461939}
+        - {x: 27.038061, y: -10.461939}
+        - {x: 27.038061, y: 8.538061}
+        - {x: 23.038061, y: 17.538061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86955c73c88d439e9b598b36a8406b62
+      internalID: 21300020
+      vertices:
+      - {x: 24.961939, y: 52.461937}
+      - {x: 28.961939, y: 24.461939}
+      - {x: 28.961939, y: 43.461937}
+      - {x: 9.961939, y: 17.461939}
+      - {x: -18.038061, y: 52.461937}
+      - {x: -25.038061, y: 47.461937}
+      - {x: -25.038061, y: 17.461939}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Death104x66_5
+      rect:
+        serializedVersion: 2
+        x: 218.07613
+        y: 204.02675
+        width: 59.847763
+        height: 59.973248
+      alignment: 9
+      pivot: {x: 0.7005086, y: -0.100490615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.000008, y: -26.013374}
+        - {x: -30.000008, y: -10.013374}
+        - {x: -30.000008, y: 12.986626}
+        - {x: -20.000008, y: 29.986626}
+        - {x: 21.999992, y: 29.986626}
+        - {x: 29.999992, y: 6.9866257}
+        - {x: 29.999992, y: -21.013374}
+        - {x: 21.999992, y: -30.013374}
+        - {x: -1.0000076, y: -30.013374}
+      physicsShape:
+      - - {x: 14.999992, y: 4.9866257}
+        - {x: 16.999992, y: 15.986626}
+        - {x: 16.999992, y: 29.986626}
+        - {x: 6.9999924, y: 29.986626}
+        - {x: -3.0000076, y: 21.986626}
+        - {x: -17.000008, y: 26.986626}
+        - {x: -27.000008, y: 16.986626}
+        - {x: -30.000008, y: -0.013374329}
+        - {x: -30.000008, y: -7.0133743}
+        - {x: -18.000008, y: -21.013374}
+        - {x: 0.9999924, y: -30.013374}
+        - {x: 15.999992, y: -30.013374}
+        - {x: 29.999992, y: -16.013374}
+        - {x: 29.999992, y: -8.013374}
+        - {x: 27.999992, y: -3.0133743}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7e12f8c63d461c813cd6660a44031b
+      internalID: 21300022
+      vertices:
+      - {x: 39.92388, y: 95.986626}
+      - {x: 47.92388, y: 44.986626}
+      - {x: 47.92388, y: 72.986626}
+      - {x: 39.92388, y: 35.986626}
+      - {x: 16.923882, y: 35.986626}
+      - {x: -2.0761185, y: 95.986626}
+      - {x: -3.0761185, y: 39.986626}
+      - {x: -12.076118, y: 78.986626}
+      - {x: -12.076118, y: 55.986626}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Death104x66_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 66
+        width: 53.923878
+        height: 36.973248
+      alignment: 9
+      pivot: {x: 0.9643223, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.038061, y: -18.486624}
+        - {x: -26.961939, y: -18.486624}
+        - {x: -26.961939, y: 16.513376}
+        - {x: -25.961939, y: 18.513376}
+        - {x: -6.961939, y: 18.513376}
+        - {x: 21.038061, y: 10.513376}
+        - {x: 27.038061, y: -2.4866238}
+        - {x: 27.038061, y: -15.486624}
+      physicsShape:
+      - - {x: -3.9619389, y: 17.513376}
+        - {x: -11.961939, y: 18.513376}
+        - {x: -22.961939, y: 18.513376}
+        - {x: -26.961939, y: 14.513376}
+        - {x: -26.961939, y: -16.486624}
+        - {x: -25.961939, y: -18.486624}
+        - {x: 3.0380611, y: -18.486624}
+        - {x: 9.038061, y: -16.486624}
+        - {x: 27.038061, y: -14.486624}
+        - {x: 27.038061, y: -3.4866238}
+        - {x: 20.038061, y: 9.513376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41f6ab50a8645c49b8178c3a84e72a3
+      internalID: 21300024
+      vertices:
+      - {x: 22.961939, y: 47.486626}
+      - {x: 28.961939, y: 21.486624}
+      - {x: 28.961939, y: 34.486626}
+      - {x: 14.961939, y: 18.486624}
+      - {x: -5.038061, y: 55.486626}
+      - {x: -24.038061, y: 55.486626}
+      - {x: -25.038061, y: 53.486626}
+      - {x: -25.038061, y: 18.486624}
+      indices:
+      - 7
+      - 6
+      - 3
+      - 5
+      - 3
+      - 6
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Death104x66_1
+      rect:
+        serializedVersion: 2
+        x: 146.07613
+        y: 270.0761
+        width: 49.90952
+        height: 43.897125
+      alignment: 9
+      pivot: {x: 0.1988373, y: -0.13841705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.969114, y: -22.024673}
+        - {x: -25.030886, y: -22.024673}
+        - {x: -25.030886, y: -3.0246735}
+        - {x: -17.030886, y: 21.975327}
+        - {x: 21.969114, y: 21.975327}
+        - {x: 24.969114, y: 16.975327}
+        - {x: 24.969114, y: -7.0246735}
+      physicsShape:
+      - - {x: 18.969114, y: 18.975327}
+        - {x: 9.969114, y: 21.975327}
+        - {x: -10.030886, y: 21.975327}
+        - {x: -22.030886, y: 5.9753265}
+        - {x: -25.030886, y: -9.024673}
+        - {x: -25.030886, y: -22.024673}
+        - {x: 21.969114, y: -22.024673}
+        - {x: 24.969114, y: -7.0246735}
+        - {x: 24.969114, y: 14.975327}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b4f7a89a45497bb6ffe2f3a4da18b6
+      internalID: 21300026
+      vertices:
+      - {x: 61.954758, y: 71.94856}
+      - {x: 64.95476, y: 42.948563}
+      - {x: 64.95476, y: 66.94856}
+      - {x: 61.954758, y: 27.948563}
+      - {x: 22.95476, y: 71.94856}
+      - {x: 14.95476, y: 46.948563}
+      - {x: 14.95476, y: 27.948563}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 18979b6ea7ccdc86004681d90bf9ac05.bundle
+  assetBundleVariant:

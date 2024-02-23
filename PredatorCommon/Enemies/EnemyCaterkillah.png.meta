@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 73d5213170655d34ea2d499ccc4f7025
+timeCreated: 1706119823
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: EnemyCaterkillah30x16_angrywalk2
+  - first:
+      213: 21300002
+    second: EnemyCaterkillah30x16_death3
+  - first:
+      213: 21300004
+    second: EnemyCaterkillah30x16_death2
+  - first:
+      213: 21300006
+    second: EnemyCaterkillah30x16_spawn1
+  - first:
+      213: 21300008
+    second: EnemyCaterkillah30x16_spawn4
+  - first:
+      213: 21300010
+    second: EnemyCaterkillah30x16_death4
+  - first:
+      213: 21300012
+    second: EnemyCaterkillah30x16_death5
+  - first:
+      213: 21300014
+    second: EnemyCaterkillah30x16_damage2
+  - first:
+      213: 21300016
+    second: EnemyCaterkillah30x16_walk6
+  - first:
+      213: 21300018
+    second: EnemyCaterkillah30x16_walk5
+  - first:
+      213: 21300020
+    second: EnemyCaterkillah30x16_spawn3
+  - first:
+      213: 21300022
+    second: EnemyCaterkillah30x16_walk1
+  - first:
+      213: 21300024
+    second: EnemyCaterkillah30x16_angrywalk5
+  - first:
+      213: 21300026
+    second: EnemyCaterkillah30x16_spawn5
+  - first:
+      213: 21300028
+    second: EnemyCaterkillah30x16_spawn2
+  - first:
+      213: 21300030
+    second: EnemyCaterkillah30x16_walk3
+  - first:
+      213: 21300032
+    second: EnemyCaterkillah30x16_angrywalk4
+  - first:
+      213: 21300034
+    second: EnemyCaterkillah30x16_walk4
+  - first:
+      213: 21300036
+    second: EnemyCaterkillah30x16_walk2
+  - first:
+      213: 21300038
+    second: EnemyCaterkillah30x16_angrywalk1
+  - first:
+      213: 21300040
+    second: EnemyCaterkillah30x16_angrywalk3
+  - first:
+      213: 21300042
+    second: EnemyCaterkillah30x16_death1
+  - first:
+      213: 21300044
+    second: EnemyCaterkillah30x16_damage1
+  - first:
+      213: 21300046
+    second: EnemyCaterkillah30x16_angrywalk6
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_angrywalk2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -11, y: 1}
+        - {x: -11, y: -8}
+        - {x: 10, y: -8}
+        - {x: 11, y: -4}
+        - {x: 11, y: 2}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee2aab0d25e40a08d7a73abded4c9c7
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_death3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 16
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -13, y: -7}
+        - {x: -13, y: -8}
+        - {x: 13, y: -8}
+        - {x: 12, y: -4}
+        - {x: 7, y: -3}
+        - {x: -5, y: -3}
+        - {x: -9, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ffd561a6454d62992c4eb48048e514
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_death2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 16
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -5, y: 0}
+        - {x: -11, y: -6}
+        - {x: -11, y: -8}
+        - {x: 10, y: -8}
+        - {x: 10, y: -2}
+        - {x: 4, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d8566f10994fd1ad1e518668d35ac8
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_spawn1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: 6, y: 6}
+        - {x: -2, y: 6}
+        - {x: -8, y: 3}
+        - {x: -10, y: 0}
+        - {x: -10, y: -8}
+        - {x: 6, y: -8}
+        - {x: 10, y: -5}
+        - {x: 10, y: -1}
+        - {x: 9, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a8729a9e0d44c7b592ac7857917bd4
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_spawn4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 96
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -10, y: 0}
+        - {x: -10, y: -5}
+        - {x: -8, y: -8}
+        - {x: 7, y: -8}
+        - {x: 10, y: -5}
+        - {x: 10, y: 3}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc50063b86148339f988b756bf931f7
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_death4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 16
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -15, y: -8}
+        - {x: -3, y: -8}
+        - {x: -3, y: -6}
+        - {x: -6, y: -5}
+        - {x: -14, y: -5}
+      - - {x: 3, y: -8}
+        - {x: 2, y: -5}
+        - {x: -2, y: -5}
+        - {x: -3, y: -8}
+      - - {x: 15, y: -8}
+        - {x: 14, y: -5}
+        - {x: 4, y: -5}
+        - {x: 3, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331f4d13db2f4254b6100c10ec8991cc
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_death5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -4, y: -8}
+        - {x: -4, y: -6}
+        - {x: -7, y: -5}
+        - {x: -9, y: -8}
+      - - {x: 1, y: -8}
+        - {x: 1, y: -6}
+        - {x: -2, y: -5}
+        - {x: -4, y: -8}
+      - - {x: 11, y: -8}
+        - {x: 11, y: -6}
+        - {x: 8, y: -5}
+        - {x: 6, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61571829f886467abc914c384d27b62d
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_damage2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 32
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -10, y: 5}
+        - {x: -10, y: -8}
+        - {x: 5, y: -8}
+        - {x: 8, y: -4}
+        - {x: 8, y: 2}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20c34ea6a3f49e1bf943b91732f4735
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_walk6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 64
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: 5, y: 6}
+        - {x: -4, y: 6}
+        - {x: -8, y: 3}
+        - {x: -11, y: -5}
+        - {x: -11, y: -8}
+        - {x: 7, y: -8}
+        - {x: 10, y: -5}
+        - {x: 10, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a84761c00049e1bb0f55c08c842c3a
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_walk5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 64
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -1, y: 5}
+        - {x: -3, y: 4}
+        - {x: -12, y: -3}
+        - {x: -12, y: -7}
+        - {x: -11, y: -8}
+        - {x: 7, y: -8}
+        - {x: 10, y: -5}
+        - {x: 9, y: 1}
+        - {x: 5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e869712d44b14fc1b32ec3c3dfd153ec
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_spawn3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 96
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -8, y: 4}
+        - {x: -10, y: -3}
+        - {x: -10, y: -8}
+        - {x: 7, y: -8}
+        - {x: 10, y: -7}
+        - {x: 10, y: 5}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8927bfc0804ab19aac6c8ca03b6d51
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_walk1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 80
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: 6, y: 6}
+        - {x: -2, y: 6}
+        - {x: -8, y: 3}
+        - {x: -10, y: 0}
+        - {x: -10, y: -8}
+        - {x: 6, y: -8}
+        - {x: 10, y: -5}
+        - {x: 10, y: -1}
+        - {x: 9, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac033be644a44e6a994245c6e65df5a
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_angrywalk5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 48
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -1, y: 5}
+        - {x: -9, y: -1}
+        - {x: -12, y: -4}
+        - {x: -12, y: -7}
+        - {x: -11, y: -8}
+        - {x: 10, y: -8}
+        - {x: 10, y: -2}
+        - {x: 7, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfd1311f82c4801b29bd8cf1b97ed0e
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_spawn5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -3, y: 5}
+        - {x: -10, y: -1}
+        - {x: -10, y: -6}
+        - {x: -9, y: -8}
+        - {x: 8, y: -8}
+        - {x: 10, y: -6}
+        - {x: 10, y: -1}
+        - {x: 7, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056d4f5756c745e7a8abfb0bf7a5b00b
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_spawn2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 96
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -8, y: 6}
+        - {x: -10, y: 0}
+        - {x: -10, y: -8}
+        - {x: 4, y: -8}
+        - {x: 10, y: -2}
+        - {x: 9, y: 5}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13d41c654634fbf8af68bd269cf7883
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_walk3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 80
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -3, y: 6}
+        - {x: -11, y: -2}
+        - {x: -11, y: -8}
+        - {x: 9, y: -8}
+        - {x: 11, y: -5}
+        - {x: 11, y: 3}
+        - {x: 6, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de04c081ce643f48e23ca43b7ca4238
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_angrywalk4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 48
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: 0, y: 5}
+        - {x: -7, y: 0}
+        - {x: -12, y: -4}
+        - {x: -12, y: -7}
+        - {x: -11, y: -8}
+        - {x: 11, y: -8}
+        - {x: 11, y: -2}
+        - {x: 8, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c2b3e53db24497b2e06474aca04be4
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_walk4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -2, y: 5}
+        - {x: -12, y: -3}
+        - {x: -12, y: -7}
+        - {x: -11, y: -8}
+        - {x: 8, y: -8}
+        - {x: 11, y: -5}
+        - {x: 10, y: 1}
+        - {x: 5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeab5891fae74f9fa7595abfe9d1294d
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_walk2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 80
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: 9, y: 6}
+        - {x: -4, y: 6}
+        - {x: -11, y: -1}
+        - {x: -11, y: -8}
+        - {x: 5, y: -8}
+        - {x: 11, y: -5}
+        - {x: 11, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e4f4a2d7fb4d20b505881fd95e1526
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_angrywalk1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 64
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: 5, y: 6}
+        - {x: -4, y: 6}
+        - {x: -8, y: 3}
+        - {x: -10, y: -4}
+        - {x: -10, y: -8}
+        - {x: 7, y: -8}
+        - {x: 10, y: -5}
+        - {x: 10, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfabbee964374951b8f7fe2aa4c45c7d
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_angrywalk3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 48
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: 4, y: 6}
+        - {x: 0, y: 6}
+        - {x: -7, y: 0}
+        - {x: -11, y: -4}
+        - {x: -11, y: -7}
+        - {x: -10, y: -8}
+        - {x: 8, y: -8}
+        - {x: 11, y: -5}
+        - {x: 10, y: 1}
+        - {x: 7, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c657fad25940dcad2f9155816fca82
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_death1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -1, y: 3}
+        - {x: -10, y: -3}
+        - {x: -10, y: -7}
+        - {x: -9, y: -8}
+        - {x: 9, y: -8}
+        - {x: 10, y: -7}
+        - {x: 10, y: -4}
+        - {x: 7, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45db1143ebad4cac9ca2d503a4e38db1
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_damage1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 32
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -10, y: 5}
+        - {x: -10, y: -8}
+        - {x: 5, y: -8}
+        - {x: 8, y: -4}
+        - {x: 8, y: 2}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaa3e543529473982f9d93070cd376a
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCaterkillah30x16_angrywalk6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -8, y: 3}
+        - {x: -11, y: -3}
+        - {x: -11, y: -8}
+        - {x: 10, y: -8}
+        - {x: 10, y: -1}
+        - {x: 7, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eabb170e25346cd8d6e0ea89dea11d3
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 30, y: 24}
+      - {x: 0, y: 8}
+      - {x: 30, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: cea94d09bc829ac429b06117e96f0ca0
+timeCreated: 1706119813
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PD_9patch_96x96_extended_water_corner28_02_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 28, y: 28, z: 28, w: 28}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PD_9patch_96x96_extended_water_corner28_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 28, y: 28, z: 28, w: 28}
+      outline:
+      - - {x: -48, y: -48}
+        - {x: -48, y: 48}
+        - {x: 48, y: 48}
+        - {x: 48, y: -48}
+      physicsShape:
+      - - {x: -48, y: 48}
+        - {x: -48, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: 48}
+      - - {x: -17, y: -34}
+        - {x: -20, y: -34}
+        - {x: -23, y: -36}
+        - {x: -26, y: -36}
+        - {x: -29, y: -34}
+        - {x: -35, y: -34}
+        - {x: -37, y: -35}
+        - {x: -38, y: -32}
+        - {x: -38, y: -26}
+        - {x: -39, y: -24}
+        - {x: -38, y: -23}
+        - {x: -38, y: -16}
+        - {x: -37, y: -15}
+        - {x: -37, y: -12}
+        - {x: -38, y: -11}
+        - {x: -39, y: 0}
+        - {x: -37, y: 3}
+        - {x: -37, y: 5}
+        - {x: -39, y: 8}
+        - {x: -39, y: 12}
+        - {x: -38, y: 13}
+        - {x: -38, y: 21}
+        - {x: -34, y: 23}
+        - {x: -32, y: 23}
+        - {x: -31, y: 22}
+        - {x: -28, y: 22}
+        - {x: -26, y: 23}
+        - {x: -25, y: 22}
+        - {x: -23, y: 22}
+        - {x: -22, y: 23}
+        - {x: -19, y: 21}
+        - {x: -15, y: 21}
+        - {x: -14, y: 22}
+        - {x: -8, y: 22}
+        - {x: -7, y: 21}
+        - {x: 1, y: 21}
+        - {x: 2, y: 22}
+        - {x: 14, y: 21}
+        - {x: 15, y: 22}
+        - {x: 23, y: 22}
+        - {x: 24, y: 21}
+        - {x: 30, y: 21}
+        - {x: 31, y: 22}
+        - {x: 34, y: 22}
+        - {x: 35, y: 23}
+        - {x: 39, y: 21}
+        - {x: 38, y: 18}
+        - {x: 38, y: 11}
+        - {x: 39, y: 10}
+        - {x: 37, y: 6}
+        - {x: 37, y: 0}
+        - {x: 38, y: -1}
+        - {x: 38, y: -6}
+        - {x: 37, y: -7}
+        - {x: 37, y: -23}
+        - {x: 38, y: -24}
+        - {x: 37, y: -26}
+        - {x: 37, y: -35}
+        - {x: 35, y: -35}
+        - {x: 34, y: -34}
+        - {x: 25, y: -34}
+        - {x: 24, y: -35}
+        - {x: 16, y: -34}
+        - {x: 15, y: -35}
+        - {x: 12, y: -34}
+        - {x: 4, y: -34}
+        - {x: 3, y: -35}
+        - {x: -2, y: -36}
+        - {x: -3, y: -35}
+        - {x: -8, y: -35}
+        - {x: -9, y: -36}
+        - {x: -13, y: -37}
+        - {x: -13, y: -36}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986b403e2b19461486359a6395ea7c94
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 96}
+      - {x: 96, y: 96}
+      - {x: 0, y: 0}
+      - {x: 96, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: d56c6be660daaa82a18e3bccb9b133a9.bundle
+  assetBundleVariant:

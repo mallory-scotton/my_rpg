@@ -1,0 +1,870 @@
+fileFormatVersion: 2
+guid: e3078a2339a198f43bc74ef270874f7b
+timeCreated: 1706119851
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SW_charco_01_34x50_5
+  - first:
+      213: 21300002
+    second: SW_charco_01_34x50_4
+  - first:
+      213: 21300004
+    second: SW_charco_01_34x50_1
+  - first:
+      213: 21300006
+    second: SW_charco_01_34x50_3
+  - first:
+      213: 21300008
+    second: SW_charco_01_34x50_9
+  - first:
+      213: 21300010
+    second: SW_charco_01_34x50_0
+  - first:
+      213: 21300012
+    second: SW_charco_01_34x50_8
+  - first:
+      213: 21300014
+    second: SW_charco_01_34x50_10
+  - first:
+      213: 21300016
+    second: SW_charco_01_34x50_7
+  - first:
+      213: 21300018
+    second: SW_charco_01_34x50_6
+  - first:
+      213: 21300020
+    second: SW_charco_01_34x50_2
+  - first:
+      213: 21300022
+    second: SW_charco_01_34x50_11
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SW_charco_01_34x50_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 74
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -25}
+        - {x: -37, y: -25}
+        - {x: -37, y: 19}
+        - {x: -36, y: 25}
+        - {x: 32, y: 25}
+        - {x: 37, y: 22}
+        - {x: 37, y: -24}
+      physicsShape:
+      - - {x: 32, y: 25}
+        - {x: -36, y: 25}
+        - {x: -37, y: 19}
+        - {x: -37, y: -20}
+        - {x: -31, y: -25}
+        - {x: 29, y: -25}
+        - {x: 35, y: -17}
+        - {x: 37, y: -6}
+        - {x: 37, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca860c74af34f38abd7368c8ddcc55a
+      internalID: 21300000
+      vertices:
+      - {x: 69, y: 50}
+      - {x: 74, y: 1}
+      - {x: 74, y: 47}
+      - {x: 68, y: 0}
+      - {x: 1, y: 50}
+      - {x: 0, y: 44}
+      - {x: 0, y: 0}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_charco_01_34x50_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 74
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -25}
+        - {x: -37, y: -25}
+        - {x: -37, y: 19}
+        - {x: -36, y: 25}
+        - {x: 32, y: 25}
+        - {x: 37, y: 22}
+        - {x: 37, y: -24}
+      physicsShape:
+      - - {x: 32, y: 25}
+        - {x: -36, y: 25}
+        - {x: -37, y: 19}
+        - {x: -37, y: -20}
+        - {x: -31, y: -25}
+        - {x: 29, y: -25}
+        - {x: 35, y: -17}
+        - {x: 37, y: -6}
+        - {x: 37, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f488617ccd8411b820a5686f770788d
+      internalID: 21300002
+      vertices:
+      - {x: 69, y: 50}
+      - {x: 74, y: 1}
+      - {x: 74, y: 47}
+      - {x: 68, y: 0}
+      - {x: 1, y: 50}
+      - {x: 0, y: 44}
+      - {x: 0, y: 0}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_charco_01_34x50_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 74
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -25}
+        - {x: -37, y: -25}
+        - {x: -37, y: 19}
+        - {x: -36, y: 25}
+        - {x: 32, y: 25}
+        - {x: 37, y: 22}
+        - {x: 37, y: -24}
+      physicsShape:
+      - - {x: 32, y: 25}
+        - {x: -36, y: 25}
+        - {x: -37, y: 19}
+        - {x: -37, y: -20}
+        - {x: -31, y: -25}
+        - {x: 29, y: -25}
+        - {x: 35, y: -17}
+        - {x: 37, y: -6}
+        - {x: 37, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c315a31810d44c829d460058a21d09fb
+      internalID: 21300004
+      vertices:
+      - {x: 69, y: 50}
+      - {x: 74, y: 1}
+      - {x: 74, y: 47}
+      - {x: 68, y: 0}
+      - {x: 1, y: 50}
+      - {x: 0, y: 44}
+      - {x: 0, y: 0}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_charco_01_34x50_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 74
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -25}
+        - {x: -37, y: -25}
+        - {x: -37, y: 19}
+        - {x: -36, y: 25}
+        - {x: 32, y: 25}
+        - {x: 37, y: 22}
+        - {x: 37, y: -24}
+      physicsShape:
+      - - {x: 32, y: 25}
+        - {x: -36, y: 25}
+        - {x: -37, y: 19}
+        - {x: -37, y: -20}
+        - {x: -31, y: -25}
+        - {x: 29, y: -25}
+        - {x: 35, y: -17}
+        - {x: 37, y: -6}
+        - {x: 37, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0bfac829a541229f157b05277acb3a
+      internalID: 21300006
+      vertices:
+      - {x: 69, y: 50}
+      - {x: 74, y: 1}
+      - {x: 74, y: 47}
+      - {x: 68, y: 0}
+      - {x: 1, y: 50}
+      - {x: 0, y: 44}
+      - {x: 0, y: 0}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_charco_01_34x50_9
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 74
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -25}
+        - {x: -37, y: -25}
+        - {x: -37, y: 19}
+        - {x: -36, y: 25}
+        - {x: 32, y: 25}
+        - {x: 37, y: 22}
+        - {x: 37, y: -24}
+      physicsShape:
+      - - {x: 32, y: 25}
+        - {x: -36, y: 25}
+        - {x: -37, y: 19}
+        - {x: -37, y: -20}
+        - {x: -31, y: -25}
+        - {x: 29, y: -25}
+        - {x: 35, y: -17}
+        - {x: 37, y: -6}
+        - {x: 37, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb49317fbdc842139565e950644b169f
+      internalID: 21300008
+      vertices:
+      - {x: 69, y: 50}
+      - {x: 74, y: 1}
+      - {x: 74, y: 47}
+      - {x: 68, y: 0}
+      - {x: 1, y: 50}
+      - {x: 0, y: 44}
+      - {x: 0, y: 0}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_charco_01_34x50_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 74
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -25}
+        - {x: -37, y: -25}
+        - {x: -37, y: 19}
+        - {x: -36, y: 25}
+        - {x: 32, y: 25}
+        - {x: 37, y: 22}
+        - {x: 37, y: -24}
+      physicsShape:
+      - - {x: 32, y: 25}
+        - {x: -36, y: 25}
+        - {x: -37, y: 19}
+        - {x: -37, y: -20}
+        - {x: -31, y: -25}
+        - {x: 29, y: -25}
+        - {x: 35, y: -17}
+        - {x: 37, y: -6}
+        - {x: 37, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5561e98fba2e41d58054972079571baa
+      internalID: 21300010
+      vertices:
+      - {x: 69, y: 50}
+      - {x: 74, y: 1}
+      - {x: 74, y: 47}
+      - {x: 68, y: 0}
+      - {x: 1, y: 50}
+      - {x: 0, y: 44}
+      - {x: 0, y: 0}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_charco_01_34x50_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 74
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -25}
+        - {x: -37, y: -25}
+        - {x: -37, y: 19}
+        - {x: -36, y: 25}
+        - {x: 32, y: 25}
+        - {x: 37, y: 22}
+        - {x: 37, y: -24}
+      physicsShape:
+      - - {x: 32, y: 25}
+        - {x: -36, y: 25}
+        - {x: -37, y: 19}
+        - {x: -37, y: -20}
+        - {x: -31, y: -25}
+        - {x: 29, y: -25}
+        - {x: 35, y: -17}
+        - {x: 37, y: -6}
+        - {x: 37, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7854742e8f42e285482ef18a1b2c00
+      internalID: 21300012
+      vertices:
+      - {x: 69, y: 50}
+      - {x: 74, y: 1}
+      - {x: 74, y: 47}
+      - {x: 68, y: 0}
+      - {x: 1, y: 50}
+      - {x: 0, y: 44}
+      - {x: 0, y: 0}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_charco_01_34x50_10
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 74
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -25}
+        - {x: -37, y: -25}
+        - {x: -37, y: 19}
+        - {x: -36, y: 25}
+        - {x: 32, y: 25}
+        - {x: 37, y: 22}
+        - {x: 37, y: -24}
+      physicsShape:
+      - - {x: 32, y: 25}
+        - {x: -36, y: 25}
+        - {x: -37, y: 19}
+        - {x: -37, y: -20}
+        - {x: -31, y: -25}
+        - {x: 29, y: -25}
+        - {x: 35, y: -17}
+        - {x: 37, y: -6}
+        - {x: 37, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e90d9fcdd64129a4b8399a7a4a5bbf
+      internalID: 21300014
+      vertices:
+      - {x: 69, y: 50}
+      - {x: 74, y: 1}
+      - {x: 74, y: 47}
+      - {x: 68, y: 0}
+      - {x: 1, y: 50}
+      - {x: 0, y: 44}
+      - {x: 0, y: 0}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_charco_01_34x50_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 74
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -25}
+        - {x: -37, y: -25}
+        - {x: -37, y: 19}
+        - {x: -36, y: 25}
+        - {x: 32, y: 25}
+        - {x: 37, y: 22}
+        - {x: 37, y: -24}
+      physicsShape:
+      - - {x: 32, y: 25}
+        - {x: -36, y: 25}
+        - {x: -37, y: 19}
+        - {x: -37, y: -20}
+        - {x: -31, y: -25}
+        - {x: 29, y: -25}
+        - {x: 35, y: -17}
+        - {x: 37, y: -6}
+        - {x: 37, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186688e280714d76b111b8731d7bcebb
+      internalID: 21300016
+      vertices:
+      - {x: 69, y: 50}
+      - {x: 74, y: 1}
+      - {x: 74, y: 47}
+      - {x: 68, y: 0}
+      - {x: 1, y: 50}
+      - {x: 0, y: 44}
+      - {x: 0, y: 0}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_charco_01_34x50_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 74
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -25}
+        - {x: -37, y: -25}
+        - {x: -37, y: 19}
+        - {x: -36, y: 25}
+        - {x: 32, y: 25}
+        - {x: 37, y: 22}
+        - {x: 37, y: -24}
+      physicsShape:
+      - - {x: 32, y: 25}
+        - {x: -36, y: 25}
+        - {x: -37, y: 19}
+        - {x: -37, y: -20}
+        - {x: -31, y: -25}
+        - {x: 29, y: -25}
+        - {x: 35, y: -17}
+        - {x: 37, y: -6}
+        - {x: 37, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b381ae8075894fe8b15c18c2b8079895
+      internalID: 21300018
+      vertices:
+      - {x: 69, y: 50}
+      - {x: 74, y: 1}
+      - {x: 74, y: 47}
+      - {x: 68, y: 0}
+      - {x: 1, y: 50}
+      - {x: 0, y: 44}
+      - {x: 0, y: 0}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_charco_01_34x50_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 74
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -25}
+        - {x: -37, y: -25}
+        - {x: -37, y: 19}
+        - {x: -36, y: 25}
+        - {x: 32, y: 25}
+        - {x: 37, y: 22}
+        - {x: 37, y: -24}
+      physicsShape:
+      - - {x: 32, y: 25}
+        - {x: -36, y: 25}
+        - {x: -37, y: 19}
+        - {x: -37, y: -20}
+        - {x: -31, y: -25}
+        - {x: 29, y: -25}
+        - {x: 35, y: -17}
+        - {x: 37, y: -6}
+        - {x: 37, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a799c0b82b40b6bd887228f87040f6
+      internalID: 21300020
+      vertices:
+      - {x: 69, y: 50}
+      - {x: 74, y: 1}
+      - {x: 74, y: 47}
+      - {x: 68, y: 0}
+      - {x: 1, y: 50}
+      - {x: 0, y: 44}
+      - {x: 0, y: 0}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_charco_01_34x50_11
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 74
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -25}
+        - {x: -37, y: -25}
+        - {x: -37, y: 19}
+        - {x: -36, y: 25}
+        - {x: 32, y: 25}
+        - {x: 37, y: 22}
+        - {x: 37, y: -24}
+      physicsShape:
+      - - {x: 32, y: 25}
+        - {x: -36, y: 25}
+        - {x: -37, y: 19}
+        - {x: -37, y: -20}
+        - {x: -31, y: -25}
+        - {x: 29, y: -25}
+        - {x: 35, y: -17}
+        - {x: 37, y: -6}
+        - {x: 37, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20530338fa449df96b95e270bc92ed8
+      internalID: 21300022
+      vertices:
+      - {x: 69, y: 50}
+      - {x: 74, y: 1}
+      - {x: 74, y: 47}
+      - {x: 68, y: 0}
+      - {x: 1, y: 50}
+      - {x: 0, y: 44}
+      - {x: 0, y: 0}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 95d35bf82d4be93d9c0d7dd6f29fa4e4.bundle
+  assetBundleVariant:

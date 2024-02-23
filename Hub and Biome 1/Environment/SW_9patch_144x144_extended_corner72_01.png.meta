@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 4756fe38a362e634dbfae0d1c3803460
+timeCreated: 1706119813
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SW_9patch_144x144_extended_corner72_01_1
+  - first:
+      213: 21300002
+    second: SW_9patch_144x144_extended_corner72_01_2
+  - first:
+      213: 21300004
+    second: SW_9patch_144x144_extended_corner72_01_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SW_9patch_144x144_extended_corner72_01_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 192
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 72, y: 0, z: 72, w: 0}
+      outline:
+      - - {x: -96, y: -36.5}
+        - {x: -96, y: 36.5}
+        - {x: 96, y: 36.5}
+        - {x: 96, y: -36.5}
+      physicsShape:
+      - - {x: 96, y: 36.5}
+        - {x: -96, y: 36.5}
+        - {x: -96, y: -36.5}
+        - {x: 96, y: -36.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f263b3c515f64fa2bac1d56dd3dd06cb
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 100.5}
+      - {x: 192, y: 100.5}
+      - {x: 0, y: 27.5}
+      - {x: 192, y: 27.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_9patch_144x144_extended_corner72_01_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 72, y: 54, z: 0, w: 15}
+      outline:
+      - - {x: -60, y: -53}
+        - {x: -60, y: 53}
+        - {x: 60, y: 53}
+        - {x: 60, y: -53}
+      physicsShape:
+      - - {x: -4, y: -3}
+        - {x: -7, y: 45}
+        - {x: -8, y: 53}
+        - {x: -60, y: 53}
+        - {x: -60, y: -53}
+        - {x: 60, y: -53}
+        - {x: 60, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf2df2e15cf42c0a30757a0fa2dd482
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 106}
+      - {x: 120, y: 106}
+      - {x: 0, y: 0}
+      - {x: 120, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_9patch_144x144_extended_corner72_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5042017}
+      border: {x: 72, y: 72, z: 72, w: 0}
+      outline:
+      - - {x: -96, y: -59.5}
+        - {x: -96, y: 59.5}
+        - {x: 96, y: 59.5}
+        - {x: 96, y: -59.5}
+      physicsShape:
+      - - {x: 44, y: 59.5}
+        - {x: 42, y: 50.5}
+        - {x: 41, y: 38.5}
+        - {x: 42, y: 12.5}
+        - {x: 43, y: -11.5}
+        - {x: 35, y: -10.5}
+        - {x: -13, y: -10.5}
+        - {x: -20, y: -9.5}
+        - {x: -40, y: -9.5}
+        - {x: -43, y: 38.5}
+        - {x: -43, y: 59.5}
+        - {x: -96, y: 59.5}
+        - {x: -96, y: -59.5}
+        - {x: 96, y: -59.5}
+        - {x: 96, y: 59.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5adbd5799946e69a5fa80a596aa4ec
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 118.5}
+      - {x: 192, y: 118.5}
+      - {x: 0, y: -0.5000038}
+      - {x: 192, y: -0.5000038}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: d56c6be660daaa82a18e3bccb9b133a9.bundle
+  assetBundleVariant:

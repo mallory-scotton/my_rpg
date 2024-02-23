@@ -1,0 +1,1122 @@
+fileFormatVersion: 2
+guid: 6a802c7ab32a1454c86c1299ea46757e
+timeCreated: 1706119810
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: NuclearGardenFridge42x34_12
+  - first:
+      213: 21300002
+    second: NuclearGardenFridge42x34_8
+  - first:
+      213: 21300004
+    second: NuclearGardenFridge42x34_2
+  - first:
+      213: 21300006
+    second: NuclearGardenFridge42x34_7
+  - first:
+      213: 21300008
+    second: NuclearGardenFridge42x34_13
+  - first:
+      213: 21300010
+    second: NuclearGardenFridge42x34_0
+  - first:
+      213: 21300012
+    second: NuclearGardenFridge42x34_11
+  - first:
+      213: 21300014
+    second: NuclearGardenFridge42x34_5
+  - first:
+      213: 21300016
+    second: NuclearGardenFridge42x34_14
+  - first:
+      213: 21300018
+    second: NuclearGardenFridge42x34_4
+  - first:
+      213: 21300020
+    second: NuclearGardenFridge42x34_6
+  - first:
+      213: 21300022
+    second: NuclearGardenFridge42x34_10
+  - first:
+      213: 21300024
+    second: NuclearGardenFridge42x34_15
+  - first:
+      213: 21300026
+    second: NuclearGardenFridge42x34_9
+  - first:
+      213: 21300028
+    second: NuclearGardenFridge42x34_1
+  - first:
+      213: 21300030
+    second: NuclearGardenFridge42x34_3
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NuclearGardenFridge42x34_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31.92388
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6578148, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.03806, y: -17}
+        - {x: -15.96194, y: -17}
+        - {x: -15.96194, y: 13}
+        - {x: -11.96194, y: 17}
+        - {x: 15.03806, y: 17}
+        - {x: 16.03806, y: 13}
+        - {x: 16.03806, y: -16}
+      physicsShape:
+      - - {x: -11.96194, y: 17}
+        - {x: -15.96194, y: 13}
+        - {x: -15.96194, y: -17}
+        - {x: 15.03806, y: -17}
+        - {x: 16.03806, y: -16}
+        - {x: 16.03806, y: 13}
+        - {x: 15.03806, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9524e50e94044b01b0878ddc6f56d2ee
+      internalID: 21300000
+      vertices:
+      - {x: 25.96194, y: 51}
+      - {x: 26.96194, y: 18}
+      - {x: 26.96194, y: 47}
+      - {x: 25.96194, y: 17}
+      - {x: -1.0380602, y: 51}
+      - {x: -5.03806, y: 47}
+      - {x: -5.03806, y: 17}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenFridge42x34_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 39.923878
+        height: 34
+      alignment: 9
+      pivot: {x: 0.52600104, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.038063, y: -17}
+        - {x: -19.961937, y: -17}
+        - {x: -19.961937, y: 13}
+        - {x: -14.961937, y: 17}
+        - {x: 7.038063, y: 17}
+        - {x: 20.038063, y: 8}
+        - {x: 20.038063, y: -8}
+      physicsShape:
+      - - {x: -14.961937, y: 17}
+        - {x: -19.961937, y: 13}
+        - {x: -19.961937, y: -17}
+        - {x: 16.038063, y: -17}
+        - {x: 20.038063, y: -8}
+        - {x: 20.038063, y: 8}
+        - {x: 7.038063, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5324c6455a496180ce8f1c378a3dca
+      internalID: 21300002
+      vertices:
+      - {x: 38.961937, y: 42}
+      - {x: 34.961937, y: 17}
+      - {x: 38.961937, y: 26}
+      - {x: 25.961939, y: 51}
+      - {x: 3.9619389, y: 51}
+      - {x: -1.0380611, y: 47}
+      - {x: -1.0380611, y: 17}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenFridge42x34_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 102
+        width: 40.923878
+        height: 34
+      alignment: 9
+      pivot: {x: 0.51314783, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.538061, y: -17}
+        - {x: -20.461939, y: -17}
+        - {x: -20.461939, y: 17}
+        - {x: 18.538061, y: 17}
+        - {x: 20.538061, y: 14}
+        - {x: 20.538061, y: -8}
+      physicsShape:
+      - - {x: -20.461939, y: 17}
+        - {x: -20.461939, y: -17}
+        - {x: 15.538061, y: -17}
+        - {x: 20.538061, y: -8}
+        - {x: 20.538061, y: 14}
+        - {x: 18.538061, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae31d64eef1e405badc09d4c4723b2e2
+      internalID: 21300004
+      vertices:
+      - {x: 38.461937, y: 51}
+      - {x: 40.461937, y: 26}
+      - {x: 40.461937, y: 48}
+      - {x: 35.461937, y: 17}
+      - {x: -0.53806114, y: 51}
+      - {x: -0.53806114, y: 17}
+      indices:
+      - 5
+      - 4
+      - 3
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenFridge42x34_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 68
+        width: 40.923878
+        height: 34
+      alignment: 9
+      pivot: {x: 0.51314783, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.538061, y: -17}
+        - {x: -20.461939, y: -17}
+        - {x: -20.461939, y: 17}
+        - {x: 18.538061, y: 17}
+        - {x: 20.538061, y: 14}
+        - {x: 20.538061, y: -8}
+      physicsShape:
+      - - {x: -20.461939, y: 17}
+        - {x: -20.461939, y: -17}
+        - {x: 15.538061, y: -17}
+        - {x: 20.538061, y: -8}
+        - {x: 20.538061, y: 14}
+        - {x: 18.538061, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17308bf3a31946618ba7d347bb9d46b8
+      internalID: 21300006
+      vertices:
+      - {x: 38.461937, y: 51}
+      - {x: 40.461937, y: 26}
+      - {x: 40.461937, y: 48}
+      - {x: 35.461937, y: 17}
+      - {x: -0.53806114, y: 51}
+      - {x: -0.53806114, y: 17}
+      indices:
+      - 5
+      - 4
+      - 3
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenFridge42x34_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 31.92388
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6578148, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.03806, y: -17}
+        - {x: -15.96194, y: -17}
+        - {x: -15.96194, y: 13}
+        - {x: -11.96194, y: 17}
+        - {x: 15.03806, y: 17}
+        - {x: 16.03806, y: 13}
+        - {x: 16.03806, y: -16}
+      physicsShape:
+      - - {x: -11.96194, y: 17}
+        - {x: -15.96194, y: 13}
+        - {x: -15.96194, y: -17}
+        - {x: 15.03806, y: -17}
+        - {x: 16.03806, y: -16}
+        - {x: 16.03806, y: 13}
+        - {x: 15.03806, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3c91689a004e61b2ceb45de305e731
+      internalID: 21300008
+      vertices:
+      - {x: 25.96194, y: 51}
+      - {x: 26.96194, y: 18}
+      - {x: 26.96194, y: 47}
+      - {x: 25.96194, y: 17}
+      - {x: -1.0380602, y: 51}
+      - {x: -5.03806, y: 47}
+      - {x: -5.03806, y: 17}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenFridge42x34_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 37.973248
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5530209, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.013376, y: -17}
+        - {x: -18.986624, y: -17}
+        - {x: -18.986624, y: 17}
+        - {x: 10.013376, y: 17}
+        - {x: 15.013376, y: 5}
+        - {x: 17.013376, y: 3}
+        - {x: 19.013376, y: -2}
+        - {x: 19.013376, y: -12}
+      physicsShape:
+      - - {x: 17.013376, y: 3}
+        - {x: 15.013376, y: 5}
+        - {x: 10.013376, y: 17}
+        - {x: -18.986624, y: 17}
+        - {x: -18.986624, y: -17}
+        - {x: 12.013376, y: -17}
+        - {x: 19.013376, y: -12}
+        - {x: 19.013376, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ddac46510a44f59c643274bd47c0c8
+      internalID: 21300010
+      vertices:
+      - {x: 33.986626, y: 37}
+      - {x: 35.986626, y: 22}
+      - {x: 35.986626, y: 32}
+      - {x: 31.986624, y: 39}
+      - {x: 28.986624, y: 17}
+      - {x: 26.986624, y: 51}
+      - {x: -2.0133762, y: 51}
+      - {x: -2.0133762, y: 17}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenFridge42x34_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 34
+        width: 32.923878
+        height: 34
+      alignment: 9
+      pivot: {x: 0.63783497, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.538061, y: -17}
+        - {x: -16.461939, y: -17}
+        - {x: -16.461939, y: 13}
+        - {x: -15.461939, y: 17}
+        - {x: 14.538061, y: 17}
+        - {x: 16.538061, y: 1}
+        - {x: 16.538061, y: -13}
+      physicsShape:
+      - - {x: -15.461939, y: 17}
+        - {x: -16.461939, y: 13}
+        - {x: -16.461939, y: -17}
+        - {x: 13.538061, y: -17}
+        - {x: 16.538061, y: -13}
+        - {x: 16.538061, y: 1}
+        - {x: 14.538061, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a498d8d59ffb4fd9937b5714c254839b
+      internalID: 21300012
+      vertices:
+      - {x: 26.461939, y: 51}
+      - {x: 28.461939, y: 21}
+      - {x: 28.461939, y: 35}
+      - {x: 25.461939, y: 17}
+      - {x: -3.5380611, y: 51}
+      - {x: -4.538061, y: 47}
+      - {x: -4.538061, y: 17}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenFridge42x34_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 68
+        width: 41.923878
+        height: 34
+      alignment: 9
+      pivot: {x: 0.50090784, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.038059, y: -17}
+        - {x: -20.96194, y: -17}
+        - {x: -20.96194, y: 12}
+        - {x: -19.96194, y: 17}
+        - {x: 11.038059, y: 17}
+        - {x: 19.03806, y: 15}
+        - {x: 21.03806, y: 6}
+        - {x: 21.03806, y: -7}
+      physicsShape:
+      - - {x: 11.038059, y: 17}
+        - {x: -19.96194, y: 17}
+        - {x: -20.96194, y: 12}
+        - {x: -20.96194, y: -17}
+        - {x: 15.038059, y: -17}
+        - {x: 21.03806, y: -7}
+        - {x: 21.03806, y: 6}
+        - {x: 19.03806, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be3f1643d7d41bf965e3001e3160eb4
+      internalID: 21300014
+      vertices:
+      - {x: 39.961937, y: 49}
+      - {x: 41.961937, y: 27}
+      - {x: 41.961937, y: 40}
+      - {x: 35.961937, y: 17}
+      - {x: 31.961939, y: 51}
+      - {x: 0.96193886, y: 51}
+      - {x: -0.038061142, y: 46}
+      - {x: -0.038061142, y: 17}
+      indices:
+      - 7
+      - 6
+      - 3
+      - 5
+      - 3
+      - 6
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenFridge42x34_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 32.923878
+        height: 34
+      alignment: 9
+      pivot: {x: 0.63783497, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.538061, y: -17}
+        - {x: -16.461939, y: -17}
+        - {x: -16.461939, y: 13}
+        - {x: -15.461939, y: 17}
+        - {x: 14.538061, y: 17}
+        - {x: 16.538061, y: 1}
+        - {x: 16.538061, y: -13}
+      physicsShape:
+      - - {x: -15.461939, y: 17}
+        - {x: -16.461939, y: 13}
+        - {x: -16.461939, y: -17}
+        - {x: 13.538061, y: -17}
+        - {x: 16.538061, y: -13}
+        - {x: 16.538061, y: 1}
+        - {x: 14.538061, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0da68edecc345c6a040bc570845e494
+      internalID: 21300016
+      vertices:
+      - {x: 26.461939, y: 51}
+      - {x: 28.461939, y: 21}
+      - {x: 28.461939, y: 35}
+      - {x: 25.461939, y: 17}
+      - {x: -3.5380611, y: 51}
+      - {x: -4.538061, y: 47}
+      - {x: -4.538061, y: 17}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenFridge42x34_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 41.923878
+        height: 34
+      alignment: 9
+      pivot: {x: 0.50090784, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.038059, y: -17}
+        - {x: -20.96194, y: -17}
+        - {x: -20.96194, y: 12}
+        - {x: -19.96194, y: 17}
+        - {x: 11.038059, y: 17}
+        - {x: 19.03806, y: 15}
+        - {x: 21.03806, y: 6}
+        - {x: 21.03806, y: -7}
+      physicsShape:
+      - - {x: 11.038059, y: 17}
+        - {x: -19.96194, y: 17}
+        - {x: -20.96194, y: 12}
+        - {x: -20.96194, y: -17}
+        - {x: 15.038059, y: -17}
+        - {x: 21.03806, y: -7}
+        - {x: 21.03806, y: 6}
+        - {x: 19.03806, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a4309763d448e5b91dd4f091570ca8
+      internalID: 21300018
+      vertices:
+      - {x: 39.961937, y: 49}
+      - {x: 41.961937, y: 27}
+      - {x: 41.961937, y: 40}
+      - {x: 35.961937, y: 17}
+      - {x: 31.961939, y: 51}
+      - {x: 0.96193886, y: 51}
+      - {x: -0.038061142, y: 46}
+      - {x: -0.038061142, y: 17}
+      indices:
+      - 7
+      - 6
+      - 3
+      - 5
+      - 3
+      - 6
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenFridge42x34_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 68
+        width: 41.923878
+        height: 34
+      alignment: 9
+      pivot: {x: 0.50090784, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.03806, y: -17}
+        - {x: -20.96194, y: -17}
+        - {x: -20.96194, y: 16}
+        - {x: -17.96194, y: 17}
+        - {x: 13.038059, y: 17}
+        - {x: 21.03806, y: 11}
+        - {x: 21.03806, y: -7}
+      physicsShape:
+      - - {x: -17.96194, y: 17}
+        - {x: -20.96194, y: 16}
+        - {x: -20.96194, y: -17}
+        - {x: 16.03806, y: -17}
+        - {x: 21.03806, y: -7}
+        - {x: 21.03806, y: 11}
+        - {x: 13.038059, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58715e3330cc4bc9bedfc46cbe7913a8
+      internalID: 21300020
+      vertices:
+      - {x: 41.961937, y: 45}
+      - {x: 36.961937, y: 17}
+      - {x: 41.961937, y: 27}
+      - {x: 33.961937, y: 51}
+      - {x: 2.9619389, y: 51}
+      - {x: -0.038061142, y: 50}
+      - {x: -0.038061142, y: 17}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenFridge42x34_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 34
+        width: 35.923878
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5845694, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.038061, y: -17}
+        - {x: -17.961939, y: -17}
+        - {x: -17.961939, y: 13}
+        - {x: -12.961939, y: 17}
+        - {x: 8.038061, y: 17}
+        - {x: 10.038061, y: 15}
+        - {x: 16.038061, y: 8}
+        - {x: 18.038061, y: 2}
+        - {x: 18.038061, y: -15}
+      physicsShape:
+      - - {x: 10.038061, y: 15}
+        - {x: 8.038061, y: 17}
+        - {x: -12.961939, y: 17}
+        - {x: -17.961939, y: 13}
+        - {x: -17.961939, y: -17}
+        - {x: 16.038061, y: -17}
+        - {x: 18.038061, y: -15}
+        - {x: 18.038061, y: 2}
+        - {x: 16.038061, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb20d5f747b4c6d9ae197ed2cff4ae7
+      internalID: 21300022
+      vertices:
+      - {x: 30.961939, y: 42}
+      - {x: 32.961937, y: 19}
+      - {x: 32.961937, y: 36}
+      - {x: 30.961939, y: 17}
+      - {x: 24.961939, y: 49}
+      - {x: 22.961939, y: 51}
+      - {x: 1.9619389, y: 51}
+      - {x: -3.0380611, y: 47}
+      - {x: -3.0380611, y: 17}
+      indices:
+      - 8
+      - 7
+      - 3
+      - 6
+      - 3
+      - 7
+      - 5
+      - 3
+      - 6
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenFridge42x34_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 35.923878
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5845694, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.038061, y: -17}
+        - {x: -17.961939, y: -17}
+        - {x: -17.961939, y: 13}
+        - {x: -12.961939, y: 17}
+        - {x: 8.038061, y: 17}
+        - {x: 10.038061, y: 15}
+        - {x: 16.038061, y: 8}
+        - {x: 18.038061, y: 2}
+        - {x: 18.038061, y: -15}
+      physicsShape:
+      - - {x: 10.038061, y: 15}
+        - {x: 8.038061, y: 17}
+        - {x: -12.961939, y: 17}
+        - {x: -17.961939, y: 13}
+        - {x: -17.961939, y: -17}
+        - {x: 16.038061, y: -17}
+        - {x: 18.038061, y: -15}
+        - {x: 18.038061, y: 2}
+        - {x: 16.038061, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8452ac55344d6d9b40fb095745c53d
+      internalID: 21300024
+      vertices:
+      - {x: 30.961939, y: 42}
+      - {x: 32.961937, y: 19}
+      - {x: 32.961937, y: 36}
+      - {x: 30.961939, y: 17}
+      - {x: 24.961939, y: 49}
+      - {x: 22.961939, y: 51}
+      - {x: 1.9619389, y: 51}
+      - {x: -3.0380611, y: 47}
+      - {x: -3.0380611, y: 17}
+      indices:
+      - 8
+      - 7
+      - 3
+      - 6
+      - 3
+      - 7
+      - 5
+      - 3
+      - 6
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenFridge42x34_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 34
+        width: 37.973248
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5530209, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.013376, y: -17}
+        - {x: -18.986624, y: -17}
+        - {x: -18.986624, y: 17}
+        - {x: 10.013376, y: 17}
+        - {x: 15.013376, y: 5}
+        - {x: 17.013376, y: 3}
+        - {x: 19.013376, y: -2}
+        - {x: 19.013376, y: -12}
+      physicsShape:
+      - - {x: 17.013376, y: 3}
+        - {x: 15.013376, y: 5}
+        - {x: 10.013376, y: 17}
+        - {x: -18.986624, y: 17}
+        - {x: -18.986624, y: -17}
+        - {x: 12.013376, y: -17}
+        - {x: 19.013376, y: -12}
+        - {x: 19.013376, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3951bd3ba95244909abf3241ff94c538
+      internalID: 21300026
+      vertices:
+      - {x: 33.986626, y: 37}
+      - {x: 35.986626, y: 22}
+      - {x: 35.986626, y: 32}
+      - {x: 31.986624, y: 39}
+      - {x: 28.986624, y: 17}
+      - {x: 26.986624, y: 51}
+      - {x: -2.0133762, y: 51}
+      - {x: -2.0133762, y: 17}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenFridge42x34_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 102
+        width: 39.923878
+        height: 34
+      alignment: 9
+      pivot: {x: 0.52600104, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.038063, y: -17}
+        - {x: -19.961937, y: -17}
+        - {x: -19.961937, y: 13}
+        - {x: -14.961937, y: 17}
+        - {x: 7.038063, y: 17}
+        - {x: 20.038063, y: 8}
+        - {x: 20.038063, y: -8}
+      physicsShape:
+      - - {x: -14.961937, y: 17}
+        - {x: -19.961937, y: 13}
+        - {x: -19.961937, y: -17}
+        - {x: 16.038063, y: -17}
+        - {x: 20.038063, y: -8}
+        - {x: 20.038063, y: 8}
+        - {x: 7.038063, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d982aa172348fa809e281593decb09
+      internalID: 21300028
+      vertices:
+      - {x: 38.961937, y: 42}
+      - {x: 34.961937, y: 17}
+      - {x: 38.961937, y: 26}
+      - {x: 25.961939, y: 51}
+      - {x: 3.9619389, y: 51}
+      - {x: -1.0380611, y: 47}
+      - {x: -1.0380611, y: 17}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenFridge42x34_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 102
+        width: 41.923878
+        height: 34
+      alignment: 9
+      pivot: {x: 0.50090784, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.03806, y: -17}
+        - {x: -20.96194, y: -17}
+        - {x: -20.96194, y: 16}
+        - {x: -17.96194, y: 17}
+        - {x: 13.038059, y: 17}
+        - {x: 21.03806, y: 11}
+        - {x: 21.03806, y: -7}
+      physicsShape:
+      - - {x: -17.96194, y: 17}
+        - {x: -20.96194, y: 16}
+        - {x: -20.96194, y: -17}
+        - {x: 16.03806, y: -17}
+        - {x: 21.03806, y: -7}
+        - {x: 21.03806, y: 11}
+        - {x: 13.038059, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270742aeaa5540239c9f3348b89b6ddd
+      internalID: 21300030
+      vertices:
+      - {x: 41.961937, y: 45}
+      - {x: 36.961937, y: 17}
+      - {x: 41.961937, y: 27}
+      - {x: 33.961937, y: 51}
+      - {x: 2.9619389, y: 51}
+      - {x: -0.038061142, y: 50}
+      - {x: -0.038061142, y: 17}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 4cccb9c8fa36edf1f03dae7baaef6041.bundle
+  assetBundleVariant:

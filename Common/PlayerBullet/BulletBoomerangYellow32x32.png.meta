@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: d7985ab4c477b294d9f202a76878cbb8
+timeCreated: 1706119846
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BulletBoomerangYellow32x32_7
+  - first:
+      213: 21300002
+    second: BulletBoomerangYellow32x32_5
+  - first:
+      213: 21300004
+    second: BulletBoomerangYellow32x32_1
+  - first:
+      213: 21300006
+    second: BulletBoomerangYellow32x32_0
+  - first:
+      213: 21300008
+    second: BulletBoomerangYellow32x32_3
+  - first:
+      213: 21300010
+    second: BulletBoomerangYellow32x32_6
+  - first:
+      213: 21300012
+    second: BulletBoomerangYellow32x32_4
+  - first:
+      213: 21300014
+    second: BulletBoomerangYellow32x32_2
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BulletBoomerangYellow32x32_7
+      rect:
+        serializedVersion: 2
+        x: 230.02675
+        y: 12.07612
+        width: 20.946499
+        height: 13.897129
+      alignment: 9
+      pivot: {x: 0.47612974, y: 0.28235182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.499998, y: -7.024685}
+        - {x: -10.499998, y: -6.024685}
+        - {x: -10.499998, y: 3.975315}
+        - {x: -4.499998, y: 6.975315}
+        - {x: 6.500002, y: 6.975315}
+        - {x: 10.500002, y: 2.975315}
+        - {x: 10.500002, y: -5.024685}
+        - {x: 9.500002, y: -7.024685}
+      physicsShape:
+      - - {x: -4.499998, y: 6.975315}
+        - {x: -10.499998, y: 3.975315}
+        - {x: -10.499998, y: -6.024685}
+        - {x: -8.499998, y: -7.024685}
+        - {x: 9.500002, y: -7.024685}
+        - {x: 10.500002, y: -5.024685}
+        - {x: 10.500002, y: 2.975315}
+        - {x: 6.500002, y: 6.975315}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db266cb494ad4be2b1d5695acfb14ed1
+      internalID: 21300000
+      vertices:
+      - {x: 21.47325, y: 12.948565}
+      - {x: 20.47325, y: 2.9485645}
+      - {x: 21.47325, y: 4.9485645}
+      - {x: 17.47325, y: 16.948565}
+      - {x: 6.4732494, y: 16.948565}
+      - {x: 2.4732494, y: 2.9485645}
+      - {x: 0.47324944, y: 13.948565}
+      - {x: 0.47324944, y: 3.9485645}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBoomerangYellow32x32_5
+      rect:
+        serializedVersion: 2
+        x: 167.02675
+        y: 6.026751
+        width: 13.897129
+        height: 20.946499
+      alignment: 9
+      pivot: {x: 0.64569104, y: 0.47612965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.975313, y: -10.5}
+        - {x: -6.975313, y: -4.5}
+        - {x: -6.975313, y: 7.5}
+        - {x: -2.9753132, y: 10.5}
+        - {x: 5.024687, y: 10.5}
+        - {x: 7.024687, y: 9.5}
+        - {x: 7.024687, y: -8.5}
+        - {x: 6.024687, y: -10.5}
+      physicsShape:
+      - - {x: -2.9753132, y: 10.5}
+        - {x: -6.975313, y: 7.5}
+        - {x: -6.975313, y: -4.5}
+        - {x: -4.975313, y: -10.5}
+        - {x: 6.024687, y: -10.5}
+        - {x: 7.024687, y: -8.5}
+        - {x: 7.024687, y: 9.5}
+        - {x: 5.024687, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945ab7d542d642838317e3430a647e81
+      internalID: 21300002
+      vertices:
+      - {x: 11.948565, y: 20.47325}
+      - {x: 10.948565, y: 0.47324944}
+      - {x: 11.948565, y: 2.4732494}
+      - {x: 9.948565, y: 21.47325}
+      - {x: 1.9485645, y: 21.47325}
+      - {x: -0.05143547, y: 0.47324944}
+      - {x: -2.0514355, y: 18.47325}
+      - {x: -2.0514355, y: 6.4732494}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBoomerangYellow32x32_1
+      rect:
+        serializedVersion: 2
+        x: 44.07612
+        y: 6.026751
+        width: 13.897129
+        height: 20.946499
+      alignment: 9
+      pivot: {x: 0.28235194, y: 0.47612965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.024683, y: -10.5}
+        - {x: -7.024683, y: -9.5}
+        - {x: -7.024683, y: 9.5}
+        - {x: -5.024683, y: 10.5}
+        - {x: 3.9753168, y: 10.5}
+        - {x: 6.975317, y: 7.5}
+        - {x: 6.975317, y: -6.5}
+        - {x: 1.9753168, y: -10.5}
+      physicsShape:
+      - - {x: -5.024683, y: 10.5}
+        - {x: -7.024683, y: 9.5}
+        - {x: -7.024683, y: -9.5}
+        - {x: -5.024683, y: -10.5}
+        - {x: 1.9753168, y: -10.5}
+        - {x: 6.975317, y: -6.5}
+        - {x: 6.975317, y: 7.5}
+        - {x: 3.9753168, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6d24d37fa143a6a5da86a98ecf7f13
+      internalID: 21300004
+      vertices:
+      - {x: 13.948565, y: 21.47325}
+      - {x: 16.948565, y: 4.4732494}
+      - {x: 16.948565, y: 18.47325}
+      - {x: 11.948565, y: 0.47324944}
+      - {x: 4.9485645, y: 21.47325}
+      - {x: 4.9485645, y: 0.47324944}
+      - {x: 2.9485645, y: 20.47325}
+      - {x: 2.9485645, y: 1.4732494}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBoomerangYellow32x32_0
+      rect:
+        serializedVersion: 2
+        x: 7.0761204
+        y: 7.0761204
+        width: 18.89713
+        height: 18.89713
+      alignment: 9
+      pivot: {x: 0.47223467, y: 0.47223467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.4753151, y: -8.524685}
+        - {x: -9.524685, y: 0.4753151}
+        - {x: -9.524685, y: 6.475315}
+        - {x: -7.524685, y: 9.475315}
+        - {x: 2.475315, y: 9.475315}
+        - {x: 5.475315, y: 8.475315}
+        - {x: 8.475315, y: 5.475315}
+        - {x: 9.475315, y: 2.475315}
+        - {x: 9.475315, y: -5.524685}
+        - {x: 7.475315, y: -9.524685}
+        - {x: 3.475315, y: -9.524685}
+      physicsShape:
+      - - {x: 5.475315, y: 8.475315}
+        - {x: 2.475315, y: 9.475315}
+        - {x: -7.524685, y: 9.475315}
+        - {x: -9.524685, y: 6.475315}
+        - {x: -9.524685, y: 0.4753151}
+        - {x: 0.4753151, y: -8.524685}
+        - {x: 3.475315, y: -9.524685}
+        - {x: 7.475315, y: -9.524685}
+        - {x: 9.475315, y: -5.524685}
+        - {x: 9.475315, y: 2.475315}
+        - {x: 8.475315, y: 5.475315}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d96a80cc054a09975455183f459ea7
+      internalID: 21300006
+      vertices:
+      - {x: 18.448565, y: 15.448565}
+      - {x: 19.448565, y: 4.4485645}
+      - {x: 19.448565, y: 12.448565}
+      - {x: 17.448565, y: 0.44856453}
+      - {x: 15.448565, y: 18.448565}
+      - {x: 13.448565, y: 0.44856453}
+      - {x: 12.448565, y: 19.448565}
+      - {x: 10.448565, y: 1.4485645}
+      - {x: 2.4485645, y: 19.448565}
+      - {x: 0.44856453, y: 16.448565}
+      - {x: 0.44856453, y: 10.448565}
+      indices:
+      - 10
+      - 9
+      - 7
+      - 8
+      - 7
+      - 9
+      - 6
+      - 7
+      - 8
+      - 5
+      - 7
+      - 6
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBoomerangYellow32x32_3
+      rect:
+        serializedVersion: 2
+        x: 102.02675
+        y: 7.026751
+        width: 20.946499
+        height: 13.897129
+      alignment: 9
+      pivot: {x: 0.47612974, y: 0.64569086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.499998, y: -6.975315}
+        - {x: -10.499998, y: -3.975315}
+        - {x: -10.499998, y: 7.024685}
+        - {x: 10.500002, y: 7.024685}
+        - {x: 10.500002, y: -1.9753151}
+        - {x: 6.500002, y: -6.975315}
+      physicsShape:
+      - - {x: -10.499998, y: 7.024685}
+        - {x: -10.499998, y: -3.975315}
+        - {x: -3.499998, y: -6.975315}
+        - {x: 6.500002, y: -6.975315}
+        - {x: 10.500002, y: -1.9753151}
+        - {x: 10.500002, y: 7.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecffc9291c441fa94296ad4f98f5d55
+      internalID: 21300008
+      vertices:
+      - {x: 21.47325, y: 11.948565}
+      - {x: 17.47325, y: -2.0514355}
+      - {x: 21.47325, y: 2.9485645}
+      - {x: 7.4732494, y: -2.0514355}
+      - {x: 0.47324944, y: 11.948565}
+      - {x: 0.47324944, y: 0.9485645}
+      indices:
+      - 5
+      - 4
+      - 3
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBoomerangYellow32x32_6
+      rect:
+        serializedVersion: 2
+        x: 199.02675
+        y: 7.0761204
+        width: 18.89713
+        height: 18.89713
+      alignment: 9
+      pivot: {x: 0.47484735, y: 0.47223467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.475313, y: -9.524685}
+        - {x: -9.475313, y: -5.524685}
+        - {x: -9.475313, y: 7.475315}
+        - {x: -7.475313, y: 9.475315}
+        - {x: 7.524687, y: 9.475315}
+        - {x: 9.524687, y: 8.475315}
+        - {x: 9.524687, y: 1.4753151}
+        - {x: 0.5246868, y: -9.524685}
+      physicsShape:
+      - - {x: -7.475313, y: 9.475315}
+        - {x: -9.475313, y: 7.475315}
+        - {x: -9.475313, y: -5.524685}
+        - {x: -8.475313, y: -9.524685}
+        - {x: 0.5246868, y: -9.524685}
+        - {x: 9.524687, y: 1.4753151}
+        - {x: 9.524687, y: 8.475315}
+        - {x: 7.524687, y: 9.475315}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873d8d1404d94471b70bf584c194f2ef
+      internalID: 21300010
+      vertices:
+      - {x: 17.448565, y: 19.448565}
+      - {x: 19.448565, y: 11.448565}
+      - {x: 19.448565, y: 18.448565}
+      - {x: 10.448565, y: 0.44856453}
+      - {x: 2.4485645, y: 19.448565}
+      - {x: 1.4485645, y: 0.44856453}
+      - {x: 0.44856453, y: 17.448565}
+      - {x: 0.44856453, y: 4.4485645}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBoomerangYellow32x32_4
+      rect:
+        serializedVersion: 2
+        x: 135.02675
+        y: 7.026751
+        width: 18.89713
+        height: 18.89713
+      alignment: 9
+      pivot: {x: 0.47484735, y: 0.47484723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.475313, y: -9.475315}
+        - {x: -9.475313, y: -5.475315}
+        - {x: -9.475313, y: 5.524685}
+        - {x: -8.475313, y: 9.524685}
+        - {x: 5.524687, y: 9.524685}
+        - {x: 9.524687, y: 3.524685}
+        - {x: 9.524687, y: -9.475315}
+      physicsShape:
+      - - {x: -8.475313, y: 9.524685}
+        - {x: -9.475313, y: 5.524685}
+        - {x: -9.475313, y: -5.475315}
+        - {x: -5.475313, y: -9.475315}
+        - {x: 9.524687, y: -9.475315}
+        - {x: 9.524687, y: 3.524685}
+        - {x: 5.524687, y: 9.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0150ccc2def4512acc669f8e31d3264
+      internalID: 21300012
+      vertices:
+      - {x: 15.448565, y: 19.448565}
+      - {x: 19.448565, y: 0.44856453}
+      - {x: 19.448565, y: 13.448565}
+      - {x: 4.4485645, y: 0.44856453}
+      - {x: 1.4485645, y: 19.448565}
+      - {x: 0.44856453, y: 15.448565}
+      - {x: 0.44856453, y: 4.4485645}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBoomerangYellow32x32_2
+      rect:
+        serializedVersion: 2
+        x: 71.07612
+        y: 7.026751
+        width: 18.89713
+        height: 18.89713
+      alignment: 9
+      pivot: {x: 0.4722348, y: 0.47484723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.524683, y: -9.475315}
+        - {x: -9.524683, y: -7.475315}
+        - {x: -9.524683, y: 1.5246849}
+        - {x: -1.524683, y: 9.524685}
+        - {x: 8.475317, y: 9.524685}
+        - {x: 9.475317, y: 6.524685}
+        - {x: 9.475317, y: -5.475315}
+        - {x: 5.475317, y: -8.475315}
+        - {x: 2.475317, y: -9.475315}
+      physicsShape:
+      - - {x: -1.524683, y: 9.524685}
+        - {x: -9.524683, y: 1.5246849}
+        - {x: -9.524683, y: -7.475315}
+        - {x: -8.524683, y: -9.475315}
+        - {x: 2.475317, y: -9.475315}
+        - {x: 5.475317, y: -8.475315}
+        - {x: 9.475317, y: -5.475315}
+        - {x: 9.475317, y: 6.524685}
+        - {x: 8.475317, y: 9.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084212228a9e4fbebac26e9663285bf8
+      internalID: 21300014
+      vertices:
+      - {x: 18.448565, y: 19.448565}
+      - {x: 19.448565, y: 4.4485645}
+      - {x: 19.448565, y: 16.448565}
+      - {x: 15.448565, y: 1.4485645}
+      - {x: 12.448565, y: 0.44856453}
+      - {x: 8.448565, y: 19.448565}
+      - {x: 1.4485645, y: 0.44856453}
+      - {x: 0.44856453, y: 11.448565}
+      - {x: 0.44856453, y: 2.4485645}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

@@ -1,0 +1,1585 @@
+fileFormatVersion: 2
+guid: 564f3412b18061a4ea4a052fafac6347
+timeCreated: 1706119822
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SP_tree_06-82x80_0
+  - first:
+      213: 21300002
+    second: SP_tree_06-82x80_5
+  - first:
+      213: 21300004
+    second: SP_tree_06-82x80_8
+  - first:
+      213: 21300006
+    second: SP_tree_06-82x80_7
+  - first:
+      213: 21300008
+    second: SP_tree_06-82x80_9
+  - first:
+      213: 21300010
+    second: SP_tree_06-82x80_3
+  - first:
+      213: 21300012
+    second: SP_tree_06-82x80_2
+  - first:
+      213: 21300014
+    second: SP_tree_06-82x80_11
+  - first:
+      213: 21300016
+    second: SP_tree_06-82x80_6
+  - first:
+      213: 21300018
+    second: SP_tree_06-82x80_4
+  - first:
+      213: 21300020
+    second: SP_tree_06-82x80_10
+  - first:
+      213: 21300022
+    second: SP_tree_06-82x80_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SP_tree_06-82x80_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 32}
+        - {x: -13, y: 28}
+        - {x: -9, y: 40}
+        - {x: 30, y: 40}
+        - {x: 39, y: 38}
+        - {x: 41, y: 29}
+        - {x: 41, y: -5}
+        - {x: 11, y: -31}
+        - {x: 15, y: -33}
+        - {x: 13, y: -39}
+        - {x: 8, y: -40}
+        - {x: -34, y: -40}
+        - {x: -41, y: -26}
+        - {x: -41, y: 19}
+        - {x: -23, y: 33}
+      physicsShape:
+      - - {x: 16, y: -14}
+        - {x: 33, y: -8}
+        - {x: 41, y: -1}
+        - {x: 41, y: 15}
+        - {x: 35, y: 34}
+        - {x: 23, y: 40}
+        - {x: -4, y: 40}
+        - {x: -13, y: 28}
+        - {x: -13, y: 24}
+        - {x: -13, y: 28}
+        - {x: -17, y: 32}
+        - {x: -23, y: 33}
+        - {x: -41, y: 19}
+        - {x: -41, y: -7}
+        - {x: -39, y: -10}
+        - {x: -33, y: -15}
+        - {x: -14, y: -29}
+        - {x: -27, y: -34}
+        - {x: -20, y: -40}
+        - {x: 8, y: -40}
+        - {x: 13, y: -39}
+        - {x: 15, y: -33}
+        - {x: 11, y: -31}
+        - {x: -2, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1398a7db5e4325bc129a955f5ba937
+      internalID: 21300000
+      vertices:
+      - {x: 80, y: 118}
+      - {x: 82, y: 75}
+      - {x: 82, y: 109}
+      - {x: 71, y: 120}
+      - {x: 52, y: 49}
+      - {x: 49, y: 40}
+      - {x: 32, y: 120}
+      - {x: 28, y: 108}
+      - {x: 28, y: 104}
+      - {x: 24, y: 112}
+      - {x: 18, y: 113}
+      - {x: 7, y: 40}
+      - {x: 0, y: 99}
+      - {x: 0, y: 54}
+      - {x: 54, y: 41}
+      - {x: 56, y: 47}
+      indices:
+      - 8
+      - 9
+      - 7
+      - 5
+      - 4
+      - 14
+      - 15
+      - 14
+      - 4
+      - 13
+      - 12
+      - 11
+      - 10
+      - 11
+      - 12
+      - 5
+      - 11
+      - 10
+      - 9
+      - 5
+      - 10
+      - 8
+      - 5
+      - 9
+      - 7
+      - 5
+      - 8
+      - 6
+      - 5
+      - 7
+      - 3
+      - 5
+      - 6
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_tree_06-82x80_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 82
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 34}
+        - {x: -13, y: 28}
+        - {x: -10, y: 40}
+        - {x: 25, y: 40}
+        - {x: 41, y: 34}
+        - {x: 41, y: -4}
+        - {x: 11, y: -31}
+        - {x: 15, y: -33}
+        - {x: 13, y: -39}
+        - {x: 10, y: -40}
+        - {x: -22, y: -40}
+        - {x: -41, y: -18}
+        - {x: -41, y: 11}
+        - {x: -36, y: 29}
+      physicsShape:
+      - - {x: 18, y: -17}
+        - {x: 41, y: -3}
+        - {x: 41, y: 15}
+        - {x: 39, y: 25}
+        - {x: 22, y: 40}
+        - {x: -4, y: 40}
+        - {x: -13, y: 28}
+        - {x: -13, y: 24}
+        - {x: -10, y: 20}
+        - {x: -12, y: 22}
+        - {x: -13, y: 24}
+        - {x: -13, y: 28}
+        - {x: -16, y: 34}
+        - {x: -36, y: 29}
+        - {x: -41, y: 11}
+        - {x: -41, y: -12}
+        - {x: -19, y: -18}
+        - {x: -14, y: -29}
+        - {x: -27, y: -34}
+        - {x: -20, y: -40}
+        - {x: 8, y: -40}
+        - {x: 13, y: -39}
+        - {x: 15, y: -33}
+        - {x: 11, y: -31}
+        - {x: -2, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c824c5b21b418bbab1bcefe367acf8
+      internalID: 21300002
+      vertices:
+      - {x: 28, y: 108}
+      - {x: 31, y: 100}
+      - {x: 31, y: 120}
+      - {x: 28, y: 104}
+      - {x: 66, y: 120}
+      - {x: 82, y: 76}
+      - {x: 82, y: 114}
+      - {x: 52, y: 49}
+      - {x: 51, y: 40}
+      - {x: 29, y: 102}
+      - {x: 19, y: 40}
+      - {x: 25, y: 114}
+      - {x: 5, y: 109}
+      - {x: 0, y: 91}
+      - {x: 0, y: 62}
+      - {x: 54, y: 41}
+      - {x: 56, y: 47}
+      indices:
+      - 3
+      - 11
+      - 0
+      - 8
+      - 7
+      - 15
+      - 16
+      - 15
+      - 7
+      - 14
+      - 13
+      - 10
+      - 12
+      - 10
+      - 13
+      - 11
+      - 10
+      - 12
+      - 3
+      - 10
+      - 11
+      - 8
+      - 10
+      - 3
+      - 9
+      - 8
+      - 3
+      - 1
+      - 8
+      - 9
+      - 2
+      - 8
+      - 1
+      - 7
+      - 8
+      - 2
+      - 4
+      - 7
+      - 2
+      - 5
+      - 7
+      - 4
+      - 6
+      - 5
+      - 4
+      - 3
+      - 0
+      - 1
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_tree_06-82x80_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 82
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -40}
+        - {x: -41, y: -38}
+        - {x: -41, y: 21}
+        - {x: -26, y: 40}
+        - {x: -22, y: 40}
+        - {x: -13, y: 28}
+        - {x: -5, y: 40}
+        - {x: 26, y: 40}
+        - {x: 41, y: 31}
+        - {x: 41, y: -14}
+        - {x: 11, y: -31}
+        - {x: 15, y: -33}
+        - {x: 16, y: -40}
+      physicsShape:
+      - - {x: 16, y: -14}
+        - {x: 40, y: -6}
+        - {x: 41, y: -3}
+        - {x: 41, y: 19}
+        - {x: 39, y: 24}
+        - {x: 25, y: 40}
+        - {x: -5, y: 40}
+        - {x: -13, y: 28}
+        - {x: -13, y: 24}
+        - {x: -13, y: 28}
+        - {x: -17, y: 32}
+        - {x: -22, y: 32}
+        - {x: -30, y: 29}
+        - {x: -39, y: 18}
+        - {x: -41, y: 12}
+        - {x: -41, y: -8}
+        - {x: -35, y: -16}
+        - {x: -25, y: -13}
+        - {x: -14, y: -29}
+        - {x: -27, y: -34}
+        - {x: -20, y: -40}
+        - {x: 8, y: -40}
+        - {x: 13, y: -39}
+        - {x: 15, y: -33}
+        - {x: 11, y: -31}
+        - {x: -2, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df8c67aac3b46818d8b8d22f2abda9b
+      internalID: 21300004
+      vertices:
+      - {x: 28, y: 108}
+      - {x: 19, y: 120}
+      - {x: 28, y: 104}
+      - {x: 67, y: 120}
+      - {x: 82, y: 66}
+      - {x: 82, y: 111}
+      - {x: 52, y: 49}
+      - {x: 36, y: 120}
+      - {x: 57, y: 40}
+      - {x: 56, y: 47}
+      - {x: 15, y: 120}
+      - {x: 1, y: 40}
+      - {x: 0, y: 101}
+      - {x: 0, y: 42}
+      indices:
+      - 13
+      - 12
+      - 11
+      - 10
+      - 11
+      - 12
+      - 6
+      - 11
+      - 10
+      - 8
+      - 11
+      - 6
+      - 1
+      - 6
+      - 10
+      - 2
+      - 6
+      - 1
+      - 0
+      - 6
+      - 2
+      - 7
+      - 6
+      - 0
+      - 9
+      - 8
+      - 6
+      - 7
+      - 3
+      - 6
+      - 4
+      - 6
+      - 3
+      - 5
+      - 4
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_tree_06-82x80_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 82
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 32}
+        - {x: -13, y: 28}
+        - {x: -9, y: 40}
+        - {x: 30, y: 40}
+        - {x: 39, y: 38}
+        - {x: 41, y: 29}
+        - {x: 41, y: -5}
+        - {x: 11, y: -31}
+        - {x: 15, y: -33}
+        - {x: 13, y: -39}
+        - {x: 8, y: -40}
+        - {x: -34, y: -40}
+        - {x: -41, y: -26}
+        - {x: -41, y: 19}
+        - {x: -23, y: 33}
+      physicsShape:
+      - - {x: 16, y: -14}
+        - {x: 33, y: -8}
+        - {x: 41, y: -1}
+        - {x: 41, y: 15}
+        - {x: 35, y: 34}
+        - {x: 23, y: 40}
+        - {x: -4, y: 40}
+        - {x: -13, y: 28}
+        - {x: -13, y: 24}
+        - {x: -13, y: 28}
+        - {x: -17, y: 32}
+        - {x: -23, y: 33}
+        - {x: -41, y: 19}
+        - {x: -41, y: -7}
+        - {x: -39, y: -10}
+        - {x: -33, y: -15}
+        - {x: -14, y: -29}
+        - {x: -27, y: -34}
+        - {x: -20, y: -40}
+        - {x: 8, y: -40}
+        - {x: 13, y: -39}
+        - {x: 15, y: -33}
+        - {x: 11, y: -31}
+        - {x: -2, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1256685c177d477a8c6a27b768b3ef44
+      internalID: 21300006
+      vertices:
+      - {x: 80, y: 118}
+      - {x: 82, y: 75}
+      - {x: 82, y: 109}
+      - {x: 71, y: 120}
+      - {x: 52, y: 49}
+      - {x: 49, y: 40}
+      - {x: 32, y: 120}
+      - {x: 28, y: 108}
+      - {x: 28, y: 104}
+      - {x: 24, y: 112}
+      - {x: 18, y: 113}
+      - {x: 7, y: 40}
+      - {x: 0, y: 99}
+      - {x: 0, y: 54}
+      - {x: 54, y: 41}
+      - {x: 56, y: 47}
+      indices:
+      - 8
+      - 9
+      - 7
+      - 5
+      - 4
+      - 14
+      - 15
+      - 14
+      - 4
+      - 13
+      - 12
+      - 11
+      - 10
+      - 11
+      - 12
+      - 5
+      - 11
+      - 10
+      - 9
+      - 5
+      - 10
+      - 8
+      - 5
+      - 9
+      - 7
+      - 5
+      - 8
+      - 6
+      - 5
+      - 7
+      - 3
+      - 5
+      - 6
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_tree_06-82x80_9
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 82
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 32}
+        - {x: -13, y: 28}
+        - {x: -9, y: 39}
+        - {x: -8, y: 40}
+        - {x: 33, y: 40}
+        - {x: 41, y: 27}
+        - {x: 41, y: -15}
+        - {x: 15, y: -33}
+        - {x: 13, y: -39}
+        - {x: 8, y: -40}
+        - {x: -34, y: -40}
+        - {x: -41, y: -27}
+        - {x: -41, y: 14}
+        - {x: -33, y: 26}
+        - {x: -28, y: 29}
+        - {x: -22, y: 32}
+      physicsShape:
+      - - {x: 41, y: -6}
+        - {x: 41, y: 18}
+        - {x: 40, y: 24}
+        - {x: 25, y: 40}
+        - {x: -6, y: 40}
+        - {x: -9, y: 39}
+        - {x: -13, y: 28}
+        - {x: -13, y: 24}
+        - {x: -13, y: 28}
+        - {x: -17, y: 32}
+        - {x: -22, y: 32}
+        - {x: -28, y: 29}
+        - {x: -33, y: 26}
+        - {x: -39, y: 17}
+        - {x: -41, y: 13}
+        - {x: -41, y: -8}
+        - {x: -35, y: -17}
+        - {x: -25, y: -13}
+        - {x: -14, y: -29}
+        - {x: -27, y: -34}
+        - {x: -20, y: -40}
+        - {x: 8, y: -40}
+        - {x: 13, y: -39}
+        - {x: 15, y: -33}
+        - {x: 1, y: -17}
+        - {x: 40, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b81460cd46848c893583750573445aa
+      internalID: 21300008
+      vertices:
+      - {x: 74, y: 120}
+      - {x: 82, y: 65}
+      - {x: 82, y: 107}
+      - {x: 56, y: 47}
+      - {x: 54, y: 41}
+      - {x: 49, y: 40}
+      - {x: 33, y: 120}
+      - {x: 32, y: 119}
+      - {x: 28, y: 108}
+      - {x: 28, y: 104}
+      - {x: 24, y: 112}
+      - {x: 19, y: 112}
+      - {x: 13, y: 109}
+      - {x: 8, y: 106}
+      - {x: 7, y: 40}
+      - {x: 0, y: 94}
+      - {x: 0, y: 53}
+      indices:
+      - 9
+      - 10
+      - 8
+      - 16
+      - 15
+      - 14
+      - 13
+      - 14
+      - 15
+      - 5
+      - 14
+      - 13
+      - 12
+      - 5
+      - 13
+      - 11
+      - 5
+      - 12
+      - 10
+      - 5
+      - 11
+      - 9
+      - 5
+      - 10
+      - 8
+      - 5
+      - 9
+      - 7
+      - 5
+      - 8
+      - 6
+      - 5
+      - 7
+      - 0
+      - 5
+      - 6
+      - 4
+      - 5
+      - 0
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_tree_06-82x80_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 82
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 23}
+        - {x: -12, y: 22}
+        - {x: -13, y: 24}
+      physicsShape:
+      - - {x: 17, y: -14}
+        - {x: 33, y: -8}
+        - {x: 41, y: -2}
+        - {x: 41, y: 11}
+        - {x: 38, y: 25}
+        - {x: 25, y: 40}
+        - {x: -9, y: 40}
+        - {x: -13, y: 29}
+        - {x: -13, y: 24}
+        - {x: -10, y: 20}
+        - {x: -11, y: 22}
+        - {x: -13, y: 23}
+        - {x: -13, y: 28}
+        - {x: -15, y: 34}
+        - {x: -35, y: 28}
+        - {x: -41, y: 10}
+        - {x: -41, y: -12}
+        - {x: -19, y: -18}
+        - {x: -27, y: -34}
+        - {x: -20, y: -40}
+        - {x: 8, y: -40}
+        - {x: 13, y: -39}
+        - {x: 15, y: -33}
+        - {x: 11, y: -31}
+        - {x: -2, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c923aa81050c4d65a365d830b58bbaa4
+      internalID: 21300010
+      vertices:
+      - {x: 28, y: 108}
+      - {x: 28, y: 103}
+      - {x: 28, y: 104}
+      - {x: 26, y: 114}
+      - {x: 32, y: 120}
+      - {x: 30, y: 102}
+      - {x: 31, y: 100}
+      - {x: 29, y: 102}
+      - {x: 28, y: 109}
+      - {x: 71, y: 120}
+      - {x: 82, y: 66}
+      - {x: 82, y: 100}
+      - {x: 56, y: 40}
+      - {x: 6, y: 108}
+      - {x: 0, y: 102}
+      - {x: 0, y: 40}
+      indices:
+      - 7
+      - 5
+      - 6
+      - 15
+      - 14
+      - 12
+      - 13
+      - 12
+      - 14
+      - 1
+      - 12
+      - 13
+      - 3
+      - 1
+      - 13
+      - 7
+      - 12
+      - 1
+      - 6
+      - 12
+      - 7
+      - 4
+      - 12
+      - 6
+      - 9
+      - 12
+      - 4
+      - 10
+      - 12
+      - 9
+      - 11
+      - 10
+      - 9
+      - 2
+      - 0
+      - 7
+      - 8
+      - 7
+      - 0
+      - 4
+      - 7
+      - 8
+      - 5
+      - 7
+      - 4
+      - 6
+      - 5
+      - 4
+      - 3
+      - 0
+      - 1
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_tree_06-82x80_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 82
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 34}
+        - {x: -13, y: 28}
+        - {x: -10, y: 40}
+        - {x: 25, y: 40}
+        - {x: 41, y: 34}
+        - {x: 41, y: -4}
+        - {x: 11, y: -31}
+        - {x: 15, y: -33}
+        - {x: 13, y: -39}
+        - {x: 10, y: -40}
+        - {x: -22, y: -40}
+        - {x: -41, y: -18}
+        - {x: -41, y: 11}
+        - {x: -36, y: 29}
+      physicsShape:
+      - - {x: 18, y: -17}
+        - {x: 41, y: -3}
+        - {x: 41, y: 15}
+        - {x: 39, y: 25}
+        - {x: 22, y: 40}
+        - {x: -4, y: 40}
+        - {x: -13, y: 28}
+        - {x: -13, y: 24}
+        - {x: -10, y: 20}
+        - {x: -12, y: 22}
+        - {x: -13, y: 24}
+        - {x: -13, y: 28}
+        - {x: -16, y: 34}
+        - {x: -36, y: 29}
+        - {x: -41, y: 11}
+        - {x: -41, y: -12}
+        - {x: -19, y: -18}
+        - {x: -14, y: -29}
+        - {x: -27, y: -34}
+        - {x: -20, y: -40}
+        - {x: 8, y: -40}
+        - {x: 13, y: -39}
+        - {x: 15, y: -33}
+        - {x: 11, y: -31}
+        - {x: -2, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b010ed80e7e84ccd82e290c7a7807e03
+      internalID: 21300012
+      vertices:
+      - {x: 28, y: 108}
+      - {x: 31, y: 100}
+      - {x: 31, y: 120}
+      - {x: 28, y: 104}
+      - {x: 66, y: 120}
+      - {x: 82, y: 76}
+      - {x: 82, y: 114}
+      - {x: 52, y: 49}
+      - {x: 51, y: 40}
+      - {x: 29, y: 102}
+      - {x: 19, y: 40}
+      - {x: 25, y: 114}
+      - {x: 5, y: 109}
+      - {x: 0, y: 91}
+      - {x: 0, y: 62}
+      - {x: 54, y: 41}
+      - {x: 56, y: 47}
+      indices:
+      - 3
+      - 11
+      - 0
+      - 8
+      - 7
+      - 15
+      - 16
+      - 15
+      - 7
+      - 14
+      - 13
+      - 10
+      - 12
+      - 10
+      - 13
+      - 11
+      - 10
+      - 12
+      - 3
+      - 10
+      - 11
+      - 8
+      - 10
+      - 3
+      - 9
+      - 8
+      - 3
+      - 1
+      - 8
+      - 9
+      - 2
+      - 8
+      - 1
+      - 7
+      - 8
+      - 2
+      - 4
+      - 7
+      - 2
+      - 5
+      - 7
+      - 4
+      - 6
+      - 5
+      - 4
+      - 3
+      - 0
+      - 1
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_tree_06-82x80_11
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 0
+        width: 82
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -40}
+        - {x: -41, y: -38}
+        - {x: -41, y: 21}
+        - {x: -26, y: 40}
+        - {x: -22, y: 40}
+        - {x: -13, y: 28}
+        - {x: -5, y: 40}
+        - {x: 26, y: 40}
+        - {x: 41, y: 31}
+        - {x: 41, y: -14}
+        - {x: 11, y: -31}
+        - {x: 15, y: -33}
+        - {x: 16, y: -40}
+      physicsShape:
+      - - {x: 16, y: -14}
+        - {x: 40, y: -6}
+        - {x: 41, y: -3}
+        - {x: 41, y: 19}
+        - {x: 39, y: 24}
+        - {x: 25, y: 40}
+        - {x: -5, y: 40}
+        - {x: -13, y: 28}
+        - {x: -13, y: 24}
+        - {x: -13, y: 28}
+        - {x: -17, y: 32}
+        - {x: -22, y: 32}
+        - {x: -30, y: 29}
+        - {x: -39, y: 18}
+        - {x: -41, y: 12}
+        - {x: -41, y: -8}
+        - {x: -35, y: -16}
+        - {x: -25, y: -13}
+        - {x: -14, y: -29}
+        - {x: -27, y: -34}
+        - {x: -20, y: -40}
+        - {x: 8, y: -40}
+        - {x: 13, y: -39}
+        - {x: 15, y: -33}
+        - {x: 11, y: -31}
+        - {x: -2, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d86255018e4147ba52b262e0316e51
+      internalID: 21300014
+      vertices:
+      - {x: 28, y: 108}
+      - {x: 19, y: 120}
+      - {x: 28, y: 104}
+      - {x: 67, y: 120}
+      - {x: 82, y: 66}
+      - {x: 82, y: 111}
+      - {x: 52, y: 49}
+      - {x: 36, y: 120}
+      - {x: 57, y: 40}
+      - {x: 56, y: 47}
+      - {x: 15, y: 120}
+      - {x: 1, y: 40}
+      - {x: 0, y: 101}
+      - {x: 0, y: 42}
+      indices:
+      - 13
+      - 12
+      - 11
+      - 10
+      - 11
+      - 12
+      - 6
+      - 11
+      - 10
+      - 8
+      - 11
+      - 6
+      - 1
+      - 6
+      - 10
+      - 2
+      - 6
+      - 1
+      - 0
+      - 6
+      - 2
+      - 7
+      - 6
+      - 0
+      - 9
+      - 8
+      - 6
+      - 7
+      - 3
+      - 6
+      - 4
+      - 6
+      - 3
+      - 5
+      - 4
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_tree_06-82x80_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 82
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 34}
+        - {x: -13, y: 28}
+        - {x: -4, y: 40}
+        - {x: 41, y: 40}
+        - {x: 41, y: -15}
+        - {x: 33, y: -40}
+        - {x: -41, y: -40}
+        - {x: -41, y: 23}
+        - {x: -31, y: 30}
+      physicsShape:
+      - - {x: 41, y: -2}
+        - {x: 41, y: 16}
+        - {x: 39, y: 25}
+        - {x: 31, y: 32}
+        - {x: 20, y: 40}
+        - {x: -4, y: 40}
+        - {x: -13, y: 28}
+        - {x: -13, y: 24}
+        - {x: -10, y: 20}
+        - {x: -12, y: 22}
+        - {x: -13, y: 24}
+        - {x: -13, y: 28}
+        - {x: -16, y: 34}
+        - {x: -31, y: 30}
+        - {x: -41, y: 13}
+        - {x: -41, y: -12}
+        - {x: -19, y: -17}
+        - {x: -27, y: -34}
+        - {x: -20, y: -40}
+        - {x: 8, y: -40}
+        - {x: 13, y: -39}
+        - {x: 15, y: -33}
+        - {x: 1, y: -17}
+        - {x: 34, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af869c9030b4056a6fd082d43cde880
+      internalID: 21300016
+      vertices:
+      - {x: 28, y: 108}
+      - {x: 31, y: 100}
+      - {x: 37, y: 120}
+      - {x: 28, y: 104}
+      - {x: 82, y: 120}
+      - {x: 74, y: 40}
+      - {x: 82, y: 65}
+      - {x: 29, y: 102}
+      - {x: 10, y: 110}
+      - {x: 25, y: 114}
+      - {x: 0, y: 103}
+      - {x: 0, y: 40}
+      indices:
+      - 3
+      - 9
+      - 0
+      - 11
+      - 10
+      - 5
+      - 8
+      - 5
+      - 10
+      - 7
+      - 5
+      - 8
+      - 3
+      - 7
+      - 8
+      - 9
+      - 3
+      - 8
+      - 1
+      - 5
+      - 7
+      - 2
+      - 5
+      - 1
+      - 4
+      - 5
+      - 2
+      - 6
+      - 5
+      - 4
+      - 3
+      - 0
+      - 1
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_tree_06-82x80_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 82
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 23}
+        - {x: -12, y: 22}
+        - {x: -13, y: 24}
+      physicsShape:
+      - - {x: 41, y: -3}
+        - {x: 41, y: 11}
+        - {x: 38, y: 25}
+        - {x: 25, y: 40}
+        - {x: -9, y: 40}
+        - {x: -13, y: 29}
+        - {x: -13, y: 24}
+        - {x: -10, y: 20}
+        - {x: -11, y: 22}
+        - {x: -13, y: 23}
+        - {x: -13, y: 28}
+        - {x: -16, y: 32}
+        - {x: -20, y: 33}
+        - {x: -30, y: 29}
+        - {x: -40, y: 17}
+        - {x: -41, y: 11}
+        - {x: -41, y: -12}
+        - {x: -19, y: -18}
+        - {x: -27, y: -34}
+        - {x: -20, y: -40}
+        - {x: 8, y: -40}
+        - {x: 13, y: -39}
+        - {x: 15, y: -33}
+        - {x: 2, y: -18}
+        - {x: 34, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b1d84d4a734378849cbcbd458bfb9a
+      internalID: 21300018
+      vertices:
+      - {x: 28, y: 108}
+      - {x: 28, y: 103}
+      - {x: 28, y: 104}
+      - {x: 25, y: 112}
+      - {x: 32, y: 120}
+      - {x: 30, y: 102}
+      - {x: 31, y: 100}
+      - {x: 29, y: 102}
+      - {x: 28, y: 109}
+      - {x: 71, y: 120}
+      - {x: 82, y: 67}
+      - {x: 82, y: 100}
+      - {x: 54, y: 41}
+      - {x: 50, y: 40}
+      - {x: 15, y: 40}
+      - {x: 6, y: 120}
+      - {x: 5, y: 120}
+      - {x: 0, y: 104}
+      - {x: 0, y: 50}
+      indices:
+      - 7
+      - 5
+      - 6
+      - 18
+      - 17
+      - 14
+      - 16
+      - 14
+      - 17
+      - 15
+      - 14
+      - 16
+      - 3
+      - 14
+      - 15
+      - 1
+      - 14
+      - 3
+      - 13
+      - 14
+      - 1
+      - 7
+      - 13
+      - 1
+      - 6
+      - 13
+      - 7
+      - 4
+      - 13
+      - 6
+      - 9
+      - 13
+      - 4
+      - 12
+      - 13
+      - 9
+      - 10
+      - 12
+      - 9
+      - 11
+      - 10
+      - 9
+      - 2
+      - 0
+      - 7
+      - 8
+      - 7
+      - 0
+      - 4
+      - 7
+      - 8
+      - 5
+      - 7
+      - 4
+      - 6
+      - 5
+      - 4
+      - 3
+      - 0
+      - 1
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_tree_06-82x80_10
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 0
+        width: 82
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -40}
+        - {x: -41, y: -40}
+        - {x: -41, y: 28}
+        - {x: -28, y: 29}
+        - {x: -22, y: 32}
+        - {x: -17, y: 32}
+        - {x: -13, y: 28}
+        - {x: -9, y: 40}
+        - {x: 24, y: 40}
+        - {x: 34, y: 31}
+        - {x: 41, y: 18}
+        - {x: 41, y: -5}
+        - {x: 40, y: -7}
+        - {x: 15, y: -33}
+      physicsShape:
+      - - {x: 41, y: -5}
+        - {x: 41, y: 18}
+        - {x: 34, y: 31}
+        - {x: 24, y: 40}
+        - {x: -9, y: 40}
+        - {x: -13, y: 28}
+        - {x: -13, y: 24}
+        - {x: -13, y: 28}
+        - {x: -17, y: 32}
+        - {x: -22, y: 32}
+        - {x: -28, y: 29}
+        - {x: -33, y: 26}
+        - {x: -39, y: 17}
+        - {x: -41, y: 13}
+        - {x: -41, y: -8}
+        - {x: -36, y: -17}
+        - {x: -22, y: -16}
+        - {x: -14, y: -29}
+        - {x: -27, y: -34}
+        - {x: -20, y: -40}
+        - {x: 8, y: -40}
+        - {x: 13, y: -39}
+        - {x: 15, y: -33}
+        - {x: -1, y: -17}
+        - {x: 40, y: -7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ece8ada790443bb8dde8b929b88e66
+      internalID: 21300020
+      vertices:
+      - {x: 28, y: 108}
+      - {x: 24, y: 112}
+      - {x: 28, y: 104}
+      - {x: 82, y: 98}
+      - {x: 81, y: 73}
+      - {x: 82, y: 75}
+      - {x: 75, y: 111}
+      - {x: 65, y: 120}
+      - {x: 56, y: 47}
+      - {x: 32, y: 120}
+      - {x: 57, y: 40}
+      - {x: 19, y: 112}
+      - {x: 13, y: 109}
+      - {x: 0, y: 108}
+      - {x: 0, y: 40}
+      indices:
+      - 14
+      - 13
+      - 10
+      - 12
+      - 10
+      - 13
+      - 11
+      - 10
+      - 12
+      - 1
+      - 10
+      - 11
+      - 2
+      - 10
+      - 1
+      - 0
+      - 10
+      - 2
+      - 9
+      - 10
+      - 0
+      - 8
+      - 10
+      - 9
+      - 9
+      - 7
+      - 8
+      - 4
+      - 8
+      - 7
+      - 6
+      - 4
+      - 7
+      - 3
+      - 4
+      - 6
+      - 5
+      - 4
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_tree_06-82x80_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 82
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 34}
+        - {x: -13, y: 28}
+        - {x: -4, y: 40}
+        - {x: 41, y: 40}
+        - {x: 41, y: -15}
+        - {x: 33, y: -40}
+        - {x: -41, y: -40}
+        - {x: -41, y: 23}
+        - {x: -31, y: 30}
+      physicsShape:
+      - - {x: 41, y: -2}
+        - {x: 41, y: 16}
+        - {x: 39, y: 25}
+        - {x: 31, y: 32}
+        - {x: 20, y: 40}
+        - {x: -4, y: 40}
+        - {x: -13, y: 28}
+        - {x: -13, y: 24}
+        - {x: -10, y: 20}
+        - {x: -12, y: 22}
+        - {x: -13, y: 24}
+        - {x: -13, y: 28}
+        - {x: -16, y: 34}
+        - {x: -31, y: 30}
+        - {x: -41, y: 13}
+        - {x: -41, y: -12}
+        - {x: -19, y: -17}
+        - {x: -27, y: -34}
+        - {x: -20, y: -40}
+        - {x: 8, y: -40}
+        - {x: 13, y: -39}
+        - {x: 15, y: -33}
+        - {x: 1, y: -17}
+        - {x: 34, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091bf77da382406a930c4c57a30b80cc
+      internalID: 21300022
+      vertices:
+      - {x: 28, y: 108}
+      - {x: 31, y: 100}
+      - {x: 37, y: 120}
+      - {x: 28, y: 104}
+      - {x: 82, y: 120}
+      - {x: 74, y: 40}
+      - {x: 82, y: 65}
+      - {x: 29, y: 102}
+      - {x: 10, y: 110}
+      - {x: 25, y: 114}
+      - {x: 0, y: 103}
+      - {x: 0, y: 40}
+      indices:
+      - 3
+      - 9
+      - 0
+      - 11
+      - 10
+      - 5
+      - 8
+      - 5
+      - 10
+      - 7
+      - 5
+      - 8
+      - 3
+      - 7
+      - 8
+      - 9
+      - 3
+      - 8
+      - 1
+      - 5
+      - 7
+      - 2
+      - 5
+      - 1
+      - 4
+      - 5
+      - 2
+      - 6
+      - 5
+      - 4
+      - 3
+      - 0
+      - 1
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 2601eefa90f1f302662960eba7e3f32c.bundle
+  assetBundleVariant:

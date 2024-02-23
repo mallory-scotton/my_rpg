@@ -1,0 +1,4511 @@
+fileFormatVersion: 2
+guid: 68d852a423d332a4c9f9424a8b1fd72a
+timeCreated: 1706119830
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Player_Skin_Revita_30x26_66
+  - first:
+      213: 21300002
+    second: Player_Skin_Revita_30x26_20
+  - first:
+      213: 21300004
+    second: Player_Skin_Revita_30x26_87
+  - first:
+      213: 21300006
+    second: Player_Skin_Revita_30x26_65
+  - first:
+      213: 21300008
+    second: Player_Skin_Revita_30x26_46
+  - first:
+      213: 21300010
+    second: Player_Skin_Revita_30x26_74
+  - first:
+      213: 21300012
+    second: Player_Skin_Revita_30x26_83
+  - first:
+      213: 21300014
+    second: Player_Skin_Revita_30x26_50
+  - first:
+      213: 21300016
+    second: Player_Skin_Revita_30x26_25
+  - first:
+      213: 21300018
+    second: Player_Skin_Revita_30x26_44
+  - first:
+      213: 21300020
+    second: Player_Skin_Revita_30x26_49
+  - first:
+      213: 21300022
+    second: Player_Skin_Revita_30x26_8
+  - first:
+      213: 21300024
+    second: Player_Skin_Revita_30x26_43
+  - first:
+      213: 21300026
+    second: Player_Skin_Revita_30x26_62
+  - first:
+      213: 21300028
+    second: Player_Skin_Revita_30x26_32
+  - first:
+      213: 21300030
+    second: Player_Skin_Revita_30x26_84
+  - first:
+      213: 21300032
+    second: Player_Skin_Revita_30x26_92
+  - first:
+      213: 21300034
+    second: Player_Skin_Revita_30x26_33
+  - first:
+      213: 21300036
+    second: Player_Skin_Revita_30x26_31
+  - first:
+      213: 21300038
+    second: Player_Skin_Revita_30x26_80
+  - first:
+      213: 21300040
+    second: Player_Skin_Revita_30x26_12
+  - first:
+      213: 21300042
+    second: Player_Skin_Revita_30x26_41
+  - first:
+      213: 21300044
+    second: Player_Skin_Revita_30x26_0
+  - first:
+      213: 21300046
+    second: Player_Skin_Revita_30x26_58
+  - first:
+      213: 21300048
+    second: Player_Skin_Revita_30x26_70
+  - first:
+      213: 21300050
+    second: Player_Skin_Revita_30x26_34
+  - first:
+      213: 21300052
+    second: Player_Skin_Revita_30x26_37
+  - first:
+      213: 21300054
+    second: Player_Skin_Revita_30x26_29
+  - first:
+      213: 21300056
+    second: Player_Skin_Revita_30x26_14
+  - first:
+      213: 21300058
+    second: Player_Skin_Revita_30x26_4
+  - first:
+      213: 21300060
+    second: Player_Skin_Revita_30x26_42
+  - first:
+      213: 21300062
+    second: Player_Skin_Revita_30x26_36
+  - first:
+      213: 21300064
+    second: Player_Skin_Revita_30x26_68
+  - first:
+      213: 21300066
+    second: Player_Skin_Revita_30x26_2
+  - first:
+      213: 21300068
+    second: Player_Skin_Revita_30x26_73
+  - first:
+      213: 21300070
+    second: Player_Skin_Revita_30x26_23
+  - first:
+      213: 21300072
+    second: Player_Skin_Revita_30x26_40
+  - first:
+      213: 21300074
+    second: Player_Skin_Revita_30x26_60
+  - first:
+      213: 21300076
+    second: Player_Skin_Revita_30x26_51
+  - first:
+      213: 21300078
+    second: Player_Skin_Revita_30x26_47
+  - first:
+      213: 21300080
+    second: Player_Skin_Revita_30x26_26
+  - first:
+      213: 21300082
+    second: Player_Skin_Revita_30x26_81
+  - first:
+      213: 21300084
+    second: Player_Skin_Revita_30x26_52
+  - first:
+      213: 21300086
+    second: Player_Skin_Revita_30x26_85
+  - first:
+      213: 21300088
+    second: Player_Skin_Revita_30x26_54
+  - first:
+      213: 21300090
+    second: Player_Skin_Revita_30x26_1
+  - first:
+      213: 21300092
+    second: Player_Skin_Revita_30x26_86
+  - first:
+      213: 21300094
+    second: Player_Skin_Revita_30x26_28
+  - first:
+      213: 21300096
+    second: Player_Skin_Revita_30x26_69
+  - first:
+      213: 21300098
+    second: Player_Skin_Revita_30x26_48
+  - first:
+      213: 21300100
+    second: Player_Skin_Revita_30x26_57
+  - first:
+      213: 21300102
+    second: Player_Skin_Revita_30x26_24
+  - first:
+      213: 21300104
+    second: Player_Skin_Revita_30x26_76
+  - first:
+      213: 21300106
+    second: Player_Skin_Revita_30x26_55
+  - first:
+      213: 21300108
+    second: Player_Skin_Revita_30x26_72
+  - first:
+      213: 21300110
+    second: Player_Skin_Revita_30x26_35
+  - first:
+      213: 21300112
+    second: Player_Skin_Revita_30x26_91
+  - first:
+      213: 21300114
+    second: Player_Skin_Revita_30x26_21
+  - first:
+      213: 21300116
+    second: Player_Skin_Revita_30x26_61
+  - first:
+      213: 21300118
+    second: Player_Skin_Revita_30x26_82
+  - first:
+      213: 21300120
+    second: Player_Skin_Revita_30x26_11
+  - first:
+      213: 21300122
+    second: Player_Skin_Revita_30x26_88
+  - first:
+      213: 21300124
+    second: Player_Skin_Revita_30x26_39
+  - first:
+      213: 21300126
+    second: Player_Skin_Revita_30x26_67
+  - first:
+      213: 21300128
+    second: Player_Skin_Revita_30x26_94
+  - first:
+      213: 21300130
+    second: Player_Skin_Revita_30x26_56
+  - first:
+      213: 21300132
+    second: Player_Skin_Revita_30x26_30
+  - first:
+      213: 21300134
+    second: Player_Skin_Revita_30x26_93
+  - first:
+      213: 21300136
+    second: Player_Skin_Revita_30x26_6
+  - first:
+      213: 21300138
+    second: Player_Skin_Revita_30x26_64
+  - first:
+      213: 21300140
+    second: Player_Skin_Revita_30x26_19
+  - first:
+      213: 21300142
+    second: Player_Skin_Revita_30x26_90
+  - first:
+      213: 21300144
+    second: Player_Skin_Revita_30x26_18
+  - first:
+      213: 21300146
+    second: Player_Skin_Revita_30x26_16
+  - first:
+      213: 21300148
+    second: Player_Skin_Revita_30x26_22
+  - first:
+      213: 21300150
+    second: Player_Skin_Revita_30x26_79
+  - first:
+      213: 21300152
+    second: Player_Skin_Revita_30x26_3
+  - first:
+      213: 21300154
+    second: Player_Skin_Revita_30x26_27
+  - first:
+      213: 21300156
+    second: Player_Skin_Revita_30x26_75
+  - first:
+      213: 21300158
+    second: Player_Skin_Revita_30x26_13
+  - first:
+      213: 21300160
+    second: Player_Skin_Revita_30x26_7
+  - first:
+      213: 21300162
+    second: Player_Skin_Revita_30x26_78
+  - first:
+      213: 21300164
+    second: Player_Skin_Revita_30x26_89
+  - first:
+      213: 21300166
+    second: Player_Skin_Revita_30x26_5
+  - first:
+      213: 21300168
+    second: Player_Skin_Revita_30x26_17
+  - first:
+      213: 21300170
+    second: Player_Skin_Revita_30x26_10
+  - first:
+      213: 21300172
+    second: Player_Skin_Revita_30x26_71
+  - first:
+      213: 21300174
+    second: Player_Skin_Revita_30x26_38
+  - first:
+      213: 21300176
+    second: Player_Skin_Revita_30x26_9
+  - first:
+      213: 21300178
+    second: Player_Skin_Revita_30x26_77
+  - first:
+      213: 21300180
+    second: Player_Skin_Revita_30x26_45
+  - first:
+      213: 21300182
+    second: Player_Skin_Revita_30x26_63
+  - first:
+      213: 21300184
+    second: Player_Skin_Revita_30x26_95
+  - first:
+      213: 21300186
+    second: Player_Skin_Revita_30x26_53
+  - first:
+      213: 21300188
+    second: Player_Skin_Revita_30x26_15
+  - first:
+      213: 21300190
+    second: Player_Skin_Revita_30x26_59
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_66
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 78
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 6, y: 10}
+        - {x: -4, y: 10}
+        - {x: -10, y: 7}
+        - {x: -13, y: -2}
+        - {x: -13, y: -7}
+        - {x: -7, y: -13}
+        - {x: 7, y: -13}
+        - {x: 13, y: -7}
+        - {x: 13, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68b31166fb74961ae494b40c388e741
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -4, y: -5}
+        - {x: -13, y: -10}
+        - {x: -13, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: -6}
+        - {x: 14, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c48c359c87470f98fbc93c6120b00e
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_87
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 26
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 4, y: 7}
+        - {x: -6, y: 7}
+        - {x: -12, y: 4}
+        - {x: -12, y: -10}
+        - {x: -11, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -7}
+        - {x: 10, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aad04907e24453ba38fc255a2ef35ef
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_65
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 78
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 9, y: 10}
+        - {x: -6, y: 10}
+        - {x: -13, y: 7}
+        - {x: -13, y: -5}
+        - {x: -7, y: -13}
+        - {x: 8, y: -13}
+        - {x: 13, y: -8}
+        - {x: 13, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981cdc5dced74974a75aedfabc69b96f
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_46
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 130
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -12, y: -13}
+        - {x: 8, y: -13}
+        - {x: 10, y: -3}
+        - {x: 10, y: 7}
+        - {x: 5, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c47c7b2550473685e4971e016b6a2b
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_74
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 52
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -4, y: 11}
+        - {x: -10, y: 8}
+        - {x: -13, y: 3}
+        - {x: -13, y: -6}
+        - {x: -8, y: -13}
+        - {x: 10, y: -13}
+        - {x: 13, y: -7}
+        - {x: 13, y: 8}
+        - {x: 6, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d56629e687486e8193999736816647
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_83
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 26
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -10, y: 4}
+        - {x: -11, y: 3}
+        - {x: -11, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: 3}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2e1849a95c411aaff1c8a8ba7e8d7f
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 4, y: 3}
+        - {x: 1, y: 3}
+        - {x: -6, y: -1}
+        - {x: -10, y: -6}
+        - {x: -11, y: -13}
+        - {x: 8, y: -13}
+        - {x: 11, y: -11}
+        - {x: 12, y: -8}
+        - {x: 12, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73161bf988548ecb8540b64609d14d1
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 182
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -8, y: 7}
+        - {x: -11, y: 4}
+        - {x: -11, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: 6}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c391327110ce41289312a49a1d79d347
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 130
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -10, y: 9}
+        - {x: -12, y: 3}
+        - {x: -12, y: -13}
+        - {x: 9, y: -13}
+        - {x: 12, y: -10}
+        - {x: 12, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc102a9ad88e4ebdbb07a924e70126c9
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_49
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 130
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 0, y: 2}
+        - {x: -7, y: 1}
+        - {x: -11, y: -9}
+        - {x: -11, y: -13}
+        - {x: 10, y: -13}
+        - {x: 12, y: -11}
+        - {x: 13, y: -6}
+        - {x: 8, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62725ed6b3d4e11b0e4adbe7b1dd6ef
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 234
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 11, y: 10}
+        - {x: -1, y: 10}
+        - {x: -11, y: 6}
+        - {x: -11, y: -13}
+        - {x: 10, y: -13}
+        - {x: 13, y: -4}
+        - {x: 13, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9789aa950c34f0fa80dc9a7d4014fbf
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_43
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 130
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -3, y: 11}
+        - {x: -13, y: 7}
+        - {x: -13, y: -10}
+        - {x: -11, y: -13}
+        - {x: 12, y: -13}
+        - {x: 12, y: 10}
+        - {x: 10, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777c6cd0ea55484694127bfd6b3af89e
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_62
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 78
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 12, y: 7}
+        - {x: 8, y: 11}
+        - {x: -6, y: 11}
+        - {x: -13, y: 9}
+        - {x: -13, y: -10}
+        - {x: -6, y: -13}
+        - {x: 9, y: -13}
+        - {x: 12, y: -11}
+        - {x: 13, y: -7}
+        - {x: 13, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5d718ae5734c4f917c0fed2ec0ae38
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 156
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 0, y: 7}
+        - {x: -11, y: 3}
+        - {x: -11, y: -10}
+        - {x: -9, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: 5}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d51385ac114ca58ae80ffdbefac932
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_84
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 26
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -2, y: 7}
+        - {x: -11, y: 5}
+        - {x: -11, y: -13}
+        - {x: 9, y: -13}
+        - {x: 11, y: -7}
+        - {x: 11, y: 4}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d0ced30cc34a86a9d39c3d6fe73ad9
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_92
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 4, y: 7}
+        - {x: -6, y: 7}
+        - {x: -12, y: 4}
+        - {x: -12, y: -10}
+        - {x: -11, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -7}
+        - {x: 10, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b553556b90a4e21aa32b737eb80bd67
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 156
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -6, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -11, y: -13}
+        - {x: 5, y: -13}
+        - {x: 10, y: -6}
+        - {x: 10, y: 6}
+        - {x: 4, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b655a5176a94c04a1bcc54429ca6d6b
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_31
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 156
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -7, y: 6}
+        - {x: -12, y: 4}
+        - {x: -12, y: -8}
+        - {x: -6, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: 1}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224fb40a22e94c5e9662fa3fe8a97f3a
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -6, y: 11}
+        - {x: -11, y: 8}
+        - {x: -13, y: 6}
+        - {x: -14, y: -3}
+        - {x: -14, y: -7}
+        - {x: -7, y: -13}
+        - {x: 10, y: -13}
+        - {x: 12, y: -10}
+        - {x: 12, y: 6}
+        - {x: 8, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91afd12e4ee04d38808e209247d31792
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 208
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -4, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -11}
+        - {x: -10, y: -13}
+        - {x: 10, y: -13}
+        - {x: 11, y: -12}
+        - {x: 11, y: 6}
+        - {x: 5, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ee9ff81dce40bdb4f5e01efe2da569
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_41
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 130
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 7, y: 10}
+        - {x: -1, y: 10}
+        - {x: -11, y: 7}
+        - {x: -12, y: 4}
+        - {x: -12, y: -13}
+        - {x: 10, y: -13}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75eb4f40024144ff872f0ecd97d88953
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -6, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -13}
+        - {x: 8, y: -13}
+        - {x: 10, y: -12}
+        - {x: 10, y: 6}
+        - {x: 4, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506d425f5c6d4ceba3e241a91b069de1
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 104
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -12, y: 11}
+        - {x: -12, y: -6}
+        - {x: -10, y: -12}
+        - {x: -6, y: -13}
+        - {x: 7, y: -13}
+        - {x: 12, y: -8}
+        - {x: 12, y: 7}
+        - {x: 10, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b3c0ec08174f1db265a0be2c3323e3
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -4, y: -3}
+        - {x: -4, y: -8}
+        - {x: -3, y: -11}
+        - {x: 3, y: -11}
+        - {x: 5, y: -8}
+        - {x: 5, y: -4}
+        - {x: 3, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00aacb450fc746ecbab71a26401aaba2
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 156
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 7, y: 9}
+        - {x: -9, y: 9}
+        - {x: -13, y: 5}
+        - {x: -13, y: -9}
+        - {x: -10, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -4}
+        - {x: 11, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d04c45df664642981d57570274a1ca
+      internalID: 21300050
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_37
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 156
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 8, y: 9}
+        - {x: -5, y: 9}
+        - {x: -13, y: 6}
+        - {x: -13, y: -5}
+        - {x: -11, y: -11}
+        - {x: -8, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -7}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd87482220674eea96a4d8db9ba23ebc
+      internalID: 21300052
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 182
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -8, y: 1}
+        - {x: -10, y: -4}
+        - {x: -10, y: -13}
+        - {x: 9, y: -13}
+        - {x: 9, y: -5}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c34f8e018642dbad37f380dce6de82
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 208
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -11, y: 2}
+        - {x: -13, y: -1}
+        - {x: -13, y: -13}
+        - {x: 14, y: -13}
+        - {x: 14, y: -10}
+        - {x: 6, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8815ca9635b40319b5ab4f502b336a0
+      internalID: 21300056
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 234
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 2, y: 9}
+        - {x: -12, y: 3}
+        - {x: -12, y: -13}
+        - {x: 10, y: -13}
+        - {x: 12, y: -10}
+        - {x: 12, y: 8}
+        - {x: 10, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db09cfe65cf647978228141492ec87b9
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 130
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 1, y: 10}
+        - {x: -5, y: 8}
+        - {x: -13, y: 6}
+        - {x: -13, y: -6}
+        - {x: -12, y: -11}
+        - {x: -10, y: -13}
+        - {x: 11, y: -13}
+        - {x: 12, y: -10}
+        - {x: 12, y: 8}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bc9e97da564dc98662cf7a37c5bb6b
+      internalID: 21300060
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_36
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 156
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 8, y: 7}
+        - {x: -7, y: 7}
+        - {x: -13, y: 5}
+        - {x: -13, y: -12}
+        - {x: -11, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: 2}
+        - {x: 10, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7581208643b84994ad3e43b04834b869
+      internalID: 21300062
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_68
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 78
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -2, y: 7}
+        - {x: -11, y: 5}
+        - {x: -11, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: 4}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb717e368cd43d2906988e8950b0dd2
+      internalID: 21300064
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 234
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 10, y: -13}
+        - {x: 10, y: 5}
+        - {x: -8, y: 5}
+        - {x: -12, y: 3}
+        - {x: -12, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d45a61cd39e46c3b235a1836dc12d66
+      internalID: 21300066
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_73
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 52
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -3, y: 10}
+        - {x: -9, y: 8}
+        - {x: -9, y: -13}
+        - {x: 9, y: -13}
+        - {x: 13, y: -3}
+        - {x: 13, y: 8}
+        - {x: 9, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8d98bfe16c41149de4698a981bdc41
+      internalID: 21300068
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_23
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 182
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 1, y: 8}
+        - {x: -10, y: 5}
+        - {x: -11, y: 3}
+        - {x: -11, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: 6}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5730bce66eb045a7b9509f975ee7c65c
+      internalID: 21300070
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -2, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -11, y: -13}
+        - {x: 10, y: -13}
+        - {x: 12, y: -12}
+        - {x: 12, y: 6}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411cd02a7ead434a8bdf965ed9ef8e69
+      internalID: 21300072
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -6, y: 11}
+        - {x: -14, y: 8}
+        - {x: -14, y: -7}
+        - {x: -11, y: -13}
+        - {x: 14, y: -13}
+        - {x: 14, y: 9}
+        - {x: 11, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f150abcec2b647e0b901655a65dc2abf
+      internalID: 21300074
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_51
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 104
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -1, y: 5}
+        - {x: -10, y: 0}
+        - {x: -10, y: -13}
+        - {x: 12, y: -13}
+        - {x: 12, y: -1}
+        - {x: 8, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52cdc3009484899b852101d014a2570
+      internalID: 21300076
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -6, y: 10}
+        - {x: -12, y: 7}
+        - {x: -13, y: 5}
+        - {x: -13, y: -10}
+        - {x: -11, y: -13}
+        - {x: 5, y: -13}
+        - {x: 9, y: -7}
+        - {x: 9, y: 6}
+        - {x: 3, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b92e0ecadbd481d8f8523df61272f28
+      internalID: 21300078
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 182
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -14, y: 1}
+        - {x: -14, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -10}
+        - {x: 11, y: 2}
+        - {x: 8, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d87d5ac5947441a84994e88aa58bfe4
+      internalID: 21300080
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_81
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 26
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -6, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -13}
+        - {x: 8, y: -13}
+        - {x: 10, y: -12}
+        - {x: 10, y: 6}
+        - {x: 4, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da34475609304a598fcf44bbd67bac3e
+      internalID: 21300082
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_52
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 104
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 4, y: 7}
+        - {x: -3, y: 7}
+        - {x: -10, y: 3}
+        - {x: -10, y: -13}
+        - {x: 9, y: -13}
+        - {x: 12, y: -11}
+        - {x: 12, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da2c7631b96447bae60bb8910219b99
+      internalID: 21300084
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_85
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 26
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 4, y: 7}
+        - {x: -6, y: 7}
+        - {x: -12, y: 4}
+        - {x: -12, y: -10}
+        - {x: -11, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -7}
+        - {x: 10, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3d5ab45bff4923a6370a0c9ff179e9
+      internalID: 21300086
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_54
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 104
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 5, y: 10}
+        - {x: -5, y: 10}
+        - {x: -12, y: 5}
+        - {x: -12, y: -7}
+        - {x: -7, y: -13}
+        - {x: 8, y: -13}
+        - {x: 12, y: -4}
+        - {x: 12, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bee459d8550499cb56208e596ae27e6
+      internalID: 21300088
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 234
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -12, y: 4}
+        - {x: -12, y: -12}
+        - {x: -11, y: -13}
+        - {x: 7, y: -13}
+        - {x: 10, y: -5}
+        - {x: 10, y: 5}
+        - {x: 9, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717499cbae0245579fc7cd807afe2ab1
+      internalID: 21300090
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_86
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 26
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 4, y: 7}
+        - {x: -6, y: 7}
+        - {x: -12, y: 4}
+        - {x: -12, y: -10}
+        - {x: -11, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -7}
+        - {x: 10, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99e5c1d23634d2b92a8a9b1af04e6d2
+      internalID: 21300092
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 182
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 13, y: 3}
+        - {x: 11, y: 5}
+        - {x: -6, y: 5}
+        - {x: -10, y: 4}
+        - {x: -10, y: -11}
+        - {x: -7, y: -13}
+        - {x: 13, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7783cbd656244380a45e97870bcfa79c
+      internalID: 21300094
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_69
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 78
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -3, y: -1}
+        - {x: -3, y: -7}
+        - {x: -2, y: -9}
+        - {x: 3, y: -9}
+        - {x: 5, y: -6}
+        - {x: 5, y: -2}
+        - {x: 3, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0c38182b2f4dda9b6fae1add7136e7
+      internalID: 21300096
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 130
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -6, y: -6}
+        - {x: -11, y: -10}
+        - {x: -11, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: -9}
+        - {x: 13, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf81f15ffce418e9cfe420b32e3cc82
+      internalID: 21300098
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_57
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 104
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -12, y: 11}
+        - {x: -12, y: -6}
+        - {x: -10, y: -12}
+        - {x: -6, y: -13}
+        - {x: 7, y: -13}
+        - {x: 12, y: -8}
+        - {x: 12, y: 7}
+        - {x: 10, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17663e46673a4293af11fef68cd8924f
+      internalID: 21300100
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 182
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -2, y: 7}
+        - {x: -10, y: 5}
+        - {x: -11, y: 2}
+        - {x: -11, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: 6}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bfafde39004bd79b189d04c904a3a6
+      internalID: 21300102
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_76
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 52
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -5, y: 12}
+        - {x: -13, y: 8}
+        - {x: -13, y: -9}
+        - {x: -7, y: -12}
+        - {x: 13, y: -12}
+        - {x: 13, y: 10}
+        - {x: 8, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cd67084d434a65a7f767caa2f3d406
+      internalID: 21300104
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_55
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 104
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 10, y: 11}
+        - {x: -10, y: 11}
+        - {x: -12, y: 10}
+        - {x: -12, y: -5}
+        - {x: -9, y: -12}
+        - {x: -4, y: -13}
+        - {x: 6, y: -13}
+        - {x: 9, y: -10}
+        - {x: 12, y: -1}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd74184f865419fb1440fd8b99fbbb6
+      internalID: 21300106
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_72
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 52
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -4, y: -1}
+        - {x: -4, y: -7}
+        - {x: -3, y: -9}
+        - {x: 2, y: -9}
+        - {x: 4, y: -6}
+        - {x: 4, y: -2}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dea919b0dcd4113b1d5379426dac928
+      internalID: 21300108
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_35
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 156
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 7, y: 7}
+        - {x: -13, y: 7}
+        - {x: -13, y: -13}
+        - {x: 10, y: -13}
+        - {x: 11, y: -11}
+        - {x: 11, y: 2}
+        - {x: 10, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4535f6185e4afbad73c7917b29e7a9
+      internalID: 21300110
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_91
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 4, y: 7}
+        - {x: -6, y: 7}
+        - {x: -12, y: 4}
+        - {x: -12, y: -10}
+        - {x: -11, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -7}
+        - {x: 10, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68cf0b7b4f8416abdf885c44eced8ea
+      internalID: 21300112
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 182
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -6, y: -6}
+        - {x: -11, y: -10}
+        - {x: -11, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: -9}
+        - {x: 13, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed2d2f02c79480099be146846fd9980
+      internalID: 21300114
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_61
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 78
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 8, y: 11}
+        - {x: -4, y: 11}
+        - {x: -13, y: 8}
+        - {x: -13, y: -11}
+        - {x: -8, y: -13}
+        - {x: 10, y: -13}
+        - {x: 13, y: -9}
+        - {x: 13, y: 3}
+        - {x: 12, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a5238b09f446188ad6cfe6fb54ce21
+      internalID: 21300116
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_82
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 26
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -12, y: 4}
+        - {x: -12, y: -12}
+        - {x: -11, y: -13}
+        - {x: 7, y: -13}
+        - {x: 10, y: -5}
+        - {x: 10, y: 5}
+        - {x: 9, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3719c1237a4c48f0b2a5eb4567b711fc
+      internalID: 21300118
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 208
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -10, y: 11}
+        - {x: -14, y: 9}
+        - {x: -14, y: -8}
+        - {x: -13, y: -13}
+        - {x: 7, y: -13}
+        - {x: 8, y: -12}
+        - {x: 8, y: 7}
+        - {x: -1, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae83bd07fb874d93a7af4c089c67f546
+      internalID: 21300120
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_88
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 26
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 4, y: 7}
+        - {x: -6, y: 7}
+        - {x: -12, y: 4}
+        - {x: -12, y: -10}
+        - {x: -11, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -7}
+        - {x: 10, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6abd12668940e2b18ba86dddacea00
+      internalID: 21300122
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 156
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -9, y: 10}
+        - {x: -12, y: 4}
+        - {x: -12, y: -12}
+        - {x: -11, y: -13}
+        - {x: 12, y: -13}
+        - {x: 12, y: 9}
+        - {x: 9, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2351aadc16d646ccb7352fcc29d0f096
+      internalID: 21300124
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 78
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -10, y: 4}
+        - {x: -11, y: 3}
+        - {x: -11, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: 3}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b1b00433de44dfad3a23ab237a23f6
+      internalID: 21300126
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_94
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -10, y: 11}
+        - {x: -12, y: 10}
+        - {x: -12, y: -13}
+        - {x: 7, y: -13}
+        - {x: 10, y: -6}
+        - {x: 10, y: 10}
+        - {x: 7, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e22ca596b94864abe6b361b499470e
+      internalID: 21300128
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_56
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 104
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -12, y: 11}
+        - {x: -12, y: -6}
+        - {x: -10, y: -12}
+        - {x: -6, y: -13}
+        - {x: 7, y: -13}
+        - {x: 12, y: -8}
+        - {x: 12, y: 7}
+        - {x: 10, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85814dc94fea4a59a74f3829c30460d4
+      internalID: 21300130
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -14, y: 3}
+        - {x: -15, y: -1}
+        - {x: -15, y: -13}
+        - {x: 10, y: -13}
+        - {x: 11, y: -12}
+        - {x: 11, y: -5}
+        - {x: 4, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf3a90b4a2b4aefa6eb73348fc870dc
+      internalID: 21300132
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_93
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -12, y: 4}
+        - {x: -12, y: -12}
+        - {x: -11, y: -13}
+        - {x: 7, y: -13}
+        - {x: 10, y: -5}
+        - {x: 10, y: 5}
+        - {x: 9, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a4611d721c4250a0069546a9d3fadd
+      internalID: 21300134
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 234
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 0, y: 5}
+        - {x: -10, y: 3}
+        - {x: -10, y: -11}
+        - {x: -8, y: -13}
+        - {x: 8, y: -13}
+        - {x: 12, y: -8}
+        - {x: 12, y: 2}
+        - {x: 9, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e193785924474a2ab8d5c7161be64fa0
+      internalID: 21300136
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_64
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 78
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -9, y: 11}
+        - {x: -13, y: 7}
+        - {x: -13, y: -8}
+        - {x: -9, y: -13}
+        - {x: 9, y: -13}
+        - {x: 13, y: -8}
+        - {x: 13, y: 10}
+        - {x: 9, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebb550a3ecd41a9953a0f1345996b81
+      internalID: 21300138
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 208
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -6, y: -6}
+        - {x: -13, y: -11}
+        - {x: -13, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: -9}
+        - {x: 13, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc658f3104d497c9ce6695654e78b11
+      internalID: 21300140
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 4, y: 7}
+        - {x: -6, y: 7}
+        - {x: -12, y: 4}
+        - {x: -12, y: -10}
+        - {x: -11, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -7}
+        - {x: 10, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a0e081db964b6ebdaf81802c079b37
+      internalID: 21300142
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -4, y: 7}
+        - {x: -8, y: 6}
+        - {x: -13, y: -10}
+        - {x: -13, y: -13}
+        - {x: 14, y: -13}
+        - {x: 14, y: 2}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27925fc9be2743f58b7553802d271d06
+      internalID: 21300144
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 208
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 0, y: 4}
+        - {x: -10, y: 2}
+        - {x: -12, y: 0}
+        - {x: -13, y: -6}
+        - {x: -13, y: -13}
+        - {x: 8, y: -13}
+        - {x: 10, y: -6}
+        - {x: 10, y: 3}
+        - {x: 7, y: 4}
+      - - {x: 13, y: -13}
+        - {x: 12, y: -10}
+        - {x: 8, y: -10}
+        - {x: 7, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c4148d3e9f4eb985d4d8be34138e0c
+      internalID: 21300146
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 182
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -2, y: 8}
+        - {x: -10, y: 6}
+        - {x: -11, y: 5}
+        - {x: -11, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: 6}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9698fa44eae74491ab0c65eacf65890b
+      internalID: 21300148
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_79
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 52
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -6, y: 13}
+        - {x: -13, y: 11}
+        - {x: -13, y: -6}
+        - {x: -6, y: -11}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a4db5d0e5c4bc1b7f5fd388259a8f0
+      internalID: 21300150
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 234
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -12, y: 5}
+        - {x: -12, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -7}
+        - {x: 10, y: 4}
+        - {x: 4, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789c9834b0c14034ae2d267d6dbba8b1
+      internalID: 21300152
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 182
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 1, y: 12}
+        - {x: -7, y: 6}
+        - {x: -14, y: -3}
+        - {x: -14, y: -6}
+        - {x: -9, y: -11}
+        - {x: 13, y: -11}
+        - {x: 14, y: -8}
+        - {x: 14, y: 7}
+        - {x: 6, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afb90ed17e3412abbaf05929419f872
+      internalID: 21300154
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_75
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 52
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -6, y: 11}
+        - {x: -13, y: 8}
+        - {x: -13, y: -4}
+        - {x: -8, y: -13}
+        - {x: 12, y: -13}
+        - {x: 13, y: -9}
+        - {x: 13, y: 10}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e97ba987386410b8be74af9f62f23a7
+      internalID: 21300156
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 208
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -6, y: 9}
+        - {x: -13, y: 4}
+        - {x: -13, y: -13}
+        - {x: 7, y: -13}
+        - {x: 10, y: -4}
+        - {x: 10, y: 6}
+        - {x: 2, y: 9}
+      - - {x: 6, y: -12}
+        - {x: 6, y: -13}
+        - {x: 14, y: -13}
+        - {x: 14, y: -12}
+        - {x: 11, y: -9}
+        - {x: 9, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348818a87a064175a61aa9e5252d4e75
+      internalID: 21300158
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 234
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -10, y: 4}
+        - {x: -10, y: -9}
+        - {x: -9, y: -13}
+        - {x: 6, y: -13}
+        - {x: 12, y: -6}
+        - {x: 12, y: 5}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f625a2ad8494f8ca885720df76e9416
+      internalID: 21300160
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 52
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -7, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -7}
+        - {x: -7, y: -10}
+        - {x: 13, y: -10}
+        - {x: 13, y: 12}
+        - {x: 10, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8691c38c3346e88da82b7f70b4b3aa
+      internalID: 21300162
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_89
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 26
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 4, y: 7}
+        - {x: -6, y: 7}
+        - {x: -12, y: 4}
+        - {x: -12, y: -10}
+        - {x: -11, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -7}
+        - {x: 10, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e594a13c94774539b85c4062bea31d47
+      internalID: 21300164
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 234
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -2, y: 9}
+        - {x: -11, y: 5}
+        - {x: -11, y: -13}
+        - {x: 12, y: -13}
+        - {x: 12, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a112c6d600f743d3a3ccb387a123f21b
+      internalID: 21300166
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 208
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -10, y: 3}
+        - {x: -13, y: -11}
+        - {x: -13, y: -13}
+        - {x: 6, y: -13}
+        - {x: 12, y: -6}
+        - {x: 12, y: 3}
+        - {x: 1, y: 8}
+      - - {x: 13, y: -13}
+        - {x: 12, y: -10}
+        - {x: 8, y: -10}
+        - {x: 7, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c723b11a9e46aca52a15462212124d
+      internalID: 21300168
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -6, y: 11}
+        - {x: -14, y: 8}
+        - {x: -14, y: -7}
+        - {x: -11, y: -13}
+        - {x: 7, y: -13}
+        - {x: 7, y: 9}
+        - {x: 4, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33a85fb7c8b49fb8b2d341cc755b252
+      internalID: 21300170
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_71
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 52
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -4, y: -11}
+        - {x: 2, y: -11}
+        - {x: 4, y: -10}
+        - {x: 4, y: -6}
+        - {x: 2, y: -3}
+        - {x: -3, y: -3}
+        - {x: -4, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154f4382d7ad44208d60b7ee5592a970
+      internalID: 21300172
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 156
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 8, y: 10}
+        - {x: -3, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -13}
+        - {x: 5, y: -13}
+        - {x: 8, y: -11}
+        - {x: 10, y: -3}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96d0cfde8214fda93100746d1ddeb0d
+      internalID: 21300174
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 234
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 9, y: 8}
+        - {x: -1, y: 8}
+        - {x: -8, y: 5}
+        - {x: -11, y: -8}
+        - {x: -11, y: -12}
+        - {x: -10, y: -13}
+        - {x: 7, y: -13}
+        - {x: 13, y: -6}
+        - {x: 13, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8452e6badd7748e8a42b69aa1ba5637d
+      internalID: 21300176
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_77
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 52
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -6, y: 13}
+        - {x: -13, y: 11}
+        - {x: -13, y: -6}
+        - {x: -6, y: -11}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dce2d6a5fb4e9a8f264e211c4f1236
+      internalID: 21300178
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_45
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 130
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 6, y: 10}
+        - {x: 1, y: 10}
+        - {x: -5, y: 8}
+        - {x: -10, y: 6}
+        - {x: -12, y: 4}
+        - {x: -12, y: -12}
+        - {x: -11, y: -13}
+        - {x: 4, y: -13}
+        - {x: 11, y: -7}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497a81b356d14021a0ced22252532ae4
+      internalID: 21300180
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_63
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 78
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -6, y: 11}
+        - {x: -13, y: 9}
+        - {x: -13, y: -12}
+        - {x: -9, y: -13}
+        - {x: 13, y: -13}
+        - {x: 13, y: 9}
+        - {x: 8, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa847487971494c8833dc2694a2d205
+      internalID: 21300182
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_95
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 83
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cacb09fd804e8bbdfe74f7e0a4882c
+      internalID: 21300184
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_53
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 104
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: 0, y: 8}
+        - {x: -11, y: 3}
+        - {x: -11, y: -9}
+        - {x: -7, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: 2}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a78e6f12a64af5a031b734a3d7e80b
+      internalID: 21300186
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 208
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -11, y: 3}
+        - {x: -13, y: 0}
+        - {x: -13, y: -13}
+        - {x: 8, y: -13}
+        - {x: 10, y: -8}
+        - {x: 10, y: 3}
+      - - {x: 13, y: -13}
+        - {x: 12, y: -10}
+        - {x: 8, y: -10}
+        - {x: 7, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d81f8868124c28be8a352071998341
+      internalID: 21300188
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Revita_30x26_59
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 104
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -13}
+        - {x: -15, y: 13}
+        - {x: 15, y: 13}
+        - {x: 15, y: -13}
+      physicsShape:
+      - - {x: -2, y: 11}
+        - {x: -12, y: 9}
+        - {x: -12, y: -13}
+        - {x: 6, y: -13}
+        - {x: 12, y: -8}
+        - {x: 12, y: 7}
+        - {x: 7, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158ebd19743c4693902d75e8fa9a237e
+      internalID: 21300190
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 30, y: 39}
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 203c51f7c5c74b142fc6449f1c25b2c6.bundle
+  assetBundleVariant:

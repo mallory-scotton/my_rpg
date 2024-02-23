@@ -1,0 +1,761 @@
+fileFormatVersion: 2
+guid: 7bd8ee3035d754546adbc4608e69050a
+timeCreated: 1706119808
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Boss_TopAttack_tencle46x54_2
+  - first:
+      213: 21300002
+    second: Boss_TopAttack_tencle46x54_1
+  - first:
+      213: 21300004
+    second: Boss_TopAttack_tencle46x54_7
+  - first:
+      213: 21300006
+    second: Boss_TopAttack_tencle46x54_6
+  - first:
+      213: 21300008
+    second: Boss_TopAttack_tencle46x54_4
+  - first:
+      213: 21300010
+    second: Boss_TopAttack_tencle46x54_0
+  - first:
+      213: 21300012
+    second: Boss_TopAttack_tencle46x54_5
+  - first:
+      213: 21300014
+    second: Boss_TopAttack_tencle46x54_3
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_TopAttack_tencle46x54_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 113.02675
+        width: 46
+        height: 48.973248
+      alignment: 9
+      pivot: {x: 0.4782609, y: 0.8979035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.999998, y: -24.513372}
+        - {x: -22.999998, y: 8.486628}
+        - {x: -22.999998, y: 19.486628}
+        - {x: -19.999998, y: 23.486628}
+        - {x: -17.999998, y: 24.486628}
+        - {x: 4.000002, y: 24.486628}
+        - {x: 23.000002, y: 11.486628}
+        - {x: 23.000002, y: -9.513372}
+        - {x: 13.000002, y: -24.513372}
+      physicsShape:
+      - - {x: -17.999998, y: 24.486628}
+        - {x: -19.999998, y: 23.486628}
+        - {x: -22.999998, y: 19.486628}
+        - {x: -22.999998, y: 8.486628}
+        - {x: -2.999998, y: -24.513372}
+        - {x: 13.000002, y: -24.513372}
+        - {x: 23.000002, y: -9.513372}
+        - {x: 23.000002, y: 11.486628}
+        - {x: 4.000002, y: 24.486628}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f945093cd66944c4ae9b8d065b47cb86
+      internalID: 21300000
+      vertices:
+      - {x: 47, y: 16.486624}
+      - {x: 37, y: -19.513376}
+      - {x: 47, y: -4.513376}
+      - {x: 28, y: 29.486624}
+      - {x: 21, y: -19.513376}
+      - {x: 6, y: 29.486624}
+      - {x: 4, y: 28.486624}
+      - {x: 1, y: 24.486624}
+      - {x: 1, y: 13.486624}
+      indices:
+      - 8
+      - 7
+      - 4
+      - 6
+      - 4
+      - 7
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TopAttack_tencle46x54_1
+      rect:
+        serializedVersion: 2
+        x: 46.076122
+        y: 109.02675
+        width: 42.897125
+        height: 52.973248
+      alignment: 9
+      pivot: {x: 0.5110804, y: 0.9056128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.524683, y: -26.513372}
+        - {x: -21.524683, y: 11.486628}
+        - {x: -21.524683, y: 23.486628}
+        - {x: -17.524683, y: 26.486628}
+        - {x: 7.475317, y: 26.486628}
+        - {x: 12.475317, y: 24.486628}
+        - {x: 21.475317, y: 11.486628}
+        - {x: 21.475317, y: -10.513372}
+        - {x: 17.475317, y: -25.513372}
+        - {x: 10.475317, y: -26.513372}
+      physicsShape:
+      - - {x: 12.475317, y: 24.486628}
+        - {x: 7.475317, y: 26.486628}
+        - {x: -17.524683, y: 26.486628}
+        - {x: -21.524683, y: 23.486628}
+        - {x: -21.524683, y: 11.486628}
+        - {x: -12.524683, y: -19.513372}
+        - {x: -7.524683, y: -26.513372}
+        - {x: 5.475317, y: -26.513372}
+        - {x: 14.475317, y: -22.513372}
+        - {x: 21.475317, y: -5.5133724}
+        - {x: 21.475317, y: 11.486628}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f77da0d95243c28b816b074ab28ce8
+      internalID: 21300002
+      vertices:
+      - {x: 42.448563, y: 16.486624}
+      - {x: 38.448563, y: -20.513376}
+      - {x: 42.448563, y: -5.513376}
+      - {x: 33.448563, y: 29.486624}
+      - {x: 31.448563, y: -21.513376}
+      - {x: 28.448563, y: 31.486624}
+      - {x: 10.448563, y: -21.513376}
+      - {x: 3.4485626, y: 31.486624}
+      - {x: -0.5514374, y: 28.486624}
+      - {x: -0.5514374, y: 16.486624}
+      indices:
+      - 9
+      - 8
+      - 6
+      - 7
+      - 6
+      - 8
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TopAttack_tencle46x54_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0.026750982
+        width: 39.973248
+        height: 53.973248
+      alignment: 9
+      pivot: {x: 0.55036813, y: 0.9073615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.986622, y: -27.013376}
+        - {x: -19.986622, y: 9.986624}
+        - {x: -19.986622, y: 22.986624}
+        - {x: -15.986622, y: 26.986624}
+        - {x: 11.013378, y: 26.986624}
+        - {x: 20.013378, y: 10.986624}
+        - {x: 20.013378, y: -9.013376}
+        - {x: 15.013378, y: -25.013376}
+        - {x: 7.013378, y: -27.013376}
+      physicsShape:
+      - - {x: 11.013378, y: 26.986624}
+        - {x: -15.986622, y: 26.986624}
+        - {x: -19.986622, y: 22.986624}
+        - {x: -19.986622, y: 9.986624}
+        - {x: -15.986622, y: -11.013376}
+        - {x: -10.986622, y: -27.013376}
+        - {x: 4.013378, y: -27.013376}
+        - {x: 12.013378, y: -23.013376}
+        - {x: 20.013378, y: -5.013376}
+        - {x: 20.013378, y: 10.986624}
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd687de8b55448482e6244d5ea3aecb
+      internalID: 21300004
+      vertices:
+      - {x: 37.986626, y: 15.986624}
+      - {x: 32.986626, y: -20.013376}
+      - {x: 37.986626, y: -4.013376}
+      - {x: 28.986624, y: 31.986624}
+      - {x: 24.986624, y: -22.013376}
+      - {x: 3.9866238, y: -22.013376}
+      - {x: 1.9866238, y: 31.986624}
+      - {x: -2.0133762, y: 27.986624}
+      - {x: -2.0133762, y: 14.986624}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 3
+      - 5
+      - 6
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TopAttack_tencle46x54_6
+      rect:
+        serializedVersion: 2
+        x: 0.076120496
+        y: 0.026750982
+        width: 41.847755
+        height: 53.973248
+      alignment: 9
+      pivot: {x: 0.5238962, y: 0.9073615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.000002, y: -16.013376}
+        - {x: 8.000002, y: -27.013376}
+        - {x: -13.999998, y: -27.013376}
+        - {x: -20.999998, y: 3.9866238}
+        - {x: -20.999998, y: 23.986624}
+        - {x: -16.999998, y: 26.986624}
+        - {x: 10.000002, y: 26.986624}
+        - {x: 14.000002, y: 24.986624}
+        - {x: 19.000002, y: 11.986624}
+        - {x: 19.000002, y: -11.013376}
+        - {x: 21.000002, y: -13.013376}
+        - {x: 21.000002, y: -16.013376}
+        - {x: 18.000002, y: -17.013376}
+      physicsShape:
+      - - {x: 14.000002, y: 24.986624}
+        - {x: 10.000002, y: 26.986624}
+        - {x: -16.999998, y: 26.986624}
+        - {x: -20.999998, y: 23.986624}
+        - {x: -20.999998, y: 6.986624}
+        - {x: -17.999998, y: -4.013376}
+        - {x: -8.999998, y: -1.0133762}
+        - {x: -16.999998, y: -11.013376}
+        - {x: -11.999998, y: -27.013376}
+        - {x: 5.000002, y: -27.013376}
+        - {x: 18.000002, y: -14.013376}
+        - {x: 19.000002, y: -11.013376}
+        - {x: 19.000002, y: 5.986624}
+      - - {x: 16.000002, y: -15.013376}
+        - {x: 18.000002, y: -17.013376}
+        - {x: 21.000002, y: -16.013376}
+        - {x: 21.000002, y: -13.013376}
+        - {x: 19.000002, y: -11.013376}
+        - {x: 16.000002, y: -12.013376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedbd3cab4c14e6f8c54fccb3ea7d2e9
+      internalID: 21300006
+      vertices:
+      - {x: 29.923876, y: 31.986624}
+      - {x: 35.923874, y: -10.013376}
+      - {x: 33.923874, y: 29.986624}
+      - {x: 27.923876, y: -22.013376}
+      - {x: 36.923874, y: -11.013376}
+      - {x: 5.923876, y: -22.013376}
+      - {x: 2.9238758, y: 31.986624}
+      - {x: -1.0761242, y: 28.986624}
+      - {x: -1.0761242, y: 8.986624}
+      - {x: 38.923874, y: 16.986624}
+      - {x: 35.923874, y: -7.013376}
+      - {x: 38.923874, y: -6.013376}
+      - {x: 40.923874, y: -11.013376}
+      - {x: 40.923874, y: -8.013376}
+      - {x: 38.923874, y: -8.013376}
+      - {x: 37.923874, y: -12.013376}
+      indices:
+      - 1
+      - 10
+      - 4
+      - 11
+      - 4
+      - 10
+      - 14
+      - 4
+      - 11
+      - 4
+      - 14
+      - 15
+      - 12
+      - 15
+      - 14
+      - 11
+      - 12
+      - 14
+      - 13
+      - 12
+      - 11
+      - 9
+      - 10
+      - 2
+      - 1
+      - 2
+      - 10
+      - 11
+      - 10
+      - 9
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 0
+      - 5
+      - 6
+      - 3
+      - 5
+      - 0
+      - 1
+      - 3
+      - 0
+      - 4
+      - 3
+      - 1
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TopAttack_tencle46x54_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 54
+        width: 41.987087
+        height: 54
+      alignment: 9
+      pivot: {x: 0.52397066, y: 0.9074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.006458, y: -19}
+        - {x: 15.006458, y: -27}
+        - {x: -17.993542, y: -27}
+        - {x: -20.993542, y: -26}
+        - {x: -20.993542, y: 27}
+        - {x: 4.0064583, y: 27}
+        - {x: 6.0064583, y: 24}
+        - {x: 10.006458, y: 19}
+        - {x: 20.006458, y: 3}
+        - {x: 20.006458, y: -13}
+        - {x: 21.006458, y: -15}
+      physicsShape:
+      - - {x: 18.006458, y: -12}
+        - {x: 20.006458, y: 3}
+        - {x: 10.006458, y: 19}
+        - {x: 6.0064583, y: 24}
+        - {x: 4.0064583, y: 27}
+        - {x: -19.993542, y: 27}
+        - {x: -20.993542, y: 26}
+        - {x: -20.993542, y: 12}
+        - {x: -14.993542, y: 3}
+        - {x: -20.993542, y: 1}
+        - {x: -20.993542, y: -16}
+        - {x: -10.993542, y: -27}
+        - {x: 11.006458, y: -27}
+        - {x: 21.006458, y: -19}
+        - {x: 21.006458, y: -15}
+        - {x: 20.006458, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f89567082f4cc2875202a282403882
+      internalID: 21300008
+      vertices:
+      - {x: 39.993546, y: 8}
+      - {x: 34.993546, y: -22}
+      - {x: 39.993546, y: -8}
+      - {x: 29.993544, y: 24}
+      - {x: 25.993544, y: 29}
+      - {x: 23.993544, y: 32}
+      - {x: 1.9935436, y: -22}
+      - {x: -1.0064564, y: 32}
+      - {x: -1.0064564, y: -21}
+      - {x: 40.993546, y: -14}
+      - {x: 40.993546, y: -10}
+      indices:
+      - 1
+      - 2
+      - 9
+      - 10
+      - 9
+      - 2
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 1
+      - 6
+      - 5
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TopAttack_tencle46x54_0
+      rect:
+        serializedVersion: 2
+        x: 0.076120496
+        y: 108.02675
+        width: 39.897125
+        height: 53.973248
+      alignment: 9
+      pivot: {x: 0.5495103, y: 0.90736157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.024683, y: -27.013372}
+        - {x: -20.024683, y: 12.986628}
+        - {x: -20.024683, y: 26.986628}
+        - {x: 8.975317, y: 26.986628}
+        - {x: 19.975317, y: 20.986628}
+        - {x: 19.975317, y: -9.013372}
+        - {x: 5.975317, y: -27.013372}
+      physicsShape:
+      - - {x: 6.975317, y: 26.986628}
+        - {x: -17.024683, y: 26.986628}
+        - {x: -20.024683, y: 24.986628}
+        - {x: -20.024683, y: 17.986628}
+        - {x: -16.024683, y: 1.9866276}
+        - {x: -16.024683, y: -11.013372}
+        - {x: -11.024683, y: -27.013372}
+        - {x: 5.975317, y: -27.013372}
+        - {x: 19.975317, y: -9.013372}
+        - {x: 19.975317, y: 8.986628}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca9820c531f4186874c4be7ec07d0c3
+      internalID: 21300010
+      vertices:
+      - {x: 26.94856, y: 31.986624}
+      - {x: 37.948563, y: -4.013376}
+      - {x: 37.948563, y: 25.986624}
+      - {x: 23.94856, y: -22.013376}
+      - {x: 4.9485607, y: -22.013376}
+      - {x: -2.0514393, y: 31.986624}
+      - {x: -2.0514393, y: 17.986624}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TopAttack_tencle46x54_5
+      rect:
+        serializedVersion: 2
+        x: 92.07612
+        y: 54.026752
+        width: 40.847755
+        height: 53.973248
+      alignment: 9
+      pivot: {x: 0.5367219, y: 0.9073615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.499994, y: -27.013376}
+        - {x: -20.499994, y: -4.013376}
+        - {x: -20.499994, y: 25.986624}
+        - {x: -19.499994, y: 26.986624}
+        - {x: 7.5000057, y: 26.986624}
+        - {x: 20.500006, y: 4.986624}
+        - {x: 20.500006, y: -27.013376}
+      physicsShape:
+      - - {x: 20.500006, y: -12.013376}
+        - {x: 18.500006, y: -10.013376}
+        - {x: 20.500006, y: -0.013376236}
+        - {x: 20.500006, y: 4.986624}
+        - {x: 10.500006, y: 21.986624}
+        - {x: 7.5000057, y: 26.986624}
+        - {x: -19.499994, y: 26.986624}
+        - {x: -20.499994, y: 25.986624}
+        - {x: -20.499994, y: 17.986624}
+        - {x: -18.499994, y: 11.986624}
+        - {x: -20.499994, y: -6.013376}
+        - {x: -16.499994, y: -10.013376}
+        - {x: -16.499994, y: -11.013376}
+        - {x: -11.499994, y: -27.013376}
+        - {x: 9.500006, y: -27.013376}
+        - {x: 16.500006, y: -22.013376}
+        - {x: 20.500006, y: -17.013376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fb5e468b104e01a8be54159b8d5fae
+      internalID: 21300012
+      vertices:
+      - {x: 26.423878, y: 31.986624}
+      - {x: 39.423878, y: -22.013376}
+      - {x: 39.423878, y: 9.986624}
+      - {x: 0.42387772, y: -22.013376}
+      - {x: -0.5761223, y: 31.986624}
+      - {x: -1.5761223, y: 30.986624}
+      - {x: -1.5761223, y: 0.98662376}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TopAttack_tencle46x54_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66.02675
+        width: 46
+        height: 41.97325
+      alignment: 9
+      pivot: {x: 0.4782609, y: 0.88087654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -4.0133743}
+        - {x: -23, y: 6.9866257}
+        - {x: -23, y: 20.986626}
+        - {x: 11, y: 20.986626}
+        - {x: 23, y: 17.986626}
+        - {x: 23, y: -18.013374}
+        - {x: 15, y: -21.013374}
+        - {x: -1, y: -21.013374}
+      physicsShape:
+      - - {x: -23, y: 20.986626}
+        - {x: -23, y: 6.9866257}
+        - {x: -16, y: -4.0133743}
+        - {x: -1, y: -21.013374}
+        - {x: 15, y: -21.013374}
+        - {x: 23, y: -18.013374}
+        - {x: 23, y: 17.986626}
+        - {x: 11, y: 20.986626}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09689ccb9cf744f1b2575e35d17ae291
+      internalID: 21300014
+      vertices:
+      - {x: 47, y: 22.986626}
+      - {x: 39, y: -16.013374}
+      - {x: 47, y: -13.013374}
+      - {x: 35, y: 25.986626}
+      - {x: 22.999998, y: -16.013374}
+      - {x: 7.999998, y: 0.9866257}
+      - {x: 0.9999981, y: 25.986626}
+      - {x: 0.9999981, y: 11.986626}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 3
+      - 5
+      - 6
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: cf1f16a7a05b69f0cdc2ff1c418c4e6b.bundle
+  assetBundleVariant:

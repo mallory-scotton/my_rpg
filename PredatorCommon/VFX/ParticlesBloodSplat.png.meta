@@ -1,0 +1,2180 @@
+fileFormatVersion: 2
+guid: 2f429ff884ef1454c83aee7f81037dec
+timeCreated: 1706119847
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ParticlesBloodSplat_16
+  - first:
+      213: 21300002
+    second: ParticlesBloodSplat_10
+  - first:
+      213: 21300004
+    second: ParticlesBloodSplat_34
+  - first:
+      213: 21300006
+    second: ParticlesBloodSplat_32
+  - first:
+      213: 21300008
+    second: ParticlesBloodSplat_15
+  - first:
+      213: 21300010
+    second: ParticlesBloodSplat_29
+  - first:
+      213: 21300012
+    second: ParticlesBloodSplat_20
+  - first:
+      213: 21300014
+    second: ParticlesBloodSplat_22
+  - first:
+      213: 21300016
+    second: ParticlesBloodSplat_17
+  - first:
+      213: 21300018
+    second: ParticlesBloodSplat_25
+  - first:
+      213: 21300020
+    second: ParticlesBloodSplat_33
+  - first:
+      213: 21300022
+    second: ParticlesBloodSplat_4
+  - first:
+      213: 21300024
+    second: ParticlesBloodSplat_3
+  - first:
+      213: 21300026
+    second: ParticlesBloodSplat_11
+  - first:
+      213: 21300028
+    second: ParticlesBloodSplat_27
+  - first:
+      213: 21300030
+    second: ParticlesBloodSplat_1
+  - first:
+      213: 21300032
+    second: ParticlesBloodSplat_35
+  - first:
+      213: 21300034
+    second: ParticlesBloodSplat_6
+  - first:
+      213: 21300036
+    second: ParticlesBloodSplat_19
+  - first:
+      213: 21300038
+    second: ParticlesBloodSplat_26
+  - first:
+      213: 21300040
+    second: ParticlesBloodSplat_23
+  - first:
+      213: 21300042
+    second: ParticlesBloodSplat_14
+  - first:
+      213: 21300044
+    second: ParticlesBloodSplat_36
+  - first:
+      213: 21300046
+    second: ParticlesBloodSplat_31
+  - first:
+      213: 21300048
+    second: ParticlesBloodSplat_24
+  - first:
+      213: 21300050
+    second: ParticlesExplosion_1
+  - first:
+      213: 21300052
+    second: ParticlesBloodSplat_0
+  - first:
+      213: 21300054
+    second: ParticlesBloodSplat_5
+  - first:
+      213: 21300056
+    second: ParticlesBloodSplat_28
+  - first:
+      213: 21300058
+    second: ParticlesBloodSplat_7
+  - first:
+      213: 21300060
+    second: ParticlesBloodSplat_8
+  - first:
+      213: 21300062
+    second: ParticlesBloodSplat_18
+  - first:
+      213: 21300064
+    second: ParticlesBloodSplat_12
+  - first:
+      213: 21300066
+    second: ParticlesExplosion_0
+  - first:
+      213: 21300068
+    second: ParticlesBloodSplat_21
+  - first:
+      213: 21300070
+    second: ParticlesBloodSplat_9
+  - first:
+      213: 21300072
+    second: ParticlesBloodSplat_2
+  - first:
+      213: 21300074
+    second: ParticlesBloodSplat_13
+  - first:
+      213: 21300076
+    second: ParticlesBloodSplat_30
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 100
+        width: 27
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -11}
+        - {x: -13.5, y: 11}
+        - {x: 13.5, y: 11}
+        - {x: 13.5, y: -11}
+      physicsShape:
+      - - {x: 4.5, y: 6}
+        - {x: 6.5, y: 1}
+        - {x: 5.5, y: 1}
+        - {x: 2.5, y: 2}
+        - {x: 5.5, y: 10}
+        - {x: 5.5, y: 11}
+        - {x: -1.5, y: 11}
+        - {x: -4.5, y: 10}
+        - {x: -2.5, y: 10}
+        - {x: -12.5, y: 10}
+        - {x: -13.5, y: 6}
+        - {x: -13.5, y: -6}
+        - {x: -7.5, y: -8}
+        - {x: -3.5, y: -8}
+        - {x: -0.5, y: -6}
+        - {x: -1.5, y: -7}
+        - {x: -1.5, y: -10}
+        - {x: -0.5, y: -11}
+        - {x: 10.5, y: -11}
+        - {x: 13.5, y: -5}
+        - {x: 13.5, y: 8}
+        - {x: 6.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebd52415d834afe827508be04f6e70d
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 27, y: 22}
+      - {x: 0, y: 0}
+      - {x: 27, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 131
+        width: 39
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -11.5}
+        - {x: -19.5, y: 11.5}
+        - {x: 19.5, y: 11.5}
+        - {x: 19.5, y: -11.5}
+      physicsShape:
+      - - {x: 17.5, y: 11.5}
+        - {x: -14.5, y: 11.5}
+        - {x: -19.5, y: 0.5}
+        - {x: -19.5, y: -11.5}
+        - {x: 6.5, y: -11.5}
+        - {x: 18.5, y: -0.5}
+        - {x: 18.5, y: 8.5}
+      - - {x: 13.5, y: 1.5}
+        - {x: 11.5, y: -0.5}
+        - {x: 11.5, y: -7.5}
+        - {x: 14.5, y: -10.5}
+        - {x: 19.5, y: -10.5}
+        - {x: 19.5, y: -3.5}
+        - {x: 16.5, y: 1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb24221be334334ba7c0f501bf09c49
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 23}
+      - {x: 39, y: 23}
+      - {x: 0, y: 0}
+      - {x: 39, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_34
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 19
+        width: 46
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -12}
+        - {x: -23, y: 12}
+        - {x: 23, y: 12}
+        - {x: 23, y: -12}
+      physicsShape:
+      - - {x: 12, y: 12}
+        - {x: -17, y: 12}
+        - {x: -23, y: 8}
+        - {x: -23, y: -3}
+        - {x: -9, y: -12}
+        - {x: 15, y: -12}
+        - {x: 23, y: -3}
+        - {x: 23, y: 5}
+        - {x: 19, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ab6b218cdd452f824184e4d2843483
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 46, y: 24}
+      - {x: 0, y: 0}
+      - {x: 46, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_32
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 73
+        width: 24
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -6}
+        - {x: -12, y: 6}
+        - {x: 12, y: 6}
+        - {x: 12, y: -6}
+      physicsShape:
+      - - {x: -10, y: 6}
+        - {x: -12, y: 5}
+        - {x: -12, y: -4}
+        - {x: -8, y: -6}
+        - {x: 12, y: -6}
+        - {x: 12, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a24bd5ad2574b9ebe4838580ee5775f
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      - {x: 0, y: 0}
+      - {x: 24, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 100
+        width: 16
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -9.5}
+        - {x: -8, y: 9.5}
+        - {x: 8, y: 9.5}
+        - {x: 8, y: -9.5}
+      physicsShape:
+      - - {x: -8, y: 9.5}
+        - {x: -8, y: -9.5}
+        - {x: 8, y: -9.5}
+        - {x: 8, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4159f1242f9e409f95961e174a079045
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 19}
+      - {x: 16, y: 19}
+      - {x: 0, y: 0}
+      - {x: 16, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 71
+        width: 25
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -8.5}
+        - {x: -12.5, y: 8.5}
+        - {x: 12.5, y: 8.5}
+        - {x: 12.5, y: -8.5}
+      physicsShape:
+      - - {x: -10.5, y: 8.5}
+        - {x: -12.5, y: 4.5}
+        - {x: -12.5, y: -8.5}
+        - {x: 1.5, y: -8.5}
+        - {x: 1.5, y: -3.5}
+        - {x: 0.5, y: 2.5}
+        - {x: -4.5, y: 8.5}
+      - - {x: -0.5, y: 8.5}
+        - {x: -0.5, y: 7.5}
+        - {x: 0.5, y: 1.5}
+        - {x: 10.5, y: -7.5}
+        - {x: 12.5, y: -6.5}
+        - {x: 12.5, y: 6.5}
+        - {x: 10.5, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0729a1e9bde34a438c19ae6ea8c77e3e
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 17}
+      - {x: 25, y: 17}
+      - {x: 0, y: 0}
+      - {x: 25, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 102
+        width: 24
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -9.5}
+        - {x: -12, y: 9.5}
+        - {x: 12, y: 9.5}
+        - {x: 12, y: -9.5}
+      physicsShape:
+      - - {x: -12, y: 9.5}
+        - {x: -12, y: -2.5}
+        - {x: -10, y: -9.5}
+        - {x: 12, y: -9.5}
+        - {x: 12, y: 9.5}
+      - - {x: 0, y: -2.5}
+        - {x: 1, y: -2.5}
+        - {x: 1, y: -3.5}
+        - {x: 1, y: -2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd03e4baea1d4fb1908994d174a9ed97
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 19}
+      - {x: 24, y: 19}
+      - {x: 0, y: 0}
+      - {x: 24, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 106
+        width: 21
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -5.5}
+        - {x: -10.5, y: 5.5}
+        - {x: 10.5, y: 5.5}
+        - {x: 10.5, y: -5.5}
+      physicsShape:
+      - - {x: -5.5, y: 5.5}
+        - {x: -10.5, y: 3.5}
+        - {x: -10.5, y: -5.5}
+        - {x: 7.5, y: -5.5}
+        - {x: 10.5, y: -2.5}
+        - {x: 10.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e21dd27afb40ffb6a592f9a5d25434
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 11}
+      - {x: 21, y: 11}
+      - {x: 0, y: 0}
+      - {x: 21, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 27
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -8.5}
+        - {x: -13.5, y: 8.5}
+        - {x: 13.5, y: 8.5}
+        - {x: 13.5, y: -8.5}
+      physicsShape:
+      - - {x: 12.5, y: 8.5}
+        - {x: -13.5, y: 8.5}
+        - {x: -13.5, y: -7.5}
+        - {x: -11.5, y: -8.5}
+        - {x: 2.5, y: -8.5}
+        - {x: 6.5, y: -6.5}
+        - {x: 13.5, y: 0.5}
+        - {x: 13.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c1d24463bb474483b9312c515e7070
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 17}
+      - {x: 27, y: 17}
+      - {x: 0, y: 0}
+      - {x: 27, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 71
+        width: 23
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -8}
+        - {x: -11.5, y: 8}
+        - {x: 11.5, y: 8}
+        - {x: 11.5, y: -8}
+      physicsShape:
+      - - {x: -11.5, y: 8}
+        - {x: -11.5, y: -8}
+        - {x: 7.5, y: -8}
+        - {x: 11.5, y: -7}
+        - {x: 11.5, y: 7}
+        - {x: 8.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffa4d3b61d14ec6b737f8ac50ec0946
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 23, y: 16}
+      - {x: 0, y: 0}
+      - {x: 23, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_33
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 74
+        width: 25
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -8}
+        - {x: -12.5, y: 8}
+        - {x: 12.5, y: 8}
+        - {x: 12.5, y: -8}
+      physicsShape:
+      - - {x: -12.5, y: 8}
+        - {x: -12.5, y: -6}
+        - {x: -11.5, y: -8}
+        - {x: 12.5, y: -8}
+        - {x: 12.5, y: 5}
+        - {x: 7.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c60740e49d54bcdb0506d02df898f50
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 25, y: 16}
+      - {x: 0, y: 0}
+      - {x: 25, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 165
+        width: 26
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -10}
+        - {x: -13, y: 10}
+        - {x: 13, y: 10}
+        - {x: 13, y: -10}
+      physicsShape:
+      - - {x: -8, y: 10}
+        - {x: -13, y: 0}
+        - {x: -13, y: -7}
+        - {x: -9, y: -7}
+        - {x: -7, y: -6}
+        - {x: -8, y: -7}
+        - {x: -8, y: -8}
+        - {x: -7, y: -10}
+        - {x: 13, y: -10}
+        - {x: 13, y: 3}
+        - {x: 8, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cfcefc550648878f36e98e1b2e9941
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 20}
+      - {x: 26, y: 20}
+      - {x: 0, y: 0}
+      - {x: 26, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 164
+        width: 39
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -10}
+        - {x: -19.5, y: 10}
+        - {x: 19.5, y: 10}
+        - {x: 19.5, y: -10}
+      physicsShape:
+      - - {x: -16.5, y: 10}
+        - {x: -19.5, y: 8}
+        - {x: -19.5, y: -4}
+        - {x: -17.5, y: -9}
+        - {x: -14.5, y: -10}
+        - {x: 15.5, y: -10}
+        - {x: 19.5, y: -5}
+        - {x: 19.5, y: 5}
+        - {x: 11.5, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140ae9a061c54cacace01846061ccb6c
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 20}
+      - {x: 39, y: 20}
+      - {x: 0, y: 0}
+      - {x: 39, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 130
+        width: 45
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -14}
+        - {x: -22.5, y: 14}
+        - {x: 22.5, y: 14}
+        - {x: 22.5, y: -14}
+      physicsShape:
+      - - {x: -12.5, y: 1}
+        - {x: -22.5, y: 1}
+        - {x: -22.5, y: -13}
+        - {x: -19.5, y: -14}
+        - {x: -3.5, y: -14}
+        - {x: -0.5, y: -10}
+        - {x: -0.5, y: -7}
+        - {x: -6.5, y: -1}
+      - - {x: 16.5, y: 2}
+        - {x: 19.5, y: 5}
+        - {x: 20.5, y: 7}
+        - {x: 9.5, y: 14}
+        - {x: -13.5, y: 14}
+        - {x: -18.5, y: 8}
+        - {x: -19.5, y: 5}
+        - {x: -18.5, y: 2}
+        - {x: 1.5, y: -6}
+        - {x: 5.5, y: -6}
+        - {x: 1.5, y: -6}
+        - {x: -0.5, y: -8}
+        - {x: -0.5, y: -12}
+        - {x: 1.5, y: -14}
+        - {x: 3.5, y: -14}
+        - {x: 22.5, y: -12}
+        - {x: 22.5, y: -2}
+        - {x: 19.5, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f5648e2e2f408eb112fe0b1e6aa0ab
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 28}
+      - {x: 45, y: 28}
+      - {x: 0, y: 0}
+      - {x: 45, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 18
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 6}
+        - {x: 9, y: 6}
+        - {x: 9, y: -6}
+      physicsShape:
+      - - {x: -9, y: 6}
+        - {x: -9, y: -1}
+        - {x: -4, y: -6}
+        - {x: 3, y: -6}
+        - {x: 6, y: 5}
+        - {x: 6, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc0f0f780034cd690269a1d31c863f2
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 18, y: 12}
+      - {x: 0, y: 0}
+      - {x: 18, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 166
+        width: 25
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -10.5}
+        - {x: -12.5, y: 10.5}
+        - {x: 12.5, y: 10.5}
+        - {x: 12.5, y: -10.5}
+      physicsShape:
+      - - {x: -12.5, y: -10.5}
+        - {x: 12.5, y: -10.5}
+        - {x: 12.5, y: 2.5}
+        - {x: 9.5, y: 10.5}
+        - {x: -6.5, y: 10.5}
+        - {x: -12.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c674d7c95dec4c19ac5c44bdfe257414
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 25, y: 21}
+      - {x: 0, y: 0}
+      - {x: 25, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_35
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 12
+        width: 44
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -19}
+        - {x: -22, y: -8}
+        - {x: -22, y: 11}
+        - {x: -3, y: 17}
+        - {x: 3, y: 19}
+        - {x: 22, y: 19}
+        - {x: 22, y: -18}
+        - {x: 21, y: -19}
+      physicsShape:
+      - - {x: 12, y: 19}
+        - {x: -2, y: 16}
+        - {x: -10, y: 11}
+        - {x: -22, y: 5}
+        - {x: -22, y: -1}
+        - {x: -17, y: -5}
+        - {x: -13, y: -18}
+        - {x: 0, y: -16}
+        - {x: 4, y: -6}
+        - {x: 4, y: -13}
+        - {x: 7, y: -19}
+        - {x: 20, y: -19}
+        - {x: 22, y: -14}
+        - {x: 22, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caa973ce8804f6281dcd778bfb385b0
+      internalID: 21300032
+      vertices:
+      - {x: 44, y: 38}
+      - {x: 43, y: 0}
+      - {x: 44, y: 1}
+      - {x: 25, y: 38}
+      - {x: 19, y: 36}
+      - {x: 5, y: 0}
+      - {x: 0, y: 30}
+      - {x: 0, y: 11}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 168
+        width: 26
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -5.5}
+        - {x: -13, y: 5.5}
+        - {x: 13, y: 5.5}
+        - {x: 13, y: -5.5}
+      physicsShape:
+      - - {x: 3, y: 4.5}
+        - {x: -2, y: -1.5}
+        - {x: -2, y: -5.5}
+        - {x: 12, y: -5.5}
+        - {x: 13, y: -4.5}
+        - {x: 13, y: 1.5}
+        - {x: 10, y: 4.5}
+      - - {x: -13, y: 5.5}
+        - {x: -13, y: -0.5}
+        - {x: -6, y: -0.5}
+        - {x: -1, y: 0.5}
+        - {x: 0, y: 3.5}
+        - {x: -1, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529ab02ed5624a32920976367387888b
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 11}
+      - {x: 26, y: 11}
+      - {x: 0, y: 0}
+      - {x: 26, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 99
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -13}
+        - {x: -15.5, y: 13}
+        - {x: 15.5, y: 13}
+        - {x: 15.5, y: -13}
+      physicsShape:
+      - - {x: 11.5, y: 11}
+        - {x: 7.5, y: 12}
+        - {x: 2.5, y: 7}
+        - {x: 1.5, y: 3}
+        - {x: 1.5, y: 8}
+        - {x: 0.5, y: 13}
+        - {x: -5.5, y: 13}
+        - {x: -15.5, y: -1}
+        - {x: -15.5, y: -8}
+        - {x: -10.5, y: -13}
+        - {x: 15.5, y: -13}
+        - {x: 15.5, y: 0}
+        - {x: 13.5, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5839637d0cc4f4b882420c4367116c8
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 26}
+      - {x: 31, y: 26}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 73
+        width: 20
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -7.5}
+        - {x: -10, y: 7.5}
+        - {x: 10, y: 7.5}
+        - {x: 10, y: -7.5}
+      physicsShape:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -7.5}
+        - {x: 10, y: -7.5}
+        - {x: 10, y: 4.5}
+        - {x: 6, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ffdcdb79c14f66a7e93613e07c8b27
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 15}
+      - {x: 20, y: 15}
+      - {x: 0, y: 0}
+      - {x: 20, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_23
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 104
+        width: 23
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -8}
+        - {x: -11.5, y: 8}
+        - {x: 11.5, y: 8}
+        - {x: 11.5, y: -8}
+      physicsShape:
+      - - {x: -4.5, y: 8}
+        - {x: -11.5, y: 5}
+        - {x: -11.5, y: -8}
+        - {x: 11.5, y: -8}
+        - {x: 11.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43c5814dfba40e5be6307bba3f79f1a
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 23, y: 16}
+      - {x: 0, y: 0}
+      - {x: 23, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 103
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -8.5}
+        - {x: -10, y: 8.5}
+        - {x: 10, y: 8.5}
+        - {x: 10, y: -8.5}
+      physicsShape:
+      - - {x: -10, y: 8.5}
+        - {x: -10, y: -8.5}
+        - {x: 10, y: -8.5}
+        - {x: 10, y: 4.5}
+        - {x: 8, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8741ffe2c6eb4b8a9ad9f4d3e779d9d1
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 17}
+      - {x: 20, y: 17}
+      - {x: 0, y: 0}
+      - {x: 20, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_36
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 13
+        width: 53
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: -16}
+        - {x: 18.5, y: -17}
+        - {x: -26.5, y: -17}
+        - {x: -26.5, y: 9}
+        - {x: -20.5, y: 17}
+        - {x: 13.5, y: 17}
+        - {x: 26.5, y: 5}
+        - {x: 22.5, y: 1}
+        - {x: 26.5, y: -2}
+      physicsShape:
+      - - {x: -26.5, y: 1}
+        - {x: -26.5, y: -17}
+        - {x: -3.5, y: -17}
+        - {x: -0.5, y: -16}
+        - {x: -0.5, y: -9}
+        - {x: -10.5, y: 1}
+      - - {x: 1.5, y: -8}
+        - {x: 0.5, y: -10}
+        - {x: 0.5, y: -14}
+        - {x: 1.5, y: -16}
+        - {x: 8.5, y: -16}
+        - {x: 14.5, y: -15}
+        - {x: 15.5, y: -12}
+        - {x: 13.5, y: -8}
+      - - {x: 19.5, y: 2}
+        - {x: 23.5, y: 6}
+        - {x: 22.5, y: 9}
+        - {x: 10.5, y: 17}
+        - {x: -15.5, y: 17}
+        - {x: -22.5, y: 8}
+        - {x: -22.5, y: 5}
+        - {x: -21.5, y: 3}
+        - {x: 10.5, y: -13}
+        - {x: 26.5, y: -13}
+        - {x: 26.5, y: -2}
+        - {x: 22.5, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42e5a7542114ddb89e1df6f78fb8293
+      internalID: 21300044
+      vertices:
+      - {x: 40, y: 34}
+      - {x: 49, y: 18}
+      - {x: 53, y: 22}
+      - {x: 45, y: 0}
+      - {x: 6, y: 34}
+      - {x: 0, y: 26}
+      - {x: 0, y: 0}
+      - {x: 53, y: 1}
+      - {x: 53, y: 15}
+      indices:
+      - 3
+      - 1
+      - 7
+      - 8
+      - 7
+      - 1
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 75
+        width: 18
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -5.5}
+        - {x: -9, y: 5.5}
+        - {x: 9, y: 5.5}
+        - {x: 9, y: -5.5}
+      physicsShape:
+      - - {x: -8, y: 5.5}
+        - {x: -9, y: 2.5}
+        - {x: -9, y: -5.5}
+        - {x: 9, y: -5.5}
+        - {x: 9, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99022a65cdc64e9a913f5ab6579e08a5
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 11}
+      - {x: 18, y: 11}
+      - {x: 0, y: 0}
+      - {x: 18, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 71
+        width: 23
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -7.5}
+        - {x: -11.5, y: 7.5}
+        - {x: 11.5, y: 7.5}
+        - {x: 11.5, y: -7.5}
+      physicsShape:
+      - - {x: -11.5, y: 7.5}
+        - {x: -11.5, y: -4.5}
+        - {x: -10.5, y: -7.5}
+        - {x: 7.5, y: -7.5}
+        - {x: 11.5, y: -4.5}
+        - {x: 11.5, y: 3.5}
+        - {x: 4.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f03ac7e4e34250b2c7f947d056dc33
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 15}
+      - {x: 23, y: 15}
+      - {x: 0, y: 0}
+      - {x: 23, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 66.051315
+        y: 18.012913
+        width: 59.935772
+        height: 35.974174
+      alignment: 9
+      pivot: {x: 0.49967963, y: 0.51389885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.019201, y: -16}
+        - {x: -30.019201, y: -7}
+        - {x: -30.019201, y: 1}
+        - {x: -17.019201, y: 18}
+        - {x: 18.980799, y: 18}
+        - {x: 29.980799, y: 6}
+        - {x: 29.980799, y: -7}
+        - {x: 15.980799, y: -18}
+        - {x: -13.019201, y: -18}
+      physicsShape:
+      - - {x: 29.980799, y: -2}
+        - {x: 29.980799, y: 2}
+        - {x: 27.980799, y: 7}
+        - {x: 13.980799, y: 18}
+        - {x: 9.980799, y: 18}
+        - {x: 1.9807987, y: 15}
+        - {x: -0.019201279, y: 18}
+        - {x: -4.0192013, y: 18}
+        - {x: -8.019201, y: 14}
+        - {x: -15.019201, y: 18}
+        - {x: -16.019201, y: 18}
+        - {x: -28.019201, y: 3}
+        - {x: -30.019201, y: 1}
+        - {x: -30.019201, y: -6}
+        - {x: -20.019201, y: -14}
+        - {x: -10.019201, y: -16}
+        - {x: -5.0192013, y: -18}
+        - {x: 9.980799, y: -18}
+        - {x: 17.980799, y: -15}
+        - {x: 21.980799, y: -13}
+        - {x: 23.980799, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8e67f94fd44a08bd6adde1e54ec517
+      internalID: 21300050
+      vertices:
+      - {x: 48.967888, y: 35.487087}
+      - {x: 59.967888, y: 10.487087}
+      - {x: 59.967888, y: 23.487087}
+      - {x: 45.967888, y: -0.51291275}
+      - {x: 16.967886, y: -0.51291275}
+      - {x: 12.967886, y: 35.487087}
+      - {x: 8.967886, y: 1.4870872}
+      - {x: -0.03211403, y: 18.487087}
+      - {x: -0.03211403, y: 10.487087}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 165
+        width: 50
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -10}
+        - {x: -25, y: 10}
+        - {x: 25, y: 10}
+        - {x: 25, y: -10}
+      physicsShape:
+      - - {x: -25, y: 10}
+        - {x: -25, y: 1}
+        - {x: -8, y: -7}
+        - {x: 0, y: -9}
+        - {x: 25, y: -9}
+        - {x: 25, y: 3}
+        - {x: 18, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5803c2efe3774628b468b89f1eda08ef
+      internalID: 21300052
+      vertices:
+      - {x: 0, y: 20}
+      - {x: 50, y: 20}
+      - {x: 0, y: 0}
+      - {x: 50, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 166
+        width: 46
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -10.5}
+        - {x: -23, y: 10.5}
+        - {x: 23, y: 10.5}
+        - {x: 23, y: -10.5}
+      physicsShape:
+      - - {x: 1, y: 6.5}
+        - {x: -3, y: 10.5}
+        - {x: -17, y: 10.5}
+        - {x: -23, y: 1.5}
+        - {x: -23, y: -10.5}
+        - {x: -7, y: -10.5}
+        - {x: -3, y: -8.5}
+        - {x: 1, y: -4.5}
+      - - {x: 5, y: 2.5}
+        - {x: 2, y: -4.5}
+        - {x: 2, y: -10.5}
+        - {x: 22, y: -10.5}
+        - {x: 23, y: -9.5}
+        - {x: 23, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb9b34ca88c4e48952cfe094300eafe
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 46, y: 21}
+      - {x: 0, y: 0}
+      - {x: 46, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 73
+        width: 19
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -7}
+        - {x: -9.5, y: 7}
+        - {x: 9.5, y: 7}
+        - {x: 9.5, y: -7}
+      physicsShape:
+      - - {x: -9.5, y: 7}
+        - {x: -9.5, y: -7}
+        - {x: 5.5, y: -7}
+        - {x: 9.5, y: -6}
+        - {x: 9.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb81755f5bd4e6dbe64afc0f18eed05
+      internalID: 21300056
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 19, y: 14}
+      - {x: 0, y: 0}
+      - {x: 19, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 133
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -10}
+        - {x: -16, y: 10}
+        - {x: 16, y: 10}
+        - {x: 16, y: -10}
+      physicsShape:
+      - - {x: -9, y: 10}
+        - {x: -11, y: 8}
+        - {x: -16, y: 0}
+        - {x: -16, y: -10}
+        - {x: 16, y: -10}
+        - {x: 16, y: 10}
+      - - {x: 1, y: 3}
+        - {x: 2, y: 4}
+        - {x: 4, y: 3}
+        - {x: 4, y: 4}
+        - {x: 3, y: 4}
+        - {x: 1, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb537c09f8f4c689d48aae62c339d95
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 20}
+      - {x: 32, y: 20}
+      - {x: 0, y: 0}
+      - {x: 32, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 132
+        width: 41
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -10.5}
+        - {x: -20.5, y: 10.5}
+        - {x: 20.5, y: 10.5}
+        - {x: 20.5, y: -10.5}
+      physicsShape:
+      - - {x: -0.5, y: 10.5}
+        - {x: 1.5, y: 2.5}
+        - {x: 4.5, y: -0.5}
+        - {x: -0.5, y: 2.5}
+        - {x: -3.5, y: 8.5}
+        - {x: -5.5, y: 10.5}
+        - {x: -16.5, y: 10.5}
+        - {x: -20.5, y: -1.5}
+        - {x: -20.5, y: -8.5}
+        - {x: -17.5, y: -10.5}
+        - {x: 20.5, y: -10.5}
+        - {x: 20.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd79fad7be24b7690606cb919b7e38a
+      internalID: 21300060
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 41, y: 21}
+      - {x: 0, y: 0}
+      - {x: 41, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 102
+        width: 26
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -8}
+        - {x: -13, y: 8}
+        - {x: 13, y: 8}
+        - {x: 13, y: -8}
+      physicsShape:
+      - - {x: 8, y: 8}
+        - {x: -13, y: 8}
+        - {x: -13, y: -8}
+        - {x: 13, y: -8}
+        - {x: 13, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d36dbf701c4a338f41e173560adf5b
+      internalID: 21300062
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 26, y: 16}
+      - {x: 0, y: 0}
+      - {x: 26, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 132
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -12}
+        - {x: -14, y: 12}
+        - {x: 14, y: 12}
+        - {x: 14, y: -12}
+      physicsShape:
+      - - {x: -1, y: 12}
+        - {x: -3, y: 8}
+        - {x: -14, y: 1}
+        - {x: -14, y: -12}
+        - {x: 14, y: -12}
+        - {x: 14, y: 9}
+        - {x: 10, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: daae8a971c1d43e28c116ffc6456569f
+      internalID: 21300064
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 28, y: 24}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 2.0129125
+        y: 18.012913
+        width: 58.974174
+        height: 35.910965
+      alignment: 9
+      pivot: {x: 0.5084783, y: 0.5148034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -14.968395}
+        - {x: -29.5, y: -3.9683952}
+        - {x: -29.5, y: -2.9683952}
+        - {x: -24.5, y: -1.9683952}
+        - {x: -27.5, y: -0.96839523}
+        - {x: -29.5, y: 1.0316048}
+        - {x: -29.5, y: 10.031605}
+        - {x: -15.5, y: 18.031605}
+        - {x: 21.5, y: 18.031605}
+        - {x: 29.5, y: 10.031605}
+        - {x: 29.5, y: -10.968395}
+        - {x: 19.5, y: -17.968395}
+        - {x: -13.5, y: -17.968395}
+      physicsShape:
+      - - {x: 26.5, y: 12.031605}
+        - {x: 14.5, y: 16.031605}
+        - {x: 4.5, y: 16.031605}
+        - {x: -2.5, y: 18.031605}
+        - {x: -11.5, y: 18.031605}
+        - {x: -17.5, y: 16.031605}
+        - {x: -20.5, y: 10.031605}
+        - {x: -29.5, y: 8.031605}
+        - {x: -29.5, y: 2.0316048}
+        - {x: -27.5, y: -0.96839523}
+        - {x: -24.5, y: -1.9683952}
+        - {x: -21.5, y: -0.96839523}
+        - {x: -24.5, y: -1.9683952}
+        - {x: -29.5, y: -2.9683952}
+        - {x: -29.5, y: -3.9683952}
+        - {x: -24.5, y: -14.968395}
+        - {x: -11.5, y: -14.968395}
+        - {x: 2.5, y: -16.968395}
+        - {x: 5.5, y: -17.968395}
+        - {x: 19.5, y: -17.968395}
+        - {x: 29.5, y: -5.968395}
+        - {x: 29.5, y: 3.0316048}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5035ec7eaaa476f9223d216284a1233
+      internalID: 21300066
+      vertices:
+      - {x: 13.487087, y: 35.455482}
+      - {x: 4.4870872, y: 15.4554825}
+      - {x: 7.4870872, y: 16.455482}
+      - {x: 1.4870872, y: 16.455482}
+      - {x: -0.51291275, y: 27.455482}
+      - {x: -0.51291275, y: 18.455482}
+      - {x: 50.487087, y: 35.455482}
+      - {x: 58.487087, y: 6.4554825}
+      - {x: 58.487087, y: 27.455482}
+      - {x: 48.487087, y: -0.5445175}
+      - {x: 15.487087, y: -0.5445175}
+      - {x: 4.4870872, y: 2.4554825}
+      - {x: -0.51291275, y: 14.4554825}
+      - {x: -0.51291275, y: 13.4554825}
+      indices:
+      - 13
+      - 12
+      - 11
+      - 1
+      - 11
+      - 12
+      - 10
+      - 11
+      - 1
+      - 2
+      - 10
+      - 1
+      - 0
+      - 10
+      - 2
+      - 6
+      - 10
+      - 0
+      - 9
+      - 10
+      - 6
+      - 7
+      - 9
+      - 6
+      - 8
+      - 7
+      - 6
+      - 5
+      - 4
+      - 3
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 102
+        width: 25
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -9}
+        - {x: -12.5, y: 9}
+        - {x: 12.5, y: 9}
+        - {x: 12.5, y: -9}
+      physicsShape:
+      - - {x: -7.5, y: 9}
+        - {x: -12.5, y: 3}
+        - {x: -12.5, y: -4}
+        - {x: -10.5, y: -9}
+        - {x: 12.5, y: -9}
+        - {x: 12.5, y: 7}
+        - {x: 10.5, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc10f80145949e5aa83c7b0f5885f4e
+      internalID: 21300068
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 25, y: 18}
+      - {x: 0, y: 0}
+      - {x: 25, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 132
+        width: 36
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -10.5}
+        - {x: -18, y: 10.5}
+        - {x: 18, y: 10.5}
+        - {x: 18, y: -10.5}
+      physicsShape:
+      - - {x: -18, y: 10.5}
+        - {x: -18, y: -5.5}
+        - {x: -16, y: -10.5}
+        - {x: 5, y: -10.5}
+        - {x: 9, y: -7.5}
+        - {x: 9, y: 10.5}
+      - - {x: -6, y: -0.5}
+        - {x: -4, y: 0.5}
+        - {x: -6, y: -1.5}
+        - {x: -5, y: -1.5}
+      - - {x: 14, y: 0.5}
+        - {x: 15, y: -2.5}
+        - {x: 18, y: -2.5}
+        - {x: 18, y: 2.5}
+        - {x: 16, y: 2.5}
+      - - {x: 12, y: 10.5}
+        - {x: 10, y: 8.5}
+        - {x: 10, y: 7.5}
+        - {x: 15, y: 2.5}
+        - {x: 18, y: 2.5}
+        - {x: 18, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4550eff70f4a5d822a9cb86725f4d8
+      internalID: 21300070
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 36, y: 21}
+      - {x: 0, y: 0}
+      - {x: 36, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 167
+        width: 47
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -11}
+        - {x: -23.5, y: 11}
+        - {x: 23.5, y: 11}
+        - {x: 23.5, y: -11}
+      physicsShape:
+      - - {x: 9.5, y: 11}
+        - {x: 1.5, y: 11}
+        - {x: -0.5, y: 9}
+        - {x: 0.5, y: 6}
+        - {x: -15.5, y: 5}
+        - {x: -23.5, y: 0}
+        - {x: -23.5, y: -10}
+        - {x: -21.5, y: -11}
+        - {x: 6.5, y: -11}
+        - {x: 23.5, y: -5}
+        - {x: 23.5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43977f49b1b43f08e2a1970d852abb9
+      internalID: 21300072
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 47, y: 22}
+      - {x: 0, y: 0}
+      - {x: 47, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 128
+        width: 37
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -11}
+        - {x: -18.5, y: -2}
+        - {x: -18.5, y: 4}
+        - {x: -7.5, y: 12}
+        - {x: 7.5, y: 16}
+        - {x: 18.5, y: 16}
+        - {x: 18.5, y: -11}
+        - {x: 16.5, y: -16}
+        - {x: 0.5, y: -16}
+        - {x: -6.5, y: -13}
+        - {x: -9.5, y: -13}
+      physicsShape:
+      - - {x: 18.5, y: 16}
+        - {x: 9.5, y: 16}
+        - {x: -7.5, y: 12}
+        - {x: -18.5, y: 4}
+        - {x: -18.5, y: -1}
+        - {x: -12.5, y: -3}
+        - {x: -10.5, y: -15}
+        - {x: -1.5, y: -12}
+        - {x: 4.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 18.5, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab28d1d276d4848a01a808d58d05995
+      internalID: 21300074
+      vertices:
+      - {x: 37, y: 32}
+      - {x: 35, y: 0}
+      - {x: 37, y: 5}
+      - {x: 26, y: 32}
+      - {x: 19, y: 0}
+      - {x: 12, y: 3}
+      - {x: 11, y: 28}
+      - {x: 9, y: 3}
+      - {x: 7, y: 5}
+      - {x: 0, y: 20}
+      - {x: 0, y: 14}
+      indices:
+      - 10
+      - 9
+      - 8
+      - 6
+      - 8
+      - 9
+      - 7
+      - 8
+      - 6
+      - 5
+      - 7
+      - 6
+      - 3
+      - 5
+      - 6
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBloodSplat_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 73
+        width: 22
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -8.5}
+        - {x: -11, y: 8.5}
+        - {x: 11, y: 8.5}
+        - {x: 11, y: -8.5}
+      physicsShape:
+      - - {x: -11, y: 8.5}
+        - {x: -11, y: -8.5}
+        - {x: 11, y: -8.5}
+        - {x: 11, y: 4.5}
+        - {x: 5, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918143f25d4546e2bc9804ca0555abbe
+      internalID: 21300076
+      vertices:
+      - {x: 0, y: 17}
+      - {x: 22, y: 17}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

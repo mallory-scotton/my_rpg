@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: adaa526b35c3056479b303121651acd5
+timeCreated: 1706119828
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SW_tortoise-Hydropump66x288_0
+  - first:
+      213: 21300002
+    second: SW_tortoise-Hydropump66x288_3
+  - first:
+      213: 21300004
+    second: SW_tortoise-Hydropump66x288_2
+  - first:
+      213: 21300006
+    second: SW_tortoise-Hydropump66x288_4
+  - first:
+      213: 21300008
+    second: SW_tortoise-Hydropump66x288_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SW_tortoise-Hydropump66x288_0
+      rect:
+        serializedVersion: 2
+        x: 10.07612
+        y: 5.0761204
+        width: 45.847755
+        height: 276.84778
+      alignment: 9
+      pivot: {x: 0.47818872, y: 0.006949233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.000002, y: -138.50002}
+        - {x: -22.999998, y: -138.50002}
+        - {x: -22.999998, y: 120.499985}
+        - {x: -6.999998, y: 138.49998}
+        - {x: 22.000002, y: 138.49998}
+        - {x: 23.000002, y: 135.49998}
+      physicsShape:
+      - - {x: 23.000002, y: -72.500015}
+        - {x: 23.000002, y: -41.500015}
+        - {x: 22.000002, y: -18.500015}
+        - {x: 23.000002, y: -2.5000153}
+        - {x: 23.000002, y: 20.499985}
+        - {x: 19.000002, y: 36.499985}
+        - {x: 19.000002, y: 51.499985}
+        - {x: 23.000002, y: 60.499985}
+        - {x: 23.000002, y: 88.499985}
+        - {x: 21.000002, y: 104.499985}
+        - {x: 15.000002, y: 126.499985}
+        - {x: 4.000002, y: 138.49998}
+        - {x: -3.999998, y: 138.49998}
+        - {x: -13.999998, y: 128.49998}
+        - {x: -22.999998, y: 111.499985}
+        - {x: -22.999998, y: 109.499985}
+        - {x: -20.999998, y: 81.499985}
+        - {x: -22.999998, y: 63.499985}
+        - {x: -22.999998, y: 56.499985}
+        - {x: -17.999998, y: 32.499985}
+        - {x: -20.999998, y: 25.499985}
+        - {x: -19.999998, y: 5.4999847}
+        - {x: -21.999998, y: -1.5000153}
+        - {x: -22.999998, y: -18.500015}
+        - {x: -22.999998, y: -33.500015}
+        - {x: -21.999998, y: -38.500015}
+        - {x: -18.999998, y: -44.500015}
+        - {x: -18.999998, y: -72.500015}
+        - {x: -21.999998, y: -91.500015}
+        - {x: -20.999998, y: -111.500015}
+        - {x: -15.999998, y: -134.50002}
+        - {x: -8.999998, y: -138.50002}
+        - {x: 9.000002, y: -138.50002}
+        - {x: 18.000002, y: -134.50002}
+        - {x: 21.000002, y: -117.500015}
+        - {x: 21.000002, y: -94.500015}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448663b1068542c693e1d058267e0cf5
+      internalID: 21300000
+      vertices:
+      - {x: 45.923878, y: 413.4239}
+      - {x: 46.923878, y: 136.42389}
+      - {x: 46.923878, y: 410.4239}
+      - {x: 16.923878, y: 413.4239}
+      - {x: 0.9238777, y: 395.4239}
+      - {x: 0.9238777, y: 136.42389}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise-Hydropump66x288_3
+      rect:
+        serializedVersion: 2
+        x: 202.06102
+        y: 5.0761204
+        width: 45.86286
+        height: 276.84778
+      alignment: 9
+      pivot: {x: 0.47836047, y: 0.006949233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.99245, y: -138.50002}
+        - {x: -22.99245, y: -131.50002}
+        - {x: -22.99245, y: 109.499985}
+        - {x: -21.99245, y: 123.499985}
+        - {x: -6.9924507, y: 138.49998}
+        - {x: 13.007549, y: 138.49998}
+        - {x: 23.00755, y: 111.499985}
+        - {x: 23.00755, y: -121.500015}
+        - {x: 22.00755, y: -138.50002}
+      physicsShape:
+      - - {x: 18.00755, y: -80.500015}
+        - {x: 23.00755, y: -63.500015}
+        - {x: 23.00755, y: -41.500015}
+        - {x: 20.00755, y: -29.500015}
+        - {x: 20.00755, y: 4.4999847}
+        - {x: 17.00755, y: 25.499985}
+        - {x: 21.00755, y: 34.499985}
+        - {x: 23.00755, y: 44.499985}
+        - {x: 22.00755, y: 81.499985}
+        - {x: 19.00755, y: 110.499985}
+        - {x: 17.00755, y: 123.499985}
+        - {x: 5.0075493, y: 138.49998}
+        - {x: -2.9924507, y: 138.49998}
+        - {x: -9.992451, y: 132.49998}
+        - {x: -14.992451, y: 121.499985}
+        - {x: -22.99245, y: 66.499985}
+        - {x: -22.99245, y: 53.499985}
+        - {x: -21.99245, y: 50.499985}
+        - {x: -17.99245, y: -28.500015}
+        - {x: -19.99245, y: -31.500015}
+        - {x: -21.99245, y: -60.500015}
+        - {x: -17.99245, y: -68.500015}
+        - {x: -21.99245, y: -95.500015}
+        - {x: -20.99245, y: -111.500015}
+        - {x: -14.992451, y: -117.500015}
+        - {x: -15.992451, y: -134.50002}
+        - {x: -8.992451, y: -138.50002}
+        - {x: 12.007549, y: -138.50002}
+        - {x: 17.00755, y: -134.50002}
+        - {x: 22.00755, y: -116.500015}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9647a6e0066d470bb95de18e729f2378
+      internalID: 21300002
+      vertices:
+      - {x: 46.93143, y: 386.4239}
+      - {x: 45.93143, y: 136.42389}
+      - {x: 46.93143, y: 153.42389}
+      - {x: 36.93143, y: 413.4239}
+      - {x: 16.93143, y: 413.4239}
+      - {x: 6.931431, y: 136.42389}
+      - {x: 1.9314308, y: 398.4239}
+      - {x: 0.9314308, y: 384.4239}
+      - {x: 0.9314308, y: 143.42389}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise-Hydropump66x288_2
+      rect:
+        serializedVersion: 2
+        x: 140.07613
+        y: 5.0761204
+        width: 43.847755
+        height: 276.84778
+      alignment: 9
+      pivot: {x: 0.45438755, y: 0.006949233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.000004, y: -138.50002}
+        - {x: -22.000004, y: -109.500015}
+        - {x: -22.000004, y: 129.49998}
+        - {x: -10.000004, y: 138.49998}
+        - {x: 13.999996, y: 138.49998}
+        - {x: 21.999996, y: 114.499985}
+        - {x: 21.999996, y: -106.500015}
+        - {x: 19.999996, y: -136.50002}
+        - {x: 12.999996, y: -138.50002}
+      physicsShape:
+      - - {x: 21.999996, y: -43.500015}
+        - {x: 21.999996, y: -24.500015}
+        - {x: 18.999996, y: -7.5000153}
+        - {x: 19.999996, y: 33.499985}
+        - {x: 17.999996, y: 57.499985}
+        - {x: 21.999996, y: 81.499985}
+        - {x: 17.999996, y: 112.499985}
+        - {x: 15.999996, y: 121.499985}
+        - {x: 7.999996, y: 133.49998}
+        - {x: 1.9999962, y: 138.49998}
+        - {x: -4.000004, y: 138.49998}
+        - {x: -12.000004, y: 132.49998}
+        - {x: -20.000004, y: 114.499985}
+        - {x: -22.000004, y: 95.499985}
+        - {x: -22.000004, y: 57.499985}
+        - {x: -19.000004, y: 48.499985}
+        - {x: -20.000004, y: 33.499985}
+        - {x: -21.000004, y: 5.4999847}
+        - {x: -16.000004, y: -15.500015}
+        - {x: -19.000004, y: -52.500015}
+        - {x: -20.000004, y: -90.500015}
+        - {x: -18.000004, y: -106.500015}
+        - {x: -16.000004, y: -136.50002}
+        - {x: -10.000004, y: -138.50002}
+        - {x: 4.999996, y: -138.50002}
+        - {x: 9.999996, y: -137.50002}
+        - {x: 15.999996, y: -134.50002}
+        - {x: 19.999996, y: -88.500015}
+        - {x: 16.999996, y: -64.500015}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae6fd391f184ecaaa9e421d2b856940
+      internalID: 21300004
+      vertices:
+      - {x: 45.923878, y: 389.4239}
+      - {x: 43.923878, y: 138.42389}
+      - {x: 45.923878, y: 168.42389}
+      - {x: 37.923878, y: 413.4239}
+      - {x: 36.923878, y: 136.42389}
+      - {x: 13.923878, y: 413.4239}
+      - {x: 3.9238777, y: 136.42389}
+      - {x: 1.9238777, y: 404.4239}
+      - {x: 1.9238777, y: 165.42389}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise-Hydropump66x288_4
+      rect:
+        serializedVersion: 2
+        x: 267.0761
+        y: 5.0761204
+        width: 44.897125
+        height: 276.84778
+      alignment: 9
+      pivot: {x: 0.46604073, y: 0.006949233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.524673, y: -138.50002}
+        - {x: -22.524673, y: -136.50002}
+        - {x: -22.524673, y: 138.49998}
+        - {x: 12.475327, y: 138.49998}
+        - {x: 22.475327, y: 105.499985}
+        - {x: 22.475327, y: -122.500015}
+        - {x: 14.475327, y: -138.50002}
+      physicsShape:
+      - - {x: 22.475327, y: -80.500015}
+        - {x: 22.475327, y: -26.500015}
+        - {x: 19.475327, y: -15.500015}
+        - {x: 19.475327, y: 8.499985}
+        - {x: 22.475327, y: 18.499985}
+        - {x: 22.475327, y: 38.499985}
+        - {x: 19.475327, y: 52.499985}
+        - {x: 22.475327, y: 58.499985}
+        - {x: 22.475327, y: 74.499985}
+        - {x: 20.475327, y: 96.499985}
+        - {x: 16.475327, y: 121.499985}
+        - {x: 9.475327, y: 133.49998}
+        - {x: 2.4753265, y: 138.49998}
+        - {x: -3.5246735, y: 138.49998}
+        - {x: -10.524673, y: 132.49998}
+        - {x: -14.524673, y: 124.499985}
+        - {x: -18.524673, y: 110.499985}
+        - {x: -21.524673, y: 100.499985}
+        - {x: -22.524673, y: 68.499985}
+        - {x: -22.524673, y: 34.499985}
+        - {x: -20.524673, y: 24.499985}
+        - {x: -22.524673, y: 6.4999847}
+        - {x: -22.524673, y: -35.500015}
+        - {x: -20.524673, y: -99.500015}
+        - {x: -19.524673, y: -126.500015}
+        - {x: -15.524673, y: -134.50002}
+        - {x: -11.524673, y: -138.50002}
+        - {x: 12.475327, y: -138.50002}
+        - {x: 16.475327, y: -134.50002}
+        - {x: 21.475327, y: -119.500015}
+        - {x: 19.475327, y: -89.500015}
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd7bcec0dfa48a3b7dede2b58a2a5a0
+      internalID: 21300006
+      vertices:
+      - {x: 46.448563, y: 380.4239}
+      - {x: 38.448563, y: 136.42389}
+      - {x: 46.448563, y: 152.42389}
+      - {x: 36.448563, y: 413.4239}
+      - {x: 6.4485626, y: 136.42389}
+      - {x: 1.4485626, y: 413.4239}
+      - {x: 1.4485626, y: 138.42389}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise-Hydropump66x288_1
+      rect:
+        serializedVersion: 2
+        x: 75.07612
+        y: 5.0761204
+        width: 47.847755
+        height: 276.84778
+      alignment: 9
+      pivot: {x: 0.43730122, y: 0.006949233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.000004, y: -138.50002}
+        - {x: -23.999996, y: -138.50002}
+        - {x: -23.999996, y: 135.49998}
+        - {x: -22.999996, y: 138.49998}
+        - {x: 24.000004, y: 138.49998}
+      physicsShape:
+      - - {x: 18.000004, y: -67.500015}
+        - {x: 18.000004, y: -48.500015}
+        - {x: 24.000004, y: -33.500015}
+        - {x: 24.000004, y: -13.500015}
+        - {x: 20.000004, y: 1.4999847}
+        - {x: 17.000004, y: 11.499985}
+        - {x: 20.000004, y: 51.499985}
+        - {x: 17.000004, y: 74.499985}
+        - {x: 20.000004, y: 85.499985}
+        - {x: 19.000004, y: 103.499985}
+        - {x: 13.000004, y: 126.499985}
+        - {x: 2.0000038, y: 138.49998}
+        - {x: -6.999996, y: 138.49998}
+        - {x: -18.999996, y: 122.499985}
+        - {x: -23.999996, y: 95.499985}
+        - {x: -23.999996, y: 76.499985}
+        - {x: -20.999996, y: 61.499985}
+        - {x: -23.999996, y: 48.499985}
+        - {x: -22.999996, y: 26.499985}
+        - {x: -20.999996, y: -6.5000153}
+        - {x: -19.999996, y: -36.500015}
+        - {x: -23.999996, y: -61.500015}
+        - {x: -23.999996, y: -81.500015}
+        - {x: -17.999996, y: -110.500015}
+        - {x: -19.999996, y: -111.500015}
+        - {x: -18.999996, y: -134.50002}
+        - {x: -9.999996, y: -138.50002}
+        - {x: 10.000004, y: -138.50002}
+        - {x: 15.000004, y: -134.50002}
+        - {x: 18.000004, y: -105.500015}
+        - {x: 17.000004, y: -87.500015}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33305169ae7b44ccacb174d841ed93b5
+      internalID: 21300008
+      vertices:
+      - {x: 3.9238777, y: 413.4239}
+      - {x: 50.923878, y: 136.42389}
+      - {x: 50.923878, y: 413.4239}
+      - {x: 2.9238777, y: 410.4239}
+      - {x: 2.9238777, y: 136.42389}
+      indices:
+      - 4
+      - 3
+      - 1
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

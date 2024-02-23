@@ -1,0 +1,1208 @@
+fileFormatVersion: 2
+guid: dc53d813ead838341a64764aae1f814f
+timeCreated: 1706119813
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Dummy30x30_Death5
+  - first:
+      213: 21300002
+    second: Dummy30x30_Damage1
+  - first:
+      213: 21300004
+    second: Dummy30x30_Death4
+  - first:
+      213: 21300006
+    second: Dummy30x30_Death1
+  - first:
+      213: 21300008
+    second: Dummy30x30_Death0
+  - first:
+      213: 21300010
+    second: Dummy30x30_Death2
+  - first:
+      213: 21300012
+    second: Dummy30x30_Death3
+  - first:
+      213: 21300014
+    second: Dummy30x30_Damage3
+  - first:
+      213: 21300016
+    second: Dummy30x30_Respawn5
+  - first:
+      213: 21300018
+    second: Dummy30x30_Respawn0
+  - first:
+      213: 21300020
+    second: Dummy30x30_Idle
+  - first:
+      213: 21300022
+    second: Dummy30x30_Respawn2
+  - first:
+      213: 21300024
+    second: Dummy30x30_Death6
+  - first:
+      213: 21300026
+    second: Dummy30x30_Damage2
+  - first:
+      213: 21300028
+    second: Dummy30x30_Respawn1
+  - first:
+      213: 21300030
+    second: Dummy30x30_Damage6
+  - first:
+      213: 21300032
+    second: Dummy30x30_Damage0
+  - first:
+      213: 21300034
+    second: Dummy30x30_Respawn6
+  - first:
+      213: 21300036
+    second: Dummy30x30_Respawn3
+  - first:
+      213: 21300038
+    second: Dummy30x30_Damage5
+  - first:
+      213: 21300040
+    second: Dummy30x30_Damage4
+  - first:
+      213: 21300042
+    second: Dummy30x30_Respawn4
+  - first:
+      213: 21300044
+    second: Dummy30x30_Respawn7
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dummy30x30_Death5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 3, y: -5}
+        - {x: -1, y: -5}
+        - {x: -8, y: -8}
+        - {x: -8, y: -13}
+        - {x: -7, y: -15}
+        - {x: 5, y: -15}
+        - {x: 8, y: -12}
+        - {x: 8, y: -9}
+      - - {x: -11, y: 3}
+        - {x: -8, y: 4}
+        - {x: -8, y: 7}
+        - {x: -11, y: 8}
+        - {x: -13, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d33e75b777a4ce5b44aa72b120b1dd9
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Damage1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -11, y: 5}
+        - {x: -11, y: -6}
+        - {x: -7, y: -15}
+        - {x: 6, y: -15}
+        - {x: 8, y: -14}
+        - {x: 8, y: -7}
+        - {x: 4, y: 5}
+        - {x: 0, y: 9}
+        - {x: -7, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0639ce8fe014b59a815bd534171fb1a
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Death4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 3, y: -5}
+        - {x: -1, y: -5}
+        - {x: -8, y: -8}
+        - {x: -8, y: -13}
+        - {x: -7, y: -15}
+        - {x: 5, y: -15}
+        - {x: 8, y: -12}
+        - {x: 8, y: -9}
+      - - {x: -10, y: -4}
+        - {x: -7, y: -3}
+        - {x: -7, y: 0}
+        - {x: -10, y: 1}
+        - {x: -12, y: -1}
+      - - {x: 9, y: -3}
+        - {x: 12, y: -2}
+        - {x: 12, y: 1}
+        - {x: 9, y: 2}
+        - {x: 7, y: 0}
+      - - {x: -12, y: 5}
+        - {x: -10, y: 3}
+        - {x: -7, y: 4}
+        - {x: -7, y: 7}
+        - {x: -9, y: 9}
+        - {x: -12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2b1d6b1bf44e3a9064dccde866a820
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Death1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 7, y: 11}
+        - {x: -6, y: 11}
+        - {x: -10, y: 9}
+        - {x: -10, y: -14}
+        - {x: -7, y: -15}
+        - {x: 7, y: -15}
+        - {x: 9, y: -13}
+        - {x: 9, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0276b41ba8b041419a72310d13aedb52
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Death0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -7, y: 10}
+        - {x: -9, y: 7}
+        - {x: -9, y: -4}
+        - {x: -8, y: -13}
+        - {x: -7, y: -15}
+        - {x: 4, y: -15}
+        - {x: 8, y: -14}
+        - {x: 8, y: 8}
+        - {x: 4, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd50dc9d30d483abf7091a8e4cfc289
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Death2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -12, y: 13}
+        - {x: -12, y: -13}
+        - {x: -8, y: -15}
+        - {x: 7, y: -15}
+        - {x: 12, y: -12}
+        - {x: 12, y: 7}
+        - {x: 10, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51792dc786d740faa64d5bc8133962e1
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Death3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -4, y: 12}
+        - {x: -9, y: 12}
+        - {x: -12, y: 10}
+        - {x: -12, y: -10}
+        - {x: -10, y: -14}
+        - {x: -4, y: -15}
+        - {x: 6, y: -15}
+        - {x: 8, y: -12}
+        - {x: 8, y: -8}
+      - - {x: 5, y: 13}
+        - {x: 2, y: 12}
+        - {x: 2, y: -6}
+        - {x: 7, y: -9}
+        - {x: 12, y: -9}
+        - {x: 13, y: -8}
+        - {x: 13, y: 7}
+        - {x: 8, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce82b50f81234895934d4c7e7cb7cd56
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Damage3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 7, y: 9}
+        - {x: -7, y: 9}
+        - {x: -8, y: 6}
+        - {x: -8, y: -14}
+        - {x: -7, y: -15}
+        - {x: 5, y: -15}
+        - {x: 8, y: -12}
+        - {x: 8, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49f7039f70c4814a4bfa10e5e37b699
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Respawn5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -6, y: 6}
+        - {x: -8, y: 5}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 5}
+        - {x: 7, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ff04e13f844b65b2b670cd5f0afe2a
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Respawn0
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 3, y: -5}
+        - {x: -1, y: -5}
+        - {x: -8, y: -8}
+        - {x: -8, y: -13}
+        - {x: -7, y: -15}
+        - {x: 5, y: -15}
+        - {x: 8, y: -12}
+        - {x: 8, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9387fb950f04fe6a7759a26972e8d5d
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 7, y: 9}
+        - {x: -7, y: 9}
+        - {x: -8, y: 6}
+        - {x: -8, y: -14}
+        - {x: -7, y: -15}
+        - {x: 5, y: -15}
+        - {x: 8, y: -12}
+        - {x: 8, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14413cc8e6d043ea8e9275173754a047
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Respawn2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -8, y: -4}
+        - {x: -8, y: -14}
+        - {x: -7, y: -15}
+        - {x: 5, y: -15}
+        - {x: 8, y: -14}
+        - {x: 8, y: 1}
+        - {x: 5, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafa6c8b1a9d43bf892f9e66cd43f72f
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Death6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 3, y: -5}
+        - {x: -1, y: -5}
+        - {x: -8, y: -8}
+        - {x: -8, y: -13}
+        - {x: -7, y: -15}
+        - {x: 5, y: -15}
+        - {x: 8, y: -12}
+        - {x: 8, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c6140f4e4a48748ac494df81bf678d
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Damage2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -7, y: 8}
+        - {x: -8, y: 7}
+        - {x: -8, y: -15}
+        - {x: 6, y: -15}
+        - {x: 10, y: -10}
+        - {x: 10, y: 7}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02bf5ca4a784b59acd5e2796f614115
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Respawn1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -4, y: -1}
+        - {x: -8, y: -6}
+        - {x: -8, y: -12}
+        - {x: -6, y: -15}
+        - {x: 4, y: -15}
+        - {x: 8, y: -14}
+        - {x: 8, y: -5}
+        - {x: 3, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec05694df9c343c89737c4e8dc9e6910
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Damage6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 7, y: 9}
+        - {x: -7, y: 9}
+        - {x: -8, y: 6}
+        - {x: -8, y: -14}
+        - {x: -7, y: -15}
+        - {x: 5, y: -15}
+        - {x: 8, y: -12}
+        - {x: 8, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d21403822840e18892bbc2c3192f1a
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Damage0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 4, y: 9}
+        - {x: -6, y: 9}
+        - {x: -10, y: 8}
+        - {x: -10, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: -4}
+        - {x: 6, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a6f809e5ae49b39dfa573590e2386e
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Respawn6
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 7, y: 9}
+        - {x: -7, y: 9}
+        - {x: -8, y: 6}
+        - {x: -8, y: -14}
+        - {x: -7, y: -15}
+        - {x: 5, y: -15}
+        - {x: 8, y: -12}
+        - {x: 8, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d9a957f1a54a7baa1a38aa37d72de3
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Respawn3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 7, y: 8}
+        - {x: -3, y: 8}
+        - {x: -9, y: 4}
+        - {x: -9, y: -14}
+        - {x: -7, y: -15}
+        - {x: 8, y: -15}
+        - {x: 9, y: -14}
+        - {x: 11, y: -8}
+        - {x: 11, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b50dd88a81a4f9eb40ce57102803ed6
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Damage5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 7, y: 9}
+        - {x: -7, y: 9}
+        - {x: -8, y: 6}
+        - {x: -8, y: -14}
+        - {x: -7, y: -15}
+        - {x: 5, y: -15}
+        - {x: 8, y: -12}
+        - {x: 8, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bda12f6a2cc40c8824f744a9a8c0486
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Damage4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -8, y: 9}
+        - {x: -8, y: -15}
+        - {x: 7, y: -15}
+        - {x: 8, y: -13}
+        - {x: 8, y: 8}
+        - {x: 7, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919b5b4f73c04a4e8cd0fcee2705676a
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Respawn4
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 5, y: 15}
+        - {x: -7, y: 15}
+        - {x: -8, y: 14}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89d43b46e26467c91687aea0ba460b5
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummy30x30_Respawn7
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 7, y: 9}
+        - {x: -7, y: 9}
+        - {x: -8, y: 6}
+        - {x: -8, y: -14}
+        - {x: -7, y: -15}
+        - {x: 5, y: -15}
+        - {x: 8, y: -12}
+        - {x: 8, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead3002fff7b4c34a7de692fd0cdda49
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 41.1}
+      - {x: 30, y: 41.1}
+      - {x: 0, y: 11.1}
+      - {x: 30, y: 11.1}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 1f0e03801170aa975b541c4c7d517a45.bundle
+  assetBundleVariant:

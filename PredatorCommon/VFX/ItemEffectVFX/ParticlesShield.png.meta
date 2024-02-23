@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: e7aed8f71723b8d4980aedde2ece7f71
+timeCreated: 1706119847
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: sprites_powerupshield_1
+  - first:
+      213: 21300002
+    second: sprites_powerupshield_2
+  - first:
+      213: 21300004
+    second: sprites_powerupshield_3
+  - first:
+      213: 21300006
+    second: sprites_powerupshield_0
+  - first:
+      213: 21300008
+    second: sprites_powerupshield_4
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprites_powerupshield_1
+      rect:
+        serializedVersion: 2
+        x: 38.026752
+        y: 3.026751
+        width: 28.946499
+        height: 28.946499
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.07680545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.500002, y: -14.5}
+        - {x: -14.500002, y: -7.5}
+        - {x: -14.500002, y: 7.5}
+        - {x: -12.500002, y: 14.5}
+        - {x: 13.499998, y: 14.5}
+        - {x: 14.499998, y: 9.5}
+        - {x: 14.499998, y: -14.5}
+      physicsShape:
+      - - {x: -14.500002, y: -7.5}
+        - {x: -7.500002, y: -14.5}
+        - {x: 14.499998, y: -14.5}
+        - {x: 14.499998, y: 9.5}
+        - {x: 13.499998, y: 14.5}
+        - {x: -12.500002, y: 14.5}
+        - {x: -14.500002, y: 7.5}
+      - - {x: -6.500002, y: -5.5}
+        - {x: -7.500002, y: -2.5}
+        - {x: -5.500002, y: 0.5}
+        - {x: -4.500002, y: 0.5}
+        - {x: -0.5000019, y: 4.5}
+        - {x: -0.5000019, y: 6.5}
+        - {x: 2.499998, y: 6.5}
+        - {x: 4.499998, y: 7.5}
+        - {x: 6.499998, y: 5.5}
+        - {x: 8.499998, y: 2.5}
+        - {x: 8.499998, y: -3.5}
+        - {x: 6.499998, y: -2.5}
+        - {x: 2.499998, y: -6.5}
+        - {x: -2.500002, y: -8.5}
+        - {x: -2.500002, y: -7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0478b14139a448cb52eaee1d5ec215a
+      internalID: 21300000
+      vertices:
+      - {x: 27.97325, y: 41.22325}
+      - {x: 28.97325, y: 12.223249}
+      - {x: 28.97325, y: 36.22325}
+      - {x: 6.9732494, y: 12.223249}
+      - {x: 1.9732494, y: 41.22325}
+      - {x: -0.026750565, y: 34.22325}
+      - {x: -0.026750565, y: 19.22325}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_powerupshield_2
+      rect:
+        serializedVersion: 2
+        x: 73.02675
+        y: 3.026751
+        width: 28.946499
+        height: 28.946499
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.07680545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.499998, y: -14.5}
+        - {x: -14.499998, y: -7.5}
+        - {x: -14.499998, y: 7.5}
+        - {x: -12.499998, y: 14.5}
+        - {x: 13.500002, y: 14.5}
+        - {x: 14.500002, y: 9.5}
+        - {x: 14.500002, y: -14.5}
+      physicsShape:
+      - - {x: -14.499998, y: -7.5}
+        - {x: -7.499998, y: -14.5}
+        - {x: 14.500002, y: -14.5}
+        - {x: 14.500002, y: 9.5}
+        - {x: 13.500002, y: 14.5}
+        - {x: -12.499998, y: 14.5}
+        - {x: -14.499998, y: 7.5}
+      - - {x: -5.499998, y: -7.5}
+        - {x: 0.5000019, y: -5.5}
+        - {x: 7.500002, y: 2.5}
+        - {x: 7.500002, y: 5.5}
+        - {x: 8.500002, y: 2.5}
+        - {x: 8.500002, y: -3.5}
+        - {x: 6.500002, y: -2.5}
+        - {x: 2.500002, y: -6.5}
+        - {x: 3.500002, y: -8.5}
+        - {x: -2.499998, y: -8.5}
+        - {x: -2.499998, y: -7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbcc3acd4be4ea1af8408e14a7b5fcc
+      internalID: 21300002
+      vertices:
+      - {x: 27.97325, y: 41.22325}
+      - {x: 28.97325, y: 12.223249}
+      - {x: 28.97325, y: 36.22325}
+      - {x: 6.9732494, y: 12.223249}
+      - {x: 1.9732494, y: 41.22325}
+      - {x: -0.026750565, y: 34.22325}
+      - {x: -0.026750565, y: 19.22325}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_powerupshield_3
+      rect:
+        serializedVersion: 2
+        x: 108.02675
+        y: 3.026751
+        width: 28.946499
+        height: 28.946499
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.07680545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.499998, y: -14.5}
+        - {x: -14.499998, y: -7.5}
+        - {x: -14.499998, y: 7.5}
+        - {x: -12.499998, y: 14.5}
+        - {x: 13.500002, y: 14.5}
+        - {x: 14.500002, y: 9.5}
+        - {x: 14.500002, y: -14.5}
+      physicsShape:
+      - - {x: -14.499998, y: -7.5}
+        - {x: -7.499998, y: -14.5}
+        - {x: 14.500002, y: -14.5}
+        - {x: 14.500002, y: 9.5}
+        - {x: 13.500002, y: 14.5}
+        - {x: -12.499998, y: 14.5}
+        - {x: -14.499998, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e78201d538d465b8339a8c616b8f56a
+      internalID: 21300004
+      vertices:
+      - {x: 27.97325, y: 41.22325}
+      - {x: 28.97325, y: 12.223249}
+      - {x: 28.97325, y: 36.22325}
+      - {x: 6.9732494, y: 12.223249}
+      - {x: 1.9732494, y: 41.22325}
+      - {x: -0.026750565, y: 34.22325}
+      - {x: -0.026750565, y: 19.22325}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_powerupshield_0
+      rect:
+        serializedVersion: 2
+        x: 3.026751
+        y: 3.026751
+        width: 28.946499
+        height: 28.946499
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07680545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -14.5}
+        - {x: -14.5, y: -7.5}
+        - {x: -14.5, y: 7.5}
+        - {x: -12.5, y: 14.5}
+        - {x: 13.5, y: 14.5}
+        - {x: 14.5, y: 9.5}
+        - {x: 14.5, y: -14.5}
+      physicsShape:
+      - - {x: -14.5, y: -7.5}
+        - {x: -7.5, y: -14.5}
+        - {x: 14.5, y: -14.5}
+        - {x: 14.5, y: 9.5}
+        - {x: 13.5, y: 14.5}
+        - {x: -12.5, y: 14.5}
+        - {x: -14.5, y: 7.5}
+      - - {x: -6.5, y: -5.5}
+        - {x: -8.5, y: -2.5}
+        - {x: -8.5, y: 2.5}
+        - {x: -6.5, y: 0.5}
+        - {x: -4.5, y: 0.5}
+        - {x: -0.5, y: 4.5}
+        - {x: -0.5, y: 6.5}
+        - {x: -2.5, y: 8.5}
+        - {x: 2.5, y: 8.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 8.5, y: 2.5}
+        - {x: 8.5, y: -3.5}
+        - {x: 6.5, y: -2.5}
+        - {x: 2.5, y: -6.5}
+        - {x: 3.5, y: -8.5}
+        - {x: -2.5, y: -8.5}
+        - {x: -2.5, y: -7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c8f2c55fed4d848c314ea46435e107
+      internalID: 21300006
+      vertices:
+      - {x: 27.97325, y: 41.22325}
+      - {x: 28.97325, y: 12.223249}
+      - {x: 28.97325, y: 36.22325}
+      - {x: 6.9732494, y: 12.223249}
+      - {x: 1.9732494, y: 41.22325}
+      - {x: -0.026750565, y: 34.22325}
+      - {x: -0.026750565, y: 19.22325}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_powerupshield_4
+      rect:
+        serializedVersion: 2
+        x: 143.02675
+        y: 3.026751
+        width: 28.946499
+        height: 28.946499
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.07680545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.499998, y: -14.5}
+        - {x: -14.499998, y: -7.5}
+        - {x: -14.499998, y: 7.5}
+        - {x: -12.499998, y: 14.5}
+        - {x: 13.500002, y: 14.5}
+        - {x: 14.500002, y: 9.5}
+        - {x: 14.500002, y: -14.5}
+      physicsShape:
+      - - {x: -14.499998, y: -7.5}
+        - {x: -7.499998, y: -14.5}
+        - {x: 14.500002, y: -14.5}
+        - {x: 14.500002, y: 9.5}
+        - {x: 13.500002, y: 14.5}
+        - {x: -12.499998, y: 14.5}
+        - {x: -14.499998, y: 7.5}
+      - - {x: -8.499998, y: -2.5}
+        - {x: -8.499998, y: 2.5}
+        - {x: -6.499998, y: 0.5}
+        - {x: -4.499998, y: 0.5}
+        - {x: -0.4999981, y: 4.5}
+        - {x: -0.4999981, y: 6.5}
+        - {x: -2.499998, y: 8.5}
+        - {x: 2.500002, y: 8.5}
+        - {x: 6.500002, y: 6.5}
+        - {x: 6.500002, y: 3.5}
+        - {x: 4.500002, y: 0.5}
+        - {x: 1.5000019, y: -2.5}
+        - {x: -3.499998, y: -5.5}
+        - {x: -6.499998, y: -5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d1728be299445ca285e0dd6fc93501
+      internalID: 21300008
+      vertices:
+      - {x: 27.97325, y: 41.22325}
+      - {x: 28.97325, y: 12.223249}
+      - {x: 28.97325, y: 36.22325}
+      - {x: 6.9732494, y: 12.223249}
+      - {x: 1.9732494, y: 41.22325}
+      - {x: -0.026750565, y: 34.22325}
+      - {x: -0.026750565, y: 19.22325}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

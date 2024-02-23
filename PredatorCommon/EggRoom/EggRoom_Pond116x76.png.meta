@@ -1,0 +1,1206 @@
+fileFormatVersion: 2
+guid: 791d9499d2dc33245903941e49f67fa0
+timeCreated: 1706119823
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Biome1EggRoomPond116x76_7
+  - first:
+      213: 21300002
+    second: Biome1EggRoomPond116x76_10
+  - first:
+      213: 21300004
+    second: Biome1EggRoomPond116x76_2
+  - first:
+      213: 21300006
+    second: Biome1EggRoomPond116x76_5
+  - first:
+      213: 21300008
+    second: Biome1EggRoomPond116x76_9
+  - first:
+      213: 21300010
+    second: Biome1EggRoomPond116x76_3
+  - first:
+      213: 21300012
+    second: Biome1EggRoomPond116x76_1
+  - first:
+      213: 21300014
+    second: Biome1EggRoomPond116x76_11
+  - first:
+      213: 21300016
+    second: Biome1EggRoomPond116x76_0
+  - first:
+      213: 21300018
+    second: Biome1EggRoomPond116x76_12
+  - first:
+      213: 21300020
+    second: Biome1EggRoomPond116x76_15
+  - first:
+      213: 21300022
+    second: Biome1EggRoomPond116x76_4
+  - first:
+      213: 21300024
+    second: Biome1EggRoomPond116x76_6
+  - first:
+      213: 21300026
+    second: Biome1EggRoomPond116x76_13
+  - first:
+      213: 21300028
+    second: Biome1EggRoomPond116x76_14
+  - first:
+      213: 21300030
+    second: Biome1EggRoomPond116x76_8
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Biome1EggRoomPond116x76_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 152
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -38}
+        - {x: -58, y: -29}
+        - {x: -58, y: 20}
+        - {x: -39, y: 38}
+        - {x: 58, y: 38}
+        - {x: 58, y: -24}
+        - {x: 47, y: -38}
+      physicsShape:
+      - - {x: 58, y: 17}
+        - {x: 51, y: 25}
+        - {x: 51, y: 34}
+        - {x: 44, y: 37}
+        - {x: 34, y: 38}
+        - {x: -31, y: 38}
+        - {x: -58, y: 20}
+        - {x: -58, y: -12}
+        - {x: -40, y: -33}
+        - {x: -12, y: -38}
+        - {x: 18, y: -38}
+        - {x: 28, y: -36}
+        - {x: 46, y: -25}
+        - {x: 58, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f71f4b00db44a285b68200ecfbf15f
+      internalID: 21300000
+      vertices:
+      - {x: 116, y: 76}
+      - {x: 105, y: 0}
+      - {x: 116, y: 14}
+      - {x: 19, y: 76}
+      - {x: 14, y: 0}
+      - {x: 0, y: 58}
+      - {x: 0, y: 9}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1EggRoomPond116x76_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 76
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -38}
+        - {x: -58, y: -29}
+        - {x: -58, y: 20}
+        - {x: -39, y: 38}
+        - {x: 58, y: 38}
+        - {x: 58, y: -24}
+        - {x: 47, y: -38}
+      physicsShape:
+      - - {x: 58, y: 17}
+        - {x: 51, y: 25}
+        - {x: 51, y: 34}
+        - {x: 44, y: 37}
+        - {x: 34, y: 38}
+        - {x: -31, y: 38}
+        - {x: -58, y: 20}
+        - {x: -58, y: -12}
+        - {x: -40, y: -33}
+        - {x: -12, y: -38}
+        - {x: 18, y: -38}
+        - {x: 28, y: -36}
+        - {x: 46, y: -25}
+        - {x: 58, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cddf47f6cf4206b989c20de5d81f7c
+      internalID: 21300002
+      vertices:
+      - {x: 116, y: 76}
+      - {x: 105, y: 0}
+      - {x: 116, y: 14}
+      - {x: 19, y: 76}
+      - {x: 14, y: 0}
+      - {x: 0, y: 58}
+      - {x: 0, y: 9}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1EggRoomPond116x76_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 228
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -38}
+        - {x: -58, y: -29}
+        - {x: -58, y: 20}
+        - {x: -39, y: 38}
+        - {x: 58, y: 38}
+        - {x: 58, y: -24}
+        - {x: 47, y: -38}
+      physicsShape:
+      - - {x: 58, y: 17}
+        - {x: 51, y: 25}
+        - {x: 51, y: 34}
+        - {x: 44, y: 37}
+        - {x: 34, y: 38}
+        - {x: -31, y: 38}
+        - {x: -58, y: 20}
+        - {x: -58, y: -12}
+        - {x: -40, y: -33}
+        - {x: -12, y: -38}
+        - {x: 18, y: -38}
+        - {x: 28, y: -36}
+        - {x: 46, y: -25}
+        - {x: 58, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e77aa194ea41a3b346b8e68db5a79a
+      internalID: 21300004
+      vertices:
+      - {x: 116, y: 76}
+      - {x: 105, y: 0}
+      - {x: 116, y: 14}
+      - {x: 19, y: 76}
+      - {x: 14, y: 0}
+      - {x: 0, y: 58}
+      - {x: 0, y: 9}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1EggRoomPond116x76_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 152
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -38}
+        - {x: -58, y: -29}
+        - {x: -58, y: 20}
+        - {x: -39, y: 38}
+        - {x: 58, y: 38}
+        - {x: 58, y: -24}
+        - {x: 47, y: -38}
+      physicsShape:
+      - - {x: 58, y: 17}
+        - {x: 51, y: 25}
+        - {x: 51, y: 34}
+        - {x: 44, y: 37}
+        - {x: 34, y: 38}
+        - {x: -31, y: 38}
+        - {x: -58, y: 20}
+        - {x: -58, y: -12}
+        - {x: -40, y: -33}
+        - {x: -12, y: -38}
+        - {x: 18, y: -38}
+        - {x: 28, y: -36}
+        - {x: 46, y: -25}
+        - {x: 58, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f8adfb507e4875bbec31764da9659f
+      internalID: 21300006
+      vertices:
+      - {x: 116, y: 76}
+      - {x: 105, y: 0}
+      - {x: 116, y: 14}
+      - {x: 19, y: 76}
+      - {x: 14, y: 0}
+      - {x: 0, y: 58}
+      - {x: 0, y: 9}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1EggRoomPond116x76_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 76
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -38}
+        - {x: -58, y: -29}
+        - {x: -58, y: 20}
+        - {x: -39, y: 38}
+        - {x: 58, y: 38}
+        - {x: 58, y: -24}
+        - {x: 47, y: -38}
+      physicsShape:
+      - - {x: 58, y: 17}
+        - {x: 51, y: 25}
+        - {x: 51, y: 34}
+        - {x: 44, y: 37}
+        - {x: 34, y: 38}
+        - {x: -31, y: 38}
+        - {x: -58, y: 20}
+        - {x: -58, y: -12}
+        - {x: -40, y: -33}
+        - {x: -12, y: -38}
+        - {x: 18, y: -38}
+        - {x: 28, y: -36}
+        - {x: 46, y: -25}
+        - {x: 58, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a848cb12e8422e81b74053d5f466d7
+      internalID: 21300008
+      vertices:
+      - {x: 116, y: 76}
+      - {x: 105, y: 0}
+      - {x: 116, y: 14}
+      - {x: 19, y: 76}
+      - {x: 14, y: 0}
+      - {x: 0, y: 58}
+      - {x: 0, y: 9}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1EggRoomPond116x76_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 228
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -38}
+        - {x: -58, y: -29}
+        - {x: -58, y: 20}
+        - {x: -39, y: 38}
+        - {x: 58, y: 38}
+        - {x: 58, y: -24}
+        - {x: 47, y: -38}
+      physicsShape:
+      - - {x: 58, y: 17}
+        - {x: 51, y: 25}
+        - {x: 51, y: 34}
+        - {x: 44, y: 37}
+        - {x: 34, y: 38}
+        - {x: -31, y: 38}
+        - {x: -58, y: 20}
+        - {x: -58, y: -12}
+        - {x: -40, y: -33}
+        - {x: -12, y: -38}
+        - {x: 18, y: -38}
+        - {x: 28, y: -36}
+        - {x: 46, y: -25}
+        - {x: 58, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db4591b384a4798a6adb741cf5e4f00
+      internalID: 21300010
+      vertices:
+      - {x: 116, y: 76}
+      - {x: 105, y: 0}
+      - {x: 116, y: 14}
+      - {x: 19, y: 76}
+      - {x: 14, y: 0}
+      - {x: 0, y: 58}
+      - {x: 0, y: 9}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1EggRoomPond116x76_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 228
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -38}
+        - {x: -58, y: -29}
+        - {x: -58, y: 20}
+        - {x: -39, y: 38}
+        - {x: 58, y: 38}
+        - {x: 58, y: -24}
+        - {x: 47, y: -38}
+      physicsShape:
+      - - {x: 58, y: 17}
+        - {x: 51, y: 25}
+        - {x: 51, y: 34}
+        - {x: 44, y: 37}
+        - {x: 34, y: 38}
+        - {x: -31, y: 38}
+        - {x: -58, y: 20}
+        - {x: -58, y: -12}
+        - {x: -40, y: -33}
+        - {x: -12, y: -38}
+        - {x: 18, y: -38}
+        - {x: 28, y: -36}
+        - {x: 46, y: -25}
+        - {x: 58, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31588726c2f4aa487bfb3cdca6453f3
+      internalID: 21300012
+      vertices:
+      - {x: 116, y: 76}
+      - {x: 105, y: 0}
+      - {x: 116, y: 14}
+      - {x: 19, y: 76}
+      - {x: 14, y: 0}
+      - {x: 0, y: 58}
+      - {x: 0, y: 9}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1EggRoomPond116x76_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 76
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -38}
+        - {x: -58, y: -29}
+        - {x: -58, y: 20}
+        - {x: -39, y: 38}
+        - {x: 58, y: 38}
+        - {x: 58, y: -24}
+        - {x: 47, y: -38}
+      physicsShape:
+      - - {x: 58, y: 17}
+        - {x: 51, y: 25}
+        - {x: 51, y: 34}
+        - {x: 44, y: 37}
+        - {x: 34, y: 38}
+        - {x: -31, y: 38}
+        - {x: -58, y: 20}
+        - {x: -58, y: -12}
+        - {x: -40, y: -33}
+        - {x: -12, y: -38}
+        - {x: 18, y: -38}
+        - {x: 28, y: -36}
+        - {x: 46, y: -25}
+        - {x: 58, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8ecc27f7f6400085345eb37268c9ef
+      internalID: 21300014
+      vertices:
+      - {x: 116, y: 76}
+      - {x: 105, y: 0}
+      - {x: 116, y: 14}
+      - {x: 19, y: 76}
+      - {x: 14, y: 0}
+      - {x: 0, y: 58}
+      - {x: 0, y: 9}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1EggRoomPond116x76_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -38}
+        - {x: -58, y: -34}
+        - {x: -58, y: 21}
+        - {x: -33, y: 38}
+        - {x: 56, y: 38}
+        - {x: 58, y: 27}
+        - {x: 58, y: -27}
+        - {x: 52, y: -38}
+      physicsShape:
+      - - {x: 58, y: 14}
+        - {x: 51, y: 25}
+        - {x: 51, y: 34}
+        - {x: 44, y: 37}
+        - {x: 34, y: 38}
+        - {x: -24, y: 38}
+        - {x: -28, y: 36}
+        - {x: -40, y: 32}
+        - {x: -56, y: 18}
+        - {x: -58, y: 15}
+        - {x: -58, y: -17}
+        - {x: -38, y: -34}
+        - {x: -13, y: -38}
+        - {x: 18, y: -38}
+        - {x: 28, y: -36}
+        - {x: 46, y: -26}
+        - {x: 58, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db13aea8ea941dd9703c4463ea68c39
+      internalID: 21300016
+      vertices:
+      - {x: 114, y: 76}
+      - {x: 116, y: 11}
+      - {x: 116, y: 65}
+      - {x: 110, y: 0}
+      - {x: 25, y: 76}
+      - {x: 11, y: 0}
+      - {x: 0, y: 59}
+      - {x: 0, y: 4}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1EggRoomPond116x76_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -38}
+        - {x: -58, y: -29}
+        - {x: -58, y: 20}
+        - {x: -39, y: 38}
+        - {x: 58, y: 38}
+        - {x: 58, y: -24}
+        - {x: 47, y: -38}
+      physicsShape:
+      - - {x: 58, y: 17}
+        - {x: 51, y: 25}
+        - {x: 51, y: 34}
+        - {x: 44, y: 37}
+        - {x: 34, y: 38}
+        - {x: -31, y: 38}
+        - {x: -58, y: 20}
+        - {x: -58, y: -12}
+        - {x: -40, y: -33}
+        - {x: -12, y: -38}
+        - {x: 18, y: -38}
+        - {x: 28, y: -36}
+        - {x: 46, y: -25}
+        - {x: 58, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9b045eae754f459fdfe72e3f22d2b8
+      internalID: 21300018
+      vertices:
+      - {x: 116, y: 76}
+      - {x: 105, y: 0}
+      - {x: 116, y: 14}
+      - {x: 19, y: 76}
+      - {x: 14, y: 0}
+      - {x: 0, y: 58}
+      - {x: 0, y: 9}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1EggRoomPond116x76_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -38}
+        - {x: -58, y: -29}
+        - {x: -58, y: 20}
+        - {x: -39, y: 38}
+        - {x: 58, y: 38}
+        - {x: 58, y: -24}
+        - {x: 47, y: -38}
+      physicsShape:
+      - - {x: 58, y: 17}
+        - {x: 51, y: 25}
+        - {x: 51, y: 34}
+        - {x: 44, y: 37}
+        - {x: 34, y: 38}
+        - {x: -31, y: 38}
+        - {x: -58, y: 20}
+        - {x: -58, y: -12}
+        - {x: -40, y: -33}
+        - {x: -12, y: -38}
+        - {x: 18, y: -38}
+        - {x: 28, y: -36}
+        - {x: 46, y: -25}
+        - {x: 58, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f464ba032774e26a8a63b75542b4793
+      internalID: 21300020
+      vertices:
+      - {x: 116, y: 76}
+      - {x: 105, y: 0}
+      - {x: 116, y: 14}
+      - {x: 19, y: 76}
+      - {x: 14, y: 0}
+      - {x: 0, y: 58}
+      - {x: 0, y: 9}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1EggRoomPond116x76_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -38}
+        - {x: -58, y: -29}
+        - {x: -58, y: 20}
+        - {x: -39, y: 38}
+        - {x: 58, y: 38}
+        - {x: 58, y: -24}
+        - {x: 47, y: -38}
+      physicsShape:
+      - - {x: 58, y: 17}
+        - {x: 51, y: 25}
+        - {x: 51, y: 34}
+        - {x: 44, y: 37}
+        - {x: 34, y: 38}
+        - {x: -31, y: 38}
+        - {x: -58, y: 20}
+        - {x: -58, y: -12}
+        - {x: -40, y: -33}
+        - {x: -12, y: -38}
+        - {x: 18, y: -38}
+        - {x: 28, y: -36}
+        - {x: 46, y: -25}
+        - {x: 58, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d200fca7dcd046efa5984701ec3618ac
+      internalID: 21300022
+      vertices:
+      - {x: 116, y: 76}
+      - {x: 105, y: 0}
+      - {x: 116, y: 14}
+      - {x: 19, y: 76}
+      - {x: 14, y: 0}
+      - {x: 0, y: 58}
+      - {x: 0, y: 9}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1EggRoomPond116x76_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 152
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -38}
+        - {x: -58, y: -29}
+        - {x: -58, y: 20}
+        - {x: -39, y: 38}
+        - {x: 58, y: 38}
+        - {x: 58, y: -24}
+        - {x: 47, y: -38}
+      physicsShape:
+      - - {x: 58, y: 17}
+        - {x: 51, y: 25}
+        - {x: 51, y: 34}
+        - {x: 44, y: 37}
+        - {x: 34, y: 38}
+        - {x: -31, y: 38}
+        - {x: -58, y: 20}
+        - {x: -58, y: -12}
+        - {x: -40, y: -33}
+        - {x: -12, y: -38}
+        - {x: 18, y: -38}
+        - {x: 28, y: -36}
+        - {x: 46, y: -25}
+        - {x: 58, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7039382ee8469b9eeba4971571f1b5
+      internalID: 21300024
+      vertices:
+      - {x: 116, y: 76}
+      - {x: 105, y: 0}
+      - {x: 116, y: 14}
+      - {x: 19, y: 76}
+      - {x: 14, y: 0}
+      - {x: 0, y: 58}
+      - {x: 0, y: 9}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1EggRoomPond116x76_13
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -38}
+        - {x: -58, y: -29}
+        - {x: -58, y: 20}
+        - {x: -39, y: 38}
+        - {x: 58, y: 38}
+        - {x: 58, y: -24}
+        - {x: 47, y: -38}
+      physicsShape:
+      - - {x: 58, y: 17}
+        - {x: 51, y: 25}
+        - {x: 51, y: 34}
+        - {x: 44, y: 37}
+        - {x: 34, y: 38}
+        - {x: -31, y: 38}
+        - {x: -58, y: 20}
+        - {x: -58, y: -12}
+        - {x: -40, y: -33}
+        - {x: -12, y: -38}
+        - {x: 18, y: -38}
+        - {x: 28, y: -36}
+        - {x: 46, y: -25}
+        - {x: 58, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c38d746120470cbc6ab9f27b84b038
+      internalID: 21300026
+      vertices:
+      - {x: 116, y: 76}
+      - {x: 105, y: 0}
+      - {x: 116, y: 14}
+      - {x: 19, y: 76}
+      - {x: 14, y: 0}
+      - {x: 0, y: 58}
+      - {x: 0, y: 9}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1EggRoomPond116x76_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -38}
+        - {x: -58, y: -29}
+        - {x: -58, y: 20}
+        - {x: -39, y: 38}
+        - {x: 58, y: 38}
+        - {x: 58, y: -24}
+        - {x: 47, y: -38}
+      physicsShape:
+      - - {x: 58, y: 17}
+        - {x: 51, y: 25}
+        - {x: 51, y: 34}
+        - {x: 44, y: 37}
+        - {x: 34, y: 38}
+        - {x: -31, y: 38}
+        - {x: -58, y: 20}
+        - {x: -58, y: -12}
+        - {x: -40, y: -33}
+        - {x: -12, y: -38}
+        - {x: 18, y: -38}
+        - {x: 28, y: -36}
+        - {x: 46, y: -25}
+        - {x: 58, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7565de1d732d4263bda3fa2aa8fb6792
+      internalID: 21300028
+      vertices:
+      - {x: 116, y: 76}
+      - {x: 105, y: 0}
+      - {x: 116, y: 14}
+      - {x: 19, y: 76}
+      - {x: 14, y: 0}
+      - {x: 0, y: 58}
+      - {x: 0, y: 9}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1EggRoomPond116x76_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -38}
+        - {x: -58, y: -29}
+        - {x: -58, y: 20}
+        - {x: -39, y: 38}
+        - {x: 58, y: 38}
+        - {x: 58, y: -24}
+        - {x: 47, y: -38}
+      physicsShape:
+      - - {x: 58, y: 17}
+        - {x: 51, y: 25}
+        - {x: 51, y: 34}
+        - {x: 44, y: 37}
+        - {x: 34, y: 38}
+        - {x: -31, y: 38}
+        - {x: -58, y: 20}
+        - {x: -58, y: -12}
+        - {x: -40, y: -33}
+        - {x: -12, y: -38}
+        - {x: 18, y: -38}
+        - {x: 28, y: -36}
+        - {x: 46, y: -25}
+        - {x: 58, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac942fc699a54f24afe89ca1c5ebb227
+      internalID: 21300030
+      vertices:
+      - {x: 116, y: 76}
+      - {x: 105, y: 0}
+      - {x: 116, y: 14}
+      - {x: 19, y: 76}
+      - {x: 14, y: 0}
+      - {x: 0, y: 58}
+      - {x: 0, y: 9}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 65827e5843426b7463705ba31aebab29.bundle
+  assetBundleVariant:

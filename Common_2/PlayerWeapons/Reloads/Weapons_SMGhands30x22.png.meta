@@ -1,0 +1,854 @@
+fileFormatVersion: 2
+guid: 09c6dc63c3929de4eb9d0d8a48f36a29
+timeCreated: 1706119814
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Weapons_SMGhands30x22_9
+  - first:
+      213: 21300002
+    second: Weapons_SMGhands30x22_13
+  - first:
+      213: 21300004
+    second: Weapons_SMGhands30x22_12
+  - first:
+      213: 21300006
+    second: Weapons_SMGhands30x22_11
+  - first:
+      213: 21300008
+    second: Weapons_SMGhands30x22_6
+  - first:
+      213: 21300010
+    second: Weapons_SMGhands30x22_5
+  - first:
+      213: 21300012
+    second: Weapons_SMGhands30x22_1
+  - first:
+      213: 21300014
+    second: Weapons_SMGhands30x22_3
+  - first:
+      213: 21300016
+    second: Weapons_SMGhands30x22_8
+  - first:
+      213: 21300018
+    second: Weapons_SMGhands30x22_10
+  - first:
+      213: 21300020
+    second: Weapons_SMGhands30x22_14
+  - first:
+      213: 21300022
+    second: Weapons_SMGhands30x22_0
+  - first:
+      213: 21300024
+    second: Weapons_SMGhands30x22_4
+  - first:
+      213: 21300026
+    second: Weapons_SMGhands30x22_7
+  - first:
+      213: 21300028
+    second: Weapons_SMGhands30x22_2
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapons_SMGhands30x22_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5342941, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999985, y: -11}
+        - {x: -14.999985, y: 11}
+        - {x: 15.000015, y: 11}
+        - {x: 15.000015, y: -11}
+      physicsShape:
+      - - {x: 14.000015, y: 3}
+        - {x: 11.000015, y: 8}
+        - {x: 5.0000153, y: 9}
+        - {x: -5.9999847, y: 9}
+        - {x: -9.999985, y: 5}
+        - {x: -9.999985, y: -4}
+        - {x: -3.9999847, y: -9}
+        - {x: 8.000015, y: -9}
+        - {x: 12.000015, y: -7}
+        - {x: 14.000015, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95791c8ac02408eb7c518eb03519516
+      internalID: 21300000
+      vertices:
+      - {x: -1.0288086, y: 22}
+      - {x: 28.971191, y: 22}
+      - {x: -1.0288086, y: 0}
+      - {x: 28.971191, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SMGhands30x22_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5342941, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999985, y: -11}
+        - {x: -14.999985, y: 11}
+        - {x: 15.000015, y: 11}
+        - {x: 15.000015, y: -11}
+      physicsShape:
+      - - {x: -6.9999847, y: 9}
+        - {x: -10.999985, y: 6}
+        - {x: -10.999985, y: -1}
+        - {x: -4.9999847, y: -9}
+        - {x: 10.000015, y: -9}
+        - {x: 13.000015, y: -2}
+        - {x: 13.000015, y: 7}
+        - {x: 10.000015, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1211a86e36c1427197a68d44e7a25e6f
+      internalID: 21300002
+      vertices:
+      - {x: -1.0288086, y: 22}
+      - {x: 28.971191, y: 22}
+      - {x: -1.0288086, y: 0}
+      - {x: 28.971191, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SMGhands30x22_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5342941, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999985, y: -11}
+        - {x: -14.999985, y: 11}
+        - {x: 15.000015, y: 11}
+        - {x: 15.000015, y: -11}
+      physicsShape:
+      - - {x: -3.9999847, y: 9}
+        - {x: -7.9999847, y: 5}
+        - {x: -7.9999847, y: 0}
+        - {x: -3.9999847, y: -9}
+        - {x: 4.0000153, y: -9}
+        - {x: 9.000015, y: -8}
+        - {x: 15.000015, y: -2}
+        - {x: 15.000015, y: 6}
+        - {x: 13.000015, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e59a60bfe54bfa88aab9d447dbb56e
+      internalID: 21300004
+      vertices:
+      - {x: -1.0288086, y: 22}
+      - {x: 28.971191, y: 22}
+      - {x: -1.0288086, y: 0}
+      - {x: 28.971191, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SMGhands30x22_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5342941, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999985, y: -11}
+        - {x: -14.999985, y: 11}
+        - {x: 15.000015, y: 11}
+        - {x: 15.000015, y: -11}
+      physicsShape:
+      - - {x: -14.999985, y: 9}
+        - {x: -14.999985, y: -2}
+        - {x: -6.9999847, y: -9}
+        - {x: 6.0000153, y: -9}
+        - {x: 9.000015, y: -8}
+        - {x: 14.000015, y: -1}
+        - {x: 14.000015, y: 6}
+        - {x: 13.000015, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5b658858e94d63bf6494f115b822a3
+      internalID: 21300006
+      vertices:
+      - {x: -1.0288086, y: 22}
+      - {x: 28.971191, y: 22}
+      - {x: -1.0288086, y: 0}
+      - {x: 28.971191, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SMGhands30x22_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5342941, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -11}
+        - {x: -15, y: 11}
+        - {x: 15, y: 11}
+        - {x: 15, y: -11}
+      physicsShape:
+      - - {x: 9, y: -2}
+        - {x: 7, y: -4}
+        - {x: 7, y: -8}
+        - {x: 9, y: -11}
+        - {x: 14, y: -11}
+        - {x: 15, y: -10}
+        - {x: 14, y: -4}
+        - {x: 12, y: -2}
+      - - {x: -9, y: 10}
+        - {x: -11, y: 3}
+        - {x: -11, y: -5}
+        - {x: -8, y: -9}
+        - {x: 3, y: -9}
+        - {x: 13, y: -2}
+        - {x: 13, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f479310895db4ffda31dbef292d0db89
+      internalID: 21300008
+      vertices:
+      - {x: -1.0288239, y: 22}
+      - {x: 28.971176, y: 22}
+      - {x: -1.0288239, y: 0}
+      - {x: 28.971176, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SMGhands30x22_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5342941, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -11}
+        - {x: -15, y: 11}
+        - {x: 15, y: 11}
+        - {x: 15, y: -11}
+      physicsShape:
+      - - {x: 9, y: -2}
+        - {x: 7, y: -4}
+        - {x: 7, y: -8}
+        - {x: 9, y: -11}
+        - {x: 14, y: -11}
+        - {x: 15, y: -10}
+        - {x: 14, y: -4}
+        - {x: 12, y: -2}
+      - - {x: -9, y: 10}
+        - {x: -11, y: 3}
+        - {x: -11, y: -5}
+        - {x: -8, y: -9}
+        - {x: 3, y: -9}
+        - {x: 13, y: -2}
+        - {x: 13, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfcb3dffff84e7a91200ca236580e35
+      internalID: 21300010
+      vertices:
+      - {x: -1.0288239, y: 22}
+      - {x: 28.971176, y: 22}
+      - {x: -1.0288239, y: 0}
+      - {x: 28.971176, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SMGhands30x22_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5342941, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -11}
+        - {x: -15, y: 11}
+        - {x: 15, y: 11}
+        - {x: 15, y: -11}
+      physicsShape:
+      - - {x: -4, y: 10}
+        - {x: -11, y: 7}
+        - {x: -11, y: -7}
+        - {x: -5, y: -9}
+        - {x: 7, y: -9}
+        - {x: 13, y: -5}
+        - {x: 13, y: 8}
+        - {x: 11, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dadd74a22ab46c4a598c54fc1f763c1
+      internalID: 21300012
+      vertices:
+      - {x: -1.0288239, y: 22}
+      - {x: 28.971176, y: 22}
+      - {x: -1.0288239, y: 0}
+      - {x: 28.971176, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SMGhands30x22_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5342941, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -11}
+        - {x: -15, y: 11}
+        - {x: 15, y: 11}
+        - {x: 15, y: -11}
+      physicsShape:
+      - - {x: 9, y: -2}
+        - {x: 7, y: -4}
+        - {x: 7, y: -8}
+        - {x: 9, y: -11}
+        - {x: 14, y: -11}
+        - {x: 15, y: -10}
+        - {x: 14, y: -4}
+        - {x: 12, y: -2}
+      - - {x: -10, y: 4}
+        - {x: -11, y: 1}
+        - {x: -11, y: -2}
+        - {x: -7, y: -9}
+        - {x: 4, y: -9}
+        - {x: 13, y: -3}
+        - {x: 13, y: 6}
+        - {x: 10, y: 9}
+        - {x: -6, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae8ff2c34f943aaabd38d89de88e524
+      internalID: 21300014
+      vertices:
+      - {x: -1.0288239, y: 22}
+      - {x: 28.971176, y: 22}
+      - {x: -1.0288239, y: 0}
+      - {x: 28.971176, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SMGhands30x22_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5342941, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999985, y: -11}
+        - {x: -14.999985, y: 11}
+        - {x: 15.000015, y: 11}
+        - {x: 15.000015, y: -11}
+      physicsShape:
+      - - {x: -10.999985, y: 11}
+        - {x: -10.999985, y: -6}
+        - {x: -9.999985, y: -7}
+        - {x: -5.9999847, y: -8}
+        - {x: 6.0000153, y: -8}
+        - {x: 12.000015, y: -2}
+        - {x: 12.000015, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0074c6e3ee4442bd990a9e9e1098ebe9
+      internalID: 21300016
+      vertices:
+      - {x: -1.0288086, y: 22}
+      - {x: 28.971191, y: 22}
+      - {x: -1.0288086, y: 0}
+      - {x: 28.971191, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SMGhands30x22_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5342941, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999985, y: -11}
+        - {x: -14.999985, y: 11}
+        - {x: 15.000015, y: 11}
+        - {x: 15.000015, y: -11}
+      physicsShape:
+      - - {x: -5.9999847, y: 9}
+        - {x: -9.999985, y: 5}
+        - {x: -9.999985, y: -4}
+        - {x: -8.999985, y: -9}
+        - {x: 11.000015, y: -9}
+        - {x: 14.000015, y: -3}
+        - {x: 14.000015, y: 4}
+        - {x: 11.000015, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cab9b6edf7475b8a3d072f63020ef3
+      internalID: 21300018
+      vertices:
+      - {x: -1.0288086, y: 22}
+      - {x: 28.971191, y: 22}
+      - {x: -1.0288086, y: 0}
+      - {x: 28.971191, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SMGhands30x22_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5342941, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999985, y: -11}
+        - {x: -14.999985, y: 11}
+        - {x: 15.000015, y: 11}
+        - {x: 15.000015, y: -11}
+      physicsShape:
+      - - {x: -5.9999847, y: 9}
+        - {x: -9.999985, y: 5}
+        - {x: -9.999985, y: -4}
+        - {x: -8.999985, y: -9}
+        - {x: 11.000015, y: -9}
+        - {x: 14.000015, y: -3}
+        - {x: 14.000015, y: 4}
+        - {x: 11.000015, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9823f3e862be45cdaeabe2a5233880e4
+      internalID: 21300020
+      vertices:
+      - {x: -1.0288086, y: 22}
+      - {x: 28.971191, y: 22}
+      - {x: -1.0288086, y: 0}
+      - {x: 28.971191, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SMGhands30x22_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5342941, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -11}
+        - {x: -15, y: 11}
+        - {x: 15, y: 11}
+        - {x: 15, y: -11}
+      physicsShape:
+      - - {x: -6, y: 9}
+        - {x: -10, y: 5}
+        - {x: -10, y: -4}
+        - {x: -9, y: -9}
+        - {x: 11, y: -9}
+        - {x: 14, y: -3}
+        - {x: 14, y: 4}
+        - {x: 11, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8ae99753b143089dc778e85e38d695
+      internalID: 21300022
+      vertices:
+      - {x: -1.0288239, y: 22}
+      - {x: 28.971176, y: 22}
+      - {x: -1.0288239, y: 0}
+      - {x: 28.971176, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SMGhands30x22_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5342941, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -11}
+        - {x: -15, y: 11}
+        - {x: 15, y: 11}
+        - {x: 15, y: -11}
+      physicsShape:
+      - - {x: 9, y: -2}
+        - {x: 7, y: -4}
+        - {x: 7, y: -8}
+        - {x: 9, y: -11}
+        - {x: 14, y: -11}
+        - {x: 15, y: -10}
+        - {x: 14, y: -4}
+        - {x: 12, y: -2}
+      - - {x: -9, y: 10}
+        - {x: -11, y: 3}
+        - {x: -11, y: -5}
+        - {x: -8, y: -9}
+        - {x: 3, y: -9}
+        - {x: 13, y: -2}
+        - {x: 13, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628e1cf0bac74b7ba65cad285d59d49b
+      internalID: 21300024
+      vertices:
+      - {x: -1.0288239, y: 22}
+      - {x: 28.971176, y: 22}
+      - {x: -1.0288239, y: 0}
+      - {x: 28.971176, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SMGhands30x22_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5342941, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -11}
+        - {x: -15, y: 11}
+        - {x: 15, y: 11}
+        - {x: 15, y: -11}
+      physicsShape:
+      - - {x: 9, y: -2}
+        - {x: 7, y: -4}
+        - {x: 7, y: -8}
+        - {x: 9, y: -11}
+        - {x: 14, y: -11}
+        - {x: 15, y: -10}
+        - {x: 14, y: -4}
+        - {x: 12, y: -2}
+      - - {x: -9, y: 10}
+        - {x: -11, y: 3}
+        - {x: -11, y: -5}
+        - {x: -8, y: -9}
+        - {x: 3, y: -9}
+        - {x: 13, y: -2}
+        - {x: 13, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c1325783dd4633b6ff8d9788f30bea
+      internalID: 21300026
+      vertices:
+      - {x: -1.0288239, y: 22}
+      - {x: 28.971176, y: 22}
+      - {x: -1.0288239, y: 0}
+      - {x: 28.971176, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SMGhands30x22_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5342941, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -11}
+        - {x: -15, y: 11}
+        - {x: 15, y: 11}
+        - {x: 15, y: -11}
+      physicsShape:
+      - - {x: -11, y: 11}
+        - {x: -11, y: -6}
+        - {x: -10, y: -7}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 12, y: -2}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec7ed2db2244d9b8e315da11e11ea02
+      internalID: 21300028
+      vertices:
+      - {x: -1.0288239, y: 22}
+      - {x: 28.971176, y: 22}
+      - {x: -1.0288239, y: 0}
+      - {x: 28.971176, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: dd14d2ddaa07bc34756cc666fad2ee2c.bundle
+  assetBundleVariant:

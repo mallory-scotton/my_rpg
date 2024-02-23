@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: 5ab85b126264ddf4e8f96aaadff4f740
+timeCreated: 1706119811
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Genie_hand50x30_6
+  - first:
+      213: 21300002
+    second: Genie_hand50x30_7
+  - first:
+      213: 21300004
+    second: Genie_hand50x30_4
+  - first:
+      213: 21300006
+    second: Genie_hand50x30_1
+  - first:
+      213: 21300008
+    second: Genie_hand50x30_9
+  - first:
+      213: 21300010
+    second: Genie_hand50x30_2
+  - first:
+      213: 21300012
+    second: Genie_hand50x30_0
+  - first:
+      213: 21300014
+    second: Genie_hand50x30_8
+  - first:
+      213: 21300016
+    second: Genie_hand50x30_3
+  - first:
+      213: 21300018
+    second: Genie_hand50x30_5
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genie_hand50x30_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 50
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -15}
+        - {x: -25, y: 15}
+        - {x: 25, y: 15}
+        - {x: 25, y: -15}
+      physicsShape:
+      - - {x: 23, y: 2}
+        - {x: 16, y: 9}
+        - {x: 13, y: 9}
+        - {x: 10, y: 6}
+        - {x: 7, y: -3}
+        - {x: 7, y: -14}
+        - {x: 13, y: -14}
+        - {x: 17, y: -12}
+        - {x: 20, y: -8}
+        - {x: 22, y: -5}
+        - {x: 23, y: -2}
+      - - {x: -1, y: 5}
+        - {x: -3, y: 2}
+        - {x: -1, y: -3}
+        - {x: 1, y: -4}
+        - {x: 5, y: -4}
+        - {x: 5, y: 3}
+        - {x: 4, y: 4}
+      - - {x: -10, y: 6}
+        - {x: -8, y: 2}
+        - {x: 10, y: 2}
+        - {x: 10, y: 10}
+        - {x: 9, y: 13}
+        - {x: -4, y: 13}
+        - {x: -7, y: 12}
+        - {x: -10, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1907a8f3165a44d18757998279a0efdc
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 50, y: 42}
+      - {x: 0, y: 12}
+      - {x: 50, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie_hand50x30_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 50
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -15}
+        - {x: -25, y: 15}
+        - {x: 25, y: 15}
+        - {x: 25, y: -15}
+      physicsShape:
+      - - {x: 10, y: 3}
+        - {x: 9, y: 1}
+        - {x: 9, y: -5}
+        - {x: 14, y: -12}
+        - {x: 18, y: -12}
+        - {x: 21, y: -9}
+        - {x: 22, y: 1}
+        - {x: 21, y: 3}
+      - - {x: -3, y: 0}
+        - {x: -3, y: -1}
+        - {x: 0, y: -4}
+        - {x: 3, y: -3}
+        - {x: 3, y: 0}
+        - {x: 1, y: 2}
+        - {x: -1, y: 2}
+      - - {x: 6, y: 2}
+        - {x: 9, y: 3}
+        - {x: 9, y: 6}
+        - {x: 6, y: 7}
+        - {x: 4, y: 5}
+      - - {x: 12, y: 3}
+        - {x: 15, y: 4}
+        - {x: 15, y: 7}
+        - {x: 12, y: 8}
+        - {x: 10, y: 6}
+      - - {x: -11, y: 9}
+        - {x: -11, y: 8}
+        - {x: -8, y: 5}
+        - {x: -5, y: 6}
+        - {x: -5, y: 9}
+        - {x: -7, y: 11}
+        - {x: -9, y: 11}
+      - - {x: -2, y: 7}
+        - {x: 1, y: 8}
+        - {x: 1, y: 11}
+        - {x: -2, y: 12}
+        - {x: -4, y: 10}
+      - - {x: 3, y: 8}
+        - {x: 6, y: 9}
+        - {x: 6, y: 12}
+        - {x: 3, y: 13}
+        - {x: 1, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d306ff322646bbb5559323e3413e4f
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 50, y: 42}
+      - {x: 0, y: 12}
+      - {x: 50, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie_hand50x30_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 30
+        width: 50
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -15}
+        - {x: -25, y: 15}
+        - {x: 25, y: 15}
+        - {x: 25, y: -15}
+      physicsShape:
+      - - {x: -4, y: 14}
+        - {x: -8, y: 6}
+        - {x: -16, y: 1}
+        - {x: -17, y: 0}
+        - {x: -17, y: -5}
+        - {x: -13, y: -14}
+        - {x: 18, y: -14}
+        - {x: 21, y: -6}
+        - {x: 21, y: 5}
+        - {x: 12, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506663fd3fea4588bf181f4c2cf40933
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 50, y: 42}
+      - {x: 0, y: 12}
+      - {x: 50, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie_hand50x30_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 30
+        width: 50
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -15}
+        - {x: -25, y: 15}
+        - {x: 25, y: 15}
+        - {x: 25, y: -15}
+      physicsShape:
+      - - {x: 18, y: 4}
+        - {x: 12, y: 14}
+        - {x: -1, y: 14}
+        - {x: -8, y: 12}
+        - {x: -16, y: -3}
+        - {x: -16, y: -14}
+        - {x: 6, y: -14}
+        - {x: 11, y: -12}
+        - {x: 15, y: -8}
+        - {x: 18, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102f968d6e584529b87247ecd7a7585c
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 50, y: 42}
+      - {x: 0, y: 12}
+      - {x: 50, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie_hand50x30_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 50
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -15}
+        - {x: -25, y: 15}
+        - {x: 25, y: 15}
+        - {x: 25, y: -15}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2452cf086d804bd3a32f30fe7efa6a5f
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 50, y: 42}
+      - {x: 0, y: 12}
+      - {x: 50, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie_hand50x30_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 30
+        width: 50
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -15}
+        - {x: -25, y: 15}
+        - {x: 25, y: 15}
+        - {x: 25, y: -15}
+      physicsShape:
+      - - {x: 10, y: 14}
+        - {x: 3, y: 14}
+        - {x: -13, y: 1}
+        - {x: -15, y: -3}
+        - {x: -15, y: -13}
+        - {x: -11, y: -14}
+        - {x: 11, y: -14}
+        - {x: 17, y: -9}
+        - {x: 19, y: -4}
+        - {x: 19, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049fc4889aa34d9bb52f8d39d2389b21
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 50, y: 42}
+      - {x: 0, y: 12}
+      - {x: 50, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie_hand50x30_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 50
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -15}
+        - {x: -25, y: 15}
+        - {x: 25, y: 15}
+        - {x: 25, y: -15}
+      physicsShape:
+      - - {x: -5, y: 14}
+        - {x: -20, y: -1}
+        - {x: -20, y: -12}
+        - {x: -17, y: -14}
+        - {x: 3, y: -14}
+        - {x: 8, y: -13}
+        - {x: 14, y: -12}
+        - {x: 14, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda8ff055716448dafedacdb0e64664a
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 50, y: 42}
+      - {x: 0, y: 12}
+      - {x: 50, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie_hand50x30_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 50
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -15}
+        - {x: -25, y: 15}
+        - {x: 25, y: 15}
+        - {x: 25, y: -15}
+      physicsShape:
+      - - {x: 13, y: 2}
+        - {x: 11, y: -4}
+        - {x: 11, y: -8}
+        - {x: 13, y: -10}
+        - {x: 16, y: -8}
+        - {x: 18, y: -5}
+        - {x: 19, y: 1}
+        - {x: 17, y: 3}
+      - - {x: -2, y: -3}
+        - {x: 1, y: -2}
+        - {x: 1, y: 1}
+        - {x: -2, y: 2}
+        - {x: -4, y: 0}
+      - - {x: 10, y: -2}
+        - {x: 13, y: -1}
+        - {x: 13, y: 2}
+        - {x: 10, y: 3}
+        - {x: 8, y: 1}
+      - - {x: -12, y: 9}
+        - {x: -11, y: 6}
+        - {x: -8, y: 6}
+        - {x: -6, y: 8}
+        - {x: -7, y: 11}
+        - {x: -10, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c4e7711b394ace8e0de201504263b8
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 50, y: 42}
+      - {x: 0, y: 12}
+      - {x: 50, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie_hand50x30_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 30
+        width: 50
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -15}
+        - {x: -25, y: 15}
+        - {x: 25, y: 15}
+        - {x: 25, y: -15}
+      physicsShape:
+      - - {x: 13, y: 14}
+        - {x: 3, y: 14}
+        - {x: -7, y: 10}
+        - {x: -14, y: -4}
+        - {x: -14, y: -13}
+        - {x: -13, y: -13}
+        - {x: -5, y: -14}
+        - {x: 11, y: -14}
+        - {x: 18, y: -9}
+        - {x: 20, y: -3}
+        - {x: 20, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c6fc5fc9b64013abf0571d9e478027
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 50, y: 42}
+      - {x: 0, y: 12}
+      - {x: 50, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie_hand50x30_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -15}
+        - {x: -25, y: 15}
+        - {x: 25, y: 15}
+        - {x: 25, y: -15}
+      physicsShape:
+      - - {x: 2, y: 13}
+        - {x: -7, y: 11}
+        - {x: -11, y: 8}
+        - {x: -9, y: 2}
+        - {x: -3, y: 0}
+        - {x: -17, y: 1}
+        - {x: -18, y: -2}
+        - {x: -16, y: -5}
+        - {x: -9, y: -5}
+        - {x: -14, y: -9}
+        - {x: -13, y: -12}
+        - {x: -4, y: -14}
+        - {x: 13, y: -14}
+        - {x: 21, y: -10}
+        - {x: 22, y: -3}
+        - {x: 22, y: 2}
+        - {x: 11, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd0859634ae4ca2a5db03fdd2af899f
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 50, y: 42}
+      - {x: 0, y: 12}
+      - {x: 50, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 9f23ea1fa7a66eee1e1c5100444a3da7.bundle
+  assetBundleVariant:

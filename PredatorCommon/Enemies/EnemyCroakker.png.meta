@@ -1,0 +1,1441 @@
+fileFormatVersion: 2
+guid: 8156233105636f141b0f4a5e637a2fb6
+timeCreated: 1706119824
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: EnemyCroakker_walk1
+  - first:
+      213: 21300002
+    second: EnemyCroakker_jump5
+  - first:
+      213: 21300004
+    second: EnemyCroakker_walk5
+  - first:
+      213: 21300006
+    second: EnemyCroakker_walk4
+  - first:
+      213: 21300008
+    second: EnemyCroakker_jump3
+  - first:
+      213: 21300010
+    second: EnemyCroakker_walk3
+  - first:
+      213: 21300012
+    second: EnemyCroakker_death1
+  - first:
+      213: 21300014
+    second: EnemyCroakker_hand2
+  - first:
+      213: 21300016
+    second: EnemyCroakker_dmg2
+  - first:
+      213: 21300018
+    second: EnemyCroakker_jump2
+  - first:
+      213: 21300020
+    second: EnemyCroakker_weapon
+  - first:
+      213: 21300022
+    second: EnemyCroakker_jump4
+  - first:
+      213: 21300024
+    second: EnemyCroakker_idle3
+  - first:
+      213: 21300026
+    second: EnemyCroakker_idle2
+  - first:
+      213: 21300028
+    second: EnemyCroakker_jump1
+  - first:
+      213: 21300030
+    second: EnemyCroakker_hand1
+  - first:
+      213: 21300032
+    second: EnemyCroakker_dmg1
+  - first:
+      213: 21300034
+    second: EnemyCroakker_idle4
+  - first:
+      213: 21300036
+    second: EnemyCroakker_jump6
+  - first:
+      213: 21300038
+    second: EnemyCroakker_walk2
+  - first:
+      213: 21300040
+    second: EnemyCroakker_walk6
+  - first:
+      213: 21300042
+    second: EnemyCroakker_idle1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyCroakker_walk1
+      rect:
+        serializedVersion: 2
+        x: 17.02675
+        y: 2.0541267
+        width: 18.897127
+        height: 18.869753
+      alignment: 9
+      pivot: {x: 0.42192918, y: -0.10885817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.475314, y: -9.489003}
+        - {x: -9.475314, y: -8.489003}
+        - {x: -9.475314, y: 5.510997}
+        - {x: -6.475314, y: 9.510997}
+        - {x: 8.524686, y: 9.510997}
+        - {x: 9.524686, y: 8.510997}
+        - {x: 9.524686, y: -7.489003}
+        - {x: 3.5246859, y: -9.489003}
+      physicsShape:
+      - - {x: -6.475314, y: 9.510997}
+        - {x: -9.475314, y: 5.510997}
+        - {x: -9.475314, y: -8.489003}
+        - {x: -8.475314, y: -9.489003}
+        - {x: 3.5246859, y: -9.489003}
+        - {x: 9.524686, y: -7.489003}
+        - {x: 9.524686, y: 8.510997}
+        - {x: 8.524686, y: 9.510997}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cfc3bbc82a487e9c8586a323cf6c3a
+      internalID: 21300000
+      vertices:
+      - {x: 19.448563, y: 30.434875}
+      - {x: 20.448563, y: 13.434876}
+      - {x: 20.448563, y: 29.434875}
+      - {x: 14.448564, y: 11.434876}
+      - {x: 4.4485636, y: 30.434875}
+      - {x: 2.4485636, y: 11.434876}
+      - {x: 1.4485636, y: 26.434875}
+      - {x: 1.4485636, y: 12.434876}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_jump5
+      rect:
+        serializedVersion: 2
+        x: 212.07613
+        y: 90.07612
+        width: 24.847757
+        height: 12.847759
+      alignment: 9
+      pivot: {x: 0.52012235, y: -0.16159382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.499995, y: -6.499998}
+        - {x: -12.500005, y: -6.499998}
+        - {x: -12.500005, y: 5.500002}
+        - {x: -9.500005, y: 6.500002}
+        - {x: 11.499995, y: 6.500002}
+        - {x: 12.499995, y: 3.500002}
+        - {x: 12.499995, y: -2.499998}
+      physicsShape:
+      - - {x: -9.500005, y: 6.500002}
+        - {x: -12.500005, y: 5.500002}
+        - {x: -12.500005, y: -6.499998}
+        - {x: 8.499995, y: -6.499998}
+        - {x: 12.499995, y: -2.499998}
+        - {x: 12.499995, y: 3.500002}
+        - {x: 11.499995, y: 6.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ed730aa22a464892f7c3d7c7fa0b6e
+      internalID: 21300002
+      vertices:
+      - {x: 23.423878, y: 21.42388}
+      - {x: 24.423878, y: 12.42388}
+      - {x: 24.423878, y: 18.42388}
+      - {x: 20.423878, y: 8.42388}
+      - {x: 2.4238787, y: 21.42388}
+      - {x: -0.57612133, y: 20.42388}
+      - {x: -0.57612133, y: 8.42388}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_walk5
+      rect:
+        serializedVersion: 2
+        x: 218.02675
+        y: 2.026751
+        width: 19.921934
+        height: 18.89713
+      alignment: 9
+      pivot: {x: 0.35002884, y: -0.10725179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.9877157, y: -9.475315}
+        - {x: -9.987716, y: -7.475315}
+        - {x: -9.987716, y: 5.524685}
+        - {x: -7.9877157, y: 9.524685}
+        - {x: 8.012284, y: 9.524685}
+        - {x: 10.012284, y: 3.524685}
+        - {x: 10.012284, y: -3.475315}
+        - {x: 4.0122843, y: -9.475315}
+      physicsShape:
+      - - {x: -7.9877157, y: 9.524685}
+        - {x: -9.987716, y: 5.524685}
+        - {x: -9.987716, y: -7.475315}
+        - {x: -4.9877157, y: -9.475315}
+        - {x: 4.0122843, y: -9.475315}
+        - {x: 10.012284, y: -3.475315}
+        - {x: 10.012284, y: 3.524685}
+        - {x: 8.012284, y: 9.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ac162a34834cc597e8f31eefaefbf1
+      internalID: 21300004
+      vertices:
+      - {x: 20.960968, y: 30.448565}
+      - {x: 22.960968, y: 17.448565}
+      - {x: 22.960968, y: 24.448565}
+      - {x: 16.960968, y: 11.448565}
+      - {x: 7.960967, y: 11.448565}
+      - {x: 4.960967, y: 30.448565}
+      - {x: 2.960967, y: 26.448565}
+      - {x: 2.960967, y: 13.448565}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_walk4
+      rect:
+        serializedVersion: 2
+        x: 167.02675
+        y: 2.0761204
+        width: 18.897127
+        height: 18.84776
+      alignment: 9
+      pivot: {x: 0.42192927, y: -0.1101521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.524687, y: -9.5}
+        - {x: -9.475313, y: -9.5}
+        - {x: -9.475313, y: 7.5}
+        - {x: -8.475313, y: 9.5}
+        - {x: 9.524687, y: 9.5}
+        - {x: 9.524687, y: -6.5}
+      physicsShape:
+      - - {x: -8.475313, y: 9.5}
+        - {x: -9.475313, y: 7.5}
+        - {x: -9.475313, y: -9.5}
+        - {x: 8.524687, y: -9.5}
+        - {x: 9.524687, y: -6.5}
+        - {x: 9.524687, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c2f212b42944a697823f6977b1ee6b
+      internalID: 21300006
+      vertices:
+      - {x: 20.448563, y: 30.42388}
+      - {x: 19.448563, y: 11.42388}
+      - {x: 20.448563, y: 14.42388}
+      - {x: 2.4485636, y: 30.42388}
+      - {x: 1.4485636, y: 28.42388}
+      - {x: 1.4485636, y: 11.42388}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_jump3
+      rect:
+        serializedVersion: 2
+        x: 115.04291
+        y: 115.07612
+        width: 18.88097
+        height: 16.92388
+      alignment: 9
+      pivot: {x: 0.5273613, y: -1.5998765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.483393, y: -4.538059}
+        - {x: -9.483393, y: 0.46194077}
+        - {x: -9.483393, y: 8.461941}
+        - {x: 9.516607, y: 8.461941}
+        - {x: 9.516607, y: -8.538059}
+        - {x: -2.4833927, y: -8.538059}
+      physicsShape:
+      - - {x: -9.483393, y: 8.461941}
+        - {x: -9.483393, y: 0.46194077}
+        - {x: -8.483393, y: -4.538059}
+        - {x: -2.4833927, y: -8.538059}
+        - {x: 9.516607, y: -8.538059}
+        - {x: 9.516607, y: 8.461941}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622b7429a91b499ca9767072c6689c19
+      internalID: 21300008
+      vertices:
+      - {x: 18.440485, y: 52.46194}
+      - {x: 6.440485, y: 35.46194}
+      - {x: 18.440485, y: 35.46194}
+      - {x: 0.440485, y: 39.46194}
+      - {x: -0.559515, y: 52.46194}
+      - {x: -0.559515, y: 44.46194}
+      indices:
+      - 5
+      - 4
+      - 3
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_walk3
+      rect:
+        serializedVersion: 2
+        x: 116.01291
+        y: 2.0761204
+        width: 18.910965
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.47523177, y: -0.12322828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.468391, y: -8.5}
+        - {x: -9.468391, y: -7.5}
+        - {x: -9.468391, y: 6.5}
+        - {x: -6.4683914, y: 8.5}
+        - {x: 9.531609, y: 8.5}
+        - {x: 9.531609, y: -6.5}
+        - {x: 8.531609, y: -8.5}
+      physicsShape:
+      - - {x: -6.4683914, y: 8.5}
+        - {x: -9.468391, y: 6.5}
+        - {x: -9.468391, y: -7.5}
+        - {x: -8.468391, y: -8.5}
+        - {x: 8.531609, y: -8.5}
+        - {x: 9.531609, y: -6.5}
+        - {x: 9.531609, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62605790a497447cb44a6c957d1590fe
+      internalID: 21300010
+      vertices:
+      - {x: 19.455482, y: 27.42388}
+      - {x: 18.455482, y: 10.42388}
+      - {x: 19.455482, y: 12.42388}
+      - {x: 3.4554825, y: 27.42388}
+      - {x: 1.4554825, y: 10.42388}
+      - {x: 0.45548248, y: 25.42388}
+      - {x: 0.45548248, y: 11.42388}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_death1
+      rect:
+        serializedVersion: 2
+        x: 313.02676
+        y: 45.042908
+        width: 28.946497
+        height: 8.880972
+      alignment: 9
+      pivot: {x: 0.41363335, y: -0.11743171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.499988, y: -4.4833937}
+        - {x: -14.500012, y: -4.4833937}
+        - {x: -14.500012, y: 0.51660633}
+        - {x: -6.5000124, y: 4.5166063}
+        - {x: 11.499988, y: 4.5166063}
+        - {x: 14.499988, y: 1.5166063}
+      physicsShape:
+      - - {x: -6.5000124, y: 4.5166063}
+        - {x: -14.500012, y: 0.51660633}
+        - {x: -14.500012, y: -4.4833937}
+        - {x: 14.499988, y: -4.4833937}
+        - {x: 14.499988, y: 1.5166063}
+        - {x: 11.499988, y: 4.5166063}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7308e35b91f942a09ae1985a95a40742
+      internalID: 21300012
+      vertices:
+      - {x: 28.473248, y: 14.440486}
+      - {x: 31.473248, y: 5.440486}
+      - {x: 31.473248, y: 11.440486}
+      - {x: 10.4732485, y: 14.440486}
+      - {x: 2.4732485, y: 10.440486}
+      - {x: 2.4732485, y: 5.440486}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_hand2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 95
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49a05d10ae94d6c83b738c29e5d7ec8
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_dmg2
+      rect:
+        serializedVersion: 2
+        x: 264.0429
+        y: 46.051315
+        width: 21.88097
+        height: 18.872562
+      alignment: 9
+      pivot: {x: 0.500759, y: -0.108692996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.983392, y: -9.4875965}
+        - {x: -10.983392, y: -8.4875965}
+        - {x: -10.983392, y: 6.5124035}
+        - {x: -7.983392, y: 9.5124035}
+        - {x: 6.016608, y: 9.5124035}
+        - {x: 11.016608, y: 5.5124035}
+        - {x: 11.016608, y: -0.4875965}
+        - {x: 9.016608, y: -9.4875965}
+      physicsShape:
+      - - {x: -7.983392, y: 9.5124035}
+        - {x: -10.983392, y: 6.5124035}
+        - {x: -10.983392, y: -8.4875965}
+        - {x: -4.983392, y: -9.4875965}
+        - {x: 9.016608, y: -9.4875965}
+        - {x: 11.016608, y: -0.4875965}
+        - {x: 11.016608, y: 5.5124035}
+        - {x: 6.016608, y: 9.5124035}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606d4825affa4e79b13166e81e502ec1
+      internalID: 21300016
+      vertices:
+      - {x: 21.940485, y: 26.436281}
+      - {x: 19.940485, y: 11.436281}
+      - {x: 21.940485, y: 20.436281}
+      - {x: 16.940485, y: 30.436281}
+      - {x: 5.940485, y: 11.436281}
+      - {x: 2.940485, y: 30.436281}
+      - {x: -0.059515, y: 27.436281}
+      - {x: -0.059515, y: 12.436281}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_jump2
+      rect:
+        serializedVersion: 2
+        x: 63.042908
+        y: 98.02675
+        width: 21.88097
+        height: 31.897127
+      alignment: 9
+      pivot: {x: 0.5464608, y: -0.31434646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.0166073, y: -15.975311}
+        - {x: -10.983393, y: -15.975311}
+        - {x: -10.983393, y: 5.0246887}
+        - {x: -9.983393, y: 13.024689}
+        - {x: -6.9833927, y: 16.024689}
+        - {x: 10.016607, y: 16.024689}
+        - {x: 11.016607, y: 13.024689}
+        - {x: 11.016607, y: 2.0246887}
+      physicsShape:
+      - - {x: -6.9833927, y: 16.024689}
+        - {x: -9.983393, y: 13.024689}
+        - {x: -10.983393, y: 5.0246887}
+        - {x: -10.983393, y: -15.975311}
+        - {x: 6.0166073, y: -15.975311}
+        - {x: 11.016607, y: 2.0246887}
+        - {x: 11.016607, y: 13.024689}
+        - {x: 10.016607, y: 16.024689}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840443979c794e32a14468063f1f85c4
+      internalID: 21300018
+      vertices:
+      - {x: 19.940485, y: 57.948563}
+      - {x: 20.940485, y: 43.948563}
+      - {x: 20.940485, y: 54.948563}
+      - {x: 15.940485, y: 25.948563}
+      - {x: 2.940485, y: 57.948563}
+      - {x: -0.059515, y: 54.948563}
+      - {x: -1.059515, y: 46.948563}
+      - {x: -1.059515, y: 25.948563}
+      indices:
+      - 7
+      - 6
+      - 3
+      - 5
+      - 3
+      - 6
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_weapon
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 107
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -6}
+        - {x: -6, y: 6}
+        - {x: 6, y: 6}
+        - {x: 6, y: -6}
+      physicsShape:
+      - - {x: -6, y: 6}
+        - {x: -6, y: -1}
+        - {x: 0, y: -6}
+        - {x: 6, y: -6}
+        - {x: 6, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b15d62847c4aecbb611b2ce1dc9e06
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 12, y: 12}
+      - {x: 0, y: 0}
+      - {x: 12, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_jump4
+      rect:
+        serializedVersion: 2
+        x: 165.07613
+        y: 96.07612
+        width: 16.84776
+        height: 21.872562
+      alignment: 9
+      pivot: {x: 0.5890323, y: -0.36923513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5000057, y: -11.0124}
+        - {x: -8.500006, y: -9.0124}
+        - {x: -8.500006, y: 10.9876}
+        - {x: 8.499994, y: 10.9876}
+        - {x: 8.499994, y: -10.0124}
+        - {x: 6.4999943, y: -11.0124}
+      physicsShape:
+      - - {x: -8.500006, y: 10.9876}
+        - {x: -8.500006, y: -9.0124}
+        - {x: -7.5000057, y: -11.0124}
+        - {x: 6.4999943, y: -11.0124}
+        - {x: 8.499994, y: -10.0124}
+        - {x: 8.499994, y: 10.9876}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a6284ee5ce499f8205a7d39dc2dee6
+      internalID: 21300022
+      vertices:
+      - {x: 15.42388, y: 40.93628}
+      - {x: 13.42388, y: 18.936281}
+      - {x: 15.42388, y: 19.936281}
+      - {x: -0.5761204, y: 18.936281}
+      - {x: -1.5761204, y: 40.93628}
+      - {x: -1.5761204, y: 20.936281}
+      indices:
+      - 5
+      - 4
+      - 3
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_idle3
+      rect:
+        serializedVersion: 2
+        x: 116.04291
+        y: 46.07612
+        width: 18.88097
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.4743979, y: -0.12322816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.4833927, y: -8.499998}
+        - {x: -9.483393, y: -6.499998}
+        - {x: -9.483393, y: 6.500002}
+        - {x: -6.4833927, y: 8.500002}
+        - {x: 7.5166073, y: 8.500002}
+        - {x: 9.516607, y: 5.500002}
+        - {x: 9.516607, y: -2.499998}
+        - {x: 5.5166073, y: -8.499998}
+      physicsShape:
+      - - {x: 7.5166073, y: 8.500002}
+        - {x: -6.4833927, y: 8.500002}
+        - {x: -9.483393, y: 6.500002}
+        - {x: -9.483393, y: -6.499998}
+        - {x: -5.4833927, y: -8.499998}
+        - {x: 5.5166073, y: -8.499998}
+        - {x: 9.516607, y: -2.499998}
+        - {x: 9.516607, y: 5.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad1eff3df754377bef5713f770a6731
+      internalID: 21300024
+      vertices:
+      - {x: 17.440485, y: 27.42388}
+      - {x: 19.440485, y: 16.42388}
+      - {x: 19.440485, y: 24.42388}
+      - {x: 15.440485, y: 10.42388}
+      - {x: 4.440485, y: 10.42388}
+      - {x: 3.440485, y: 27.42388}
+      - {x: 0.440485, y: 25.42388}
+      - {x: 0.440485, y: 12.42388}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_idle2
+      rect:
+        serializedVersion: 2
+        x: 66.04291
+        y: 46.07612
+        width: 19.88097
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.45053598, y: -0.12322816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.9833927, y: -8.499998}
+        - {x: -9.983393, y: -6.499998}
+        - {x: -9.983393, y: 6.500002}
+        - {x: -6.9833927, y: 8.500002}
+        - {x: 9.016607, y: 8.500002}
+        - {x: 10.016607, y: 5.500002}
+        - {x: 10.016607, y: -5.499998}
+        - {x: 4.0166073, y: -8.499998}
+      physicsShape:
+      - - {x: -6.9833927, y: 8.500002}
+        - {x: -9.983393, y: 6.500002}
+        - {x: -9.983393, y: -6.499998}
+        - {x: -5.9833927, y: -8.499998}
+        - {x: 4.0166073, y: -8.499998}
+        - {x: 10.016607, y: -5.499998}
+        - {x: 10.016607, y: 5.500002}
+        - {x: 9.016607, y: 8.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1256c0d474dc4c27ada884f20c432601
+      internalID: 21300026
+      vertices:
+      - {x: 19.940485, y: 27.42388}
+      - {x: 20.940485, y: 13.42388}
+      - {x: 20.940485, y: 24.42388}
+      - {x: 14.940485, y: 10.42388}
+      - {x: 4.940485, y: 10.42388}
+      - {x: 3.940485, y: 27.42388}
+      - {x: 0.940485, y: 25.42388}
+      - {x: 0.940485, y: 12.42388}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_jump1
+      rect:
+        serializedVersion: 2
+        x: 15.07612
+        y: 96.07612
+        width: 16.84776
+        height: 21.872562
+      alignment: 9
+      pivot: {x: 0.5890326, y: -0.36923513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -11.0124}
+        - {x: -8.5, y: -9.0124}
+        - {x: -8.5, y: 10.9876}
+        - {x: 8.5, y: 10.9876}
+        - {x: 8.5, y: -10.0124}
+        - {x: 6.5, y: -11.0124}
+      physicsShape:
+      - - {x: -8.5, y: 10.9876}
+        - {x: -8.5, y: -9.0124}
+        - {x: -7.5, y: -11.0124}
+        - {x: 6.5, y: -11.0124}
+        - {x: 8.5, y: -10.0124}
+        - {x: 8.5, y: 10.9876}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897085ec601d42d5bcc424b35b9b772f
+      internalID: 21300028
+      vertices:
+      - {x: 15.42388, y: 40.93628}
+      - {x: 13.42388, y: 18.936281}
+      - {x: 15.42388, y: 19.936281}
+      - {x: -0.5761204, y: 18.936281}
+      - {x: -1.5761204, y: 40.93628}
+      - {x: -1.5761204, y: 20.936281}
+      indices:
+      - 5
+      - 4
+      - 3
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_hand1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 95
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98488a71650a4bbb83490d7d471df1f0
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_dmg1
+      rect:
+        serializedVersion: 2
+        x: 214.04291
+        y: 46.051315
+        width: 21.88097
+        height: 18.872562
+      alignment: 9
+      pivot: {x: 0.500759, y: -0.108692996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.983392, y: -9.4875965}
+        - {x: -10.983392, y: -8.4875965}
+        - {x: -10.983392, y: 6.5124035}
+        - {x: -7.983392, y: 9.5124035}
+        - {x: 6.016608, y: 9.5124035}
+        - {x: 11.016608, y: 5.5124035}
+        - {x: 11.016608, y: -0.4875965}
+        - {x: 9.016608, y: -9.4875965}
+      physicsShape:
+      - - {x: -7.983392, y: 9.5124035}
+        - {x: -10.983392, y: 6.5124035}
+        - {x: -10.983392, y: -8.4875965}
+        - {x: -4.983392, y: -9.4875965}
+        - {x: 9.016608, y: -9.4875965}
+        - {x: 11.016608, y: -0.4875965}
+        - {x: 11.016608, y: 5.5124035}
+        - {x: 6.016608, y: 9.5124035}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d245e75d85bf475e9a7b1e8b5b146dd0
+      internalID: 21300032
+      vertices:
+      - {x: 21.940485, y: 26.436281}
+      - {x: 19.940485, y: 11.436281}
+      - {x: 21.940485, y: 20.436281}
+      - {x: 16.940485, y: 30.436281}
+      - {x: 5.940485, y: 11.436281}
+      - {x: 2.940485, y: 30.436281}
+      - {x: -0.059515, y: 27.436281}
+      - {x: -0.059515, y: 12.436281}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_idle4
+      rect:
+        serializedVersion: 2
+        x: 166.04291
+        y: 46.07612
+        width: 18.88097
+        height: 17.84776
+      alignment: 9
+      pivot: {x: 0.4743979, y: -0.11632376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.4833927, y: -8.999998}
+        - {x: -9.483393, y: -7.999998}
+        - {x: -9.483393, y: 7.000002}
+        - {x: -6.4833927, y: 9.000002}
+        - {x: 7.5166073, y: 9.000002}
+        - {x: 9.516607, y: 6.000002}
+        - {x: 9.516607, y: -3.999998}
+        - {x: 7.5166073, y: -8.999998}
+      physicsShape:
+      - - {x: 7.5166073, y: 9.000002}
+        - {x: -6.4833927, y: 9.000002}
+        - {x: -9.483393, y: 7.000002}
+        - {x: -9.483393, y: -7.999998}
+        - {x: -5.4833927, y: -8.999998}
+        - {x: 7.5166073, y: -8.999998}
+        - {x: 9.516607, y: -3.999998}
+        - {x: 9.516607, y: 6.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d3de7c483e4b14bd249561de29503e
+      internalID: 21300034
+      vertices:
+      - {x: 17.440485, y: 28.92388}
+      - {x: 19.440485, y: 15.92388}
+      - {x: 19.440485, y: 25.92388}
+      - {x: 17.440485, y: 10.92388}
+      - {x: 4.440485, y: 10.92388}
+      - {x: 3.440485, y: 28.92388}
+      - {x: 0.440485, y: 26.92388}
+      - {x: 0.440485, y: 11.92388}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_jump6
+      rect:
+        serializedVersion: 2
+        x: 266.0761
+        y: 90.07612
+        width: 16.847757
+        height: 18.872562
+      alignment: 9
+      pivot: {x: 0.52967817, y: -0.11000724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.4999895, y: -9.5124}
+        - {x: -8.4999895, y: -7.5123997}
+        - {x: -8.4999895, y: 7.4876003}
+        - {x: -5.4999895, y: 9.4876}
+        - {x: 7.5000105, y: 9.4876}
+        - {x: 8.5000105, y: 7.4876003}
+        - {x: 8.5000105, y: -3.5123997}
+        - {x: 5.5000105, y: -7.5123997}
+        - {x: 3.5000105, y: -9.5124}
+      physicsShape:
+      - - {x: 7.5000105, y: 9.4876}
+        - {x: -5.4999895, y: 9.4876}
+        - {x: -8.4999895, y: 7.4876003}
+        - {x: -8.4999895, y: -7.5123997}
+        - {x: -5.4999895, y: -9.5124}
+        - {x: 3.5000105, y: -9.5124}
+        - {x: 5.5000105, y: -7.5123997}
+        - {x: 8.5000105, y: -3.5123997}
+        - {x: 8.5000105, y: 7.4876003}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e45fe3b9494fbd80e94984a28c5c8e
+      internalID: 21300036
+      vertices:
+      - {x: 15.423879, y: 30.436281}
+      - {x: 16.423878, y: 17.436281}
+      - {x: 16.423878, y: 28.436281}
+      - {x: 13.423879, y: 13.436281}
+      - {x: 11.423879, y: 11.436281}
+      - {x: 2.4238787, y: 30.436281}
+      - {x: 2.4238787, y: 11.436281}
+      - {x: -0.57612133, y: 28.436281}
+      - {x: -0.57612133, y: 13.436281}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_walk2
+      rect:
+        serializedVersion: 2
+        x: 67.051315
+        y: 3.0761204
+        width: 20.87256
+        height: 18.84776
+      alignment: 9
+      pivot: {x: 0.38081983, y: -0.16320881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.487596, y: -9.5}
+        - {x: -10.487596, y: -6.5}
+        - {x: -10.487596, y: -0.5}
+        - {x: -9.487596, y: 5.5}
+        - {x: -6.4875956, y: 9.5}
+        - {x: 8.512404, y: 9.5}
+        - {x: 10.512404, y: 8.5}
+        - {x: 10.512404, y: -9.5}
+      physicsShape:
+      - - {x: -6.4875956, y: 9.5}
+        - {x: -9.487596, y: 5.5}
+        - {x: -10.487596, y: -0.5}
+        - {x: -10.487596, y: -6.5}
+        - {x: -9.487596, y: -9.5}
+        - {x: 10.512404, y: -9.5}
+        - {x: 10.512404, y: 8.5}
+        - {x: 8.512404, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a91f81fca6457587c328b4db1b4881
+      internalID: 21300038
+      vertices:
+      - {x: 21.43628, y: 31.42388}
+      - {x: 23.43628, y: 12.42388}
+      - {x: 23.43628, y: 30.42388}
+      - {x: 6.4362803, y: 31.42388}
+      - {x: 3.4362803, y: 27.42388}
+      - {x: 3.4362803, y: 12.42388}
+      - {x: 2.4362803, y: 21.42388}
+      - {x: 2.4362803, y: 15.42388}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_walk6
+      rect:
+        serializedVersion: 2
+        x: 267.0429
+        y: 2.0761204
+        width: 18.88097
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.42143452, y: -0.12322828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.4833922, y: -8.5}
+        - {x: -9.483393, y: -7.5}
+        - {x: -9.483393, y: 6.5}
+        - {x: -6.4833922, y: 8.5}
+        - {x: 8.516607, y: 8.5}
+        - {x: 9.516607, y: 5.5}
+        - {x: 9.516607, y: -4.5}
+        - {x: 5.5166078, y: -8.5}
+      physicsShape:
+      - - {x: -6.4833922, y: 8.5}
+        - {x: -9.483393, y: 6.5}
+        - {x: -9.483393, y: -7.5}
+        - {x: -5.4833922, y: -8.5}
+        - {x: 5.5166078, y: -8.5}
+        - {x: 9.516607, y: -4.5}
+        - {x: 9.516607, y: 5.5}
+        - {x: 8.516607, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81e55f5c55b48739e40da09243c6c1f
+      internalID: 21300040
+      vertices:
+      - {x: 19.440485, y: 27.42388}
+      - {x: 20.440485, y: 14.42388}
+      - {x: 20.440485, y: 24.42388}
+      - {x: 16.440485, y: 10.42388}
+      - {x: 5.440485, y: 10.42388}
+      - {x: 4.440485, y: 27.42388}
+      - {x: 1.440485, y: 25.42388}
+      - {x: 1.440485, y: 11.42388}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyCroakker_idle1
+      rect:
+        serializedVersion: 2
+        x: 16.042908
+        y: 46.07612
+        width: 19.88097
+        height: 17.84776
+      alignment: 9
+      pivot: {x: 0.45053598, y: -0.11632376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.983393, y: -8.999998}
+        - {x: -9.983393, y: -6.999998}
+        - {x: -9.983393, y: 7.000002}
+        - {x: -6.9833927, y: 9.000002}
+        - {x: 9.016607, y: 9.000002}
+        - {x: 10.016607, y: 6.000002}
+        - {x: 10.016607, y: -5.999998}
+        - {x: 8.016607, y: -8.999998}
+      physicsShape:
+      - - {x: -6.9833927, y: 9.000002}
+        - {x: -9.983393, y: 7.000002}
+        - {x: -9.983393, y: -6.999998}
+        - {x: -8.983393, y: -8.999998}
+        - {x: 8.016607, y: -8.999998}
+        - {x: 10.016607, y: -5.999998}
+        - {x: 10.016607, y: 6.000002}
+        - {x: 9.016607, y: 9.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4273ad1dbdb49b489ca7bd86f9e897e
+      internalID: 21300042
+      vertices:
+      - {x: 19.940485, y: 28.92388}
+      - {x: 20.940485, y: 13.92388}
+      - {x: 20.940485, y: 25.92388}
+      - {x: 18.940485, y: 10.92388}
+      - {x: 3.940485, y: 28.92388}
+      - {x: 1.940485, y: 10.92388}
+      - {x: 0.940485, y: 26.92388}
+      - {x: 0.940485, y: 12.92388}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

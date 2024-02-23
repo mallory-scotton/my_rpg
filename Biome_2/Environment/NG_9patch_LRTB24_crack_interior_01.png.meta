@@ -1,0 +1,573 @@
+fileFormatVersion: 2
+guid: 0f03f3613d724674893d462c7041ae4c
+timeCreated: 1706119810
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: NG_9patch_LRTB24_crack_interior_01_2
+  - first:
+      213: 21300002
+    second: NG_9patch_LRTB24_crack_interior_01_0
+  - first:
+      213: 21300004
+    second: NG_9patch_LRTB24_crack_interior_01_5
+  - first:
+      213: 21300006
+    second: NG_9patch_LRTB24_crack_interior_01_3
+  - first:
+      213: 21300008
+    second: NG_9patch_LRTB24_crack_interior_01_4
+  - first:
+      213: 21300010
+    second: NG_9patch_LRTB24_crack_interior_01_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NG_9patch_LRTB24_crack_interior_01_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 0, z: 24, w: 0}
+      outline:
+      - - {x: -48, y: -8}
+        - {x: -48, y: 8}
+        - {x: 48, y: 8}
+        - {x: 48, y: -8}
+      physicsShape:
+      - - {x: -19, y: 1}
+        - {x: -24, y: 8}
+        - {x: -48, y: 8}
+        - {x: -48, y: -8}
+        - {x: 4, y: -8}
+        - {x: 6, y: -7}
+        - {x: 6, y: 0}
+      - - {x: 29, y: 8}
+        - {x: 6, y: -2}
+        - {x: 6, y: -6}
+        - {x: 9, y: -8}
+        - {x: 48, y: -8}
+        - {x: 48, y: 8}
+      - - {x: -38, y: -2}
+        - {x: -37, y: -3}
+        - {x: -38, y: -4}
+      - - {x: 35, y: -1}
+        - {x: 33, y: -3}
+        - {x: 33, y: -4}
+        - {x: 34, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a143d405369647bd98cdaef8a5f02d4a
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 96, y: 16}
+      - {x: 0, y: 0}
+      - {x: 96, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_9patch_LRTB24_crack_interior_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 16, z: 24, w: 12}
+      outline:
+      - - {x: -48, y: -48}
+        - {x: -48, y: 48}
+        - {x: 48, y: 48}
+        - {x: 48, y: -48}
+      physicsShape:
+      - - {x: 5, y: -42}
+        - {x: -7, y: -42}
+        - {x: -19, y: -41}
+        - {x: -25, y: -41}
+        - {x: -31, y: -30}
+        - {x: -36, y: -29}
+        - {x: -27, y: -19}
+        - {x: -22, y: -8}
+        - {x: -20, y: 1}
+        - {x: -21, y: 16}
+        - {x: -28, y: 15}
+        - {x: -27, y: 20}
+        - {x: -31, y: 25}
+        - {x: -36, y: 25}
+        - {x: -38, y: 23}
+        - {x: -40, y: 22}
+        - {x: -32, y: 28}
+        - {x: -27, y: 35}
+        - {x: 16, y: 34}
+        - {x: 26, y: 37}
+        - {x: 32, y: 22}
+        - {x: 35, y: 21}
+        - {x: 33, y: 19}
+        - {x: 34, y: 16}
+        - {x: 24, y: 11}
+        - {x: 29, y: 4}
+        - {x: 22, y: -2}
+        - {x: 23, y: -5}
+        - {x: 26, y: -6}
+        - {x: 30, y: -4}
+        - {x: 31, y: -10}
+        - {x: 38, y: -19}
+        - {x: 33, y: -22}
+        - {x: 35, y: -25}
+        - {x: 30, y: -32}
+        - {x: 27, y: -43}
+        - {x: 7, y: -42}
+        - {x: 6, y: -44}
+        - {x: 7, y: -47}
+        - {x: 11, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: 48}
+        - {x: -48, y: 48}
+        - {x: -48, y: -48}
+        - {x: 3, y: -48}
+        - {x: 6, y: -45}
+      - - {x: -38, y: -42}
+        - {x: -37, y: -43}
+        - {x: -38, y: -44}
+      - - {x: 35, y: -41}
+        - {x: 33, y: -43}
+        - {x: 33, y: -44}
+        - {x: 34, y: -44}
+      - - {x: -26, y: -14}
+        - {x: -32, y: -15}
+        - {x: -33, y: -18}
+        - {x: -33, y: -24}
+        - {x: -31, y: -26}
+        - {x: -26, y: -26}
+        - {x: -23, y: -21}
+        - {x: -23, y: -14}
+      - - {x: 22, y: -15}
+        - {x: 22, y: -19}
+        - {x: 24, y: -24}
+        - {x: 25, y: -24}
+        - {x: 28, y: -23}
+        - {x: 30, y: -18}
+        - {x: 26, y: -13}
+        - {x: 24, y: -13}
+      - - {x: 32, y: -15}
+        - {x: 35, y: -18}
+        - {x: 38, y: -17}
+        - {x: 38, y: -15}
+        - {x: 35, y: -12}
+        - {x: 33, y: -12}
+      - - {x: -37, y: -5}
+        - {x: -35, y: -3}
+        - {x: -35, y: -2}
+        - {x: -37, y: 0}
+        - {x: -38, y: 0}
+        - {x: -37, y: -2}
+        - {x: -33, y: -3}
+        - {x: -33, y: -2}
+        - {x: -36, y: -5}
+        - {x: -36, y: -6}
+        - {x: -37, y: -7}
+      - - {x: 37, y: 4}
+        - {x: 40, y: 3}
+        - {x: 39, y: 1}
+      - - {x: 27, y: 1}
+        - {x: 30, y: 2}
+        - {x: 30, y: 5}
+        - {x: 27, y: 6}
+        - {x: 25, y: 4}
+      - - {x: -41, y: 14}
+        - {x: -41, y: 17}
+        - {x: -42, y: 17}
+        - {x: -42, y: 16}
+        - {x: -39, y: 14}
+        - {x: -39, y: 15}
+        - {x: -41, y: 13}
+        - {x: -40, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d29ce3defdb46ea9cec74198c59796d
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 96}
+      - {x: 96, y: 96}
+      - {x: 0, y: 0}
+      - {x: 96, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_9patch_LRTB24_crack_interior_01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -8}
+        - {x: -36, y: 8}
+        - {x: 36, y: 8}
+        - {x: 36, y: -8}
+      physicsShape:
+      - - {x: -7, y: 1}
+        - {x: -12, y: 8}
+        - {x: -36, y: 8}
+        - {x: -36, y: -8}
+        - {x: 16, y: -8}
+        - {x: 18, y: -7}
+        - {x: 18, y: 0}
+      - - {x: 20, y: -2}
+        - {x: 18, y: -4}
+        - {x: 19, y: -7}
+        - {x: 23, y: -8}
+        - {x: 36, y: -8}
+        - {x: 36, y: -3}
+        - {x: 23, y: -2}
+      - - {x: -26, y: -2}
+        - {x: -25, y: -3}
+        - {x: -26, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617ca8dc4ea54b009e879df0e42dbefd
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 72, y: 16}
+      - {x: 0, y: 0}
+      - {x: 72, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_9patch_LRTB24_crack_interior_01_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 24
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -34}
+        - {x: -12, y: 34}
+        - {x: 12, y: 34}
+        - {x: 12, y: -34}
+      physicsShape:
+      - - {x: 5, y: 23}
+        - {x: 0, y: 23}
+        - {x: -2, y: 21}
+        - {x: -4, y: 20}
+        - {x: 4, y: 26}
+        - {x: 5, y: 30}
+        - {x: 0, y: 34}
+        - {x: -12, y: 34}
+        - {x: -12, y: -34}
+        - {x: -4, y: -34}
+        - {x: 10, y: -16}
+        - {x: 11, y: -13}
+        - {x: 11, y: 18}
+      - - {x: 10, y: -16}
+        - {x: 5, y: -18}
+        - {x: 3, y: -21}
+        - {x: 3, y: -27}
+        - {x: 4, y: -28}
+        - {x: 7, y: -28}
+        - {x: 11, y: -26}
+        - {x: 12, y: -24}
+        - {x: 12, y: -16}
+      - - {x: -1, y: -7}
+        - {x: 1, y: -5}
+        - {x: 1, y: -4}
+        - {x: -1, y: -2}
+        - {x: -2, y: -2}
+        - {x: -1, y: -4}
+        - {x: 3, y: -5}
+        - {x: 3, y: -4}
+        - {x: 0, y: -7}
+        - {x: 0, y: -8}
+        - {x: -1, y: -9}
+      - - {x: -5, y: 12}
+        - {x: -5, y: 15}
+        - {x: -6, y: 15}
+        - {x: -6, y: 14}
+        - {x: -3, y: 12}
+        - {x: -3, y: 13}
+        - {x: -5, y: 11}
+        - {x: -4, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0ae309fb3a4fc7ba59f2f7684898d4
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 68}
+      - {x: 24, y: 68}
+      - {x: 0, y: 0}
+      - {x: 24, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_9patch_LRTB24_crack_interior_01_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 24
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -34}
+        - {x: -12, y: 34}
+        - {x: 12, y: 34}
+        - {x: 12, y: -34}
+      physicsShape:
+      - - {x: -3, y: 34}
+        - {x: -5, y: 32}
+        - {x: -4, y: 20}
+        - {x: -1, y: 19}
+        - {x: -10, y: 19}
+        - {x: -12, y: 14}
+        - {x: -12, y: -7}
+        - {x: -10, y: -8}
+        - {x: -6, y: -6}
+        - {x: -3, y: -11}
+        - {x: -2, y: -24}
+        - {x: -1, y: -27}
+        - {x: 7, y: -34}
+        - {x: 12, y: -34}
+        - {x: 12, y: 34}
+      - - {x: -12, y: -15}
+        - {x: -12, y: -25}
+        - {x: -11, y: -26}
+        - {x: -8, y: -25}
+        - {x: -6, y: -20}
+        - {x: -10, y: -15}
+      - - {x: -4, y: -17}
+        - {x: -1, y: -20}
+        - {x: 2, y: -19}
+        - {x: 2, y: -17}
+        - {x: -1, y: -14}
+        - {x: -3, y: -14}
+      - - {x: 1, y: 2}
+        - {x: 4, y: 1}
+        - {x: 3, y: -1}
+      - - {x: -9, y: -1}
+        - {x: -6, y: 0}
+        - {x: -6, y: 3}
+        - {x: -9, y: 4}
+        - {x: -11, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84ac3827d834281aad4e2ad5eb7d78b
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 68}
+      - {x: 24, y: 68}
+      - {x: 0, y: 0}
+      - {x: 24, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_9patch_LRTB24_crack_interior_01_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 96
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 0, z: 24, w: 0}
+      outline:
+      - - {x: -48, y: -5}
+        - {x: -48, y: 5}
+        - {x: 48, y: 5}
+        - {x: 48, y: -5}
+      physicsShape:
+      - - {x: -48, y: 5}
+        - {x: -48, y: -5}
+        - {x: 48, y: -5}
+        - {x: 48, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44f0fbec21d407db2e41ecb242a3ed2
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 10}
+      - {x: 96, y: 10}
+      - {x: 0, y: 0}
+      - {x: 96, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 4cccb9c8fa36edf1f03dae7baaef6041.bundle
+  assetBundleVariant:

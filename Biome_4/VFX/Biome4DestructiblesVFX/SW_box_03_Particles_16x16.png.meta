@@ -1,0 +1,723 @@
+fileFormatVersion: 2
+guid: 81e8599487b186e4b89f97bbcb5766e8
+timeCreated: 1706119850
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SW_box_03_Particles_16x16_7
+  - first:
+      213: 21300002
+    second: SW_box_03_Particles_16x16_5
+  - first:
+      213: 21300004
+    second: SW_box_03_Particles_16x16_0
+  - first:
+      213: 21300006
+    second: SW_box_03_Particles_16x16_8
+  - first:
+      213: 21300008
+    second: SW_box_03_Particles_16x16_6
+  - first:
+      213: 21300010
+    second: SW_box_03_Particles_16x16_13
+  - first:
+      213: 21300012
+    second: SW_box_03_Particles_16x16_11
+  - first:
+      213: 21300014
+    second: SW_box_03_Particles_16x16_10
+  - first:
+      213: 21300016
+    second: SW_box_03_Particles_16x16_9
+  - first:
+      213: 21300018
+    second: SW_box_03_Particles_16x16_3
+  - first:
+      213: 21300020
+    second: SW_box_03_Particles_16x16_4
+  - first:
+      213: 21300022
+    second: SW_box_03_Particles_16x16_12
+  - first:
+      213: 21300024
+    second: SW_box_03_Particles_16x16_2
+  - first:
+      213: 21300026
+    second: SW_box_03_Particles_16x16_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SW_box_03_Particles_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 20
+        width: 7
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -2.5}
+        - {x: -3.5, y: 2.5}
+        - {x: 3.5, y: 2.5}
+        - {x: 3.5, y: -2.5}
+      physicsShape:
+      - - {x: -3.5, y: 2.5}
+        - {x: -3.5, y: -2.5}
+        - {x: 3.5, y: -2.5}
+        - {x: 3.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fd16fe73fd49c281412831268b3416
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 7, y: 5}
+      - {x: 0, y: 0}
+      - {x: 7, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_box_03_Particles_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 22
+        width: 6
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -2.5}
+        - {x: -3, y: 2.5}
+        - {x: 3, y: 2.5}
+        - {x: 3, y: -2.5}
+      physicsShape:
+      - - {x: -3, y: 2.5}
+        - {x: -3, y: -2.5}
+        - {x: 3, y: -2.5}
+        - {x: 3, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf65781faa3483997216960549ad1f4
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 6, y: 5}
+      - {x: 0, y: 0}
+      - {x: 6, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_box_03_Particles_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 38
+        width: 21
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -2.5}
+        - {x: -10.5, y: 2.5}
+        - {x: 10.5, y: 2.5}
+        - {x: 10.5, y: -2.5}
+      physicsShape:
+      - - {x: -10.5, y: 2.5}
+        - {x: -10.5, y: -2.5}
+        - {x: -4.5, y: -2.5}
+        - {x: -2.5, y: -0.5}
+        - {x: -2.5, y: 1.5}
+        - {x: -3.5, y: 2.5}
+      - - {x: 4.5, y: 2.5}
+        - {x: 4.5, y: -2.5}
+        - {x: 10.5, y: -2.5}
+        - {x: 10.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f9d21938f0457ab2ae3b453f0b0ddb
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 21, y: 5}
+      - {x: 0, y: 0}
+      - {x: 21, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_box_03_Particles_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 22
+        width: 8
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -2}
+        - {x: -4, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: -2}
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -2}
+        - {x: 4, y: -2}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66232ea6c3442e095288977401d0672
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 8, y: 4}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_box_03_Particles_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 22
+        width: 7
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -2}
+        - {x: -3.5, y: 2}
+        - {x: 3.5, y: 2}
+        - {x: 3.5, y: -2}
+      physicsShape:
+      - - {x: -3.5, y: 2}
+        - {x: -3.5, y: -2}
+        - {x: 3.5, y: -2}
+        - {x: 3.5, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a112b250fb14c21a0ddb2c3f42770f1
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 7, y: 4}
+      - {x: 0, y: 0}
+      - {x: 7, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_box_03_Particles_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 4
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -2.5}
+        - {x: -2.5, y: 2.5}
+        - {x: 2.5, y: 2.5}
+        - {x: 2.5, y: -2.5}
+      physicsShape:
+      - - {x: -2.5, y: 2.5}
+        - {x: -2.5, y: -2.5}
+        - {x: 2.5, y: -2.5}
+        - {x: 2.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa1aaf4c6004d7f9d138a547b580ecd
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 5, y: 5}
+      - {x: 0, y: 0}
+      - {x: 5, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_box_03_Particles_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 5
+        width: 6
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -2.5}
+        - {x: -3, y: 2.5}
+        - {x: 3, y: 2.5}
+        - {x: 3, y: -2.5}
+      physicsShape:
+      - - {x: -3, y: 2.5}
+        - {x: -3, y: -2.5}
+        - {x: 3, y: -2.5}
+        - {x: 3, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e928ae7ab98e443eb1ad911936ffb435
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 6, y: 5}
+      - {x: 0, y: 0}
+      - {x: 6, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_box_03_Particles_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -3.5}
+        - {x: -2.5, y: 3.5}
+        - {x: 2.5, y: 3.5}
+        - {x: 2.5, y: -3.5}
+      physicsShape:
+      - - {x: -1.5, y: 3.5}
+        - {x: -2.5, y: 2.5}
+        - {x: -2.5, y: -3.5}
+        - {x: 2.5, y: -3.5}
+        - {x: 2.5, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca5affa710a482bac7e1f1c7dfaddd6
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 5, y: 7}
+      - {x: 0, y: 0}
+      - {x: 5, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_box_03_Particles_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 7
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -2}
+        - {x: -3.5, y: 2}
+        - {x: 3.5, y: 2}
+        - {x: 3.5, y: -2}
+      physicsShape:
+      - - {x: -3.5, y: 2}
+        - {x: -3.5, y: -2}
+        - {x: 3.5, y: -2}
+        - {x: 3.5, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828db0e9ec274e63b7bf1d0c3a623133
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 7, y: 4}
+      - {x: 0, y: 0}
+      - {x: 7, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_box_03_Particles_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 38
+        width: 5
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -2}
+        - {x: -2.5, y: 2}
+        - {x: 2.5, y: 2}
+        - {x: 2.5, y: -2}
+      physicsShape:
+      - - {x: -2.5, y: 2}
+        - {x: -2.5, y: -2}
+        - {x: 2.5, y: -2}
+        - {x: 2.5, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab567d7f918470fb04d3a89b88e7b53
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 5, y: 4}
+      - {x: 0, y: 0}
+      - {x: 5, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_box_03_Particles_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 20
+        width: 6
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -2.5}
+        - {x: -3, y: 2.5}
+        - {x: 3, y: 2.5}
+        - {x: 3, y: -2.5}
+      physicsShape:
+      - - {x: -3, y: 2.5}
+        - {x: -3, y: -1.5}
+        - {x: -2, y: -2.5}
+        - {x: 3, y: -2.5}
+        - {x: 3, y: 1.5}
+        - {x: 2, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6abc91fd9146c79b6ac71df07f459b
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 6, y: 5}
+      - {x: 0, y: 0}
+      - {x: 6, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_box_03_Particles_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 5
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2.5}
+        - {x: -2, y: 2.5}
+        - {x: 2, y: 2.5}
+        - {x: 2, y: -2.5}
+      physicsShape:
+      - - {x: -2, y: 2.5}
+        - {x: -2, y: -2.5}
+        - {x: 2, y: -2.5}
+        - {x: 2, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488ace606e7945eeaa69dab4283187d9
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 4, y: 5}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_box_03_Particles_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 38
+        width: 4
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -4}
+        - {x: -2, y: 4}
+        - {x: 2, y: 4}
+        - {x: 2, y: -4}
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -2, y: -4}
+        - {x: 2, y: -4}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6336361ea94340d396632cd846da786a
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 4, y: 8}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_box_03_Particles_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 7
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -2}
+        - {x: -3.5, y: 2}
+        - {x: 3.5, y: 2}
+        - {x: 3.5, y: -2}
+      physicsShape:
+      - - {x: -3.5, y: 2}
+        - {x: -3.5, y: -2}
+        - {x: 3.5, y: -2}
+        - {x: 3.5, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfb3cad74ea4f90aee2714b7b456f8f
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 7, y: 4}
+      - {x: 0, y: 0}
+      - {x: 7, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 95d35bf82d4be93d9c0d7dd6f29fa4e4.bundle
+  assetBundleVariant:

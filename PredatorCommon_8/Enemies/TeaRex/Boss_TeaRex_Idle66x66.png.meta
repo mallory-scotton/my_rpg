@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: a95d24987fda5c942b2af9090069c78d
+timeCreated: 1706119809
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Boss_TeaRex_Idle66x66_5
+  - first:
+      213: 21300002
+    second: Boss_TeaRex_Idle66x66_1
+  - first:
+      213: 21300004
+    second: Boss_TeaRex_Idle66x66_4
+  - first:
+      213: 21300006
+    second: Boss_TeaRex_Idle66x66_0
+  - first:
+      213: 21300008
+    second: Boss_TeaRex_Idle66x66_7
+  - first:
+      213: 21300010
+    second: Boss_TeaRex_Idle66x66_2
+  - first:
+      213: 21300012
+    second: Boss_TeaRex_Idle66x66_6
+  - first:
+      213: 21300014
+    second: Boss_TeaRex_Idle66x66_3
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_TeaRex_Idle66x66_5
+      rect:
+        serializedVersion: 2
+        x: 333.0761
+        y: 0.076120496
+        width: 60.897125
+        height: 63.847755
+      alignment: 9
+      pivot: {x: 0.49138427, y: 0.045794558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.524673, y: -31.999998}
+        - {x: -30.524673, y: -22.999998}
+        - {x: -30.524673, y: -0.9999981}
+        - {x: 2.4753265, y: 31.000002}
+        - {x: 6.4753265, y: 32}
+        - {x: 19.475327, y: 32}
+        - {x: 30.475327, y: 17.000002}
+        - {x: 30.475327, y: -3.999998}
+        - {x: 19.475327, y: -31.999998}
+      physicsShape:
+      - - {x: 30.475327, y: 12.000002}
+        - {x: 19.475327, y: 32}
+        - {x: 9.475327, y: 32}
+        - {x: 3.4753265, y: 30.000002}
+        - {x: -7.5246735, y: 8.000002}
+        - {x: -18.524673, y: 11.000002}
+        - {x: -30.524673, y: -2.999998}
+        - {x: -30.524673, y: -17.999998}
+        - {x: -21.524673, y: -30.999998}
+        - {x: -14.524673, y: -31.999998}
+        - {x: 9.475327, y: -31.999998}
+        - {x: 15.475327, y: -28.999998}
+        - {x: 20.475327, y: -24.999998}
+        - {x: 30.475327, y: 1.9073486E-06}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23e0a5196064ea79beaf9e01ba3401d
+      internalID: 21300000
+      vertices:
+      - {x: 50.448563, y: 92.923874}
+      - {x: 61.448563, y: 56.923878}
+      - {x: 61.448563, y: 77.923874}
+      - {x: 50.448563, y: 28.923878}
+      - {x: 37.448563, y: 92.923874}
+      - {x: 33.448563, y: 91.923874}
+      - {x: 4.4485626, y: 28.923878}
+      - {x: 0.44856262, y: 59.923878}
+      - {x: 0.44856262, y: 37.923878}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TeaRex_Idle66x66_1
+      rect:
+        serializedVersion: 2
+        x: 69.07612
+        y: 0.076120496
+        width: 62.897133
+        height: 62.847755
+      alignment: 9
+      pivot: {x: 0.47575906, y: 0.046523213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.524685, y: -31.499998}
+        - {x: -31.524685, y: -19.499998}
+        - {x: -31.524685, y: -0.4999981}
+        - {x: 3.475315, y: 31.500002}
+        - {x: 18.475315, y: 31.500002}
+        - {x: 31.475315, y: 11.500002}
+        - {x: 31.475315, y: 3.500002}
+        - {x: 30.475315, y: -1.4999981}
+        - {x: 19.475315, y: -24.499998}
+        - {x: 10.475315, y: -31.499998}
+      physicsShape:
+      - - {x: 31.475315, y: 3.500002}
+        - {x: 31.475315, y: 11.500002}
+        - {x: 18.475315, y: 31.500002}
+        - {x: 7.475315, y: 31.500002}
+        - {x: 0.4753151, y: 20.500002}
+        - {x: -12.524685, y: 7.500002}
+        - {x: -23.524685, y: 6.500002}
+        - {x: -31.524685, y: -2.499998}
+        - {x: -31.524685, y: -17.499998}
+        - {x: -23.524685, y: -31.499998}
+        - {x: 10.475315, y: -31.499998}
+        - {x: 19.475315, y: -24.499998}
+        - {x: 19.475315, y: -13.499998}
+        - {x: 30.475315, y: -1.4999981}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c61755ded6c433eb57522e33ec84185
+      internalID: 21300002
+      vertices:
+      - {x: 64.44856, y: 71.423874}
+      - {x: 63.448566, y: 58.423878}
+      - {x: 64.44856, y: 63.423878}
+      - {x: 52.448566, y: 35.423878}
+      - {x: 51.448566, y: 91.423874}
+      - {x: 43.448566, y: 28.423878}
+      - {x: 36.448566, y: 91.423874}
+      - {x: 9.448566, y: 28.423878}
+      - {x: 1.4485664, y: 59.423878}
+      - {x: 1.4485664, y: 40.423878}
+      indices:
+      - 9
+      - 8
+      - 7
+      - 6
+      - 7
+      - 8
+      - 5
+      - 7
+      - 6
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TeaRex_Idle66x66_4
+      rect:
+        serializedVersion: 2
+        x: 267.0761
+        y: 0
+        width: 61.897133
+        height: 60.923878
+      alignment: 9
+      pivot: {x: 0.4834455, y: 0.04924178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.024677, y: -30.461939}
+        - {x: -31.024677, y: -21.461939}
+        - {x: -31.024677, y: -1.4619389}
+        - {x: 2.9753227, y: 30.538061}
+        - {x: 17.975323, y: 30.538061}
+        - {x: 30.975323, y: 10.538061}
+        - {x: 30.975323, y: 2.5380611}
+        - {x: 29.975323, y: -2.4619389}
+        - {x: 18.975323, y: -20.461939}
+        - {x: 18.975323, y: -23.461939}
+        - {x: 14.975323, y: -28.461939}
+        - {x: 10.975323, y: -30.461939}
+      physicsShape:
+      - - {x: 29.975323, y: -2.4619389}
+        - {x: 30.975323, y: 2.5380611}
+        - {x: 30.975323, y: 10.538061}
+        - {x: 17.975323, y: 30.538061}
+        - {x: 6.9753227, y: 30.538061}
+        - {x: -7.0246773, y: 13.538061}
+        - {x: -28.024677, y: 1.5380611}
+        - {x: -31.024677, y: -1.4619389}
+        - {x: -31.024677, y: -19.461939}
+        - {x: -26.024677, y: -30.461939}
+        - {x: 10.975323, y: -30.461939}
+        - {x: 14.975323, y: -28.461939}
+        - {x: 18.975323, y: -23.461939}
+        - {x: 18.975323, y: -20.461939}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc32c2712ae4c16b87bf1f9a81742a1
+      internalID: 21300004
+      vertices:
+      - {x: 62.948566, y: 68.46194}
+      - {x: 61.948566, y: 55.461937}
+      - {x: 62.948566, y: 60.461937}
+      - {x: 50.948566, y: 37.461937}
+      - {x: 49.948566, y: 88.46194}
+      - {x: 50.948566, y: 34.461937}
+      - {x: 46.948566, y: 29.461939}
+      - {x: 42.948566, y: 27.461939}
+      - {x: 34.948566, y: 88.46194}
+      - {x: 5.9485664, y: 27.461939}
+      - {x: 0.94856644, y: 56.461937}
+      - {x: 0.94856644, y: 36.461937}
+      indices:
+      - 11
+      - 10
+      - 9
+      - 8
+      - 9
+      - 10
+      - 7
+      - 9
+      - 8
+      - 4
+      - 7
+      - 8
+      - 6
+      - 7
+      - 4
+      - 5
+      - 6
+      - 4
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TeaRex_Idle66x66_0
+      rect:
+        serializedVersion: 2
+        x: 3.0761204
+        y: 1.0761205
+        width: 61.897133
+        height: 63.84776
+      alignment: 9
+      pivot: {x: 0.48344532, y: 0.0301323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.024687, y: -32}
+        - {x: -31.024687, y: -25}
+        - {x: -31.024687, y: 17}
+        - {x: -0.024686813, y: 32}
+        - {x: 26.975313, y: 32}
+        - {x: 30.975313, y: 22}
+        - {x: 30.975313, y: 1}
+        - {x: 17.975313, y: -32}
+      physicsShape:
+      - - {x: 30.975313, y: 3}
+        - {x: 30.975313, y: 17}
+        - {x: 17.975313, y: 32}
+        - {x: 6.975313, y: 32}
+        - {x: -6.024687, y: 13}
+        - {x: -24.024687, y: 5}
+        - {x: -31.024687, y: -5}
+        - {x: -31.024687, y: -18}
+        - {x: -22.024687, y: -31}
+        - {x: -15.024687, y: -32}
+        - {x: 8.975313, y: -32}
+        - {x: 14.975313, y: -29}
+        - {x: 18.975313, y: -24}
+        - {x: 22.975313, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e6eeaaff854768beb65791e2e56e3d
+      internalID: 21300006
+      vertices:
+      - {x: 58.948566, y: 93.92388}
+      - {x: 62.948566, y: 62.92388}
+      - {x: 62.948566, y: 83.92388}
+      - {x: 49.948566, y: 29.92388}
+      - {x: 31.948566, y: 93.92388}
+      - {x: 5.9485664, y: 29.92388}
+      - {x: 0.94856644, y: 78.92388}
+      - {x: 0.94856644, y: 36.92388}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TeaRex_Idle66x66_7
+      rect:
+        serializedVersion: 2
+        x: 465.0761
+        y: 2.0761204
+        width: 60.897125
+        height: 63.92388
+      alignment: 9
+      pivot: {x: 0.49138427, y: 0.014452812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.524673, y: -32.038063}
+        - {x: -30.524673, y: -19.038061}
+        - {x: -30.524673, y: -2.0380611}
+        - {x: 2.4753265, y: 31.961939}
+        - {x: 23.475327, y: 31.961939}
+        - {x: 30.475327, y: 15.961939}
+        - {x: 30.475327, y: -3.0380611}
+        - {x: 19.475327, y: -21.038061}
+        - {x: 19.475327, y: -24.038061}
+        - {x: 15.475327, y: -29.038061}
+        - {x: 9.475327, y: -32.038063}
+      physicsShape:
+      - - {x: 20.475327, y: -14.038061}
+        - {x: 30.475327, y: 3.9619389}
+        - {x: 30.475327, y: 13.961939}
+        - {x: 19.475327, y: 28.961939}
+        - {x: 16.475327, y: 31.961939}
+        - {x: 4.4753265, y: 31.961939}
+        - {x: -30.524673, y: -2.0380611}
+        - {x: -30.524673, y: -19.038061}
+        - {x: -23.524673, y: -32.038063}
+        - {x: 9.475327, y: -32.038063}
+        - {x: 15.475327, y: -29.038061}
+        - {x: 19.475327, y: -24.038061}
+        - {x: 19.475327, y: -21.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd9229c4eae41f6b39ba90926357df2
+      internalID: 21300008
+      vertices:
+      - {x: 54.448563, y: 94.961945}
+      - {x: 61.448563, y: 59.96194}
+      - {x: 61.448563, y: 78.961945}
+      - {x: 50.448563, y: 41.96194}
+      - {x: 46.448563, y: 33.96194}
+      - {x: 50.448563, y: 38.96194}
+      - {x: 40.448563, y: 30.96194}
+      - {x: 33.448563, y: 94.961945}
+      - {x: 7.4485626, y: 30.96194}
+      - {x: 0.44856262, y: 60.96194}
+      - {x: 0.44856262, y: 43.96194}
+      indices:
+      - 10
+      - 9
+      - 8
+      - 7
+      - 8
+      - 9
+      - 6
+      - 8
+      - 7
+      - 0
+      - 6
+      - 7
+      - 4
+      - 6
+      - 0
+      - 3
+      - 4
+      - 0
+      - 5
+      - 4
+      - 3
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TeaRex_Idle66x66_2
+      rect:
+        serializedVersion: 2
+        x: 135.07613
+        y: 0
+        width: 62.92388
+        height: 58.923878
+      alignment: 9
+      pivot: {x: 0.4755567, y: 0.05091315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.538067, y: -29.461939}
+        - {x: -31.538067, y: -20.461939}
+        - {x: -31.538067, y: 0.53806114}
+        - {x: 2.4619331, y: 29.538061}
+        - {x: 24.461933, y: 29.538061}
+        - {x: 31.461933, y: 13.538061}
+        - {x: 31.461933, y: -17.461939}
+        - {x: 21.461933, y: -29.461939}
+      physicsShape:
+      - - {x: 31.461933, y: 11.538061}
+        - {x: 19.461933, y: 29.538061}
+        - {x: 8.461933, y: 29.538061}
+        - {x: -5.538067, y: 10.538061}
+        - {x: -23.538067, y: 7.538061}
+        - {x: -31.538067, y: -4.461939}
+        - {x: -31.538067, y: -16.461939}
+        - {x: -21.538067, y: -28.461939}
+        - {x: -20.538067, y: -29.461939}
+        - {x: 15.461933, y: -29.461939}
+        - {x: 19.461933, y: -23.461939}
+        - {x: 31.461933, y: -4.461939}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ed019e1e9243daa6fe0c90d4d975ec
+      internalID: 21300010
+      vertices:
+      - {x: 57.46194, y: 85.46194}
+      - {x: 64.461945, y: 38.461937}
+      - {x: 64.461945, y: 69.46194}
+      - {x: 54.46194, y: 26.461939}
+      - {x: 35.46194, y: 85.46194}
+      - {x: 6.461941, y: 26.461939}
+      - {x: 1.4619408, y: 56.461937}
+      - {x: 1.4619408, y: 35.461937}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TeaRex_Idle66x66_6
+      rect:
+        serializedVersion: 2
+        x: 399.0761
+        y: 1.0761205
+        width: 59.897125
+        height: 64.84776
+      alignment: 9
+      pivot: {x: 0.49958807, y: 0.029667635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.024673, y: -31.500002}
+        - {x: -30.024673, y: -22.500002}
+        - {x: -30.024673, y: -4.500002}
+        - {x: -23.024673, y: 7.499998}
+        - {x: 1.9753265, y: 30.499998}
+        - {x: 8.975327, y: 32.5}
+        - {x: 18.975327, y: 32.5}
+        - {x: 29.975327, y: 16.499998}
+        - {x: 29.975327, y: -0.5000019}
+        - {x: 21.975327, y: -25.500002}
+        - {x: 11.975327, y: -32.5}
+        - {x: -17.024673, y: -32.5}
+      physicsShape:
+      - - {x: 29.975327, y: 13.499998}
+        - {x: 17.975327, y: 32.5}
+        - {x: 8.975327, y: 32.5}
+        - {x: 1.9753265, y: 30.499998}
+        - {x: -7.0246735, y: 7.499998}
+        - {x: -22.024673, y: 4.499998}
+        - {x: -27.024673, y: 0.4999981}
+        - {x: -30.024673, y: -7.500002}
+        - {x: -30.024673, y: -19.500002}
+        - {x: -21.024673, y: -31.500002}
+        - {x: -17.024673, y: -32.5}
+        - {x: 11.975327, y: -32.5}
+        - {x: 21.975327, y: -25.500002}
+        - {x: 20.975327, y: -14.500002}
+        - {x: 29.975327, y: 2.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a7d23b0da14530a940f58f24bb4914
+      internalID: 21300012
+      vertices:
+      - {x: 59.948563, y: 79.42388}
+      - {x: 51.948563, y: 37.42388}
+      - {x: 59.948563, y: 62.42388}
+      - {x: 48.948563, y: 95.42388}
+      - {x: 41.948563, y: 30.423882}
+      - {x: 38.948563, y: 95.42388}
+      - {x: 31.948563, y: 93.42388}
+      - {x: 12.948563, y: 30.423882}
+      - {x: 8.948563, y: 31.423882}
+      - {x: 6.9485626, y: 70.42388}
+      - {x: -0.051437378, y: 58.42388}
+      - {x: -0.051437378, y: 40.42388}
+      indices:
+      - 11
+      - 10
+      - 8
+      - 9
+      - 8
+      - 10
+      - 6
+      - 8
+      - 9
+      - 7
+      - 8
+      - 6
+      - 4
+      - 7
+      - 6
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TeaRex_Idle66x66_3
+      rect:
+        serializedVersion: 2
+        x: 201.07613
+        y: 0
+        width: 62.880974
+        height: 57.923878
+      alignment: 9
+      pivot: {x: 0.47588122, y: 0.051792115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.483387, y: -28.961939}
+        - {x: -31.516613, y: -28.961939}
+        - {x: -31.516613, y: 13.038061}
+        - {x: 3.483387, y: 29.038061}
+        - {x: 24.483387, y: 29.038061}
+        - {x: 31.483387, y: 14.038061}
+        - {x: 31.483387, y: -7.961939}
+      physicsShape:
+      - - {x: 30.483387, y: 13.038061}
+        - {x: 17.483387, y: 29.038061}
+        - {x: 7.483387, y: 29.038061}
+        - {x: -1.516613, y: 18.038061}
+        - {x: -28.516613, y: 3.0380611}
+        - {x: -31.516613, y: -2.9619389}
+        - {x: -31.516613, y: -15.961939}
+        - {x: -28.516613, y: -25.961939}
+        - {x: -20.516613, y: -28.961939}
+        - {x: 15.483387, y: -28.961939}
+        - {x: 20.483387, y: -18.961939}
+        - {x: 31.483387, y: -2.9619389}
+        - {x: 31.483387, y: 9.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b690bd1c35843bf9b4657da48fa4e44
+      internalID: 21300014
+      vertices:
+      - {x: 57.440487, y: 83.96194}
+      - {x: 64.44049, y: 46.961937}
+      - {x: 64.44049, y: 68.96194}
+      - {x: 49.440487, y: 25.961939}
+      - {x: 36.440487, y: 83.96194}
+      - {x: 1.4404869, y: 67.96194}
+      - {x: 1.4404869, y: 25.961939}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 18979b6ea7ccdc86004681d90bf9ac05.bundle
+  assetBundleVariant:

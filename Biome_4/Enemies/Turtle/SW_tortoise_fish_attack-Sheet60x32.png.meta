@@ -1,0 +1,1063 @@
+fileFormatVersion: 2
+guid: c8e5db0e8d5111a4bb653a44e6742365
+timeCreated: 1706119824
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SW_tortoise_fish_attack-Sheet60x32_10
+  - first:
+      213: 21300002
+    second: SW_tortoise_fish_attack-Sheet60x32_3
+  - first:
+      213: 21300004
+    second: SW_tortoise_fish_attack-Sheet60x32_0
+  - first:
+      213: 21300006
+    second: SW_tortoise_fish_attack-Sheet60x32_2
+  - first:
+      213: 21300008
+    second: SW_tortoise_fish_attack-Sheet60x32_1
+  - first:
+      213: 21300010
+    second: SW_tortoise_fish_attack-Sheet60x32_7
+  - first:
+      213: 21300012
+    second: SW_tortoise_fish_attack-Sheet60x32_8
+  - first:
+      213: 21300014
+    second: SW_tortoise_fish_attack-Sheet60x32_6
+  - first:
+      213: 21300016
+    second: SW_tortoise_fish_attack-Sheet60x32_5
+  - first:
+      213: 21300018
+    second: SW_tortoise_fish_attack-Sheet60x32_4
+  - first:
+      213: 21300020
+    second: SW_tortoise_fish_attack-Sheet60x32_9
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SW_tortoise_fish_attack-Sheet60x32_10
+      rect:
+        serializedVersion: 2
+        x: 125.07612
+        y: 0
+        width: 48.847755
+        height: 25.97325
+      alignment: 9
+      pivot: {x: 0.51023597, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.500004, y: -12.986625}
+        - {x: -24.499996, y: -12.986625}
+        - {x: -24.499996, y: 12.013375}
+        - {x: -21.499996, y: 13.013375}
+        - {x: 10.500004, y: 13.013375}
+        - {x: 24.500004, y: 6.0133753}
+        - {x: 24.500004, y: -4.9866247}
+      physicsShape:
+      - - {x: 24.500004, y: 2.0133753}
+        - {x: 15.500004, y: 7.0133753}
+        - {x: 1.5000038, y: 13.013375}
+        - {x: -17.499996, y: 13.013375}
+        - {x: -24.499996, y: 11.013375}
+        - {x: -24.499996, y: -12.986625}
+        - {x: 1.5000038, y: -12.986625}
+        - {x: 22.500004, y: -5.9866247}
+        - {x: 24.500004, y: -3.9866247}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e4b7921fc84b9896169230aee50481
+      internalID: 21300000
+      vertices:
+      - {x: 34.423878, y: 38.986626}
+      - {x: 48.423878, y: 20.986626}
+      - {x: 48.423878, y: 31.986626}
+      - {x: 28.423878, y: 12.986625}
+      - {x: 2.4238777, y: 38.986626}
+      - {x: -0.5761223, y: 37.986626}
+      - {x: -0.5761223, y: 12.986625}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_attack-Sheet60x32_3
+      rect:
+        serializedVersion: 2
+        x: 186.05763
+        y: 64
+        width: 47.866245
+        height: 25.97325
+      alignment: 9
+      pivot: {x: 0.5001931, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.009243, y: -12.986625}
+        - {x: -23.990757, y: -12.986625}
+        - {x: -23.990757, y: 8.013375}
+        - {x: -18.990757, y: 13.013375}
+        - {x: 0.0092430115, y: 13.013375}
+        - {x: 21.009243, y: 2.0133753}
+        - {x: 24.009243, y: -0.9866247}
+      physicsShape:
+      - - {x: 21.009243, y: 2.0133753}
+        - {x: 0.0092430115, y: 13.013375}
+        - {x: -18.990757, y: 13.013375}
+        - {x: -23.990757, y: 8.013375}
+        - {x: -23.990757, y: -12.986625}
+        - {x: 5.009243, y: -12.986625}
+        - {x: 22.009243, y: -9.986625}
+        - {x: 24.009243, y: -5.9866247}
+        - {x: 24.009243, y: -0.9866247}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d16ba74a917467495d0d207b379fafd
+      internalID: 21300002
+      vertices:
+      - {x: 44.93312, y: 27.986626}
+      - {x: 47.93312, y: 12.986625}
+      - {x: 47.93312, y: 24.986626}
+      - {x: 23.933123, y: 38.986626}
+      - {x: 4.9331226, y: 38.986626}
+      - {x: -0.066877365, y: 33.986626}
+      - {x: -0.066877365, y: 12.986625}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_attack-Sheet60x32_0
+      rect:
+        serializedVersion: 2
+        x: 5.0761204
+        y: 64
+        width: 48.847755
+        height: 25.97325
+      alignment: 9
+      pivot: {x: 0.5102359, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.500002, y: -12.986625}
+        - {x: -24.499998, y: -12.986625}
+        - {x: -24.499998, y: 13.013375}
+        - {x: 12.500002, y: 13.013375}
+        - {x: 24.500002, y: 11.013375}
+        - {x: 24.500002, y: -7.9866247}
+      physicsShape:
+      - - {x: 3.500002, y: 13.013375}
+        - {x: -24.499998, y: 13.013375}
+        - {x: -24.499998, y: -12.986625}
+        - {x: 7.500002, y: -12.986625}
+        - {x: 24.500002, y: -7.9866247}
+        - {x: 24.500002, y: 1.0133753}
+        - {x: 23.500002, y: 3.0133753}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216048800f864dbe85da4117ec5b8b54
+      internalID: 21300004
+      vertices:
+      - {x: 36.423878, y: 38.986626}
+      - {x: 48.423878, y: 17.986626}
+      - {x: 48.423878, y: 36.986626}
+      - {x: 31.423878, y: 12.986625}
+      - {x: -0.5761223, y: 38.986626}
+      - {x: -0.5761223, y: 12.986625}
+      indices:
+      - 5
+      - 4
+      - 3
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_attack-Sheet60x32_2
+      rect:
+        serializedVersion: 2
+        x: 125.07612
+        y: 64
+        width: 48.847755
+        height: 25.97325
+      alignment: 9
+      pivot: {x: 0.51023597, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.500004, y: -12.986625}
+        - {x: -24.499996, y: -12.986625}
+        - {x: -24.499996, y: 13.013375}
+        - {x: 5.500004, y: 13.013375}
+        - {x: 24.500004, y: 0.013375282}
+        - {x: 24.500004, y: -10.986625}
+      physicsShape:
+      - - {x: 24.500004, y: 0.013375282}
+        - {x: 5.500004, y: 13.013375}
+        - {x: -24.499996, y: 13.013375}
+        - {x: -24.499996, y: -12.986625}
+        - {x: -1.4999962, y: -12.986625}
+        - {x: 18.500004, y: -8.986625}
+        - {x: 24.500004, y: -6.9866247}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8d308ee97943458c5af7c7e198fbf5
+      internalID: 21300006
+      vertices:
+      - {x: 48.423878, y: 25.986626}
+      - {x: 32.423878, y: 12.986625}
+      - {x: 48.423878, y: 14.986625}
+      - {x: 29.423878, y: 38.986626}
+      - {x: -0.5761223, y: 38.986626}
+      - {x: -0.5761223, y: 12.986625}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_attack-Sheet60x32_1
+      rect:
+        serializedVersion: 2
+        x: 65.07612
+        y: 64
+        width: 48.847755
+        height: 25.97325
+      alignment: 9
+      pivot: {x: 0.51023597, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.500004, y: -12.986625}
+        - {x: -24.499996, y: -12.986625}
+        - {x: -24.499996, y: 11.013375}
+        - {x: -21.499996, y: 13.013375}
+        - {x: 10.500004, y: 13.013375}
+        - {x: 24.500004, y: 5.0133753}
+        - {x: 24.500004, y: -5.9866247}
+        - {x: 22.500004, y: -7.9866247}
+      physicsShape:
+      - - {x: 10.500004, y: 13.013375}
+        - {x: -21.499996, y: 13.013375}
+        - {x: -24.499996, y: 11.013375}
+        - {x: -24.499996, y: -12.986625}
+        - {x: -2.4999962, y: -12.986625}
+        - {x: 5.500004, y: -9.986625}
+        - {x: 22.500004, y: -7.9866247}
+        - {x: 24.500004, y: -5.9866247}
+        - {x: 24.500004, y: 5.0133753}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b255ddbee935445f965dbfa5e1dca041
+      internalID: 21300008
+      vertices:
+      - {x: 48.423878, y: 30.986626}
+      - {x: 46.423878, y: 17.986626}
+      - {x: 48.423878, y: 19.986626}
+      - {x: 34.423878, y: 38.986626}
+      - {x: 29.423878, y: 12.986625}
+      - {x: 2.4238777, y: 38.986626}
+      - {x: -0.5761223, y: 36.986626}
+      - {x: -0.5761223, y: 12.986625}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_attack-Sheet60x32_7
+      rect:
+        serializedVersion: 2
+        x: 184.02675
+        y: 32
+        width: 55.8239
+        height: 26.97325
+      alignment: 9
+      pivot: {x: 0.46527117, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.061302, y: 3.5133753}
+        - {x: 21.061302, y: 6.5133753}
+        - {x: 22.061302, y: 9.513375}
+        - {x: 24.061302, y: 9.513375}
+        - {x: 27.061302, y: 6.5133753}
+        - {x: 27.061302, y: 4.5133753}
+      - - {x: 25.061302, y: -6.4866247}
+        - {x: 23.061302, y: -3.4866247}
+        - {x: 25.061302, y: -1.4866247}
+        - {x: 28.061302, y: -2.4866247}
+        - {x: 28.061302, y: -5.4866247}
+      - - {x: -27.938698, y: 12.513375}
+        - {x: -22.938698, y: 13.513375}
+        - {x: 9.061302, y: 13.513375}
+        - {x: 15.061302, y: 12.513375}
+        - {x: 22.061302, y: 2.5133753}
+        - {x: 22.061302, y: -13.486625}
+        - {x: -27.938698, y: -13.486625}
+      physicsShape:
+      - - {x: 22.061302, y: 2.5133753}
+        - {x: 15.061302, y: 12.513375}
+        - {x: 7.061302, y: 9.513375}
+        - {x: -6.938698, y: 13.513375}
+        - {x: -19.938698, y: 13.513375}
+        - {x: -27.938698, y: 10.513375}
+        - {x: -27.938698, y: -13.486625}
+        - {x: -5.938698, y: -13.486625}
+        - {x: 2.0613022, y: -4.4866247}
+        - {x: 21.061302, y: -6.4866247}
+        - {x: 22.061302, y: -2.4866247}
+      - - {x: 11.061302, y: -7.4866247}
+        - {x: 12.061302, y: -10.486625}
+        - {x: 15.061302, y: -11.486625}
+        - {x: 19.061302, y: -11.486625}
+        - {x: 20.061302, y: -9.486625}
+        - {x: 19.061302, y: -6.4866247}
+        - {x: 13.061302, y: -5.4866247}
+      - - {x: 25.061302, y: -6.4866247}
+        - {x: 28.061302, y: -5.4866247}
+        - {x: 28.061302, y: -2.4866247}
+        - {x: 25.061302, y: -1.4866247}
+        - {x: 23.061302, y: -3.4866247}
+      - - {x: 21.061302, y: 6.5133753}
+        - {x: 24.061302, y: 3.5133753}
+        - {x: 27.061302, y: 4.5133753}
+        - {x: 27.061302, y: 6.5133753}
+        - {x: 24.061302, y: 9.513375}
+        - {x: 22.061302, y: 9.513375}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b545e503734c89bc0042b6de58dfdb
+      internalID: 21300010
+      vertices:
+      - {x: 51.91195, y: 29.486626}
+      - {x: 49.91195, y: 17.486626}
+      - {x: 51.91195, y: 13.486625}
+      - {x: 48.91195, y: 20.486626}
+      - {x: 44.91195, y: 39.486626}
+      - {x: 42.91195, y: 21.486626}
+      - {x: 40.91195, y: 19.486626}
+      - {x: 38.91195, y: 40.486626}
+      - {x: 48.91195, y: 15.486625}
+      - {x: 44.91195, y: 15.486625}
+      - {x: 6.911949, y: 40.486626}
+      - {x: 41.91195, y: 16.486626}
+      - {x: 1.9119492, y: 39.486626}
+      - {x: 1.9119492, y: 13.486625}
+      - {x: 54.91195, y: 25.486626}
+      - {x: 57.91195, y: 21.486626}
+      - {x: 57.91195, y: 24.486626}
+      - {x: 54.91195, y: 20.486626}
+      - {x: 52.91195, y: 23.486626}
+      - {x: 53.91195, y: 36.486626}
+      - {x: 56.91195, y: 31.486626}
+      - {x: 56.91195, y: 33.486626}
+      - {x: 53.91195, y: 30.486626}
+      - {x: 51.91195, y: 36.486626}
+      - {x: 50.91195, y: 33.486626}
+      indices:
+      - 24
+      - 23
+      - 22
+      - 19
+      - 22
+      - 23
+      - 20
+      - 22
+      - 19
+      - 21
+      - 20
+      - 19
+      - 18
+      - 14
+      - 17
+      - 15
+      - 17
+      - 14
+      - 16
+      - 15
+      - 14
+      - 6
+      - 5
+      - 11
+      - 9
+      - 11
+      - 5
+      - 3
+      - 9
+      - 5
+      - 8
+      - 9
+      - 3
+      - 1
+      - 8
+      - 3
+      - 12
+      - 11
+      - 13
+      - 9
+      - 13
+      - 11
+      - 2
+      - 13
+      - 9
+      - 10
+      - 11
+      - 12
+      - 6
+      - 11
+      - 10
+      - 7
+      - 6
+      - 10
+      - 8
+      - 2
+      - 9
+      - 1
+      - 2
+      - 8
+      - 7
+      - 4
+      - 6
+      - 5
+      - 6
+      - 4
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_attack-Sheet60x32_8
+      rect:
+        serializedVersion: 2
+        x: 5.0429077
+        y: 0
+        width: 53.807743
+        height: 26.97325
+      alignment: 9
+      pivot: {x: 0.4638197, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.05322, y: 5.5133753}
+        - {x: 22.05322, y: 8.513375}
+        - {x: 24.05322, y: 10.513375}
+        - {x: 27.05322, y: 9.513375}
+        - {x: 27.05322, y: 6.5133753}
+      - - {x: 17.05322, y: -11.486625}
+        - {x: 9.053221, y: -13.486625}
+        - {x: -26.94678, y: -13.486625}
+        - {x: -26.94678, y: 12.513375}
+        - {x: -23.94678, y: 13.513375}
+        - {x: 12.053221, y: 13.513375}
+        - {x: 22.05322, y: 9.513375}
+        - {x: 22.05322, y: 8.513375}
+        - {x: 22.05322, y: -5.4866247}
+      physicsShape:
+      - - {x: 22.05322, y: 1.5133753}
+        - {x: 14.053221, y: 5.5133753}
+        - {x: -0.94677925, y: 13.513375}
+        - {x: -20.94678, y: 13.513375}
+        - {x: -26.94678, y: 11.513375}
+        - {x: -26.94678, y: -13.486625}
+        - {x: -4.9467793, y: -13.486625}
+        - {x: 2.0532207, y: -5.4866247}
+        - {x: 15.053221, y: -7.4866247}
+        - {x: 22.05322, y: -4.4866247}
+      - - {x: 11.053221, y: -10.486625}
+        - {x: 15.053221, y: -11.486625}
+        - {x: 18.05322, y: -9.486625}
+        - {x: 17.05322, y: -6.4866247}
+        - {x: 12.053221, y: -5.4866247}
+        - {x: 10.053221, y: -7.4866247}
+      - - {x: 24.05322, y: 5.5133753}
+        - {x: 27.05322, y: 6.5133753}
+        - {x: 27.05322, y: 9.513375}
+        - {x: 24.05322, y: 10.513375}
+        - {x: 22.05322, y: 8.513375}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbf60ec25ac4463beafd1aff241d781
+      internalID: 21300012
+      vertices:
+      - {x: 50.90387, y: 36.486626}
+      - {x: 50.90387, y: 21.486626}
+      - {x: 50.90387, y: 35.486626}
+      - {x: 46.90387, y: 17.486626}
+      - {x: 45.90387, y: 20.486626}
+      - {x: 40.90387, y: 40.486626}
+      - {x: 40.90387, y: 21.486626}
+      - {x: 38.90387, y: 19.486626}
+      - {x: 37.90387, y: 13.486625}
+      - {x: 4.9038715, y: 40.486626}
+      - {x: 1.9038715, y: 39.486626}
+      - {x: 1.9038715, y: 13.486625}
+      - {x: 45.90387, y: 15.486625}
+      - {x: 43.90387, y: 15.486625}
+      - {x: 39.90387, y: 16.486626}
+      - {x: 52.90387, y: 37.486626}
+      - {x: 55.90387, y: 33.486626}
+      - {x: 55.90387, y: 36.486626}
+      - {x: 52.90387, y: 32.486626}
+      indices:
+      - 2
+      - 15
+      - 18
+      - 16
+      - 18
+      - 15
+      - 17
+      - 16
+      - 15
+      - 7
+      - 6
+      - 14
+      - 13
+      - 14
+      - 6
+      - 4
+      - 13
+      - 6
+      - 3
+      - 13
+      - 4
+      - 7
+      - 14
+      - 8
+      - 13
+      - 8
+      - 14
+      - 12
+      - 8
+      - 13
+      - 3
+      - 12
+      - 13
+      - 1
+      - 12
+      - 3
+      - 11
+      - 10
+      - 8
+      - 9
+      - 8
+      - 10
+      - 5
+      - 8
+      - 9
+      - 7
+      - 8
+      - 5
+      - 6
+      - 7
+      - 5
+      - 4
+      - 6
+      - 5
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_attack-Sheet60x32_6
+      rect:
+        serializedVersion: 2
+        x: 126.036285
+        y: 32
+        width: 53.887592
+        height: 25.97325
+      alignment: 9
+      pivot: {x: 0.44469818, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.980082, y: 13.013375}
+        - {x: 16.019918, y: 13.013375}
+        - {x: 27.019918, y: 8.013375}
+        - {x: 27.019918, y: -2.9866247}
+        - {x: 25.019918, y: -12.986625}
+        - {x: -26.980082, y: -12.986625}
+      physicsShape:
+      - - {x: 21.019918, y: -11.986625}
+        - {x: 27.019918, y: -2.9866247}
+        - {x: 27.019918, y: -1.9866247}
+        - {x: 26.019918, y: 1.0133753}
+        - {x: 18.019918, y: 12.013375}
+        - {x: 0.019918442, y: 13.013375}
+        - {x: -17.980082, y: 13.013375}
+        - {x: -24.980082, y: 9.013375}
+        - {x: -26.980082, y: 3.0133753}
+        - {x: -26.980082, y: -12.986625}
+        - {x: -9.980082, y: -12.986625}
+        - {x: -3.9800816, y: -6.9866247}
+        - {x: 9.019918, y: -4.9866247}
+        - {x: 12.019918, y: -11.986625}
+      - - {x: 18.019918, y: 8.013375}
+        - {x: 18.019918, y: 6.0133753}
+        - {x: 23.019918, y: 1.0133753}
+        - {x: 26.019918, y: 2.0133753}
+        - {x: 26.019918, y: 6.0133753}
+        - {x: 22.019918, y: 10.013375}
+        - {x: 20.019918, y: 10.013375}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f10a27016cb4b5f971f212f042afcf9
+      internalID: 21300014
+      vertices:
+      - {x: 56.943794, y: 33.986626}
+      - {x: 55.943794, y: 31.986626}
+      - {x: 56.943794, y: 22.986626}
+      - {x: 51.943794, y: 35.986626}
+      - {x: 47.943794, y: 33.986626}
+      - {x: 45.943794, y: 38.986626}
+      - {x: 47.943794, y: 31.986626}
+      - {x: 49.943794, y: 35.986626}
+      - {x: 55.943794, y: 27.986626}
+      - {x: 54.943794, y: 12.986625}
+      - {x: 52.943794, y: 26.986626}
+      - {x: 2.9437962, y: 38.986626}
+      - {x: 2.9437962, y: 12.986625}
+      indices:
+      - 6
+      - 4
+      - 10
+      - 7
+      - 10
+      - 4
+      - 3
+      - 10
+      - 7
+      - 1
+      - 10
+      - 3
+      - 8
+      - 10
+      - 1
+      - 12
+      - 11
+      - 9
+      - 6
+      - 9
+      - 11
+      - 5
+      - 6
+      - 11
+      - 10
+      - 9
+      - 6
+      - 8
+      - 9
+      - 10
+      - 2
+      - 9
+      - 8
+      - 1
+      - 2
+      - 8
+      - 0
+      - 3
+      - 5
+      - 7
+      - 5
+      - 3
+      - 4
+      - 5
+      - 7
+      - 6
+      - 5
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_attack-Sheet60x32_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 32
+        width: 60
+        height: 31.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -15.96194}
+        - {x: -30, y: -7.96194}
+        - {x: -30, y: 9.03806}
+        - {x: -27, y: 16.03806}
+        - {x: 10, y: 16.03806}
+        - {x: 19, y: 15.03806}
+        - {x: 30, y: 4.03806}
+        - {x: 30, y: -10.96194}
+        - {x: 16, y: -15.96194}
+      physicsShape:
+      - - {x: 24, y: 8.03806}
+        - {x: 20, y: 8.03806}
+        - {x: -2, y: 16.03806}
+        - {x: -19, y: 16.03806}
+        - {x: -21, y: 15.03806}
+        - {x: -30, y: 7.03806}
+        - {x: -30, y: -7.96194}
+        - {x: -29, y: -15.96194}
+        - {x: -1, y: -15.96194}
+        - {x: 6, y: -12.96194}
+        - {x: 25, y: -12.96194}
+        - {x: 30, y: -6.96194}
+        - {x: 30, y: 4.03806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53ec8dcf82e485eaa6635c3ff616300
+      internalID: 21300016
+      vertices:
+      - {x: 49, y: 46.96194}
+      - {x: 60, y: 20.96194}
+      - {x: 60, y: 35.96194}
+      - {x: 46, y: 15.96194}
+      - {x: 40, y: 47.96194}
+      - {x: 3, y: 47.96194}
+      - {x: 1, y: 15.96194}
+      - {x: 0, y: 40.96194}
+      - {x: 0, y: 23.96194}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_attack-Sheet60x32_4
+      rect:
+        serializedVersion: 2
+        x: 6.026751
+        y: 32
+        width: 47.897125
+        height: 25.97325
+      alignment: 9
+      pivot: {x: 0.5005154, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.024687, y: -12.986625}
+        - {x: -23.975313, y: -12.986625}
+        - {x: -23.975313, y: 13.013375}
+        - {x: 19.024687, y: 13.013375}
+        - {x: 24.024687, y: 2.0133753}
+        - {x: 24.024687, y: -6.9866247}
+      physicsShape:
+      - - {x: 11.024687, y: 8.013375}
+        - {x: 2.0246868, y: 13.013375}
+        - {x: -16.975313, y: 13.013375}
+        - {x: -23.975313, y: 11.013375}
+        - {x: -23.975313, y: -12.986625}
+        - {x: 2.0246868, y: -12.986625}
+        - {x: 18.024687, y: -7.9866247}
+        - {x: 24.024687, y: -5.9866247}
+        - {x: 24.024687, y: 0.013375282}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2833906ee81b4530a72f84439d7a5dd9
+      internalID: 21300018
+      vertices:
+      - {x: 42.948563, y: 38.986626}
+      - {x: 47.948563, y: 18.986626}
+      - {x: 47.948563, y: 27.986626}
+      - {x: 28.948563, y: 12.986625}
+      - {x: -0.051437378, y: 38.986626}
+      - {x: -0.051437378, y: 12.986625}
+      indices:
+      - 5
+      - 4
+      - 3
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_attack-Sheet60x32_9
+      rect:
+        serializedVersion: 2
+        x: 65.03875
+        y: 0
+        width: 48.885128
+        height: 26.97325
+      alignment: 9
+      pivot: {x: 0.5106103, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.518684, y: -13.486625}
+        - {x: -24.481316, y: -13.486625}
+        - {x: -24.481316, y: 9.513375}
+        - {x: -23.481316, y: 11.513375}
+        - {x: -21.481316, y: 13.513375}
+        - {x: 13.518684, y: 13.513375}
+        - {x: 24.518684, y: 3.5133753}
+        - {x: 24.518684, y: -10.486625}
+      physicsShape:
+      - - {x: 13.518684, y: 13.513375}
+        - {x: -21.481316, y: 13.513375}
+        - {x: -23.481316, y: 11.513375}
+        - {x: -24.481316, y: 9.513375}
+        - {x: -24.481316, y: -13.486625}
+        - {x: 7.5186844, y: -13.486625}
+        - {x: 23.518684, y: -6.4866247}
+        - {x: 24.518684, y: -6.4866247}
+        - {x: 24.518684, y: 3.5133753}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28f97f136954ca483266ca24daf6ece
+      internalID: 21300020
+      vertices:
+      - {x: 48.442566, y: 30.486626}
+      - {x: 38.442566, y: 13.486625}
+      - {x: 48.442566, y: 16.486626}
+      - {x: 37.442566, y: 40.486626}
+      - {x: 2.442564, y: 40.486626}
+      - {x: 0.442564, y: 38.486626}
+      - {x: -0.557436, y: 36.486626}
+      - {x: -0.557436, y: 13.486625}
+      indices:
+      - 7
+      - 6
+      - 1
+      - 5
+      - 1
+      - 6
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 672d058a2663b2246817f5edffa79b4b
+timeCreated: 1706119809
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Enemy_Dumboth_Idle104x66_0
+  - first:
+      213: 21300002
+    second: Enemy_Dumboth_Idle104x66_3
+  - first:
+      213: 21300004
+    second: Enemy_Dumboth_Idle104x66_1
+  - first:
+      213: 21300006
+    second: Enemy_Dumboth_Idle104x66_2
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Idle104x66_0
+      rect:
+        serializedVersion: 2
+        x: 33.076122
+        y: 6.0761204
+        width: 52.84776
+        height: 47.887596
+      alignment: 9
+      pivot: {x: 0.3580829, y: -0.12688297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.499998, y: -24.019918}
+        - {x: -26.500002, y: -24.019918}
+        - {x: -26.500002, y: 23.980082}
+        - {x: 26.499998, y: 23.980082}
+        - {x: 26.499998, y: -12.019918}
+        - {x: 24.499998, y: -22.019918}
+      physicsShape:
+      - - {x: 19.499998, y: 20.980082}
+        - {x: 11.499998, y: 23.980082}
+        - {x: -8.500002, y: 23.980082}
+        - {x: -16.500002, y: 14.980082}
+        - {x: -22.500002, y: 3.9800816}
+        - {x: -19.500002, y: -5.0199184}
+        - {x: -26.500002, y: -16.019918}
+        - {x: -26.500002, y: -20.019918}
+        - {x: -19.500002, y: -24.019918}
+        - {x: 11.499998, y: -24.019918}
+        - {x: 20.499998, y: -19.019918}
+        - {x: 26.499998, y: -5.0199184}
+        - {x: 26.499998, y: 14.980082}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8a9295e14d44178c50e1924336702d
+      internalID: 21300000
+      vertices:
+      - {x: 60.42388, y: 77.9438}
+      - {x: 58.42388, y: 31.943798}
+      - {x: 60.42388, y: 41.943798}
+      - {x: 55.42388, y: 29.943798}
+      - {x: 7.4238796, y: 77.9438}
+      - {x: 7.4238796, y: 29.943798}
+      indices:
+      - 5
+      - 4
+      - 3
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Idle104x66_3
+      rect:
+        serializedVersion: 2
+        x: 345.0761
+        y: 6.0761204
+        width: 52.84776
+        height: 46.887596
+      alignment: 9
+      pivot: {x: 0.3580831, y: -0.12958908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.49999, y: -23.519918}
+        - {x: -26.49999, y: -22.519918}
+        - {x: -26.49999, y: 0.48008156}
+        - {x: -15.49999, y: 23.480082}
+        - {x: 23.50001, y: 23.480082}
+        - {x: 26.50001, y: 9.480082}
+        - {x: 26.50001, y: -16.519918}
+        - {x: 24.50001, y: -18.519918}
+        - {x: 13.50001, y: -21.519918}
+        - {x: 11.50001, y: -23.519918}
+      physicsShape:
+      - - {x: 26.50001, y: 1.4800816}
+        - {x: 25.50001, y: 14.480082}
+        - {x: 19.50001, y: 20.480082}
+        - {x: 11.50001, y: 23.480082}
+        - {x: -7.4999905, y: 23.480082}
+        - {x: -19.49999, y: 9.480082}
+        - {x: -21.49999, y: 3.4800816}
+        - {x: -20.49999, y: -4.5199184}
+        - {x: -26.49999, y: -13.519918}
+        - {x: -26.49999, y: -18.519918}
+        - {x: -19.49999, y: -23.519918}
+        - {x: 11.50001, y: -23.519918}
+        - {x: 13.50001, y: -21.519918}
+        - {x: 24.50001, y: -18.519918}
+        - {x: 26.50001, y: -13.519918}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2d8fc77a904f34868a5377c7153c5b
+      internalID: 21300002
+      vertices:
+      - {x: 60.42388, y: 62.443798}
+      - {x: 58.42388, y: 34.443798}
+      - {x: 60.42388, y: 36.443798}
+      - {x: 57.42388, y: 76.4438}
+      - {x: 47.42388, y: 31.443798}
+      - {x: 45.42388, y: 29.443798}
+      - {x: 18.42388, y: 76.4438}
+      - {x: 9.42388, y: 29.443798}
+      - {x: 7.4238796, y: 53.443798}
+      - {x: 7.4238796, y: 30.443798}
+      indices:
+      - 9
+      - 8
+      - 7
+      - 6
+      - 7
+      - 8
+      - 5
+      - 7
+      - 6
+      - 3
+      - 5
+      - 6
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Idle104x66_1
+      rect:
+        serializedVersion: 2
+        x: 137.07613
+        y: 6.0761204
+        width: 52.84776
+        height: 46.887596
+      alignment: 9
+      pivot: {x: 0.3580828, y: -0.12958908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.500006, y: -23.519918}
+        - {x: -26.500006, y: -20.519918}
+        - {x: -26.500006, y: -5.5199184}
+        - {x: -21.500006, y: 8.480082}
+        - {x: -9.500006, y: 23.480082}
+        - {x: 23.499994, y: 23.480082}
+        - {x: 26.499994, y: 18.480082}
+        - {x: 26.499994, y: -16.519918}
+        - {x: 21.499994, y: -23.519918}
+      physicsShape:
+      - - {x: 26.499994, y: -16.519918}
+        - {x: 26.499994, y: 7.4800816}
+        - {x: 25.499994, y: 13.480082}
+        - {x: 19.499994, y: 20.480082}
+        - {x: 12.499994, y: 23.480082}
+        - {x: -7.5000057, y: 23.480082}
+        - {x: -21.500006, y: 8.480082}
+        - {x: -21.500006, y: -3.5199184}
+        - {x: -26.500006, y: -13.519918}
+        - {x: -26.500006, y: -18.519918}
+        - {x: -23.500006, y: -21.519918}
+        - {x: -15.500006, y: -23.519918}
+        - {x: 11.499994, y: -23.519918}
+        - {x: 14.499994, y: -22.519918}
+        - {x: 23.499994, y: -17.519918}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5753a15d344bee8fa1aa273e493369
+      internalID: 21300004
+      vertices:
+      - {x: 57.42388, y: 76.4438}
+      - {x: 60.42388, y: 36.443798}
+      - {x: 60.42388, y: 71.4438}
+      - {x: 55.42388, y: 29.443798}
+      - {x: 24.42388, y: 76.4438}
+      - {x: 13.42388, y: 29.443798}
+      - {x: 12.42388, y: 61.443798}
+      - {x: 7.4238796, y: 47.443798}
+      - {x: 7.4238796, y: 32.443798}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_Idle104x66_2
+      rect:
+        serializedVersion: 2
+        x: 241.07613
+        y: 6.0761204
+        width: 53.872562
+        height: 45.887596
+      alignment: 9
+      pivot: {x: 0.3512711, y: -0.13241313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.012407, y: -23.019918}
+        - {x: -27.012407, y: -22.019918}
+        - {x: -27.012407, y: 11.980082}
+        - {x: -8.012407, y: 22.980082}
+        - {x: 24.987593, y: 22.980082}
+        - {x: 26.987593, y: 13.980082}
+        - {x: 26.987593, y: -23.019918}
+      physicsShape:
+      - - {x: 26.987593, y: -17.019918}
+        - {x: 26.987593, y: 3.9800816}
+        - {x: 24.987593, y: 12.980082}
+        - {x: 18.987593, y: 19.980082}
+        - {x: 10.987593, y: 22.980082}
+        - {x: -8.012407, y: 22.980082}
+        - {x: -22.012407, y: 7.9800816}
+        - {x: -24.012407, y: -4.0199184}
+        - {x: -27.012407, y: -12.019918}
+        - {x: -27.012407, y: -18.019918}
+        - {x: -18.012407, y: -23.019918}
+        - {x: 14.987593, y: -23.019918}
+        - {x: 18.987593, y: -18.019918}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d437f04fed488ab126a605b7c206fc
+      internalID: 21300006
+      vertices:
+      - {x: 59.93628, y: 74.9438}
+      - {x: 61.93628, y: 28.943798}
+      - {x: 61.93628, y: 65.9438}
+      - {x: 26.936281, y: 74.9438}
+      - {x: 9.936281, y: 28.943798}
+      - {x: 7.936281, y: 63.943798}
+      - {x: 7.936281, y: 29.943798}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 18979b6ea7ccdc86004681d90bf9ac05.bundle
+  assetBundleVariant:

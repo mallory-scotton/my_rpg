@@ -1,0 +1,924 @@
+fileFormatVersion: 2
+guid: b281181fdb0f54a4db046d59e35ec29c
+timeCreated: 1706119823
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: AK_boss_chest50x44_8
+  - first:
+      213: 21300002
+    second: AK_boss_chest50x44_4
+  - first:
+      213: 21300004
+    second: AK_boss_chest50x44_9
+  - first:
+      213: 21300006
+    second: AK_boss_chest50x44_1
+  - first:
+      213: 21300008
+    second: AK_boss_chest50x44_5
+  - first:
+      213: 21300010
+    second: AK_boss_chest50x44_7
+  - first:
+      213: 21300012
+    second: AK_boss_chest50x44_11
+  - first:
+      213: 21300014
+    second: AK_boss_chest50x44_3
+  - first:
+      213: 21300016
+    second: AK_boss_chest50x44_10
+  - first:
+      213: 21300018
+    second: AK_boss_chest50x44_2
+  - first:
+      213: 21300020
+    second: AK_boss_chest50x44_6
+  - first:
+      213: 21300022
+    second: AK_boss_chest50x44_0
+  - first:
+      213: 21300024
+    second: AK_boss_chest50x44_12
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AK_boss_chest50x44_8
+      rect:
+        serializedVersion: 2
+        x: 400.0761
+        y: 0
+        width: 49.847755
+        height: 33.973248
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.999989, y: -16.986624}
+        - {x: -24.999989, y: -15.986624}
+        - {x: -24.999989, y: 16.013376}
+        - {x: -11.999989, y: 17.013376}
+        - {x: 19.000011, y: 17.013376}
+        - {x: 25.000011, y: 16.013376}
+        - {x: 25.000011, y: -16.986624}
+      physicsShape:
+      - - {x: -24.999989, y: -15.986624}
+        - {x: -23.999989, y: -16.986624}
+        - {x: 25.000011, y: -16.986624}
+        - {x: 25.000011, y: 16.013376}
+        - {x: 19.000011, y: 17.013376}
+        - {x: -11.999989, y: 17.013376}
+        - {x: -24.999989, y: 16.013376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41804160c31430894a02b451da6afc7
+      internalID: 21300000
+      vertices:
+      - {x: 43.923878, y: 50.986626}
+      - {x: 49.923878, y: 16.986624}
+      - {x: 49.923878, y: 49.986626}
+      - {x: 12.923878, y: 50.986626}
+      - {x: 0.9238777, y: 16.986624}
+      - {x: -0.076122284, y: 49.986626}
+      - {x: -0.076122284, y: 17.986624}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss_chest50x44_4
+      rect:
+        serializedVersion: 2
+        x: 200.07613
+        y: 0
+        width: 49.847755
+        height: 39.923878
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.999996, y: -19.961939}
+        - {x: -25.000004, y: -19.961939}
+        - {x: -25.000004, y: 14.038061}
+        - {x: -23.000004, y: 20.038061}
+        - {x: 9.999996, y: 20.038061}
+        - {x: 24.999996, y: 12.038061}
+        - {x: 24.999996, y: -15.961939}
+      physicsShape:
+      - - {x: -23.000004, y: 20.038061}
+        - {x: -25.000004, y: 14.038061}
+        - {x: -25.000004, y: -19.961939}
+        - {x: 21.999996, y: -19.961939}
+        - {x: 24.999996, y: -15.961939}
+        - {x: 24.999996, y: 12.038061}
+        - {x: 9.999996, y: 20.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009be83373a94a99a81f1efbbcac9a20
+      internalID: 21300002
+      vertices:
+      - {x: 49.923878, y: 51.961937}
+      - {x: 46.923878, y: 19.961939}
+      - {x: 49.923878, y: 23.961939}
+      - {x: 34.923878, y: 59.961937}
+      - {x: 1.9238777, y: 59.961937}
+      - {x: -0.076122284, y: 53.961937}
+      - {x: -0.076122284, y: 19.961939}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss_chest50x44_9
+      rect:
+        serializedVersion: 2
+        x: 450.0761
+        y: 0
+        width: 49.847755
+        height: 33.973248
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.999989, y: -16.986624}
+        - {x: -24.999989, y: -15.986624}
+        - {x: -24.999989, y: 16.013376}
+        - {x: -11.999989, y: 17.013376}
+        - {x: 19.000011, y: 17.013376}
+        - {x: 25.000011, y: 16.013376}
+        - {x: 25.000011, y: -16.986624}
+      physicsShape:
+      - - {x: -24.999989, y: -15.986624}
+        - {x: -23.999989, y: -16.986624}
+        - {x: 25.000011, y: -16.986624}
+        - {x: 25.000011, y: 16.013376}
+        - {x: 19.000011, y: 17.013376}
+        - {x: -11.999989, y: 17.013376}
+        - {x: -24.999989, y: 16.013376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729deffd6ea649b4b506dae3000b98cd
+      internalID: 21300004
+      vertices:
+      - {x: 43.923878, y: 50.986626}
+      - {x: 49.923878, y: 16.986624}
+      - {x: 49.923878, y: 49.986626}
+      - {x: 12.923878, y: 50.986626}
+      - {x: 0.9238777, y: 16.986624}
+      - {x: -0.076122284, y: 49.986626}
+      - {x: -0.076122284, y: 17.986624}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss_chest50x44_1
+      rect:
+        serializedVersion: 2
+        x: 50.076122
+        y: 0
+        width: 49.847755
+        height: 33.973248
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -16.986624}
+        - {x: -25, y: -15.986624}
+        - {x: -25, y: 16.013376}
+        - {x: -12, y: 17.013376}
+        - {x: 19, y: 17.013376}
+        - {x: 25, y: 16.013376}
+        - {x: 25, y: -16.986624}
+      physicsShape:
+      - - {x: -25, y: -15.986624}
+        - {x: -24, y: -16.986624}
+        - {x: 25, y: -16.986624}
+        - {x: 25, y: 16.013376}
+        - {x: 19, y: 17.013376}
+        - {x: -12, y: 17.013376}
+        - {x: -25, y: 16.013376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f31910db2b4a45b3d6ad8701b27a54
+      internalID: 21300006
+      vertices:
+      - {x: 43.923878, y: 50.986626}
+      - {x: 49.923878, y: 16.986624}
+      - {x: 49.923878, y: 49.986626}
+      - {x: 12.923878, y: 50.986626}
+      - {x: 0.9238777, y: 16.986624}
+      - {x: -0.076122284, y: 49.986626}
+      - {x: -0.076122284, y: 17.986624}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss_chest50x44_5
+      rect:
+        serializedVersion: 2
+        x: 252.07613
+        y: 0
+        width: 45.847755
+        height: 41.923878
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.000004, y: -20.961939}
+        - {x: -23.000004, y: -16.961939}
+        - {x: -23.000004, y: 15.038061}
+        - {x: -10.000004, y: 21.038061}
+        - {x: 13.999996, y: 21.038061}
+        - {x: 22.999996, y: 14.038061}
+        - {x: 22.999996, y: -17.961939}
+        - {x: 19.999996, y: -20.961939}
+      physicsShape:
+      - - {x: -10.000004, y: 21.038061}
+        - {x: -23.000004, y: 15.038061}
+        - {x: -23.000004, y: -16.961939}
+        - {x: -19.000004, y: -20.961939}
+        - {x: 19.999996, y: -20.961939}
+        - {x: 22.999996, y: -17.961939}
+        - {x: 22.999996, y: 14.038061}
+        - {x: 13.999996, y: 21.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a218bd843e74503a2c96fc956bb3b5c
+      internalID: 21300008
+      vertices:
+      - {x: 45.923878, y: 55.961937}
+      - {x: 42.923878, y: 20.961939}
+      - {x: 45.923878, y: 23.961939}
+      - {x: 36.923878, y: 62.961937}
+      - {x: 12.923878, y: 62.961937}
+      - {x: 3.9238777, y: 20.961939}
+      - {x: -0.076122284, y: 56.961937}
+      - {x: -0.076122284, y: 24.961939}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss_chest50x44_7
+      rect:
+        serializedVersion: 2
+        x: 350.0761
+        y: 0
+        width: 49.847755
+        height: 33.973248
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.999989, y: -16.986624}
+        - {x: -24.999989, y: -15.986624}
+        - {x: -24.999989, y: 16.013376}
+        - {x: -11.999989, y: 17.013376}
+        - {x: 19.000011, y: 17.013376}
+        - {x: 25.000011, y: 16.013376}
+        - {x: 25.000011, y: -16.986624}
+      physicsShape:
+      - - {x: -24.999989, y: -15.986624}
+        - {x: -23.999989, y: -16.986624}
+        - {x: 25.000011, y: -16.986624}
+        - {x: 25.000011, y: 16.013376}
+        - {x: 19.000011, y: 17.013376}
+        - {x: -11.999989, y: 17.013376}
+        - {x: -24.999989, y: 16.013376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0acbebdf6648288fdc178b450f9bfb
+      internalID: 21300010
+      vertices:
+      - {x: 43.923878, y: 50.986626}
+      - {x: 49.923878, y: 16.986624}
+      - {x: 49.923878, y: 49.986626}
+      - {x: 12.923878, y: 50.986626}
+      - {x: 0.9238777, y: 16.986624}
+      - {x: -0.076122284, y: 49.986626}
+      - {x: -0.076122284, y: 17.986624}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss_chest50x44_11
+      rect:
+        serializedVersion: 2
+        x: 550.0761
+        y: 0
+        width: 49.847755
+        height: 33.973248
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.999989, y: -16.986624}
+        - {x: -24.999989, y: -15.986624}
+        - {x: -24.999989, y: 16.013376}
+        - {x: -11.999989, y: 17.013376}
+        - {x: 19.000011, y: 17.013376}
+        - {x: 25.000011, y: 16.013376}
+        - {x: 25.000011, y: -16.986624}
+      physicsShape:
+      - - {x: -24.999989, y: -15.986624}
+        - {x: -23.999989, y: -16.986624}
+        - {x: 25.000011, y: -16.986624}
+        - {x: 25.000011, y: 16.013376}
+        - {x: 19.000011, y: 17.013376}
+        - {x: -11.999989, y: 17.013376}
+        - {x: -24.999989, y: 16.013376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d483925ad6854d50a13138d7812eb78f
+      internalID: 21300012
+      vertices:
+      - {x: 43.923878, y: 50.986626}
+      - {x: 49.923878, y: 16.986624}
+      - {x: 49.923878, y: 49.986626}
+      - {x: 12.923878, y: 50.986626}
+      - {x: 0.9238777, y: 16.986624}
+      - {x: -0.076122284, y: 49.986626}
+      - {x: -0.076122284, y: 17.986624}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss_chest50x44_3
+      rect:
+        serializedVersion: 2
+        x: 150.07613
+        y: 3.0761204
+        width: 49.847755
+        height: 39.887596
+      alignment: 9
+      pivot: {x: 0.4999999, y: -0.07711972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.000004, y: -20.019918}
+        - {x: -25.000004, y: -19.019918}
+        - {x: -25.000004, y: 9.980082}
+        - {x: -24.000004, y: 12.980082}
+        - {x: -17.000004, y: 19.980082}
+        - {x: 12.999996, y: 19.980082}
+        - {x: 24.999996, y: 15.980082}
+        - {x: 24.999996, y: -20.019918}
+      physicsShape:
+      - - {x: -17.000004, y: 19.980082}
+        - {x: -24.000004, y: 12.980082}
+        - {x: -25.000004, y: 9.980082}
+        - {x: -25.000004, y: -19.019918}
+        - {x: -24.000004, y: -20.019918}
+        - {x: 24.999996, y: -20.019918}
+        - {x: 24.999996, y: 15.980082}
+        - {x: 12.999996, y: 19.980082}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f24ea883f15415aa41b9f14d11ab045
+      internalID: 21300014
+      vertices:
+      - {x: 37.923878, y: 62.943798}
+      - {x: 49.923878, y: 22.943798}
+      - {x: 49.923878, y: 58.943798}
+      - {x: 7.9238777, y: 62.943798}
+      - {x: 0.9238777, y: 55.943798}
+      - {x: 0.9238777, y: 22.943798}
+      - {x: -0.076122284, y: 52.943798}
+      - {x: -0.076122284, y: 23.943798}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss_chest50x44_10
+      rect:
+        serializedVersion: 2
+        x: 500.0761
+        y: 0
+        width: 49.847755
+        height: 33.973248
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.999989, y: -16.986624}
+        - {x: -24.999989, y: -15.986624}
+        - {x: -24.999989, y: 16.013376}
+        - {x: -11.999989, y: 17.013376}
+        - {x: 19.000011, y: 17.013376}
+        - {x: 25.000011, y: 16.013376}
+        - {x: 25.000011, y: -16.986624}
+      physicsShape:
+      - - {x: -24.999989, y: -15.986624}
+        - {x: -23.999989, y: -16.986624}
+        - {x: 25.000011, y: -16.986624}
+        - {x: 25.000011, y: 16.013376}
+        - {x: 19.000011, y: 17.013376}
+        - {x: -11.999989, y: 17.013376}
+        - {x: -24.999989, y: 16.013376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c3bdc25b304f198d8204264f194336
+      internalID: 21300016
+      vertices:
+      - {x: 43.923878, y: 50.986626}
+      - {x: 49.923878, y: 16.986624}
+      - {x: 49.923878, y: 49.986626}
+      - {x: 12.923878, y: 50.986626}
+      - {x: 0.9238777, y: 16.986624}
+      - {x: -0.076122284, y: 49.986626}
+      - {x: -0.076122284, y: 17.986624}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss_chest50x44_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 50
+        height: 31.97325
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -15.986625}
+        - {x: -25, y: -12.986625}
+        - {x: -25, y: 14.013375}
+        - {x: -9, y: 16.013374}
+        - {x: 17, y: 16.013374}
+        - {x: 25, y: 13.013375}
+        - {x: 25, y: -12.986625}
+        - {x: 20, y: -15.986625}
+      physicsShape:
+      - - {x: -9, y: 16.013374}
+        - {x: -25, y: 14.013375}
+        - {x: -25, y: -12.986625}
+        - {x: -21, y: -15.986625}
+        - {x: 20, y: -15.986625}
+        - {x: 25, y: -12.986625}
+        - {x: 25, y: 13.013375}
+        - {x: 17, y: 16.013374}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6de49a539b42c58da6b024e678e792
+      internalID: 21300018
+      vertices:
+      - {x: 50, y: 44.986626}
+      - {x: 45, y: 15.986625}
+      - {x: 50, y: 18.986626}
+      - {x: 42, y: 47.986626}
+      - {x: 16, y: 47.986626}
+      - {x: 4, y: 15.986625}
+      - {x: 0, y: 45.986626}
+      - {x: 0, y: 18.986626}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss_chest50x44_6
+      rect:
+        serializedVersion: 2
+        x: 300.0761
+        y: 0
+        width: 49.847755
+        height: 33.973248
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.999989, y: -16.986624}
+        - {x: -24.999989, y: -15.986624}
+        - {x: -24.999989, y: 16.013376}
+        - {x: -11.999989, y: 17.013376}
+        - {x: 19.000011, y: 17.013376}
+        - {x: 25.000011, y: 16.013376}
+        - {x: 25.000011, y: -16.986624}
+      physicsShape:
+      - - {x: -24.999989, y: -15.986624}
+        - {x: -23.999989, y: -16.986624}
+        - {x: 25.000011, y: -16.986624}
+        - {x: 25.000011, y: 16.013376}
+        - {x: 19.000011, y: 17.013376}
+        - {x: -11.999989, y: 17.013376}
+        - {x: -24.999989, y: 16.013376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96393fbaa77c4822af0ee3e0d1db7a1f
+      internalID: 21300020
+      vertices:
+      - {x: 43.923878, y: 50.986626}
+      - {x: 49.923878, y: 16.986624}
+      - {x: 49.923878, y: 49.986626}
+      - {x: 12.923878, y: 50.986626}
+      - {x: 0.9238777, y: 16.986624}
+      - {x: -0.076122284, y: 49.986626}
+      - {x: -0.076122284, y: 17.986624}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss_chest50x44_0
+      rect:
+        serializedVersion: 2
+        x: 0.076120496
+        y: 0
+        width: 49.847755
+        height: 33.973248
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.999996, y: -16.986624}
+        - {x: -24.999996, y: -15.986624}
+        - {x: -24.999996, y: 16.013376}
+        - {x: -11.999996, y: 17.013376}
+        - {x: 19.000004, y: 17.013376}
+        - {x: 25.000004, y: 16.013376}
+        - {x: 25.000004, y: -16.986624}
+      physicsShape:
+      - - {x: -24.999996, y: -15.986624}
+        - {x: -23.999996, y: -16.986624}
+        - {x: 25.000004, y: -16.986624}
+        - {x: 25.000004, y: 16.013376}
+        - {x: 19.000004, y: 17.013376}
+        - {x: -11.999996, y: 17.013376}
+        - {x: -24.999996, y: 16.013376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80acd9ab60245cc89afad2e563575a5
+      internalID: 21300022
+      vertices:
+      - {x: 43.923878, y: 50.986626}
+      - {x: 49.923878, y: 16.986624}
+      - {x: 49.923878, y: 49.986626}
+      - {x: 12.923878, y: 50.986626}
+      - {x: 0.9238777, y: 16.986624}
+      - {x: -0.076122284, y: 49.986626}
+      - {x: -0.076122284, y: 17.986624}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss_chest50x44_12
+      rect:
+        serializedVersion: 2
+        x: 600.0761
+        y: 0
+        width: 49.847755
+        height: 33.973248
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.999989, y: -16.986624}
+        - {x: -24.999989, y: -15.986624}
+        - {x: -24.999989, y: 16.013376}
+        - {x: -11.999989, y: 17.013376}
+        - {x: 19.000011, y: 17.013376}
+        - {x: 25.000011, y: 16.013376}
+        - {x: 25.000011, y: -16.986624}
+      physicsShape:
+      - - {x: -24.999989, y: -15.986624}
+        - {x: -23.999989, y: -16.986624}
+        - {x: 25.000011, y: -16.986624}
+        - {x: 25.000011, y: 16.013376}
+        - {x: 19.000011, y: 17.013376}
+        - {x: -11.999989, y: 17.013376}
+        - {x: -24.999989, y: 16.013376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2fb44a31164383a9e366f9cc0f14f5
+      internalID: 21300024
+      vertices:
+      - {x: 43.923878, y: 50.986626}
+      - {x: 49.923878, y: 16.986624}
+      - {x: 49.923878, y: 49.986626}
+      - {x: 12.923878, y: 50.986626}
+      - {x: 0.9238777, y: 16.986624}
+      - {x: -0.076122284, y: 49.986626}
+      - {x: -0.076122284, y: 17.986624}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 65827e5843426b7463705ba31aebab29.bundle
+  assetBundleVariant:

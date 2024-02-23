@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 4efab3317d8eb0346ae591d9e337097d
+timeCreated: 1706119827
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SW_tortoise_grenade_attack_end_HEAD-Sheet142x124_7
+  - first:
+      213: 21300002
+    second: SW_tortoise_grenade_attack_end_HEAD-Sheet142x124_8
+  - first:
+      213: 21300004
+    second: SW_tortoise_grenade_attack_end_HEAD-Sheet142x124_1
+  - first:
+      213: 21300006
+    second: SW_tortoise_grenade_attack_end_HEAD-Sheet142x124_2
+  - first:
+      213: 21300008
+    second: SW_tortoise_grenade_attack_end_HEAD-Sheet142x124_4
+  - first:
+      213: 21300010
+    second: SW_tortoise_grenade_attack_end_HEAD-Sheet142x124_0
+  - first:
+      213: 21300012
+    second: SW_tortoise_grenade_attack_end_HEAD-Sheet142x124_6
+  - first:
+      213: 21300014
+    second: SW_tortoise_grenade_attack_end_HEAD-Sheet142x124_5
+  - first:
+      213: 21300016
+    second: SW_tortoise_grenade_attack_end_HEAD-Sheet142x124_3
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SW_tortoise_grenade_attack_end_HEAD-Sheet142x124_7
+      rect:
+        serializedVersion: 2
+        x: 1046.0762
+        y: 9.026751
+        width: 49.84776
+        height: 46.897125
+      alignment: 9
+      pivot: {x: 0.37963247, y: -0.19247983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.0000515, y: -23.475311}
+        - {x: -25.000051, y: -15.475311}
+        - {x: -25.000051, y: 9.524689}
+        - {x: -5.0000515, y: 23.524689}
+        - {x: 7.9999485, y: 23.524689}
+        - {x: 24.999949, y: 7.5246887}
+        - {x: 24.999949, y: -3.4753113}
+        - {x: 12.9999485, y: -23.475311}
+      physicsShape:
+      - - {x: -5.0000515, y: 23.524689}
+        - {x: -25.000051, y: 9.524689}
+        - {x: -25.000051, y: -15.475311}
+        - {x: -8.0000515, y: -23.475311}
+        - {x: 12.9999485, y: -23.475311}
+        - {x: 24.999949, y: -3.4753113}
+        - {x: 24.999949, y: 7.5246887}
+        - {x: 7.9999485, y: 23.524689}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321832514eea4c60a94a1bc5b07dadd1
+      internalID: 21300000
+      vertices:
+      - {x: 55.92388, y: 63.448563}
+      - {x: 43.92388, y: 32.448563}
+      - {x: 55.92388, y: 52.448563}
+      - {x: 38.92388, y: 79.44856}
+      - {x: 25.92388, y: 79.44856}
+      - {x: 22.92388, y: 32.448563}
+      - {x: 5.9238796, y: 65.44856}
+      - {x: 5.9238796, y: 40.448563}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_grenade_attack_end_HEAD-Sheet142x124_8
+      rect:
+        serializedVersion: 2
+        x: 1188.0762
+        y: 10.026751
+        width: 49.84776
+        height: 48.897125
+      alignment: 9
+      pivot: {x: 0.37963247, y: -0.20505808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.0000515, y: -24.475311}
+        - {x: -25.000051, y: -10.475311}
+        - {x: -25.000051, y: 6.5246887}
+        - {x: -9.0000515, y: 24.524689}
+        - {x: 7.9999485, y: 24.524689}
+        - {x: 24.999949, y: 15.524689}
+        - {x: 24.999949, y: -9.475311}
+        - {x: 6.9999485, y: -24.475311}
+      physicsShape:
+      - - {x: -9.0000515, y: 24.524689}
+        - {x: -25.000051, y: 6.5246887}
+        - {x: -25.000051, y: -8.475311}
+        - {x: -10.0000515, y: -24.475311}
+        - {x: 6.9999485, y: -24.475311}
+        - {x: 24.999949, y: -4.4753113}
+        - {x: 24.999949, y: 15.524689}
+        - {x: 7.9999485, y: 24.524689}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7d50b185774358ae0038212cc3da0b
+      internalID: 21300002
+      vertices:
+      - {x: 38.92388, y: 83.44856}
+      - {x: 55.92388, y: 49.448563}
+      - {x: 55.92388, y: 74.44856}
+      - {x: 37.92388, y: 34.448563}
+      - {x: 21.92388, y: 83.44856}
+      - {x: 16.92388, y: 34.448563}
+      - {x: 5.9238796, y: 65.44856}
+      - {x: 5.9238796, y: 48.448563}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_grenade_attack_end_HEAD-Sheet142x124_1
+      rect:
+        serializedVersion: 2
+        x: 204.07613
+        y: 33.051315
+        width: 51.84776
+        height: 50.921936
+      alignment: 9
+      pivot: {x: 0.17211686, y: -0.6490585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.000006, y: -25.512283}
+        - {x: -26.000006, y: -22.512283}
+        - {x: -26.000006, y: 9.487717}
+        - {x: -12.000006, y: 25.487717}
+        - {x: 18.999994, y: 25.487717}
+        - {x: 25.999994, y: 20.487717}
+        - {x: 25.999994, y: -11.512283}
+        - {x: 21.999994, y: -25.512283}
+      physicsShape:
+      - - {x: 14.999994, y: 25.487717}
+        - {x: -2.0000057, y: 25.487717}
+        - {x: -17.000006, y: 16.487717}
+        - {x: -26.000006, y: -2.5122833}
+        - {x: -26.000006, y: -22.512283}
+        - {x: -14.000006, y: -25.512283}
+        - {x: 6.9999943, y: -25.512283}
+        - {x: 16.999994, y: -20.512283}
+        - {x: 25.999994, y: -9.512283}
+        - {x: 25.999994, y: 14.487717}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b501704550cd4e8c86bafb588b7cb2ba
+      internalID: 21300004
+      vertices:
+      - {x: 68.92388, y: 104.46097}
+      - {x: 64.92388, y: 58.460968}
+      - {x: 68.92388, y: 72.46097}
+      - {x: 61.92388, y: 109.46097}
+      - {x: 30.92388, y: 109.46097}
+      - {x: 28.92388, y: 58.460968}
+      - {x: 16.92388, y: 93.46097}
+      - {x: 16.92388, y: 61.460968}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_grenade_attack_end_HEAD-Sheet142x124_2
+      rect:
+        serializedVersion: 2
+        x: 342.0761
+        y: 22.02675
+        width: 53.89713
+        height: 47.897133
+      alignment: 9
+      pivot: {x: 0.23978809, y: -0.45987618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.024675, y: -21.975319}
+        - {x: -27.024675, y: -8.975319}
+        - {x: -27.024675, y: 8.024681}
+        - {x: -10.024675, y: 24.024681}
+        - {x: 13.975325, y: 24.024681}
+        - {x: 26.975325, y: 16.024681}
+        - {x: 26.975325, y: 2.024681}
+        - {x: 22.975325, y: -12.975319}
+        - {x: 11.975325, y: -23.975319}
+        - {x: -4.0246754, y: -23.975319}
+      physicsShape:
+      - - {x: 26.975325, y: 16.024681}
+        - {x: 13.975325, y: 24.024681}
+        - {x: -10.024675, y: 24.024681}
+        - {x: -21.024675, y: 13.024681}
+        - {x: -27.024675, y: 3.024681}
+        - {x: -27.024675, y: -5.975319}
+        - {x: -18.024675, y: -17.975319}
+        - {x: 2.9753246, y: -23.975319}
+        - {x: 11.975325, y: -23.975319}
+        - {x: 22.975325, y: -12.975319}
+        - {x: 26.975325, y: 7.024681}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5359d1d5112471e889c1c61f6d62fa7
+      internalID: 21300006
+      vertices:
+      - {x: 67.94856, y: 85.94856}
+      - {x: 63.948563, y: 56.948566}
+      - {x: 67.94856, y: 71.94856}
+      - {x: 54.948563, y: 93.94856}
+      - {x: 52.948563, y: 45.948566}
+      - {x: 36.948563, y: 45.948566}
+      - {x: 30.948565, y: 93.94856}
+      - {x: 20.948565, y: 47.948566}
+      - {x: 13.948565, y: 77.94856}
+      - {x: 13.948565, y: 60.948566}
+      indices:
+      - 9
+      - 8
+      - 7
+      - 6
+      - 7
+      - 8
+      - 5
+      - 7
+      - 6
+      - 3
+      - 5
+      - 6
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_grenade_attack_end_HEAD-Sheet142x124_4
+      rect:
+        serializedVersion: 2
+        x: 611.0761
+        y: 12.026751
+        width: 49.84776
+        height: 48.897125
+      alignment: 9
+      pivot: {x: 0.56018347, y: -0.24596028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.999989, y: -24.475311}
+        - {x: -24.999989, y: -4.4753113}
+        - {x: -24.999989, y: 13.524689}
+        - {x: -6.9999886, y: 24.524689}
+        - {x: 3.0000114, y: 24.524689}
+        - {x: 20.000011, y: 16.524689}
+        - {x: 25.000011, y: 6.5246887}
+        - {x: 25.000011, y: -4.4753113}
+        - {x: 4.0000114, y: -24.475311}
+      physicsShape:
+      - - {x: 3.0000114, y: 24.524689}
+        - {x: -6.9999886, y: 24.524689}
+        - {x: -24.999989, y: 13.524689}
+        - {x: -24.999989, y: -4.4753113}
+        - {x: -11.999989, y: -24.475311}
+        - {x: 4.0000114, y: -24.475311}
+        - {x: 25.000011, y: -4.4753113}
+        - {x: 25.000011, y: 6.5246887}
+        - {x: 20.000011, y: 16.524689}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cc66d860ca44a0af6a957d50f6994d
+      internalID: 21300008
+      vertices:
+      - {x: 41.92388, y: 77.44856}
+      - {x: 46.92388, y: 56.448563}
+      - {x: 46.92388, y: 67.44856}
+      - {x: 25.92388, y: 36.448563}
+      - {x: 24.92388, y: 85.44856}
+      - {x: 14.92388, y: 85.44856}
+      - {x: 9.92388, y: 36.448563}
+      - {x: -3.0761204, y: 74.44856}
+      - {x: -3.0761204, y: 56.448563}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_grenade_attack_end_HEAD-Sheet142x124_0
+      rect:
+        serializedVersion: 2
+        x: 62.076122
+        y: 36.051315
+        width: 53.88097
+        height: 68.921936
+      alignment: 9
+      pivot: {x: 0.16562207, y: -0.5230746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.016607, y: -34.512283}
+        - {x: -27.016607, y: -29.512283}
+        - {x: -27.016607, y: 6.4877167}
+        - {x: -23.016607, y: 21.487717}
+        - {x: 1.9833927, y: 34.487717}
+        - {x: 22.983393, y: 34.487717}
+        - {x: 26.983393, y: 25.487717}
+        - {x: 26.983393, y: -15.512283}
+        - {x: 4.9833927, y: -34.512283}
+      physicsShape:
+      - - {x: 16.983393, y: 34.487717}
+        - {x: 1.9833927, y: 34.487717}
+        - {x: -21.016607, y: 19.487717}
+        - {x: -27.016607, y: 1.4877167}
+        - {x: -27.016607, y: -29.512283}
+        - {x: -19.016607, y: -34.512283}
+        - {x: 0.9833927, y: -34.512283}
+        - {x: 9.983393, y: -30.512283}
+        - {x: 26.983393, y: -7.5122833}
+        - {x: 26.983393, y: 17.487717}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d61fa673af04a66a2b9b410119162f7
+      internalID: 21300010
+      vertices:
+      - {x: 67.94048, y: 139.46097}
+      - {x: 71.94048, y: 89.46097}
+      - {x: 71.94048, y: 130.46097}
+      - {x: 49.940483, y: 70.46097}
+      - {x: 46.940483, y: 139.46097}
+      - {x: 25.940485, y: 70.46097}
+      - {x: 21.940485, y: 126.46097}
+      - {x: 17.940485, y: 111.46097}
+      - {x: 17.940485, y: 75.46097}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_grenade_attack_end_HEAD-Sheet142x124_6
+      rect:
+        serializedVersion: 2
+        x: 900.0761
+        y: 7.026751
+        width: 49.84776
+        height: 48.897125
+      alignment: 9
+      pivot: {x: 0.45987803, y: -0.14370479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.9999905, y: -24.475313}
+        - {x: -24.99999, y: -13.475313}
+        - {x: -24.99999, y: 9.524687}
+        - {x: -5.9999905, y: 24.524687}
+        - {x: 3.0000095, y: 24.524687}
+        - {x: 20.00001, y: 16.524687}
+        - {x: 25.00001, y: 6.524687}
+        - {x: 25.00001, y: -5.475313}
+        - {x: 8.00001, y: -24.475313}
+      physicsShape:
+      - - {x: 3.0000095, y: 24.524687}
+        - {x: -5.9999905, y: 24.524687}
+        - {x: -24.99999, y: 9.524687}
+        - {x: -24.99999, y: -13.475313}
+        - {x: -7.9999905, y: -24.475313}
+        - {x: 8.00001, y: -24.475313}
+        - {x: 25.00001, y: -5.475313}
+        - {x: 25.00001, y: 6.524687}
+        - {x: 20.00001, y: 16.524687}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01c23b7541c41ac99a94f4b0e431b03
+      internalID: 21300012
+      vertices:
+      - {x: 46.92388, y: 72.44856}
+      - {x: 51.92388, y: 50.448563}
+      - {x: 51.92388, y: 62.448563}
+      - {x: 34.92388, y: 31.448563}
+      - {x: 29.92388, y: 80.44856}
+      - {x: 20.92388, y: 80.44856}
+      - {x: 18.92388, y: 31.448563}
+      - {x: 1.9238796, y: 65.44856}
+      - {x: 1.9238796, y: 42.448563}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_grenade_attack_end_HEAD-Sheet142x124_5
+      rect:
+        serializedVersion: 2
+        x: 756.0761
+        y: 8.026751
+        width: 49.84776
+        height: 49.897125
+      alignment: 9
+      pivot: {x: 0.5000002, y: -0.16086599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.99999, y: -24.975311}
+        - {x: -24.99999, y: -6.9753113}
+        - {x: -24.99999, y: 16.024689}
+        - {x: -5.9999905, y: 25.024689}
+        - {x: 7.0000095, y: 25.024689}
+        - {x: 25.00001, y: 11.024689}
+        - {x: 25.00001, y: -3.9753113}
+        - {x: 6.0000095, y: -24.975311}
+      physicsShape:
+      - - {x: -5.9999905, y: 25.024689}
+        - {x: -24.99999, y: 16.024689}
+        - {x: -24.99999, y: -6.9753113}
+        - {x: -14.99999, y: -24.975311}
+        - {x: 6.0000095, y: -24.975311}
+        - {x: 25.00001, y: -3.9753113}
+        - {x: 25.00001, y: 11.024689}
+        - {x: 7.0000095, y: 25.024689}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c7dc6e30b147f6b0af520a8345c000
+      internalID: 21300014
+      vertices:
+      - {x: 31.92388, y: 82.94856}
+      - {x: 49.92388, y: 53.948563}
+      - {x: 49.92388, y: 68.94856}
+      - {x: 30.92388, y: 32.948563}
+      - {x: 18.92388, y: 82.94856}
+      - {x: 9.92388, y: 32.948563}
+      - {x: -0.07612038, y: 73.94856}
+      - {x: -0.07612038, y: 50.948563}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_grenade_attack_end_HEAD-Sheet142x124_3
+      rect:
+        serializedVersion: 2
+        x: 477.02676
+        y: 10.051316
+        width: 46.9465
+        height: 50.872562
+      alignment: 9
+      pivot: {x: 0.42544678, y: -0.19757834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.500013, y: -14.487598}
+        - {x: -23.500013, y: -10.487598}
+        - {x: -23.500013, y: 14.512402}
+        - {x: -10.500013, y: 25.512402}
+        - {x: 10.499987, y: 25.512402}
+        - {x: 21.499987, y: 22.512402}
+        - {x: 23.499987, y: 18.512402}
+        - {x: 23.499987, y: -7.4875984}
+        - {x: 13.499987, y: -25.487598}
+        - {x: -4.5000134, y: -25.487598}
+      physicsShape:
+      - - {x: 10.499987, y: 25.512402}
+        - {x: -10.500013, y: 25.512402}
+        - {x: -23.500013, y: 14.512402}
+        - {x: -23.500013, y: -1.4875984}
+        - {x: -19.500013, y: -12.487598}
+        - {x: -6.5000134, y: -24.487598}
+        - {x: -3.5000134, y: -25.487598}
+        - {x: 10.499987, y: -25.487598}
+        - {x: 23.499987, y: -5.4875984}
+        - {x: 23.499987, y: 18.512402}
+        - {x: 21.499987, y: 22.512402}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd94ccb3ff34d9a8a388b650eb9e813
+      internalID: 21300016
+      vertices:
+      - {x: 48.47325, y: 83.43628}
+      - {x: 50.47325, y: 53.43628}
+      - {x: 50.47325, y: 79.43628}
+      - {x: 40.47325, y: 35.43628}
+      - {x: 37.47325, y: 86.43628}
+      - {x: 22.47325, y: 35.43628}
+      - {x: 16.47325, y: 86.43628}
+      - {x: 4.4732494, y: 46.43628}
+      - {x: 3.4732494, y: 75.43628}
+      - {x: 3.4732494, y: 50.43628}
+      indices:
+      - 9
+      - 8
+      - 7
+      - 6
+      - 7
+      - 8
+      - 5
+      - 7
+      - 6
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

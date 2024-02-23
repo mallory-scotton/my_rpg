@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: 1f5893c0ce0dea54898086a3d183e490
+timeCreated: 1706119842
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GN_blackTeaField_candle18x25_7
+  - first:
+      213: 21300002
+    second: GN_blackTeaField_candle18x25_10
+  - first:
+      213: 21300004
+    second: GN_blackTeaField_candle18x25_11
+  - first:
+      213: 21300006
+    second: GN_blackTeaField_candle18x25_14
+  - first:
+      213: 21300008
+    second: GN_blackTeaField_candle18x25_5
+  - first:
+      213: 21300010
+    second: GN_blackTeaField_candle18x25_4
+  - first:
+      213: 21300012
+    second: GN_blackTeaField_candle18x25_2
+  - first:
+      213: 21300014
+    second: GN_blackTeaField_candle18x25_3
+  - first:
+      213: 21300016
+    second: GN_blackTeaField_candle18x25_9
+  - first:
+      213: 21300018
+    second: GN_blackTeaField_candle18x25_0
+  - first:
+      213: 21300020
+    second: GN_blackTeaField_candle18x25_13
+  - first:
+      213: 21300022
+    second: GN_blackTeaField_candle18x25_8
+  - first:
+      213: 21300024
+    second: GN_blackTeaField_candle18x25_1
+  - first:
+      213: 21300026
+    second: GN_blackTeaField_candle18x25_12
+  - first:
+      213: 21300028
+    second: GN_blackTeaField_candle18x25_15
+  - first:
+      213: 21300030
+    second: GN_blackTeaField_candle18x25_6
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GN_blackTeaField_candle18x25_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -12.5}
+        - {x: -9, y: 12.5}
+        - {x: 9, y: 12.5}
+        - {x: 9, y: -12.5}
+      physicsShape:
+      - - {x: 3, y: 12.5}
+        - {x: -6, y: 12.5}
+        - {x: -8, y: 6.5}
+        - {x: -8, y: -9.5}
+        - {x: -3, y: -12.5}
+        - {x: 3, y: -12.5}
+        - {x: 7, y: -8.5}
+        - {x: 7, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331091bb0e234135b6a3e4d52b3d090e
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 37.5}
+      - {x: 18, y: 37.5}
+      - {x: 0, y: 12.5}
+      - {x: 18, y: 12.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_blackTeaField_candle18x25_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -12.5}
+        - {x: -9, y: 12.5}
+        - {x: 9, y: 12.5}
+        - {x: 9, y: -12.5}
+      physicsShape:
+      - - {x: -3, y: 12.5}
+        - {x: -8, y: 2.5}
+        - {x: -8, y: -9.5}
+        - {x: -3, y: -12.5}
+        - {x: 3, y: -12.5}
+        - {x: 7, y: -11.5}
+        - {x: 7, y: 6.5}
+        - {x: 6, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce4787ad6d548da8a441ce2a963ab83
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 37.5}
+      - {x: 18, y: 37.5}
+      - {x: 0, y: 12.5}
+      - {x: 18, y: 12.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_blackTeaField_candle18x25_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -12.5}
+        - {x: -9, y: 12.5}
+        - {x: 9, y: 12.5}
+        - {x: 9, y: -12.5}
+      physicsShape:
+      - - {x: -3, y: 12.5}
+        - {x: -8, y: 5.5}
+        - {x: -8, y: -9.5}
+        - {x: -5, y: -12.5}
+        - {x: 3, y: -12.5}
+        - {x: 7, y: -10.5}
+        - {x: 7, y: 2.5}
+        - {x: 5, y: 5.5}
+        - {x: 4, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cd26c8ec8d4d8e95be7f0cf00e8be9
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 37.5}
+      - {x: 18, y: 37.5}
+      - {x: 0, y: 12.5}
+      - {x: 18, y: 12.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_blackTeaField_candle18x25_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -12.5}
+        - {x: -9, y: 12.5}
+        - {x: 9, y: 12.5}
+        - {x: 9, y: -12.5}
+      physicsShape:
+      - - {x: -3, y: 12.5}
+        - {x: -8, y: 5.5}
+        - {x: -8, y: -9.5}
+        - {x: -3, y: -12.5}
+        - {x: 3, y: -12.5}
+        - {x: 7, y: -11.5}
+        - {x: 7, y: 6.5}
+        - {x: 6, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806e010568d047acafea3d0682291558
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 37.5}
+      - {x: 18, y: 37.5}
+      - {x: 0, y: 12.5}
+      - {x: 18, y: 12.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_blackTeaField_candle18x25_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -12.5}
+        - {x: -9, y: 12.5}
+        - {x: 9, y: 12.5}
+        - {x: 9, y: -12.5}
+      physicsShape:
+      - - {x: -7, y: 12.5}
+        - {x: -8, y: 11.5}
+        - {x: -8, y: -9.5}
+        - {x: -6, y: -12.5}
+        - {x: 6, y: -12.5}
+        - {x: 7, y: -9.5}
+        - {x: 7, y: 10.5}
+        - {x: 6, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b8d4b5c4b34df588bc0350f5ee8a4f
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 37.5}
+      - {x: 18, y: 37.5}
+      - {x: 0, y: 12.5}
+      - {x: 18, y: 12.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_blackTeaField_candle18x25_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -12.5}
+        - {x: -9, y: 12.5}
+        - {x: 9, y: 12.5}
+        - {x: 9, y: -12.5}
+      physicsShape:
+      - - {x: -6, y: 12.5}
+        - {x: -8, y: 1.5}
+        - {x: -8, y: -9.5}
+        - {x: -5, y: -12.5}
+        - {x: 3, y: -12.5}
+        - {x: 7, y: -10.5}
+        - {x: 7, y: 4.5}
+        - {x: 0, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c583ba3d428434097cf8e4dd220a782
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 37.5}
+      - {x: 18, y: 37.5}
+      - {x: 0, y: 12.5}
+      - {x: 18, y: 12.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_blackTeaField_candle18x25_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -12.5}
+        - {x: -9, y: 12.5}
+        - {x: 9, y: 12.5}
+        - {x: 9, y: -12.5}
+      physicsShape:
+      - - {x: -7, y: 12.5}
+        - {x: -8, y: 11.5}
+        - {x: -8, y: -9.5}
+        - {x: -6, y: -12.5}
+        - {x: 6, y: -12.5}
+        - {x: 7, y: -9.5}
+        - {x: 7, y: 10.5}
+        - {x: 6, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1389b3f1b174f118c749b339df31620
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 37.5}
+      - {x: 18, y: 37.5}
+      - {x: 0, y: 12.5}
+      - {x: 18, y: 12.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_blackTeaField_candle18x25_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -12.5}
+        - {x: -9, y: 12.5}
+        - {x: 9, y: 12.5}
+        - {x: 9, y: -12.5}
+      physicsShape:
+      - - {x: -6, y: 12.5}
+        - {x: -8, y: 1.5}
+        - {x: -8, y: -9.5}
+        - {x: -5, y: -12.5}
+        - {x: 3, y: -12.5}
+        - {x: 7, y: -10.5}
+        - {x: 7, y: 4.5}
+        - {x: 0, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b20ab235cc4f61a371ade152fa680e
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 37.5}
+      - {x: 18, y: 37.5}
+      - {x: 0, y: 12.5}
+      - {x: 18, y: 12.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_blackTeaField_candle18x25_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -12.5}
+        - {x: -9, y: 12.5}
+        - {x: 9, y: 12.5}
+        - {x: 9, y: -12.5}
+      physicsShape:
+      - - {x: -3, y: 12.5}
+        - {x: -8, y: 5.5}
+        - {x: -8, y: -9.5}
+        - {x: -3, y: -12.5}
+        - {x: 3, y: -12.5}
+        - {x: 7, y: -11.5}
+        - {x: 7, y: 6.5}
+        - {x: 6, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f0dda4ffcd4982b8ff14f9102f7b58
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 37.5}
+      - {x: 18, y: 37.5}
+      - {x: 0, y: 12.5}
+      - {x: 18, y: 12.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_blackTeaField_candle18x25_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -12.5}
+        - {x: -9, y: 12.5}
+        - {x: 9, y: 12.5}
+        - {x: 9, y: -12.5}
+      physicsShape:
+      - - {x: 3, y: 12.5}
+        - {x: -6, y: 12.5}
+        - {x: -8, y: 6.5}
+        - {x: -8, y: -9.5}
+        - {x: -3, y: -12.5}
+        - {x: 3, y: -12.5}
+        - {x: 7, y: -8.5}
+        - {x: 7, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2399457b9f7e4b3391038ed2e6fa5c9b
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 37.5}
+      - {x: 18, y: 37.5}
+      - {x: 0, y: 12.5}
+      - {x: 18, y: 12.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_blackTeaField_candle18x25_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -12.5}
+        - {x: -9, y: 12.5}
+        - {x: 9, y: 12.5}
+        - {x: 9, y: -12.5}
+      physicsShape:
+      - - {x: -3, y: 12.5}
+        - {x: -8, y: 2.5}
+        - {x: -8, y: -9.5}
+        - {x: -3, y: -12.5}
+        - {x: 3, y: -12.5}
+        - {x: 7, y: -11.5}
+        - {x: 7, y: 6.5}
+        - {x: 6, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78739104b904c39b97ef6a8f368c84d
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 37.5}
+      - {x: 18, y: 37.5}
+      - {x: 0, y: 12.5}
+      - {x: 18, y: 12.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_blackTeaField_candle18x25_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -12.5}
+        - {x: -9, y: 12.5}
+        - {x: 9, y: 12.5}
+        - {x: 9, y: -12.5}
+      physicsShape:
+      - - {x: -8, y: -11.5}
+        - {x: -6, y: -12.5}
+        - {x: 4, y: -12.5}
+        - {x: 7, y: -11.5}
+        - {x: 7, y: 6.5}
+        - {x: 6, y: 12.5}
+        - {x: -5, y: 12.5}
+        - {x: -8, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b26a30f7fb240f8916bb60edf80b11a
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 37.5}
+      - {x: 18, y: 37.5}
+      - {x: 0, y: 12.5}
+      - {x: 18, y: 12.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_blackTeaField_candle18x25_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -12.5}
+        - {x: -9, y: 12.5}
+        - {x: 9, y: 12.5}
+        - {x: 9, y: -12.5}
+      physicsShape:
+      - - {x: 2, y: 12.5}
+        - {x: -6, y: 12.5}
+        - {x: -8, y: 1.5}
+        - {x: -8, y: -10.5}
+        - {x: -4, y: -12.5}
+        - {x: 3, y: -12.5}
+        - {x: 7, y: -8.5}
+        - {x: 7, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b49c65d69a4415b96abdd816f2f77ce
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 37.5}
+      - {x: 18, y: 37.5}
+      - {x: 0, y: 12.5}
+      - {x: 18, y: 12.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_blackTeaField_candle18x25_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -12.5}
+        - {x: -9, y: 12.5}
+        - {x: 9, y: 12.5}
+        - {x: 9, y: -12.5}
+      physicsShape:
+      - - {x: -3, y: 12.5}
+        - {x: -8, y: 5.5}
+        - {x: -8, y: -9.5}
+        - {x: -5, y: -12.5}
+        - {x: 3, y: -12.5}
+        - {x: 7, y: -10.5}
+        - {x: 7, y: 2.5}
+        - {x: 5, y: 5.5}
+        - {x: 4, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2632b7113d5b4b3ca92f5a2a0d093210
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 37.5}
+      - {x: 18, y: 37.5}
+      - {x: 0, y: 12.5}
+      - {x: 18, y: 12.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_blackTeaField_candle18x25_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -12.5}
+        - {x: -9, y: 12.5}
+        - {x: 9, y: 12.5}
+        - {x: 9, y: -12.5}
+      physicsShape:
+      - - {x: -8, y: -11.5}
+        - {x: -6, y: -12.5}
+        - {x: 4, y: -12.5}
+        - {x: 7, y: -11.5}
+        - {x: 7, y: 6.5}
+        - {x: 6, y: 12.5}
+        - {x: -5, y: 12.5}
+        - {x: -8, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c36bd36a3b84a25a5d8b1fddee07f72
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 37.5}
+      - {x: 18, y: 37.5}
+      - {x: 0, y: 12.5}
+      - {x: 18, y: 12.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GN_blackTeaField_candle18x25_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -12.5}
+        - {x: -9, y: 12.5}
+        - {x: 9, y: 12.5}
+        - {x: 9, y: -12.5}
+      physicsShape:
+      - - {x: 2, y: 12.5}
+        - {x: -6, y: 12.5}
+        - {x: -8, y: 1.5}
+        - {x: -8, y: -10.5}
+        - {x: -4, y: -12.5}
+        - {x: 3, y: -12.5}
+        - {x: 7, y: -8.5}
+        - {x: 7, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196cc47b94a849638a69de0187ce37e0
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 37.5}
+      - {x: 18, y: 37.5}
+      - {x: 0, y: 12.5}
+      - {x: 18, y: 12.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: eb9545519a9255988c4443b244b59c6c.bundle
+  assetBundleVariant:

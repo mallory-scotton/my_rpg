@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: 88011222b56251c44a3d7b217abb4b72
+timeCreated: 1706119850
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SW_fatuo_green28x62_2
+  - first:
+      213: 21300002
+    second: SW_fatuo_green28x62_1
+  - first:
+      213: 21300004
+    second: SW_fatuo_green28x62_4
+  - first:
+      213: 21300006
+    second: SW_fatuo_green28x62_5
+  - first:
+      213: 21300008
+    second: SW_fatuo_green28x62_3
+  - first:
+      213: 21300010
+    second: SW_fatuo_green28x62_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SW_fatuo_green28x62_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 28
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22580644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -31}
+        - {x: -14, y: 31}
+        - {x: 14, y: 31}
+        - {x: 14, y: -31}
+      physicsShape:
+      - - {x: 3, y: 19}
+        - {x: -2, y: 19}
+        - {x: -6, y: 17}
+        - {x: -14, y: 4}
+        - {x: -14, y: -11}
+        - {x: -13, y: -17}
+        - {x: -8, y: -20}
+        - {x: 6, y: -20}
+        - {x: 12, y: -18}
+        - {x: 13, y: -12}
+        - {x: 13, y: 15}
+      - - {x: -5, y: 24}
+        - {x: -4, y: 21}
+        - {x: 5, y: 18}
+        - {x: 8, y: 19}
+        - {x: 8, y: 23}
+        - {x: 4, y: 27}
+        - {x: -2, y: 27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ca1668719f49d3b6958a3d78f310e0
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 79}
+      - {x: 28, y: 79}
+      - {x: 0, y: 17}
+      - {x: 28, y: 17}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_fatuo_green28x62_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 28
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22580644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -31}
+        - {x: -14, y: 31}
+        - {x: 14, y: 31}
+        - {x: 14, y: -31}
+      physicsShape:
+      - - {x: -6, y: 16}
+        - {x: -14, y: 3}
+        - {x: -14, y: -14}
+        - {x: -13, y: -17}
+        - {x: -11, y: -20}
+        - {x: 10, y: -20}
+        - {x: 13, y: -19}
+        - {x: 13, y: 11}
+        - {x: 10, y: 16}
+      - - {x: -2, y: 26}
+        - {x: -6, y: 25}
+        - {x: -6, y: 19}
+        - {x: -4, y: 17}
+        - {x: 0, y: 15}
+        - {x: 7, y: 15}
+        - {x: 8, y: 16}
+        - {x: 8, y: 22}
+        - {x: 5, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b311ddcdcb07498baf74f4dbdfa5901e
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 79}
+      - {x: 28, y: 79}
+      - {x: 0, y: 17}
+      - {x: 28, y: 17}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_fatuo_green28x62_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 28
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22580644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -31}
+        - {x: -14, y: 31}
+        - {x: 14, y: 31}
+        - {x: 14, y: -31}
+      physicsShape:
+      - - {x: 4, y: 29}
+        - {x: -1, y: 29}
+        - {x: -14, y: 11}
+        - {x: -14, y: -11}
+        - {x: -10, y: -19}
+        - {x: -7, y: -20}
+        - {x: 8, y: -20}
+        - {x: 14, y: -10}
+        - {x: 14, y: 12}
+        - {x: 9, y: 25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5382b74423b4496cb62f921497a873c7
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 79}
+      - {x: 28, y: 79}
+      - {x: 0, y: 17}
+      - {x: 28, y: 17}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_fatuo_green28x62_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 28
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22580644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -31}
+        - {x: -14, y: 31}
+        - {x: 14, y: 31}
+        - {x: 14, y: -31}
+      physicsShape:
+      - - {x: 3, y: 27}
+        - {x: -1, y: 27}
+        - {x: -8, y: 20}
+        - {x: -13, y: 1}
+        - {x: -13, y: -14}
+        - {x: -12, y: -20}
+        - {x: 14, y: -20}
+        - {x: 14, y: 13}
+        - {x: 13, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6070e1c572b049f8b1c0f401dfa5a298
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 79}
+      - {x: 28, y: 79}
+      - {x: 0, y: 17}
+      - {x: 28, y: 17}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_fatuo_green28x62_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 28
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22580644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -31}
+        - {x: -14, y: 31}
+        - {x: 14, y: 31}
+        - {x: 14, y: -31}
+      physicsShape:
+      - - {x: 10, y: 19}
+        - {x: 8, y: 21}
+        - {x: -11, y: 21}
+        - {x: -14, y: 20}
+        - {x: -14, y: -20}
+        - {x: 7, y: -20}
+        - {x: 13, y: -18}
+        - {x: 13, y: 6}
+        - {x: 9, y: 10}
+        - {x: 10, y: 15}
+      - - {x: 2, y: 21}
+        - {x: 8, y: 21}
+        - {x: 8, y: 24}
+        - {x: 5, y: 28}
+        - {x: -1, y: 28}
+        - {x: -2, y: 25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6461d49b9c7d4b51889ca4194a8782ad
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 79}
+      - {x: 28, y: 79}
+      - {x: 0, y: 17}
+      - {x: 28, y: 17}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_fatuo_green28x62_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22580644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -31}
+        - {x: -14, y: 31}
+        - {x: 14, y: 31}
+        - {x: 14, y: -31}
+      physicsShape:
+      - - {x: 9, y: 5}
+        - {x: 14, y: 10}
+        - {x: 14, y: 15}
+        - {x: 6, y: 28}
+        - {x: -4, y: 28}
+        - {x: -7, y: 27}
+        - {x: -11, y: 8}
+        - {x: -13, y: -1}
+        - {x: -13, y: -15}
+        - {x: -10, y: -19}
+        - {x: -4, y: -20}
+        - {x: 12, y: -20}
+        - {x: 14, y: -12}
+        - {x: 14, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb9ab1810f44f9daf064b3797fadc1a
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 79}
+      - {x: 28, y: 79}
+      - {x: 0, y: 17}
+      - {x: 28, y: 17}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 95d35bf82d4be93d9c0d7dd6f29fa4e4.bundle
+  assetBundleVariant:

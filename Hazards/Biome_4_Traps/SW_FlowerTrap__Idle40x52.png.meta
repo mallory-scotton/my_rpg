@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: e0186d4a7f68a684fa9d0e9a2dacc805
+timeCreated: 1706119842
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SW_FlowerTrap__Idle40x52_0
+  - first:
+      213: 21300002
+    second: SW_FlowerTrap__Idle40x52_1
+  - first:
+      213: 21300004
+    second: SW_FlowerTrap__Idle40x52_4
+  - first:
+      213: 21300006
+    second: SW_FlowerTrap__Idle40x52_2
+  - first:
+      213: 21300008
+    second: SW_FlowerTrap__Idle40x52_3
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SW_FlowerTrap__Idle40x52_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.05131668
+        width: 39.923878
+        height: 38.909935
+      alignment: 9
+      pivot: {x: 0.5009533, y: -0.001318858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.961941, y: -19.506285}
+        - {x: -19.96194, y: -13.506285}
+        - {x: -19.96194, y: 8.493715}
+        - {x: -12.961941, y: 18.493715}
+        - {x: -7.961941, y: 19.493715}
+        - {x: 15.038059, y: 19.493715}
+        - {x: 19.03806, y: 7.4937153}
+        - {x: 20.03806, y: 3.4937153}
+        - {x: 20.03806, y: -7.5062847}
+        - {x: 12.038059, y: -16.506285}
+        - {x: 6.038059, y: -19.506285}
+      physicsShape:
+      - - {x: 20.03806, y: 3.4937153}
+        - {x: 19.03806, y: 7.4937153}
+        - {x: 15.038059, y: 19.493715}
+        - {x: -5.961941, y: 19.493715}
+        - {x: -12.961941, y: 17.493715}
+        - {x: -19.96194, y: 8.493715}
+        - {x: -19.96194, y: -10.506285}
+        - {x: -13.961941, y: -19.506285}
+        - {x: -0.96194077, y: -19.506285}
+        - {x: 7.038059, y: -18.506285}
+        - {x: 12.038059, y: -16.506285}
+        - {x: 20.03806, y: -7.5062847}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc466eae13d840a681dd44d19006a11b
+      internalID: 21300000
+      vertices:
+      - {x: 38.961937, y: 46.454967}
+      - {x: 39.961937, y: 31.454967}
+      - {x: 39.961937, y: 42.454967}
+      - {x: 34.961937, y: 58.454967}
+      - {x: 31.961939, y: 22.454967}
+      - {x: 25.961939, y: 19.454967}
+      - {x: 11.961939, y: 58.454967}
+      - {x: 6.961939, y: 57.454967}
+      - {x: 6.961939, y: 19.454967}
+      - {x: -0.038061142, y: 47.454967}
+      - {x: -0.038061142, y: 25.454967}
+      indices:
+      - 10
+      - 9
+      - 8
+      - 7
+      - 8
+      - 9
+      - 5
+      - 8
+      - 7
+      - 6
+      - 5
+      - 7
+      - 3
+      - 5
+      - 6
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_FlowerTrap__Idle40x52_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0.05131668
+        width: 39.923878
+        height: 38.921932
+      alignment: 9
+      pivot: {x: 0.5009533, y: -0.0013184515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.961941, y: -19.512283}
+        - {x: -19.96194, y: -12.512283}
+        - {x: -19.96194, y: 5.4877167}
+        - {x: -18.96194, y: 6.4877167}
+        - {x: -6.961941, y: 19.487717}
+        - {x: 12.038059, y: 19.487717}
+        - {x: 15.038059, y: 9.487717}
+        - {x: 20.03806, y: 8.487717}
+        - {x: 20.03806, y: -9.512283}
+        - {x: 10.038059, y: -18.512283}
+        - {x: 6.038059, y: -19.512283}
+      physicsShape:
+      - - {x: 12.038059, y: 19.487717}
+        - {x: -6.961941, y: 19.487717}
+        - {x: -18.96194, y: 6.4877167}
+        - {x: -19.96194, y: 5.4877167}
+        - {x: -19.96194, y: -12.512283}
+        - {x: -14.961941, y: -19.512283}
+        - {x: 6.038059, y: -19.512283}
+        - {x: 10.038059, y: -18.512283}
+        - {x: 20.03806, y: -9.512283}
+        - {x: 20.03806, y: 8.487717}
+        - {x: 15.038059, y: 9.487717}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fa4ad067b84968b4ed8b6827f46028
+      internalID: 21300002
+      vertices:
+      - {x: 34.961937, y: 48.460968}
+      - {x: 39.961937, y: 29.460966}
+      - {x: 39.961937, y: 47.460968}
+      - {x: 31.961939, y: 58.460968}
+      - {x: 29.961939, y: 20.460966}
+      - {x: 25.961939, y: 19.460966}
+      - {x: 12.961939, y: 58.460968}
+      - {x: 4.961939, y: 19.460966}
+      - {x: 0.96193886, y: 45.460968}
+      - {x: -0.038061142, y: 44.460968}
+      - {x: -0.038061142, y: 26.460966}
+      indices:
+      - 10
+      - 9
+      - 7
+      - 8
+      - 7
+      - 9
+      - 6
+      - 7
+      - 8
+      - 5
+      - 7
+      - 6
+      - 3
+      - 5
+      - 6
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_FlowerTrap__Idle40x52_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0.05131668
+        width: 39.923878
+        height: 38.921932
+      alignment: 9
+      pivot: {x: 0.5009533, y: -0.0013184515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.96194, y: -19.512283}
+        - {x: -19.96194, y: -11.512283}
+        - {x: -19.96194, y: 6.4877167}
+        - {x: -18.96194, y: 10.487717}
+        - {x: -11.961941, y: 19.487717}
+        - {x: 17.03806, y: 19.487717}
+        - {x: 20.03806, y: 17.487717}
+        - {x: 20.03806, y: -15.512283}
+        - {x: 11.038059, y: -19.512283}
+      physicsShape:
+      - - {x: -4.961941, y: 19.487717}
+        - {x: -18.96194, y: 10.487717}
+        - {x: -19.96194, y: 6.4877167}
+        - {x: -19.96194, y: -9.512283}
+        - {x: -11.961941, y: -19.512283}
+        - {x: 10.038059, y: -19.512283}
+        - {x: 20.03806, y: -8.512283}
+        - {x: 20.03806, y: 13.487717}
+        - {x: 13.038059, y: 19.487717}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073af24cbd66471bab830ddd04d832f0
+      internalID: 21300004
+      vertices:
+      - {x: 36.961937, y: 58.460968}
+      - {x: 39.961937, y: 23.460966}
+      - {x: 39.961937, y: 56.460968}
+      - {x: 30.961939, y: 19.460966}
+      - {x: 7.961939, y: 58.460968}
+      - {x: 2.9619389, y: 19.460966}
+      - {x: 0.96193886, y: 49.460968}
+      - {x: -0.038061142, y: 45.460968}
+      - {x: -0.038061142, y: 27.460966}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_FlowerTrap__Idle40x52_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0.05131668
+        width: 39.923878
+        height: 38.921932
+      alignment: 9
+      pivot: {x: 0.5009533, y: -0.0013184515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.961941, y: -19.512283}
+        - {x: -19.96194, y: -10.512283}
+        - {x: -19.96194, y: 14.487717}
+        - {x: -3.9619408, y: 19.487717}
+        - {x: 13.038059, y: 19.487717}
+        - {x: 20.03806, y: 11.487717}
+        - {x: 20.03806, y: -10.512283}
+        - {x: 9.038059, y: -19.512283}
+      physicsShape:
+      - - {x: 14.038059, y: 9.487717}
+        - {x: 8.038059, y: 19.487717}
+        - {x: -1.9619408, y: 19.487717}
+        - {x: -17.96194, y: 10.487717}
+        - {x: -19.96194, y: 5.4877167}
+        - {x: -19.96194, y: -10.512283}
+        - {x: -13.961941, y: -19.512283}
+        - {x: 9.038059, y: -19.512283}
+        - {x: 12.038059, y: -16.512283}
+        - {x: 20.03806, y: -10.512283}
+        - {x: 20.03806, y: 9.487717}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425ff0606db94a1eb8851713895fa8f6
+      internalID: 21300006
+      vertices:
+      - {x: 32.961937, y: 58.460968}
+      - {x: 39.961937, y: 28.460966}
+      - {x: 39.961937, y: 50.460968}
+      - {x: 28.961939, y: 19.460966}
+      - {x: 15.961939, y: 58.460968}
+      - {x: 5.961939, y: 19.460966}
+      - {x: -0.038061142, y: 53.460968}
+      - {x: -0.038061142, y: 28.460966}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_FlowerTrap__Idle40x52_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0.026750982
+        width: 39.923878
+        height: 38.934498
+      alignment: 9
+      pivot: {x: 0.5009533, y: -0.0006870766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.961941, y: -19.494}
+        - {x: -19.96194, y: -13.4939995}
+        - {x: -19.96194, y: 6.5060005}
+        - {x: -12.961941, y: 17.506}
+        - {x: -3.9619408, y: 19.506}
+        - {x: 11.038059, y: 19.506}
+        - {x: 17.03806, y: 11.5060005}
+        - {x: 20.03806, y: -0.49399948}
+        - {x: 20.03806, y: -8.4939995}
+        - {x: 9.038059, y: -17.494}
+        - {x: 1.0380592, y: -19.494}
+      physicsShape:
+      - - {x: 17.03806, y: 11.5060005}
+        - {x: 11.038059, y: 19.506}
+        - {x: -0.96194077, y: 19.506}
+        - {x: -11.961941, y: 15.5060005}
+        - {x: -17.96194, y: 9.5060005}
+        - {x: -19.96194, y: 4.5060005}
+        - {x: -19.96194, y: -13.4939995}
+        - {x: -14.961941, y: -19.494}
+        - {x: -3.9619408, y: -19.494}
+        - {x: 3.0380592, y: -16.494}
+        - {x: 9.038059, y: -17.494}
+        - {x: 20.03806, y: -8.4939995}
+        - {x: 20.03806, y: -0.49399948}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f66c501176342e287c179ff23e6971d
+      internalID: 21300008
+      vertices:
+      - {x: 36.961937, y: 50.467247}
+      - {x: 39.961937, y: 30.467249}
+      - {x: 39.961937, y: 38.467247}
+      - {x: 30.961939, y: 58.467247}
+      - {x: 28.961939, y: 21.467249}
+      - {x: 20.961939, y: 19.467249}
+      - {x: 15.961939, y: 58.467247}
+      - {x: 6.961939, y: 56.467247}
+      - {x: 4.961939, y: 19.467249}
+      - {x: -0.038061142, y: 45.467247}
+      - {x: -0.038061142, y: 25.467249}
+      indices:
+      - 10
+      - 9
+      - 8
+      - 7
+      - 8
+      - 9
+      - 5
+      - 8
+      - 7
+      - 6
+      - 5
+      - 7
+      - 3
+      - 5
+      - 6
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 656c418b0cacb402f6e588b07d32a86b.bundle
+  assetBundleVariant:

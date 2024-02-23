@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: 93ec3611eaa1f0a42b73fa3a666bd950
+timeCreated: 1706119809
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Enemy_Dumboth_AttackAnticipation104x66_4
+  - first:
+      213: 21300002
+    second: Enemy_Dumboth_AttackAnticipation104x66_6
+  - first:
+      213: 21300004
+    second: Enemy_Dumboth_AttackAnticipation104x66_5
+  - first:
+      213: 21300006
+    second: Enemy_Dumboth_AttackAnticipation104x66_3
+  - first:
+      213: 21300008
+    second: Enemy_Dumboth_AttackAnticipation104x66_1
+  - first:
+      213: 21300010
+    second: Enemy_Dumboth_AttackAnticipation104x66_0
+  - first:
+      213: 21300012
+    second: Enemy_Dumboth_AttackAnticipation104x66_2
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Dumboth_AttackAnticipation104x66_4
+      rect:
+        serializedVersion: 2
+        x: 137.04291
+        y: 89.07612
+        width: 48.880974
+        height: 63.897133
+      alignment: 9
+      pivot: {x: 0.3878215, y: -0.09509219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.483395, y: -32.024685}
+        - {x: -24.483395, y: -15.024685}
+        - {x: -24.483395, y: 17.975315}
+        - {x: -6.4833946, y: 31.975315}
+        - {x: 22.516605, y: 31.975315}
+        - {x: 24.516605, y: 20.975315}
+        - {x: 24.516605, y: -25.024685}
+        - {x: 21.516605, y: -32.024685}
+      physicsShape:
+      - - {x: 19.516605, y: -31.024685}
+        - {x: 24.516605, y: -17.024685}
+        - {x: 24.516605, y: -7.024685}
+        - {x: 22.516605, y: -3.024685}
+        - {x: 15.516605, y: 6.975315}
+        - {x: 19.516605, y: 13.975315}
+        - {x: 18.516605, y: 28.975315}
+        - {x: 10.516605, y: 31.975315}
+        - {x: -0.48339462, y: 31.975315}
+        - {x: -10.483395, y: 25.975315}
+        - {x: -21.483395, y: 16.975315}
+        - {x: -24.483395, y: 9.975315}
+        - {x: -24.483395, y: 2.975315}
+        - {x: -17.483395, y: -31.024685}
+        - {x: -14.483395, y: -32.024685}
+        - {x: 2.5166054, y: -32.024685}
+        - {x: 4.5166054, y: -31.024685}
+        - {x: 6.5166054, y: -32.024685}
+        - {x: 18.516605, y: -32.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74fb314efed494095c3c80f40199ccb
+      internalID: 21300000
+      vertices:
+      - {x: 52.440487, y: 101.94856}
+      - {x: 54.440487, y: 44.948566}
+      - {x: 54.440487, y: 90.94856}
+      - {x: 51.440487, y: 37.948566}
+      - {x: 23.440487, y: 101.94856}
+      - {x: 10.440487, y: 37.948566}
+      - {x: 5.440487, y: 87.94856}
+      - {x: 5.440487, y: 54.948566}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_AttackAnticipation104x66_6
+      rect:
+        serializedVersion: 2
+        x: 42.026752
+        y: 6.0761204
+        width: 40.89713
+        height: 67.84776
+      alignment: 9
+      pivot: {x: 0.2438618, y: -0.089555204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.524683, y: -34}
+        - {x: -20.475317, y: -34}
+        - {x: -20.475317, y: 6}
+        - {x: -7.475317, y: 21}
+        - {x: 4.524683, y: 31}
+        - {x: 8.524683, y: 34}
+        - {x: 19.524683, y: 34}
+        - {x: 20.524683, y: 31}
+        - {x: 20.524683, y: -15}
+      physicsShape:
+      - - {x: 19.524683, y: -12}
+        - {x: 20.524683, y: -6}
+        - {x: 20.524683, y: 28}
+        - {x: 16.524683, y: 34}
+        - {x: 8.524683, y: 34}
+        - {x: 4.524683, y: 31}
+        - {x: -7.475317, y: 21}
+        - {x: -20.475317, y: 6}
+        - {x: -20.475317, y: -34}
+        - {x: 12.524683, y: -34}
+        - {x: 13.524683, y: -32}
+        - {x: 16.524683, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a2ae737cb645b9bfe3a942f404b6df
+      internalID: 21300002
+      vertices:
+      - {x: 50.448563, y: 107.92388}
+      - {x: 51.448563, y: 58.92388}
+      - {x: 51.448563, y: 104.92388}
+      - {x: 44.448563, y: 39.92388}
+      - {x: 39.448563, y: 107.92388}
+      - {x: 35.448563, y: 104.92388}
+      - {x: 23.448565, y: 94.92388}
+      - {x: 10.448565, y: 79.92388}
+      - {x: 10.448565, y: 39.92388}
+      indices:
+      - 8
+      - 7
+      - 3
+      - 6
+      - 3
+      - 7
+      - 5
+      - 3
+      - 6
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_AttackAnticipation104x66_5
+      rect:
+        serializedVersion: 2
+        x: 239.04626
+        y: 89.07612
+        width: 49.877617
+        height: 61.897133
+      alignment: 9
+      pivot: {x: 0.42010298, y: -0.09816478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.985073, y: -31.024685}
+        - {x: -24.985073, y: -1.0246849}
+        - {x: -24.985073, y: 11.975315}
+        - {x: -6.985073, y: 30.975315}
+        - {x: 8.014927, y: 30.975315}
+        - {x: 15.014927, y: 27.975315}
+        - {x: 25.014927, y: 4.975315}
+        - {x: 25.014927, y: -26.024685}
+        - {x: 23.014927, y: -31.024685}
+      physicsShape:
+      - - {x: 20.014927, y: -27.024685}
+        - {x: 25.014927, y: -15.024685}
+        - {x: 25.014927, y: -7.024685}
+        - {x: 23.014927, y: -2.024685}
+        - {x: 15.014927, y: 10.975315}
+        - {x: 15.014927, y: 27.975315}
+        - {x: 8.014927, y: 30.975315}
+        - {x: -6.985073, y: 30.975315}
+        - {x: -24.985073, y: 11.975315}
+        - {x: -24.985073, y: 0.9753151}
+        - {x: -15.985073, y: -31.024685}
+        - {x: 4.014927, y: -31.024685}
+        - {x: 6.014927, y: -30.024685}
+        - {x: 8.014927, y: -31.024685}
+        - {x: 20.014927, y: -31.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5355d7b20a1143c184e738f45a094a20
+      internalID: 21300004
+      vertices:
+      - {x: 53.93881, y: 72.94856}
+      - {x: 51.93881, y: 36.948566}
+      - {x: 53.93881, y: 41.948566}
+      - {x: 43.93881, y: 95.94856}
+      - {x: 36.93881, y: 98.94856}
+      - {x: 21.938808, y: 98.94856}
+      - {x: 10.938808, y: 36.948566}
+      - {x: 3.9388084, y: 79.94856}
+      - {x: 3.9388084, y: 66.94856}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 1
+      - 6
+      - 5
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_AttackAnticipation104x66_3
+      rect:
+        serializedVersion: 2
+        x: 36.026752
+        y: 89.07612
+        width: 46.89713
+        height: 61.887596
+      alignment: 9
+      pivot: {x: 0.34060183, y: -0.09817991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.475315, y: -30.019917}
+        - {x: -23.475315, y: 4.9800835}
+        - {x: -23.475315, y: 16.980083}
+        - {x: -20.475315, y: 23.980083}
+        - {x: -4.475316, y: 30.980083}
+        - {x: 23.524685, y: 30.980083}
+        - {x: 23.524685, y: -27.019917}
+        - {x: 20.524685, y: -31.019917}
+        - {x: -16.475315, y: -31.019917}
+      physicsShape:
+      - - {x: 17.524685, y: -30.019917}
+        - {x: 16.524685, y: -15.019917}
+        - {x: 23.524685, y: -13.019917}
+        - {x: 23.524685, y: -5.0199165}
+        - {x: 21.524685, y: -3.0199165}
+        - {x: 22.524685, y: 8.980083}
+        - {x: 23.524685, y: 14.980083}
+        - {x: 23.524685, y: 26.980083}
+        - {x: 19.524685, y: 30.980083}
+        - {x: 11.524684, y: 30.980083}
+        - {x: -6.475316, y: 27.980083}
+        - {x: -19.475315, y: 21.980083}
+        - {x: -23.475315, y: 14.980083}
+        - {x: -23.475315, y: 4.9800835}
+        - {x: -19.475315, y: -30.019917}
+        - {x: -15.475316, y: -31.019917}
+        - {x: 0.52468395, y: -31.019917}
+        - {x: 2.524684, y: -30.019917}
+        - {x: 4.524684, y: -31.019917}
+        - {x: 16.524685, y: -31.019917}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a24800f6c54501b85d149df0f03236
+      internalID: 21300006
+      vertices:
+      - {x: 54.448563, y: 98.9438}
+      - {x: 51.448563, y: 36.943798}
+      - {x: 54.448563, y: 40.943798}
+      - {x: 26.448565, y: 98.9438}
+      - {x: 14.448565, y: 36.943798}
+      - {x: 11.448565, y: 37.943798}
+      - {x: 10.448565, y: 91.9438}
+      - {x: 7.4485645, y: 84.9438}
+      - {x: 7.4485645, y: 72.9438}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 3
+      - 5
+      - 6
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_AttackAnticipation104x66_1
+      rect:
+        serializedVersion: 2
+        x: 144.07613
+        y: 172.07613
+        width: 48.84776
+        height: 44.887596
+      alignment: 9
+      pivot: {x: 0.24410278, y: -0.13536315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.499994, y: -22.519924}
+        - {x: -24.500006, y: -22.519924}
+        - {x: -24.500006, y: 10.480076}
+        - {x: -12.500006, y: 22.480076}
+        - {x: 21.499994, y: 22.480076}
+        - {x: 24.499994, y: 15.480076}
+        - {x: 24.499994, y: -11.519924}
+      physicsShape:
+      - - {x: 17.499994, y: -19.519924}
+        - {x: 24.499994, y: -5.519924}
+        - {x: 24.499994, y: 12.480076}
+        - {x: 18.499994, y: 19.480076}
+        - {x: 9.499994, y: 22.480076}
+        - {x: -10.500006, y: 22.480076}
+        - {x: -24.500006, y: 10.480076}
+        - {x: -24.500006, y: -22.519924}
+        - {x: -5.5000057, y: -22.519924}
+        - {x: -4.5000057, y: -21.519924}
+        - {x: -2.5000057, y: -22.519924}
+        - {x: 13.499994, y: -22.519924}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6695d5c2b08e43508101051f59e37d99
+      internalID: 21300008
+      vertices:
+      - {x: 58.42388, y: 73.4438}
+      - {x: 61.42388, y: 39.443798}
+      - {x: 61.42388, y: 66.4438}
+      - {x: 52.42388, y: 28.443798}
+      - {x: 24.42388, y: 73.4438}
+      - {x: 12.42388, y: 61.443798}
+      - {x: 12.42388, y: 28.443798}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_AttackAnticipation104x66_0
+      rect:
+        serializedVersion: 2
+        x: 39.042908
+        y: 172.07613
+        width: 47.880974
+        height: 45.887596
+      alignment: 9
+      pivot: {x: 0.27061045, y: -0.13241325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.016605, y: -23.019924}
+        - {x: -23.983395, y: -23.019924}
+        - {x: -23.983395, y: 17.980076}
+        - {x: -14.983395, y: 22.980076}
+        - {x: 20.016605, y: 22.980076}
+        - {x: 24.016605, y: 16.980076}
+        - {x: 24.016605, y: -14.019924}
+      physicsShape:
+      - - {x: 24.016605, y: 12.980076}
+        - {x: 18.016605, y: 19.980076}
+        - {x: 9.016605, y: 22.980076}
+        - {x: -10.983395, y: 22.980076}
+        - {x: -22.983395, y: 10.980076}
+        - {x: -23.983395, y: 7.980076}
+        - {x: -23.983395, y: -7.019924}
+        - {x: -21.983395, y: -22.019924}
+        - {x: -19.983395, y: -23.019924}
+        - {x: 13.016605, y: -23.019924}
+        - {x: 20.016605, y: -19.019924}
+        - {x: 24.016605, y: -6.019924}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4c44c88e31459ab09514527523461f
+      internalID: 21300010
+      vertices:
+      - {x: 54.940487, y: 74.9438}
+      - {x: 58.940487, y: 37.943798}
+      - {x: 58.940487, y: 68.9438}
+      - {x: 52.940487, y: 28.943798}
+      - {x: 19.940487, y: 74.9438}
+      - {x: 10.940487, y: 69.9438}
+      - {x: 10.940487, y: 28.943798}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dumboth_AttackAnticipation104x66_2
+      rect:
+        serializedVersion: 2
+        x: 248.02675
+        y: 172.07613
+        width: 49.89713
+        height: 43.887596
+      alignment: 9
+      pivot: {x: 0.23995872, y: -0.13844746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.024687, y: -22.019924}
+        - {x: -24.975313, y: -22.019924}
+        - {x: -24.975313, y: 16.980076}
+        - {x: -15.975313, y: 21.980076}
+        - {x: 22.024687, y: 21.980076}
+        - {x: 25.024687, y: 10.980076}
+        - {x: 25.024687, y: -21.019924}
+      physicsShape:
+      - - {x: 25.024687, y: 11.980076}
+        - {x: 19.024687, y: 18.980076}
+        - {x: 10.024687, y: 21.980076}
+        - {x: -9.975313, y: 21.980076}
+        - {x: -21.975313, y: 11.980076}
+        - {x: -23.975313, y: 5.980076}
+        - {x: -24.975313, y: -0.019924164}
+        - {x: -24.975313, y: -15.019924}
+        - {x: -23.975313, y: -21.019924}
+        - {x: -23.975313, y: -22.019924}
+        - {x: 12.024687, y: -22.019924}
+        - {x: 19.024687, y: -15.019924}
+        - {x: 25.024687, y: -6.019924}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83688703f8544df4b64977750af967b0
+      internalID: 21300012
+      vertices:
+      - {x: 62.948563, y: 60.943798}
+      - {x: 60.948563, y: 27.943798}
+      - {x: 62.948563, y: 28.943798}
+      - {x: 59.948563, y: 71.9438}
+      - {x: 21.948565, y: 71.9438}
+      - {x: 12.948565, y: 66.9438}
+      - {x: 12.948565, y: 27.943798}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 18979b6ea7ccdc86004681d90bf9ac05.bundle
+  assetBundleVariant:

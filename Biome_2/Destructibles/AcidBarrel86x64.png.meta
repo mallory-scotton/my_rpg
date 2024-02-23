@@ -1,0 +1,1138 @@
+fileFormatVersion: 2
+guid: 97acff548a5125046a28cdbbffaf7d28
+timeCreated: 1706119810
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: AcidBarrel83x64_2
+  - first:
+      213: 21300002
+    second: AcidBarrel83x64_13
+  - first:
+      213: 21300004
+    second: AcidBarrel83x64_5
+  - first:
+      213: 21300006
+    second: AcidBarrel83x64_6
+  - first:
+      213: 21300008
+    second: AcidBarrel83x64_10
+  - first:
+      213: 21300010
+    second: AcidBarrel83x64_11
+  - first:
+      213: 21300012
+    second: AcidBarrel83x64_3
+  - first:
+      213: 21300014
+    second: AcidBarrel83x64_8
+  - first:
+      213: 21300016
+    second: AcidBarrel83x64_9
+  - first:
+      213: 21300018
+    second: AcidBarrel83x64_1
+  - first:
+      213: 21300020
+    second: AcidBarrel83x64_12
+  - first:
+      213: 21300022
+    second: AcidBarrel83x64_0
+  - first:
+      213: 21300024
+    second: AcidBarrel83x64_7
+  - first:
+      213: 21300026
+    second: AcidBarrel83x64_4
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AcidBarrel83x64_2
+      rect:
+        serializedVersion: 2
+        x: 202.07613
+        y: 292.02676
+        width: 26.847757
+        height: 31.946499
+      alignment: 9
+      pivot: {x: 0.4813763, y: 0.119363196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.500005, y: -16.00001}
+        - {x: -13.500005, y: -12.00001}
+        - {x: -13.500005, y: -6.0000095}
+        - {x: -12.500005, y: 10.99999}
+        - {x: -9.500005, y: 15.99999}
+        - {x: 7.499995, y: 15.99999}
+        - {x: 13.499995, y: 13.99999}
+        - {x: 13.499995, y: -11.00001}
+        - {x: 11.499995, y: -16.00001}
+      physicsShape:
+      - - {x: -9.500005, y: 15.99999}
+        - {x: -12.500005, y: 10.99999}
+        - {x: -13.500005, y: -6.0000095}
+        - {x: -13.500005, y: -12.00001}
+        - {x: -5.500005, y: -16.00001}
+        - {x: 11.499995, y: -16.00001}
+        - {x: 13.499995, y: -11.00001}
+        - {x: 13.499995, y: 13.99999}
+        - {x: 7.499995, y: 15.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a0347b6b7d451580855c5fd8e3a43a
+      internalID: 21300000
+      vertices:
+      - {x: 27.423878, y: 42.133255}
+      - {x: 25.423878, y: 12.133253}
+      - {x: 27.423878, y: 17.133253}
+      - {x: 21.423878, y: 44.133255}
+      - {x: 8.423879, y: 12.133253}
+      - {x: 4.4238787, y: 44.133255}
+      - {x: 1.4238787, y: 39.133255}
+      - {x: 0.42387867, y: 22.133253}
+      - {x: 0.42387867, y: 16.133253}
+      indices:
+      - 8
+      - 7
+      - 4
+      - 6
+      - 4
+      - 7
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel83x64_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 86
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -43}
+        - {x: -43, y: -28}
+        - {x: -43, y: 28}
+        - {x: -30, y: 43}
+        - {x: 38, y: 43}
+        - {x: 43, y: 41}
+        - {x: 43, y: -35}
+        - {x: 41, y: -43}
+      physicsShape:
+      - - {x: 40, y: 22}
+        - {x: 32, y: 32}
+        - {x: 9, y: 43}
+        - {x: -12, y: 43}
+        - {x: -29, y: 35}
+        - {x: -37, y: 29}
+        - {x: -43, y: 12}
+        - {x: -43, y: -10}
+        - {x: -39, y: -22}
+        - {x: -23, y: -38}
+        - {x: -20, y: -39}
+        - {x: -9, y: -43}
+        - {x: 13, y: -43}
+        - {x: 26, y: -40}
+        - {x: 40, y: -25}
+        - {x: 43, y: -16}
+        - {x: 43, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817b38c9e9634f6d94b9f541e7326ea7
+      internalID: 21300002
+      vertices:
+      - {x: 86, y: 89.16}
+      - {x: 84, y: 5.16}
+      - {x: 86, y: 13.16}
+      - {x: 81, y: 91.16}
+      - {x: 28, y: 5.16}
+      - {x: 13, y: 91.16}
+      - {x: 0, y: 76.16}
+      - {x: 0, y: 20.16}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel83x64_5
+      rect:
+        serializedVersion: 2
+        x: 116.07612
+        y: 206.02675
+        width: 26.847757
+        height: 31.946499
+      alignment: 9
+      pivot: {x: 0.4813766, y: 0.11936367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.499997, y: -15.999994}
+        - {x: -13.499997, y: -11.999994}
+        - {x: -13.499997, y: -5.9999943}
+        - {x: -12.499997, y: 11.000006}
+        - {x: -9.499997, y: 16.000006}
+        - {x: 7.500003, y: 16.000006}
+        - {x: 13.500003, y: 14.000006}
+        - {x: 13.500003, y: -10.999994}
+        - {x: 11.500003, y: -15.999994}
+      physicsShape:
+      - - {x: -9.499997, y: 16.000006}
+        - {x: -12.499997, y: 11.000006}
+        - {x: -13.499997, y: -5.9999943}
+        - {x: -13.499997, y: -11.999994}
+        - {x: -5.499997, y: -15.999994}
+        - {x: 11.500003, y: -15.999994}
+        - {x: 13.500003, y: -10.999994}
+        - {x: 13.500003, y: 14.000006}
+        - {x: 7.500003, y: 16.000006}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c406f49ae1be4eaba23f0c17c03f21fe
+      internalID: 21300004
+      vertices:
+      - {x: 27.423878, y: 42.133255}
+      - {x: 25.423878, y: 12.133253}
+      - {x: 27.423878, y: 17.133253}
+      - {x: 21.423878, y: 44.133255}
+      - {x: 8.423879, y: 12.133253}
+      - {x: 4.4238787, y: 44.133255}
+      - {x: 1.4238787, y: 39.133255}
+      - {x: 0.42387867, y: 22.133253}
+      - {x: 0.42387867, y: 16.133253}
+      indices:
+      - 8
+      - 7
+      - 4
+      - 6
+      - 4
+      - 7
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel83x64_6
+      rect:
+        serializedVersion: 2
+        x: 200.02675
+        y: 203.05132
+        width: 29.897127
+        height: 34.921936
+      alignment: 9
+      pivot: {x: 0.50082576, y: 0.194396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.024688, y: -17.51228}
+        - {x: -14.975312, y: -17.51228}
+        - {x: -14.975312, y: 7.4877205}
+        - {x: -9.975312, y: 17.48772}
+        - {x: 13.024688, y: 17.48772}
+        - {x: 15.024688, y: 11.4877205}
+      physicsShape:
+      - - {x: -9.975312, y: 17.48772}
+        - {x: -14.975312, y: 7.4877205}
+        - {x: -14.975312, y: -17.51228}
+        - {x: 15.024688, y: -17.51228}
+        - {x: 15.024688, y: 11.4877205}
+        - {x: 13.024688, y: 17.48772}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc649f65c974a0ba3c72484ac437c83
+      internalID: 21300006
+      vertices:
+      - {x: 27.948563, y: 45.62097}
+      - {x: 29.948563, y: 10.620972}
+      - {x: 29.948563, y: 39.62097}
+      - {x: 4.9485636, y: 45.62097}
+      - {x: -0.051436424, y: 35.62097}
+      - {x: -0.051436424, y: 10.620972}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel83x64_10
+      rect:
+        serializedVersion: 2
+        x: 177.05132
+        y: 98.02675
+        width: 75.921936
+        height: 54.897133
+      alignment: 9
+      pivot: {x: 0.4998382, y: 0.4702113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.012283, y: -27.475311}
+        - {x: -38.012283, y: -12.475311}
+        - {x: -38.012283, y: 19.524689}
+        - {x: -31.012283, y: 27.524689}
+        - {x: 30.987717, y: 27.524689}
+        - {x: 37.987717, y: 19.524689}
+        - {x: 37.987717, y: -10.475311}
+        - {x: 26.987717, y: -27.475311}
+      physicsShape:
+      - - {x: 13.987717, y: 27.524689}
+        - {x: -8.012283, y: 27.524689}
+        - {x: -27.012283, y: 23.524689}
+        - {x: -38.012283, y: 7.5246887}
+        - {x: -38.012283, y: -2.4753113}
+        - {x: -34.012283, y: -16.475311}
+        - {x: -16.012283, y: -27.475311}
+        - {x: 18.987717, y: -27.475311}
+        - {x: 37.987717, y: -9.475311}
+        - {x: 37.987717, y: 8.524689}
+        - {x: 21.987717, y: 25.524689}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab41d49f37da4a91bd2ed8fbba85d1f3
+      internalID: 21300008
+      vertices:
+      - {x: 68.96097, y: 56.60857}
+      - {x: 75.96097, y: 18.60857}
+      - {x: 75.96097, y: 48.60857}
+      - {x: 64.96097, y: 1.6085701}
+      - {x: 10.960968, y: 1.6085701}
+      - {x: 6.960968, y: 56.60857}
+      - {x: -0.039031982, y: 48.60857}
+      - {x: -0.039031982, y: 16.60857}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel83x64_11
+      rect:
+        serializedVersion: 2
+        x: 259.05637
+        y: 90.02675
+        width: 82.91688
+        height: 75.936966
+      alignment: 9
+      pivot: {x: 0.50585157, y: 0.44528052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.514805, y: -37.995228}
+        - {x: -41.514805, y: -29.995228}
+        - {x: -41.514805, y: 35.004772}
+        - {x: -35.514805, y: 38.004772}
+        - {x: 16.485195, y: 38.004772}
+        - {x: 41.485195, y: 24.004772}
+        - {x: 41.485195, y: -23.995228}
+        - {x: 15.485195, y: -37.995228}
+      physicsShape:
+      - - {x: 27.485195, y: 30.004772}
+        - {x: 7.485195, y: 38.004772}
+        - {x: -8.514805, y: 38.004772}
+        - {x: -30.514805, y: 28.004772}
+        - {x: -37.514805, y: 21.004772}
+        - {x: -41.514805, y: 6.004772}
+        - {x: -41.514805, y: -3.9952278}
+        - {x: -38.514805, y: -16.995228}
+        - {x: -27.514805, y: -28.995228}
+        - {x: -22.514805, y: -32.995228}
+        - {x: -6.514805, y: -37.995228}
+        - {x: 7.485195, y: -37.995228}
+        - {x: 22.485195, y: -34.995228}
+        - {x: 35.485195, y: -22.995228}
+        - {x: 41.485195, y: -17.995228}
+        - {x: 41.485195, y: 16.004772}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8db85bdb7544b98df1d7af101f8629
+      internalID: 21300010
+      vertices:
+      - {x: 57.45844, y: 80.12849}
+      - {x: 82.458435, y: 18.128487}
+      - {x: 82.458435, y: 66.12849}
+      - {x: 56.45844, y: 4.1284866}
+      - {x: 5.458439, y: 80.12849}
+      - {x: 0.45843887, y: 4.1284866}
+      - {x: -0.5415611, y: 77.12849}
+      - {x: -0.5415611, y: 12.128487}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel83x64_3
+      rect:
+        serializedVersion: 2
+        x: 288.0761
+        y: 292.02676
+        width: 26.847757
+        height: 31.946499
+      alignment: 9
+      pivot: {x: 0.48137686, y: 0.119363196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.4999895, y: -16.00001}
+        - {x: -13.4999895, y: -12.00001}
+        - {x: -13.4999895, y: -6.0000095}
+        - {x: -12.4999895, y: 10.99999}
+        - {x: -9.4999895, y: 15.99999}
+        - {x: 7.5000105, y: 15.99999}
+        - {x: 13.5000105, y: 13.99999}
+        - {x: 13.5000105, y: -11.00001}
+        - {x: 11.5000105, y: -16.00001}
+      physicsShape:
+      - - {x: -9.4999895, y: 15.99999}
+        - {x: -12.4999895, y: 10.99999}
+        - {x: -13.4999895, y: -6.0000095}
+        - {x: -13.4999895, y: -12.00001}
+        - {x: -5.4999895, y: -16.00001}
+        - {x: 11.5000105, y: -16.00001}
+        - {x: 13.5000105, y: -11.00001}
+        - {x: 13.5000105, y: 13.99999}
+        - {x: 7.5000105, y: 15.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6828f56f1f9847afa574b1ad1df15c8b
+      internalID: 21300012
+      vertices:
+      - {x: 27.423878, y: 42.133255}
+      - {x: 25.423878, y: 12.133253}
+      - {x: 27.423878, y: 17.133253}
+      - {x: 21.423878, y: 44.133255}
+      - {x: 8.423879, y: 12.133253}
+      - {x: 4.4238787, y: 44.133255}
+      - {x: 1.4238787, y: 39.133255}
+      - {x: 0.42387867, y: 22.133253}
+      - {x: 0.42387867, y: 16.133253}
+      indices:
+      - 8
+      - 7
+      - 4
+      - 6
+      - 4
+      - 7
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel83x64_8
+      rect:
+        serializedVersion: 2
+        x: 23.02675
+        y: 112.02675
+        width: 41.897133
+        height: 35.897125
+      alignment: 9
+      pivot: {x: 0.47672114, y: 0.32908627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.975317, y: -17.975307}
+        - {x: -20.975317, y: -9.975307}
+        - {x: -20.975317, y: 9.024693}
+        - {x: -5.975317, y: 18.024693}
+        - {x: 15.024683, y: 18.024693}
+        - {x: 21.024683, y: 10.024693}
+        - {x: 21.024683, y: -14.975307}
+        - {x: 8.024683, y: -17.975307}
+      physicsShape:
+      - - {x: 10.024683, y: 18.024693}
+        - {x: 0.024682999, y: 18.024693}
+        - {x: -11.975317, y: 15.024693}
+        - {x: -20.975317, y: 4.0246925}
+        - {x: -20.975317, y: -9.975307}
+        - {x: -14.975317, y: -12.975307}
+        - {x: -6.975317, y: -17.975307}
+        - {x: 9.024683, y: -17.975307}
+        - {x: 21.024683, y: -13.975307}
+        - {x: 21.024683, y: 9.024693}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cf139211eb45a38d754751edc49935
+      internalID: 21300014
+      vertices:
+      - {x: 36.948566, y: 42.108566}
+      - {x: 42.948566, y: 9.108566}
+      - {x: 42.948566, y: 34.108566}
+      - {x: 29.948566, y: 6.1085663}
+      - {x: 15.948566, y: 42.108566}
+      - {x: 11.948566, y: 6.1085663}
+      - {x: 0.94856644, y: 33.108566}
+      - {x: 0.94856644, y: 14.108566}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel83x64_9
+      rect:
+        serializedVersion: 2
+        x: 106.02675
+        y: 108.07612
+        width: 48.946503
+        height: 39.847755
+      alignment: 9
+      pivot: {x: 0.4693543, y: 0.39560276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -18.999992}
+        - {x: -24.5, y: -8.999992}
+        - {x: -24.5, y: 8.000008}
+        - {x: -16.5, y: 14.000008}
+        - {x: -5.5, y: 20.000008}
+        - {x: 14.5, y: 20.000008}
+        - {x: 24.5, y: 11.000008}
+        - {x: 24.5, y: -9.999992}
+        - {x: 14.5, y: -19.999992}
+        - {x: -16.5, y: -19.999992}
+      physicsShape:
+      - - {x: -5.5, y: 20.000008}
+        - {x: -16.5, y: 14.000008}
+        - {x: -24.5, y: 8.000008}
+        - {x: -24.5, y: -8.999992}
+        - {x: -20.5, y: -18.999992}
+        - {x: -9.5, y: -19.999992}
+        - {x: 8.5, y: -19.999992}
+        - {x: 24.5, y: -9.999992}
+        - {x: 24.5, y: 6.0000076}
+        - {x: 13.5, y: 20.000008}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af8f3a4a61949cfbcf07fdde5ca1138
+      internalID: 21300016
+      vertices:
+      - {x: 40.47325, y: 44.08388}
+      - {x: 50.47325, y: 14.083881}
+      - {x: 50.47325, y: 35.08388}
+      - {x: 40.47325, y: 4.0838814}
+      - {x: 20.473251, y: 44.08388}
+      - {x: 9.473251, y: 38.08388}
+      - {x: 9.473251, y: 4.0838814}
+      - {x: 5.4732513, y: 5.0838814}
+      - {x: 1.4732513, y: 32.08388}
+      - {x: 1.4732513, y: 15.083881}
+      indices:
+      - 9
+      - 8
+      - 7
+      - 5
+      - 7
+      - 8
+      - 6
+      - 7
+      - 5
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel83x64_1
+      rect:
+        serializedVersion: 2
+        x: 116.07612
+        y: 292.02676
+        width: 26.847757
+        height: 31.946499
+      alignment: 9
+      pivot: {x: 0.4813766, y: 0.119363196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.499997, y: -16.00001}
+        - {x: -13.499997, y: -12.00001}
+        - {x: -13.499997, y: -6.0000095}
+        - {x: -12.499997, y: 10.99999}
+        - {x: -9.499997, y: 15.99999}
+        - {x: 7.500003, y: 15.99999}
+        - {x: 13.500003, y: 13.99999}
+        - {x: 13.500003, y: -11.00001}
+        - {x: 11.500003, y: -16.00001}
+      physicsShape:
+      - - {x: -9.499997, y: 15.99999}
+        - {x: -12.499997, y: 10.99999}
+        - {x: -13.499997, y: -6.0000095}
+        - {x: -13.499997, y: -12.00001}
+        - {x: -5.499997, y: -16.00001}
+        - {x: 11.500003, y: -16.00001}
+        - {x: 13.500003, y: -11.00001}
+        - {x: 13.500003, y: 13.99999}
+        - {x: 7.500003, y: 15.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9140b6303efb416c95f40f28c7f50275
+      internalID: 21300018
+      vertices:
+      - {x: 27.423878, y: 42.133255}
+      - {x: 25.423878, y: 12.133253}
+      - {x: 27.423878, y: 17.133253}
+      - {x: 21.423878, y: 44.133255}
+      - {x: 8.423879, y: 12.133253}
+      - {x: 4.4238787, y: 44.133255}
+      - {x: 1.4238787, y: 39.133255}
+      - {x: 0.42387867, y: 22.133253}
+      - {x: 0.42387867, y: 16.133253}
+      indices:
+      - 8
+      - 7
+      - 4
+      - 6
+      - 4
+      - 7
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel83x64_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 86
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -43}
+        - {x: -43, y: -22}
+        - {x: -43, y: 17}
+        - {x: -40, y: 32}
+        - {x: -19, y: 43}
+        - {x: 12, y: 43}
+        - {x: 35, y: 36}
+        - {x: 43, y: 15}
+        - {x: 43, y: -25}
+        - {x: 33, y: -43}
+      physicsShape:
+      - - {x: 43, y: 8}
+        - {x: 40, y: 22}
+        - {x: 32, y: 32}
+        - {x: 9, y: 43}
+        - {x: -12, y: 43}
+        - {x: -29, y: 35}
+        - {x: -37, y: 29}
+        - {x: -43, y: 11}
+        - {x: -43, y: -12}
+        - {x: -38, y: -22}
+        - {x: -23, y: -39}
+        - {x: -6, y: -43}
+        - {x: 11, y: -43}
+        - {x: 25, y: -38}
+        - {x: 40, y: -25}
+        - {x: 43, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0f917b038248d7aafee5cdc197e922
+      internalID: 21300020
+      vertices:
+      - {x: 78, y: 84.16}
+      - {x: 86, y: 23.16}
+      - {x: 86, y: 63.16}
+      - {x: 76, y: 5.16}
+      - {x: 55, y: 91.16}
+      - {x: 24, y: 91.16}
+      - {x: 15, y: 5.16}
+      - {x: 3, y: 80.16}
+      - {x: 0, y: 65.16}
+      - {x: 0, y: 26.16}
+      indices:
+      - 9
+      - 8
+      - 6
+      - 7
+      - 6
+      - 8
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel83x64_0
+      rect:
+        serializedVersion: 2
+        x: 30.07612
+        y: 292.02676
+        width: 26.847757
+        height: 31.946499
+      alignment: 9
+      pivot: {x: 0.4813765, y: 0.119363196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.499999, y: -16.00001}
+        - {x: -13.499999, y: -12.00001}
+        - {x: -13.499999, y: -6.0000095}
+        - {x: -12.499999, y: 10.99999}
+        - {x: -9.499999, y: 15.99999}
+        - {x: 7.500001, y: 15.99999}
+        - {x: 13.500001, y: 13.99999}
+        - {x: 13.500001, y: -11.00001}
+        - {x: 11.500001, y: -16.00001}
+      physicsShape:
+      - - {x: -9.499999, y: 15.99999}
+        - {x: -12.499999, y: 10.99999}
+        - {x: -13.499999, y: -6.0000095}
+        - {x: -13.499999, y: -12.00001}
+        - {x: -5.499999, y: -16.00001}
+        - {x: 11.500001, y: -16.00001}
+        - {x: 13.500001, y: -11.00001}
+        - {x: 13.500001, y: 13.99999}
+        - {x: 7.500001, y: 15.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57b64286b4d4272997a293d77dd408d
+      internalID: 21300022
+      vertices:
+      - {x: 27.423878, y: 42.133255}
+      - {x: 25.423878, y: 12.133253}
+      - {x: 27.423878, y: 17.133253}
+      - {x: 21.423878, y: 44.133255}
+      - {x: 8.423879, y: 12.133253}
+      - {x: 4.4238787, y: 44.133255}
+      - {x: 1.4238787, y: 39.133255}
+      - {x: 0.42387867, y: 22.133253}
+      - {x: 0.42387867, y: 16.133253}
+      indices:
+      - 8
+      - 7
+      - 4
+      - 6
+      - 4
+      - 7
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel83x64_7
+      rect:
+        serializedVersion: 2
+        x: 285.02676
+        y: 202.02675
+        width: 31.946497
+        height: 31.897127
+      alignment: 9
+      pivot: {x: 0.4999996, y: 0.24495158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.000012, y: -15.975308}
+        - {x: -16.000011, y: -9.975308}
+        - {x: -16.000011, y: 4.0246916}
+        - {x: -11.000012, y: 10.024692}
+        - {x: -2.0000124, y: 16.024693}
+        - {x: 7.9999876, y: 16.024693}
+        - {x: 13.999988, y: 13.024692}
+        - {x: 15.999988, y: 8.024692}
+        - {x: 15.999988, y: -10.975308}
+        - {x: 14.999988, y: -15.975308}
+      physicsShape:
+      - - {x: 7.9999876, y: 16.024693}
+        - {x: -2.0000124, y: 16.024693}
+        - {x: -11.000012, y: 10.024692}
+        - {x: -16.000011, y: 4.0246916}
+        - {x: -16.000011, y: -9.975308}
+        - {x: -13.000012, y: -15.975308}
+        - {x: 14.999988, y: -15.975308}
+        - {x: 15.999988, y: -10.975308}
+        - {x: 15.999988, y: 8.024692}
+        - {x: 13.999988, y: 13.024692}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237801ef80504b9fb8840c7a6c2ea890
+      internalID: 21300024
+      vertices:
+      - {x: 31.973248, y: 32.108566}
+      - {x: 30.973248, y: 8.108567}
+      - {x: 31.973248, y: 13.108567}
+      - {x: 29.973248, y: 37.108566}
+      - {x: 23.973248, y: 40.108566}
+      - {x: 13.9732485, y: 40.108566}
+      - {x: 4.9732485, y: 34.108566}
+      - {x: 2.9732485, y: 8.108567}
+      - {x: -0.026751518, y: 28.108566}
+      - {x: -0.026751518, y: 14.108567}
+      indices:
+      - 9
+      - 8
+      - 7
+      - 6
+      - 7
+      - 8
+      - 1
+      - 7
+      - 6
+      - 5
+      - 1
+      - 6
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel83x64_4
+      rect:
+        serializedVersion: 2
+        x: 30.07612
+        y: 206.02675
+        width: 26.847757
+        height: 31.946499
+      alignment: 9
+      pivot: {x: 0.4813765, y: 0.11936367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.499999, y: -15.999994}
+        - {x: -13.499999, y: -11.999994}
+        - {x: -13.499999, y: -5.9999943}
+        - {x: -12.499999, y: 11.000006}
+        - {x: -9.499999, y: 16.000006}
+        - {x: 7.500001, y: 16.000006}
+        - {x: 13.500001, y: 14.000006}
+        - {x: 13.500001, y: -10.999994}
+        - {x: 11.500001, y: -15.999994}
+      physicsShape:
+      - - {x: -9.499999, y: 16.000006}
+        - {x: -12.499999, y: 11.000006}
+        - {x: -13.499999, y: -5.9999943}
+        - {x: -13.499999, y: -11.999994}
+        - {x: -5.499999, y: -15.999994}
+        - {x: 11.500001, y: -15.999994}
+        - {x: 13.500001, y: -10.999994}
+        - {x: 13.500001, y: 14.000006}
+        - {x: 7.500001, y: 16.000006}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca659f71ed8c4a91be7577deb4613bf0
+      internalID: 21300026
+      vertices:
+      - {x: 27.423878, y: 42.133255}
+      - {x: 25.423878, y: 12.133253}
+      - {x: 27.423878, y: 17.133253}
+      - {x: 21.423878, y: 44.133255}
+      - {x: 8.423879, y: 12.133253}
+      - {x: 4.4238787, y: 44.133255}
+      - {x: 1.4238787, y: 39.133255}
+      - {x: 0.42387867, y: 22.133253}
+      - {x: 0.42387867, y: 16.133253}
+      indices:
+      - 8
+      - 7
+      - 4
+      - 6
+      - 4
+      - 7
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 4cccb9c8fa36edf1f03dae7baaef6041.bundle
+  assetBundleVariant:

@@ -1,0 +1,853 @@
+fileFormatVersion: 2
+guid: 5a0a0467ee321f644abe2e1c497ec487
+timeCreated: 1706119827
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Boss_Appear_BigEye64x64_0
+  - first:
+      213: 21300002
+    second: Boss_Appear_BigEye64x64_4
+  - first:
+      213: 21300004
+    second: Boss_Appear_BigEye64x64_1
+  - first:
+      213: 21300006
+    second: Boss_Appear_BigEye64x64_2
+  - first:
+      213: 21300008
+    second: Boss_Appear_BigEye64x64_3
+  - first:
+      213: 21300010
+    second: Boss_Appear_BigEye64x64_5
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Appear_BigEye64x64_0
+      rect:
+        serializedVersion: 2
+        x: 16.07612
+        y: 18.07612
+        width: 27.847757
+        height: 28.847757
+      alignment: 9
+      pivot: {x: 0.5718191, y: 0.48266765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.999998, y: -5.499999}
+        - {x: -13.999998, y: -0.49999905}
+        - {x: -13.999998, y: 3.500001}
+        - {x: -3.999998, y: 14.500001}
+        - {x: 2.000002, y: 14.500001}
+        - {x: 14.000002, y: 1.500001}
+        - {x: 14.000002, y: -2.499999}
+        - {x: 6.000002, y: -14.499999}
+        - {x: -1.9999981, y: -14.499999}
+      physicsShape:
+      - - {x: 2.000002, y: 14.500001}
+        - {x: -3.999998, y: 14.500001}
+        - {x: -13.999998, y: 3.500001}
+        - {x: -13.999998, y: -0.49999905}
+        - {x: -12.999998, y: -5.499999}
+        - {x: -1.9999981, y: -14.499999}
+        - {x: 6.000002, y: -14.499999}
+        - {x: 14.000002, y: -2.499999}
+        - {x: 14.000002, y: 1.500001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbac317f36a450b9f23ab26eb054970
+      internalID: 21300000
+      vertices:
+      - {x: 25.923878, y: 16.423878}
+      - {x: 17.923878, y: 0.42387867}
+      - {x: 25.923878, y: 12.423879}
+      - {x: 13.923879, y: 29.423878}
+      - {x: 9.923879, y: 0.42387867}
+      - {x: 7.9238787, y: 29.423878}
+      - {x: -1.0761213, y: 9.423879}
+      - {x: -2.0761213, y: 18.423878}
+      - {x: -2.0761213, y: 14.423879}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_BigEye64x64_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 27}
+        - {x: -6, y: 30}
+        - {x: -5, y: 32}
+        - {x: 0, y: 32}
+        - {x: 1, y: 30}
+        - {x: -2, y: 27}
+      - - {x: -29, y: -10}
+        - {x: -32, y: -10}
+        - {x: -32, y: -3}
+        - {x: -29, y: -3}
+        - {x: -27, y: -4}
+        - {x: -27, y: -7}
+      - - {x: 29, y: -15}
+        - {x: 26, y: -14}
+        - {x: 26, y: -11}
+        - {x: 27, y: -8}
+        - {x: 30, y: -8}
+        - {x: 32, y: -10}
+        - {x: 32, y: -13}
+        - {x: 30, y: -15}
+      - - {x: -8, y: -17}
+        - {x: -19, y: -13}
+        - {x: -19, y: 9}
+        - {x: -13, y: 20}
+        - {x: 11, y: 20}
+        - {x: 18, y: 9}
+        - {x: 18, y: -3}
+        - {x: 17, y: -9}
+        - {x: 11, y: -17}
+      - - {x: 1, y: -32}
+        - {x: -6, y: -32}
+        - {x: -6, y: -31}
+        - {x: -3, y: -28}
+        - {x: -2, y: -28}
+        - {x: 1, y: -31}
+      physicsShape:
+      - - {x: -6, y: -31}
+        - {x: -6, y: -32}
+        - {x: 1, y: -32}
+        - {x: 1, y: -31}
+        - {x: -2, y: -28}
+        - {x: -3, y: -28}
+      - - {x: 11, y: 20}
+        - {x: -13, y: 20}
+        - {x: -19, y: 9}
+        - {x: -19, y: -13}
+        - {x: -8, y: -17}
+        - {x: 11, y: -17}
+        - {x: 17, y: -9}
+        - {x: 18, y: -3}
+        - {x: 18, y: 9}
+      - - {x: 27, y: -8}
+        - {x: 26, y: -11}
+        - {x: 26, y: -14}
+        - {x: 29, y: -15}
+        - {x: 30, y: -15}
+        - {x: 32, y: -13}
+        - {x: 32, y: -10}
+        - {x: 30, y: -8}
+      - - {x: -32, y: -3}
+        - {x: -32, y: -10}
+        - {x: -29, y: -10}
+        - {x: -27, y: -7}
+        - {x: -27, y: -4}
+        - {x: -29, y: -3}
+      - - {x: -5, y: 32}
+        - {x: -6, y: 30}
+        - {x: -3, y: 27}
+        - {x: -2, y: 27}
+        - {x: 1, y: 30}
+        - {x: 0, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47597bc6ebca41969ae81b46a5994d1d
+      internalID: 21300002
+      vertices:
+      - {x: 30, y: 4}
+      - {x: 33, y: 0}
+      - {x: 33, y: 1}
+      - {x: 29, y: 4}
+      - {x: 26, y: 1}
+      - {x: 26, y: 0}
+      - {x: 50, y: 41}
+      - {x: 49, y: 23}
+      - {x: 50, y: 29}
+      - {x: 43, y: 52}
+      - {x: 43, y: 15}
+      - {x: 24, y: 15}
+      - {x: 19, y: 52}
+      - {x: 13, y: 41}
+      - {x: 13, y: 19}
+      - {x: 62, y: 24}
+      - {x: 64, y: 19}
+      - {x: 64, y: 22}
+      - {x: 62, y: 17}
+      - {x: 61, y: 17}
+      - {x: 59, y: 24}
+      - {x: 58, y: 21}
+      - {x: 58, y: 18}
+      - {x: 3, y: 29}
+      - {x: 5, y: 25}
+      - {x: 5, y: 28}
+      - {x: 3, y: 22}
+      - {x: 0, y: 29}
+      - {x: 0, y: 22}
+      - {x: 32, y: 64}
+      - {x: 30, y: 59}
+      - {x: 33, y: 62}
+      - {x: 29, y: 59}
+      - {x: 27, y: 64}
+      - {x: 26, y: 62}
+      indices:
+      - 34
+      - 33
+      - 32
+      - 29
+      - 32
+      - 33
+      - 30
+      - 32
+      - 29
+      - 31
+      - 30
+      - 29
+      - 28
+      - 27
+      - 26
+      - 23
+      - 26
+      - 27
+      - 24
+      - 26
+      - 23
+      - 25
+      - 24
+      - 23
+      - 22
+      - 21
+      - 19
+      - 20
+      - 19
+      - 21
+      - 15
+      - 19
+      - 20
+      - 18
+      - 19
+      - 15
+      - 16
+      - 18
+      - 15
+      - 17
+      - 16
+      - 15
+      - 14
+      - 13
+      - 11
+      - 12
+      - 11
+      - 13
+      - 9
+      - 11
+      - 12
+      - 10
+      - 11
+      - 9
+      - 7
+      - 10
+      - 9
+      - 6
+      - 7
+      - 9
+      - 8
+      - 7
+      - 6
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_BigEye64x64_1
+      rect:
+        serializedVersion: 2
+        x: 78.07612
+        y: 16.07612
+        width: 32.847755
+        height: 39.847755
+      alignment: 9
+      pivot: {x: 0.5456653, y: 0.39961797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.4999962, y: -20}
+        - {x: -16.499996, y: -5.999999}
+        - {x: -16.499996, y: 9.536743E-07}
+        - {x: -6.499996, y: 19}
+        - {x: -4.499996, y: 20}
+        - {x: 2.5000038, y: 20}
+        - {x: 16.500004, y: -0.99999905}
+        - {x: 16.500004, y: -3.999999}
+        - {x: 1.5000038, y: -20}
+      physicsShape:
+      - - {x: 2.5000038, y: 20}
+        - {x: -4.499996, y: 20}
+        - {x: -6.499996, y: 19}
+        - {x: -16.499996, y: 9.536743E-07}
+        - {x: -16.499996, y: -5.999999}
+        - {x: -3.4999962, y: -20}
+        - {x: 1.5000038, y: -20}
+        - {x: 16.500004, y: -3.999999}
+        - {x: 16.500004, y: -0.99999905}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba057fc55f6a4f83a4ec7a52faf2e49f
+      internalID: 21300004
+      vertices:
+      - {x: 17.423878, y: 43.923878}
+      - {x: 31.423878, y: 19.923878}
+      - {x: 31.423878, y: 22.923878}
+      - {x: 16.423878, y: 3.9238777}
+      - {x: 11.423878, y: 3.9238777}
+      - {x: 10.423878, y: 43.923878}
+      - {x: 8.423878, y: 42.923878}
+      - {x: -1.5761223, y: 23.923878}
+      - {x: -1.5761223, y: 17.923878}
+      indices:
+      - 8
+      - 7
+      - 4
+      - 6
+      - 4
+      - 7
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_BigEye64x64_2
+      rect:
+        serializedVersion: 2
+        x: 128.05132
+        y: 0
+        width: 62.921932
+        height: 64
+      alignment: 9
+      pivot: {x: 0.50775117, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.512281, y: -25}
+        - {x: -31.512281, y: -7}
+        - {x: -31.512281, y: 7}
+        - {x: -8.512281, y: 32}
+        - {x: 2.4877186, y: 32}
+        - {x: 31.487719, y: 8}
+        - {x: 31.487719, y: -14}
+        - {x: 11.487719, y: -32}
+        - {x: -7.5122814, y: -32}
+      physicsShape:
+      - - {x: 31.487719, y: 5}
+        - {x: 15.487719, y: 21}
+        - {x: 0.48771858, y: 32}
+        - {x: -6.5122814, y: 32}
+        - {x: -20.512281, y: 15}
+        - {x: -31.512281, y: 2}
+        - {x: -31.512281, y: -4}
+        - {x: -29.512281, y: -9}
+        - {x: -21.512281, y: -11}
+        - {x: -6.5122814, y: -18}
+        - {x: -5.5122814, y: -31}
+        - {x: -3.5122814, y: -32}
+        - {x: 1.4877186, y: -32}
+        - {x: 2.4877186, y: -31}
+        - {x: 9.487719, y: -17}
+        - {x: 31.487719, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e7baaa337042f297b3e7fe7a171c49
+      internalID: 21300006
+      vertices:
+      - {x: 62.460968, y: 40}
+      - {x: 42.460968, y: 0}
+      - {x: 62.460968, y: 18}
+      - {x: 33.460968, y: 64}
+      - {x: 23.460966, y: 0}
+      - {x: 22.460966, y: 64}
+      - {x: 15.460966, y: 7}
+      - {x: -0.5390339, y: 39}
+      - {x: -0.5390339, y: 25}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_BigEye64x64_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 25}
+        - {x: -6, y: 26}
+        - {x: -6, y: 31}
+        - {x: -5, y: 32}
+        - {x: 1, y: 32}
+        - {x: 1, y: 26}
+        - {x: 0, y: 25}
+      - - {x: -31, y: -9}
+        - {x: -32, y: -8}
+        - {x: -32, y: 1}
+        - {x: -29, y: 1}
+        - {x: -26, y: 0}
+        - {x: -26, y: -6}
+        - {x: -29, y: -9}
+      - - {x: 29, y: -14}
+        - {x: 25, y: -9}
+        - {x: 25, y: -5}
+        - {x: 28, y: -4}
+        - {x: 31, y: -4}
+        - {x: 32, y: -6}
+        - {x: 32, y: -12}
+        - {x: 30, y: -14}
+      - - {x: -12, y: -18}
+        - {x: -20, y: -10}
+        - {x: -20, y: 10}
+        - {x: -11, y: 20}
+        - {x: -6, y: 21}
+        - {x: 7, y: 21}
+        - {x: 18, y: 12}
+        - {x: 19, y: 10}
+        - {x: 19, y: -13}
+        - {x: 7, y: -18}
+      - - {x: -5, y: -32}
+        - {x: -6, y: -31}
+        - {x: -6, y: -27}
+        - {x: -3, y: -24}
+        - {x: -2, y: -24}
+        - {x: 1, y: -25}
+        - {x: 1, y: -32}
+      physicsShape:
+      - - {x: -3, y: -24}
+        - {x: -6, y: -27}
+        - {x: -6, y: -31}
+        - {x: -5, y: -32}
+        - {x: 1, y: -32}
+        - {x: 1, y: -25}
+        - {x: -2, y: -24}
+      - - {x: 7, y: 21}
+        - {x: -6, y: 21}
+        - {x: -11, y: 20}
+        - {x: -20, y: 10}
+        - {x: -20, y: -10}
+        - {x: -12, y: -18}
+        - {x: 7, y: -18}
+        - {x: 19, y: -13}
+        - {x: 19, y: 10}
+        - {x: 18, y: 12}
+      - - {x: 28, y: -4}
+        - {x: 25, y: -5}
+        - {x: 25, y: -9}
+        - {x: 29, y: -14}
+        - {x: 30, y: -14}
+        - {x: 32, y: -12}
+        - {x: 32, y: -6}
+        - {x: 31, y: -4}
+      - - {x: -29, y: 1}
+        - {x: -32, y: 1}
+        - {x: -32, y: -8}
+        - {x: -31, y: -9}
+        - {x: -29, y: -9}
+        - {x: -26, y: -6}
+        - {x: -26, y: 0}
+      - - {x: -5, y: 32}
+        - {x: -6, y: 31}
+        - {x: -6, y: 26}
+        - {x: -3, y: 25}
+        - {x: 0, y: 25}
+        - {x: 1, y: 26}
+        - {x: 1, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef08868137a499a9bc1ca454e7af81d
+      internalID: 21300008
+      vertices:
+      - {x: 30, y: 8}
+      - {x: 33, y: 0}
+      - {x: 33, y: 7}
+      - {x: 29, y: 8}
+      - {x: 27, y: 0}
+      - {x: 26, y: 5}
+      - {x: 26, y: 1}
+      - {x: 50, y: 44}
+      - {x: 51, y: 19}
+      - {x: 51, y: 42}
+      - {x: 39, y: 53}
+      - {x: 39, y: 14}
+      - {x: 26, y: 53}
+      - {x: 21, y: 52}
+      - {x: 20, y: 14}
+      - {x: 12, y: 42}
+      - {x: 12, y: 22}
+      - {x: 63, y: 28}
+      - {x: 64, y: 20}
+      - {x: 64, y: 26}
+      - {x: 62, y: 18}
+      - {x: 61, y: 18}
+      - {x: 60, y: 28}
+      - {x: 57, y: 27}
+      - {x: 57, y: 23}
+      - {x: 3, y: 33}
+      - {x: 6, y: 26}
+      - {x: 6, y: 32}
+      - {x: 3, y: 23}
+      - {x: 1, y: 23}
+      - {x: 0, y: 33}
+      - {x: 0, y: 24}
+      - {x: 33, y: 64}
+      - {x: 32, y: 57}
+      - {x: 33, y: 58}
+      - {x: 29, y: 57}
+      - {x: 27, y: 64}
+      - {x: 26, y: 63}
+      - {x: 26, y: 58}
+      indices:
+      - 38
+      - 37
+      - 35
+      - 36
+      - 35
+      - 37
+      - 32
+      - 35
+      - 36
+      - 33
+      - 35
+      - 32
+      - 34
+      - 33
+      - 32
+      - 31
+      - 30
+      - 29
+      - 25
+      - 29
+      - 30
+      - 28
+      - 29
+      - 25
+      - 26
+      - 28
+      - 25
+      - 27
+      - 26
+      - 25
+      - 24
+      - 23
+      - 21
+      - 22
+      - 21
+      - 23
+      - 17
+      - 21
+      - 22
+      - 20
+      - 21
+      - 17
+      - 18
+      - 20
+      - 17
+      - 19
+      - 18
+      - 17
+      - 16
+      - 15
+      - 14
+      - 13
+      - 14
+      - 15
+      - 11
+      - 14
+      - 13
+      - 12
+      - 11
+      - 13
+      - 10
+      - 11
+      - 12
+      - 8
+      - 11
+      - 10
+      - 7
+      - 8
+      - 10
+      - 9
+      - 8
+      - 7
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Appear_BigEye64x64_5
+      rect:
+        serializedVersion: 2
+        x: 333.02676
+        y: 15.026751
+        width: 36.946495
+        height: 36.946495
+      alignment: 9
+      pivot: {x: 0.51353276, y: 0.4594008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5000114, y: -18.499998}
+        - {x: -18.500011, y: -14.499998}
+        - {x: -18.500011, y: 7.500002}
+        - {x: -12.500011, y: 18.500002}
+        - {x: 11.499989, y: 18.500002}
+        - {x: 18.499989, y: 7.500002}
+        - {x: 18.499989, y: -4.499998}
+        - {x: 17.499989, y: -10.499998}
+        - {x: 11.499989, y: -18.499998}
+      physicsShape:
+      - - {x: 11.499989, y: 18.500002}
+        - {x: -12.500011, y: 18.500002}
+        - {x: -18.500011, y: 7.500002}
+        - {x: -18.500011, y: -14.499998}
+        - {x: -7.5000114, y: -18.499998}
+        - {x: 11.499989, y: -18.499998}
+        - {x: 17.499989, y: -10.499998}
+        - {x: 18.499989, y: -4.499998}
+        - {x: 18.499989, y: 7.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eba03ab3634d53ad0bf14e60011355
+      internalID: 21300010
+      vertices:
+      - {x: 36.473248, y: 27.473248}
+      - {x: 35.473248, y: 9.473248}
+      - {x: 36.473248, y: 15.473248}
+      - {x: 29.473248, y: 38.473248}
+      - {x: 29.473248, y: 1.4732475}
+      - {x: 10.473248, y: 1.4732475}
+      - {x: 5.4732475, y: 38.473248}
+      - {x: -0.5267525, y: 27.473248}
+      - {x: -0.5267525, y: 5.4732475}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 3
+      - 5
+      - 6
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

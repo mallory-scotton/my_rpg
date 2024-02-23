@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: e53745d9dc6da2347af1618fae0aecb7
+timeCreated: 1706119846
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UIShieldUp_3
+  - first:
+      213: 21300002
+    second: UIShieldDown_3
+  - first:
+      213: 21300004
+    second: UIShieldUp_4
+  - first:
+      213: 21300006
+    second: UIShieldUp_2
+  - first:
+      213: 21300008
+    second: UIShieldUp_0
+  - first:
+      213: 21300010
+    second: UIShieldDown_2
+  - first:
+      213: 21300012
+    second: UIHealthUp_0
+  - first:
+      213: 21300014
+    second: UIHealthDown_0
+  - first:
+      213: 21300016
+    second: UIShieldUp_1
+  - first:
+      213: 21300018
+    second: UIShieldIdle
+  - first:
+      213: 21300020
+    second: UIHealthUp_2
+  - first:
+      213: 21300022
+    second: UIHealthUp_1
+  - first:
+      213: 21300024
+    second: UIShieldDown_0
+  - first:
+      213: 21300026
+    second: UIHealthEmptyIdle
+  - first:
+      213: 21300028
+    second: UIShieldDown_1
+  - first:
+      213: 21300030
+    second: UIHealthDown_1
+  - first:
+      213: 21300032
+    second: UIHealthIdle
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UIShieldUp_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9.5}
+        - {x: -10, y: 9.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36456478979a483395e6b0827ef0c98f
+      internalID: 21300000
+      vertices:
+      - {x: 10, y: 9.5}
+      - {x: 30, y: 9.5}
+      - {x: 10, y: -9.5}
+      - {x: 30, y: -9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIShieldDown_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9.5}
+        - {x: -10, y: 9.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dc1c445d4f4758a11ecf73ae09e008
+      internalID: 21300002
+      vertices:
+      - {x: 10, y: 9.5}
+      - {x: 30, y: 9.5}
+      - {x: 10, y: -9.5}
+      - {x: 30, y: -9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIShieldUp_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9.5}
+        - {x: -10, y: 9.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc25db4c5db044d5a9aba16b383e705b
+      internalID: 21300004
+      vertices:
+      - {x: 10, y: 9.5}
+      - {x: 30, y: 9.5}
+      - {x: 10, y: -9.5}
+      - {x: 30, y: -9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIShieldUp_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9.5}
+        - {x: -10, y: 9.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660638f8e73743768b5afb0f5f1d278e
+      internalID: 21300006
+      vertices:
+      - {x: 10, y: 9.5}
+      - {x: 30, y: 9.5}
+      - {x: 10, y: -9.5}
+      - {x: 30, y: -9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIShieldUp_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9.5}
+        - {x: -10, y: 9.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a630e22da594ccb9012d41a5e42b673
+      internalID: 21300008
+      vertices:
+      - {x: 10, y: 9.5}
+      - {x: 30, y: 9.5}
+      - {x: 10, y: -9.5}
+      - {x: 30, y: -9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIShieldDown_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9.5}
+        - {x: -10, y: 9.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5f4f681c094744b5b84b33844ea1d3
+      internalID: 21300010
+      vertices:
+      - {x: 10, y: 9.5}
+      - {x: 30, y: 9.5}
+      - {x: 10, y: -9.5}
+      - {x: 30, y: -9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHealthUp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9.5}
+        - {x: -10, y: 9.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7ec70cfb0d4679b4dce8ec8ee52df2
+      internalID: 21300012
+      vertices:
+      - {x: 10, y: 9.5}
+      - {x: 30, y: 9.5}
+      - {x: 10, y: -9.5}
+      - {x: 30, y: -9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHealthDown_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9.5}
+        - {x: -10, y: 9.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135c67d12397432686a309e63d333a73
+      internalID: 21300014
+      vertices:
+      - {x: 10, y: 9.5}
+      - {x: 30, y: 9.5}
+      - {x: 10, y: -9.5}
+      - {x: 30, y: -9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIShieldUp_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9.5}
+        - {x: -10, y: 9.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f2b59fd3ba482593c66c28dd2c62ef
+      internalID: 21300016
+      vertices:
+      - {x: 10, y: 9.5}
+      - {x: 30, y: 9.5}
+      - {x: 10, y: -9.5}
+      - {x: 30, y: -9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIShieldIdle
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9.5}
+        - {x: -10, y: 9.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b310d91ad8a4db0aaebb0b96da88873
+      internalID: 21300018
+      vertices:
+      - {x: 10, y: 9.5}
+      - {x: 30, y: 9.5}
+      - {x: 10, y: -9.5}
+      - {x: 30, y: -9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHealthUp_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9.5}
+        - {x: -10, y: 9.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f79ae6e4c444cdb96de706a22b7ee7
+      internalID: 21300020
+      vertices:
+      - {x: 10, y: 9.5}
+      - {x: 30, y: 9.5}
+      - {x: 10, y: -9.5}
+      - {x: 30, y: -9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHealthUp_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9.5}
+        - {x: -10, y: 9.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29615ca7980343e882249f1119a1616c
+      internalID: 21300022
+      vertices:
+      - {x: 10, y: 9.5}
+      - {x: 30, y: 9.5}
+      - {x: 10, y: -9.5}
+      - {x: 30, y: -9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIShieldDown_0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9.5}
+        - {x: -10, y: 9.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98e85e0c73f4a1684f279c0e623e0b3
+      internalID: 21300024
+      vertices:
+      - {x: 10, y: 9.5}
+      - {x: 30, y: 9.5}
+      - {x: 10, y: -9.5}
+      - {x: 30, y: -9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHealthEmptyIdle
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9.5}
+        - {x: -10, y: 9.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d602d44db3f0432695c5cf081537025e
+      internalID: 21300026
+      vertices:
+      - {x: 10, y: 9.5}
+      - {x: 30, y: 9.5}
+      - {x: 10, y: -9.5}
+      - {x: 30, y: -9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIShieldDown_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9.5}
+        - {x: -10, y: 9.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e4630c34c946be82f036d688861b21
+      internalID: 21300028
+      vertices:
+      - {x: 10, y: 9.5}
+      - {x: 30, y: 9.5}
+      - {x: 10, y: -9.5}
+      - {x: 30, y: -9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHealthDown_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9.5}
+        - {x: -10, y: 9.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1281ac4670d8402f920e0ed054f1ed5a
+      internalID: 21300030
+      vertices:
+      - {x: 10, y: 9.5}
+      - {x: 30, y: 9.5}
+      - {x: 10, y: -9.5}
+      - {x: 30, y: -9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHealthIdle
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9.5}
+        - {x: -10, y: 9.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321607822e6f4e8293bb67cc1c24ef05
+      internalID: 21300032
+      vertices:
+      - {x: 10, y: 9.5}
+      - {x: 30, y: 9.5}
+      - {x: 10, y: -9.5}
+      - {x: 30, y: -9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

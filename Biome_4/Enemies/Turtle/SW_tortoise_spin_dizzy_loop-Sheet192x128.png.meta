@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: fbd2c0e6b2605144099ecda05245435d
+timeCreated: 1706119828
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SW_tortoise_spin_dizzy_loop-Sheet192x128_6
+  - first:
+      213: 21300002
+    second: SW_tortoise_spin_dizzy_loop-Sheet192x128_3
+  - first:
+      213: 21300004
+    second: SW_tortoise_spin_dizzy_loop-Sheet192x128_5
+  - first:
+      213: 21300006
+    second: SW_tortoise_spin_dizzy_loop-Sheet192x128_1
+  - first:
+      213: 21300008
+    second: SW_tortoise_spin_dizzy_loop-Sheet192x128_4
+  - first:
+      213: 21300010
+    second: SW_tortoise_spin_dizzy_loop-Sheet192x128_0
+  - first:
+      213: 21300012
+    second: SW_tortoise_spin_dizzy_loop-Sheet192x128_2
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SW_tortoise_spin_dizzy_loop-Sheet192x128_6
+      rect:
+        serializedVersion: 2
+        x: 1183.0762
+        y: 26.02675
+        width: 118.887596
+        height: 80.89713
+      alignment: 9
+      pivot: {x: 0.5629168, y: -0.062137563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.51997, y: -40.47532}
+        - {x: -59.51997, y: -39.47532}
+        - {x: -59.51997, y: 1.5246811}
+        - {x: -38.51997, y: 40.52468}
+        - {x: 29.48003, y: 40.52468}
+        - {x: 59.48003, y: -14.475319}
+        - {x: 59.48003, y: -31.475319}
+        - {x: 38.48003, y: -40.47532}
+      physicsShape:
+      - - {x: 59.48003, y: -20.475319}
+        - {x: 47.48003, y: -2.475319}
+        - {x: 33.48003, y: 30.524681}
+        - {x: 25.48003, y: 40.52468}
+        - {x: -35.51997, y: 40.52468}
+        - {x: -38.51997, y: 34.52468}
+        - {x: -41.51997, y: 26.524681}
+        - {x: -51.51997, y: 14.524681}
+        - {x: -59.51997, y: 0.5246811}
+        - {x: -59.51997, y: -4.475319}
+        - {x: -58.51997, y: -7.475319}
+        - {x: -53.51997, y: -15.475319}
+        - {x: -44.51997, y: -11.475319}
+        - {x: -52.51997, y: -27.475319}
+        - {x: -47.51997, y: -29.475319}
+        - {x: -31.51997, y: -35.47532}
+        - {x: -11.51997, y: -35.47532}
+        - {x: -5.51997, y: -23.475319}
+        - {x: 10.48003, y: -40.47532}
+        - {x: 22.48003, y: -40.47532}
+        - {x: 40.48003, y: -34.47532}
+        - {x: 56.48003, y: -28.475319}
+        - {x: 59.48003, y: -25.475319}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5aacf219ea45d0a2399ed996617f56
+      internalID: 21300000
+      vertices:
+      - {x: 111.4438, y: 71.44856}
+      - {x: 90.4438, y: 45.448566}
+      - {x: 111.4438, y: 54.448566}
+      - {x: 81.4438, y: 126.44856}
+      - {x: 13.443798, y: 126.44856}
+      - {x: 4.443798, y: 45.448566}
+      - {x: -7.556202, y: 87.44856}
+      - {x: -7.556202, y: 46.448566}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_spin_dizzy_loop-Sheet192x128_3
+      rect:
+        serializedVersion: 2
+        x: 607.0761
+        y: 26.02675
+        width: 118.887596
+        height: 80.89713
+      alignment: 9
+      pivot: {x: 0.56291735, y: -0.062137563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.48009, y: -40.47532}
+        - {x: -59.51991, y: -40.47532}
+        - {x: -59.51991, y: 7.524681}
+        - {x: -50.51991, y: 40.52468}
+        - {x: 32.48009, y: 40.52468}
+        - {x: 39.48009, y: 32.52468}
+        - {x: 59.48009, y: -15.475319}
+        - {x: 59.48009, y: -30.475319}
+      physicsShape:
+      - - {x: 59.48009, y: -18.475319}
+        - {x: 55.48009, y: -7.475319}
+        - {x: 37.48009, y: 31.524681}
+        - {x: 28.480091, y: 40.52468}
+        - {x: -32.51991, y: 40.52468}
+        - {x: -35.51991, y: 34.52468}
+        - {x: -35.51991, y: 25.524681}
+        - {x: -46.51991, y: 19.524681}
+        - {x: -59.51991, y: 2.524681}
+        - {x: -59.51991, y: -5.475319}
+        - {x: -54.51991, y: -17.475319}
+        - {x: -44.51991, y: -11.475319}
+        - {x: -52.51991, y: -27.475319}
+        - {x: -48.51991, y: -30.475319}
+        - {x: -28.519909, y: -36.47532}
+        - {x: -19.519909, y: -33.47532}
+        - {x: -8.519909, y: -29.475319}
+        - {x: -5.519909, y: -27.475319}
+        - {x: 9.480091, y: -40.47532}
+        - {x: 19.480091, y: -40.47532}
+        - {x: 40.48009, y: -34.47532}
+        - {x: 56.48009, y: -28.475319}
+        - {x: 59.48009, y: -27.475319}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0264a8435426455586d9ef09183ebfab
+      internalID: 21300002
+      vertices:
+      - {x: 111.4438, y: 70.44856}
+      - {x: 94.4438, y: 45.448566}
+      - {x: 111.4438, y: 55.448566}
+      - {x: 91.4438, y: 118.44856}
+      - {x: 84.4438, y: 126.44856}
+      - {x: 1.4437981, y: 126.44856}
+      - {x: -7.556202, y: 93.44856}
+      - {x: -7.556202, y: 45.448566}
+      indices:
+      - 7
+      - 6
+      - 1
+      - 5
+      - 1
+      - 6
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_spin_dizzy_loop-Sheet192x128_5
+      rect:
+        serializedVersion: 2
+        x: 991.0761
+        y: 26.02675
+        width: 129.84775
+        height: 80.89713
+      alignment: 9
+      pivot: {x: 0.5154028, y: -0.062137563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.000015, y: -19.475319}
+        - {x: 60.000015, y: -17.475319}
+        - {x: 60.000015, y: -14.475319}
+        - {x: 63.000015, y: -13.475319}
+        - {x: 65.000015, y: -15.475319}
+        - {x: 65.000015, y: -18.475319}
+      - - {x: -33.999985, y: -40.47532}
+        - {x: -64.999985, y: -32.47532}
+        - {x: -64.999985, y: 1.5246811}
+        - {x: -43.999985, y: 40.52468}
+        - {x: 25.000015, y: 40.52468}
+        - {x: 54.000015, y: -9.475319}
+        - {x: 54.000015, y: -40.47532}
+      physicsShape:
+      - - {x: 54.000015, y: -26.475319}
+        - {x: 54.000015, y: -16.475319}
+        - {x: 40.000015, y: 5.524681}
+        - {x: 30.000015, y: 31.524681}
+        - {x: 21.000015, y: 40.52468}
+        - {x: -42.999985, y: 40.52468}
+        - {x: -47.999985, y: 27.524681}
+        - {x: -57.999985, y: 14.524681}
+        - {x: -64.999985, y: 0.5246811}
+        - {x: -64.999985, y: -4.475319}
+        - {x: -63.999985, y: -7.475319}
+        - {x: -58.999985, y: -15.475319}
+        - {x: -49.999985, y: -11.475319}
+        - {x: -57.999985, y: -27.475319}
+        - {x: -52.999985, y: -29.475319}
+        - {x: -37.999985, y: -36.47532}
+        - {x: -17.999985, y: -32.47532}
+        - {x: -13.999985, y: -29.475319}
+        - {x: -16.999985, y: -22.475319}
+        - {x: 5.0000153, y: -40.47532}
+        - {x: 13.000015, y: -40.47532}
+        - {x: 16.000015, y: -39.47532}
+        - {x: 33.000015, y: -34.47532}
+        - {x: 35.000015, y: -34.47532}
+        - {x: 53.000015, y: -30.475319}
+      - - {x: 60.000015, y: -17.475319}
+        - {x: 62.000015, y: -19.475319}
+        - {x: 65.000015, y: -18.475319}
+        - {x: 65.000015, y: -15.475319}
+        - {x: 63.000015, y: -13.475319}
+        - {x: 60.000015, y: -14.475319}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fc13bbcc9b470581dda37c46487851
+      internalID: 21300004
+      vertices:
+      - {x: 87.923874, y: 126.44856}
+      - {x: 116.923874, y: 45.448566}
+      - {x: 116.923874, y: 76.44856}
+      - {x: 28.923874, y: 45.448566}
+      - {x: 18.923874, y: 126.44856}
+      - {x: -2.076126, y: 87.44856}
+      - {x: -2.076126, y: 53.448566}
+      - {x: 125.923874, y: 72.44856}
+      - {x: 127.923874, y: 67.44856}
+      - {x: 127.923874, y: 70.44856}
+      - {x: 124.923874, y: 66.44856}
+      - {x: 122.923874, y: 71.44856}
+      - {x: 122.923874, y: 68.44856}
+      indices:
+      - 12
+      - 11
+      - 10
+      - 7
+      - 10
+      - 11
+      - 8
+      - 10
+      - 7
+      - 9
+      - 8
+      - 7
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_spin_dizzy_loop-Sheet192x128_1
+      rect:
+        serializedVersion: 2
+        x: 223.07613
+        y: 26.02675
+        width: 118.887596
+        height: 80.89713
+      alignment: 9
+      pivot: {x: 0.56291723, y: -0.062137563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.519924, y: -40.47532}
+        - {x: -59.519924, y: -32.47532}
+        - {x: -59.519924, y: 1.5246811}
+        - {x: -38.519924, y: 40.52468}
+        - {x: 30.480076, y: 40.52468}
+        - {x: 59.480076, y: -9.475319}
+        - {x: 59.480076, y: -40.47532}
+      physicsShape:
+      - - {x: 59.480076, y: -26.475319}
+        - {x: 59.480076, y: -16.475319}
+        - {x: 45.480076, y: 5.524681}
+        - {x: 35.480076, y: 31.524681}
+        - {x: 26.480076, y: 40.52468}
+        - {x: -37.519924, y: 40.52468}
+        - {x: -42.519924, y: 27.524681}
+        - {x: -52.519924, y: 14.524681}
+        - {x: -59.519924, y: 0.5246811}
+        - {x: -59.519924, y: -4.475319}
+        - {x: -58.519924, y: -7.475319}
+        - {x: -53.519924, y: -15.475319}
+        - {x: -44.519924, y: -11.475319}
+        - {x: -52.519924, y: -27.475319}
+        - {x: -47.519924, y: -29.475319}
+        - {x: -32.519924, y: -36.47532}
+        - {x: -12.519924, y: -32.47532}
+        - {x: -8.519924, y: -29.475319}
+        - {x: -11.519924, y: -22.475319}
+        - {x: 10.480076, y: -40.47532}
+        - {x: 18.480076, y: -40.47532}
+        - {x: 21.480076, y: -39.47532}
+        - {x: 38.480076, y: -34.47532}
+        - {x: 40.480076, y: -34.47532}
+        - {x: 58.480076, y: -30.475319}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992296e16c4847539619f8f181fd264e
+      internalID: 21300006
+      vertices:
+      - {x: 82.4438, y: 126.44856}
+      - {x: 111.4438, y: 45.448566}
+      - {x: 111.4438, y: 76.44856}
+      - {x: 23.443798, y: 45.448566}
+      - {x: 13.443798, y: 126.44856}
+      - {x: -7.556202, y: 87.44856}
+      - {x: -7.556202, y: 53.448566}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_spin_dizzy_loop-Sheet192x128_4
+      rect:
+        serializedVersion: 2
+        x: 799.0761
+        y: 26.02675
+        width: 118.887596
+        height: 80.89713
+      alignment: 9
+      pivot: {x: 0.56291735, y: -0.062137563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.519909, y: -40.47532}
+        - {x: -59.51991, y: -33.47532}
+        - {x: -59.51991, y: 5.524681}
+        - {x: -36.51991, y: 40.52468}
+        - {x: 32.48009, y: 40.52468}
+        - {x: 59.48009, y: -10.475319}
+        - {x: 59.48009, y: -33.47532}
+        - {x: 38.48009, y: -40.47532}
+      physicsShape:
+      - - {x: 59.48009, y: -25.475319}
+        - {x: 58.48009, y: -21.475319}
+        - {x: 47.48009, y: 6.524681}
+        - {x: 36.48009, y: 31.524681}
+        - {x: 27.480091, y: 40.52468}
+        - {x: -36.51991, y: 40.52468}
+        - {x: -41.51991, y: 27.524681}
+        - {x: -59.51991, y: 4.524681}
+        - {x: -59.51991, y: -6.475319}
+        - {x: -54.51991, y: -16.475319}
+        - {x: -52.51991, y: -27.475319}
+        - {x: -48.51991, y: -30.475319}
+        - {x: -28.519909, y: -36.47532}
+        - {x: -12.519909, y: -32.47532}
+        - {x: -8.519909, y: -29.475319}
+        - {x: -3.519909, y: -26.475319}
+        - {x: 8.480091, y: -39.47532}
+        - {x: 10.480091, y: -40.47532}
+        - {x: 20.480091, y: -40.47532}
+        - {x: 33.48009, y: -28.475319}
+        - {x: 37.48009, y: -36.47532}
+        - {x: 58.48009, y: -30.475319}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1eef8f857ec43aabcec93bb851a075c
+      internalID: 21300008
+      vertices:
+      - {x: 111.4438, y: 75.44856}
+      - {x: 90.4438, y: 45.448566}
+      - {x: 111.4438, y: 52.448566}
+      - {x: 84.4438, y: 126.44856}
+      - {x: 23.443798, y: 45.448566}
+      - {x: 15.443798, y: 126.44856}
+      - {x: -7.556202, y: 91.44856}
+      - {x: -7.556202, y: 52.448566}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_spin_dizzy_loop-Sheet192x128_0
+      rect:
+        serializedVersion: 2
+        x: 31.07612
+        y: 26.02675
+        width: 118.887596
+        height: 80.89713
+      alignment: 9
+      pivot: {x: 0.5629173, y: -0.062137563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.519917, y: -40.47532}
+        - {x: -59.519917, y: -39.47532}
+        - {x: -59.519917, y: 1.5246811}
+        - {x: -38.519917, y: 40.52468}
+        - {x: 29.480083, y: 40.52468}
+        - {x: 59.480083, y: -14.475319}
+        - {x: 59.480083, y: -31.475319}
+        - {x: 38.480083, y: -40.47532}
+      physicsShape:
+      - - {x: 59.480083, y: -20.475319}
+        - {x: 47.480083, y: -2.475319}
+        - {x: 33.480083, y: 30.524681}
+        - {x: 25.480083, y: 40.52468}
+        - {x: -35.519917, y: 40.52468}
+        - {x: -38.519917, y: 34.52468}
+        - {x: -41.519917, y: 26.524681}
+        - {x: -51.519917, y: 14.524681}
+        - {x: -59.519917, y: 0.5246811}
+        - {x: -59.519917, y: -4.475319}
+        - {x: -58.519917, y: -7.475319}
+        - {x: -53.519917, y: -15.475319}
+        - {x: -44.519917, y: -11.475319}
+        - {x: -52.519917, y: -27.475319}
+        - {x: -47.519917, y: -29.475319}
+        - {x: -31.519917, y: -35.47532}
+        - {x: -11.519917, y: -35.47532}
+        - {x: -5.5199165, y: -23.475319}
+        - {x: 10.480083, y: -40.47532}
+        - {x: 22.480083, y: -40.47532}
+        - {x: 40.480083, y: -34.47532}
+        - {x: 56.480083, y: -28.475319}
+        - {x: 59.480083, y: -25.475319}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe7c4538eee418091f4073c97a4c487
+      internalID: 21300010
+      vertices:
+      - {x: 111.4438, y: 71.44856}
+      - {x: 90.4438, y: 45.448566}
+      - {x: 111.4438, y: 54.448566}
+      - {x: 81.4438, y: 126.44856}
+      - {x: 13.443798, y: 126.44856}
+      - {x: 4.443798, y: 45.448566}
+      - {x: -7.556202, y: 87.44856}
+      - {x: -7.556202, y: 46.448566}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_spin_dizzy_loop-Sheet192x128_2
+      rect:
+        serializedVersion: 2
+        x: 415.0761
+        y: 26.02675
+        width: 118.887596
+        height: 80.89713
+      alignment: 9
+      pivot: {x: 0.56291735, y: -0.062137563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.519909, y: -40.47532}
+        - {x: -59.51991, y: -33.47532}
+        - {x: -59.51991, y: 5.524681}
+        - {x: -36.51991, y: 40.52468}
+        - {x: 32.48009, y: 40.52468}
+        - {x: 59.48009, y: -10.475319}
+        - {x: 59.48009, y: -33.47532}
+        - {x: 38.48009, y: -40.47532}
+      physicsShape:
+      - - {x: 59.48009, y: -25.475319}
+        - {x: 58.48009, y: -21.475319}
+        - {x: 47.48009, y: 6.524681}
+        - {x: 36.48009, y: 31.524681}
+        - {x: 27.480091, y: 40.52468}
+        - {x: -36.51991, y: 40.52468}
+        - {x: -41.51991, y: 27.524681}
+        - {x: -59.51991, y: 4.524681}
+        - {x: -59.51991, y: -6.475319}
+        - {x: -54.51991, y: -16.475319}
+        - {x: -52.51991, y: -27.475319}
+        - {x: -48.51991, y: -30.475319}
+        - {x: -28.519909, y: -36.47532}
+        - {x: -12.519909, y: -32.47532}
+        - {x: -8.519909, y: -29.475319}
+        - {x: -3.519909, y: -26.475319}
+        - {x: 8.480091, y: -39.47532}
+        - {x: 10.480091, y: -40.47532}
+        - {x: 20.480091, y: -40.47532}
+        - {x: 33.48009, y: -28.475319}
+        - {x: 37.48009, y: -36.47532}
+        - {x: 58.48009, y: -30.475319}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5d8d21d13f449bb108db40ff0c531d
+      internalID: 21300012
+      vertices:
+      - {x: 111.4438, y: 75.44856}
+      - {x: 90.4438, y: 45.448566}
+      - {x: 111.4438, y: 52.448566}
+      - {x: 84.4438, y: 126.44856}
+      - {x: 23.443798, y: 45.448566}
+      - {x: 15.443798, y: 126.44856}
+      - {x: -7.556202, y: 91.44856}
+      - {x: -7.556202, y: 52.448566}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

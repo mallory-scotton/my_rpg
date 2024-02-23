@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 1d2ba8ad1526b2541b415c4652d65670
+timeCreated: 1706119843
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ParticlesAxelotl-52x36_2
+  - first:
+      213: 21300002
+    second: ParticlesAxelotl-52x36_1
+  - first:
+      213: 21300004
+    second: ParticlesAxelotl-52x36_3
+  - first:
+      213: 21300006
+    second: ParticlesAxelotl-52x36_4
+  - first:
+      213: 21300008
+    second: ParticlesAxelotl-52x36_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParticlesAxelotl-52x36_2
+      rect:
+        serializedVersion: 2
+        x: 132.01291
+        y: 0.076120496
+        width: 21.960335
+        height: 35.847755
+      alignment: 9
+      pivot: {x: -0.091661125, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.0069237, y: -17.999998}
+        - {x: -10.993076, y: -17.999998}
+        - {x: -10.993076, y: 18.000002}
+        - {x: 2.0069237, y: 18.000002}
+        - {x: 11.006924, y: 9.000002}
+        - {x: 11.006924, y: -8.999998}
+      physicsShape:
+      - - {x: -10.993076, y: 18.000002}
+        - {x: -10.993076, y: -17.999998}
+        - {x: 1.0069237, y: -17.999998}
+        - {x: 11.006924, y: -8.999998}
+        - {x: 11.006924, y: 9.000002}
+        - {x: 1.0069237, y: 18.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847fab9bae504e5fb25d9c52fb6cd1b0
+      internalID: 21300000
+      vertices:
+      - {x: 25.980167, y: 35.923878}
+      - {x: 34.980167, y: 8.923878}
+      - {x: 34.980167, y: 26.923878}
+      - {x: 24.980167, y: -0.076122284}
+      - {x: 12.980167, y: 35.923878}
+      - {x: 12.980167, y: -0.076122284}
+      indices:
+      - 5
+      - 4
+      - 3
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesAxelotl-52x36_1
+      rect:
+        serializedVersion: 2
+        x: 67.01291
+        y: 0
+        width: 34.960335
+        height: 36
+      alignment: 9
+      pivot: {x: 0.31427306, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.506924, y: -18}
+        - {x: -17.493076, y: -18}
+        - {x: -17.493076, y: -16}
+        - {x: -16.493076, y: 14}
+        - {x: -17.493076, y: 17}
+        - {x: -16.493076, y: 18}
+        - {x: 15.506924, y: 18}
+        - {x: 17.506924, y: 12}
+        - {x: 17.506924, y: -16}
+      physicsShape:
+      - - {x: -16.493076, y: 18}
+        - {x: -17.493076, y: 17}
+        - {x: -16.493076, y: 14}
+        - {x: -17.493076, y: -16}
+        - {x: -17.493076, y: -18}
+        - {x: 12.506924, y: -18}
+        - {x: 17.506924, y: -16}
+        - {x: 17.506924, y: 12}
+        - {x: 15.506924, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd07b58979684b06a14eb3e116d7cedc
+      internalID: 21300002
+      vertices:
+      - {x: 7.4801674, y: 36}
+      - {x: 6.4801674, y: 35}
+      - {x: 7.4801674, y: 32}
+      - {x: 39.480167, y: 36}
+      - {x: 41.480167, y: 2}
+      - {x: 41.480167, y: 30}
+      - {x: 36.480167, y: 0}
+      - {x: 6.4801674, y: 2}
+      - {x: 6.4801674, y: 0}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 2
+      - 6
+      - 7
+      - 0
+      - 6
+      - 2
+      - 3
+      - 6
+      - 0
+      - 4
+      - 6
+      - 3
+      - 5
+      - 4
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesAxelotl-52x36_3
+      rect:
+        serializedVersion: 2
+        x: 192.01291
+        y: 2.0513167
+        width: 13.960335
+        height: 31.92193
+      alignment: 9
+      pivot: {x: -0.7172399, y: 0.49961525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.9930763, y: -16.012283}
+        - {x: -6.9930763, y: -16.012283}
+        - {x: -6.9930763, y: 15.987718}
+        - {x: 4.0069237, y: 15.987718}
+        - {x: 7.0069237, y: 8.987718}
+        - {x: 7.0069237, y: -10.012282}
+      physicsShape:
+      - - {x: -6.9930763, y: -16.012283}
+        - {x: -2.9930763, y: -16.012283}
+        - {x: 7.0069237, y: -10.012282}
+        - {x: 7.0069237, y: 8.987718}
+        - {x: 4.0069237, y: 15.987718}
+        - {x: -6.9930763, y: 15.987718}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6e528854d84531bb45affb556dccbe
+      internalID: 21300004
+      vertices:
+      - {x: 27.980167, y: 31.960964}
+      - {x: 30.980167, y: 5.960965}
+      - {x: 30.980167, y: 24.960964}
+      - {x: 20.980167, y: -0.039034843}
+      - {x: 16.980167, y: 31.960964}
+      - {x: 16.980167, y: -0.039034843}
+      indices:
+      - 5
+      - 4
+      - 3
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesAxelotl-52x36_4
+      rect:
+        serializedVersion: 2
+        x: 250.00404
+        y: 8.012913
+        width: 7.969208
+        height: 19.881514
+      alignment: 9
+      pivot: {x: -2.0082352, y: 0.5023303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.9886475, y: -9.9536705}
+        - {x: -3.9886475, y: -8.9536705}
+        - {x: -3.9886475, y: 7.0463295}
+        - {x: -2.9886475, y: 10.0463295}
+        - {x: 0.011352539, y: 10.0463295}
+        - {x: 4.0113525, y: 5.0463295}
+        - {x: 4.0113525, y: -1.9536705}
+        - {x: 2.0113525, y: -9.9536705}
+      physicsShape:
+      - - {x: -2.9886475, y: 10.0463295}
+        - {x: -3.9886475, y: 7.0463295}
+        - {x: -3.9886475, y: -8.9536705}
+        - {x: -1.9886475, y: -9.9536705}
+        - {x: 2.0113525, y: -9.9536705}
+        - {x: 4.0113525, y: -1.9536705}
+        - {x: 4.0113525, y: 5.0463295}
+        - {x: 0.011352539, y: 10.0463295}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b149072ebb84f4e898026bb9b3f6bb9
+      internalID: 21300006
+      vertices:
+      - {x: 27.984604, y: 14.940757}
+      - {x: 25.984604, y: -0.059243202}
+      - {x: 27.984604, y: 7.940757}
+      - {x: 23.984604, y: 19.940758}
+      - {x: 21.984604, y: -0.059243202}
+      - {x: 20.984604, y: 19.940758}
+      - {x: 19.984604, y: 16.940758}
+      - {x: 19.984604, y: 0.9407568}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesAxelotl-52x36_0
+      rect:
+        serializedVersion: 2
+        x: 2.0129125
+        y: 0
+        width: 47.960335
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5001443, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.00692, y: -18}
+        - {x: -23.99308, y: -18}
+        - {x: -23.99308, y: 17}
+        - {x: -22.99308, y: 18}
+        - {x: 14.00692, y: 18}
+        - {x: 24.00692, y: 13}
+        - {x: 24.00692, y: -11}
+      physicsShape:
+      - - {x: -22.99308, y: 18}
+        - {x: -23.99308, y: 17}
+        - {x: -22.99308, y: 14}
+        - {x: -23.99308, y: -16}
+        - {x: -22.99308, y: -18}
+        - {x: 20.00692, y: -18}
+        - {x: 24.00692, y: -11}
+        - {x: 24.00692, y: 13}
+        - {x: 14.00692, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcec1431718a4e169e94234cd939d2f9
+      internalID: 21300008
+      vertices:
+      - {x: 47.980167, y: 31}
+      - {x: 43.980167, y: 0}
+      - {x: 47.980167, y: 7}
+      - {x: 37.980167, y: 36}
+      - {x: 0.9801674, y: 36}
+      - {x: -0.019832611, y: 35}
+      - {x: -0.019832611, y: 0}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

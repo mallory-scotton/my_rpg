@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: c8daaac3f907a2941967075a44ecf839
+timeCreated: 1706119822
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ParticlesSpinKnifeAppear76-66_1
+  - first:
+      213: 21300002
+    second: ParticlesSpinKnifeAppear76-66_3
+  - first:
+      213: 21300004
+    second: ParticlesSpinKnifeAppear76-66_2
+  - first:
+      213: 21300006
+    second: ParticlesSpinKnifeAppear76-66_5
+  - first:
+      213: 21300008
+    second: ParticlesSpinKnifeAppear76-66_0
+  - first:
+      213: 21300010
+    second: ParticlesSpinKnifeAppear76-66_4
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParticlesSpinKnifeAppear76-66_1
+      rect:
+        serializedVersion: 2
+        x: 102.02675
+        y: 14.07612
+        width: 26.946497
+        height: 31.847757
+      alignment: 9
+      pivot: {x: 0.44433424, y: 0.59419817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.499997, y: -15.999999}
+        - {x: -13.499997, y: -13.999999}
+        - {x: -13.499997, y: 7.000001}
+        - {x: -1.4999971, y: 16}
+        - {x: 6.500003, y: 16}
+        - {x: 13.500003, y: 8.000001}
+        - {x: 13.500003, y: 1.000001}
+        - {x: 11.500003, y: -5.999999}
+        - {x: 4.500003, y: -14.999999}
+        - {x: 2.5000029, y: -15.999999}
+      physicsShape:
+      - - {x: 6.500003, y: 16}
+        - {x: -1.4999971, y: 16}
+        - {x: -13.499997, y: 7.000001}
+        - {x: -13.499997, y: -13.999999}
+        - {x: -12.499997, y: -15.999999}
+        - {x: 2.5000029, y: -15.999999}
+        - {x: 4.500003, y: -14.999999}
+        - {x: 11.500003, y: -5.999999}
+        - {x: 13.500003, y: 1.000001}
+        - {x: 13.500003, y: 8.000001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16d44df43c44c3cbaaca86ecc0741fb
+      internalID: 21300000
+      vertices:
+      - {x: 28.473248, y: 20.923878}
+      - {x: 26.473248, y: 6.9238787}
+      - {x: 28.473248, y: 13.923879}
+      - {x: 21.473248, y: 28.923878}
+      - {x: 19.473248, y: -2.0761213}
+      - {x: 17.473248, y: -3.0761213}
+      - {x: 13.4732485, y: 28.923878}
+      - {x: 2.4732485, y: -3.0761213}
+      - {x: 1.4732485, y: 19.923878}
+      - {x: 1.4732485, y: -1.0761213}
+      indices:
+      - 9
+      - 8
+      - 7
+      - 6
+      - 7
+      - 8
+      - 5
+      - 7
+      - 6
+      - 3
+      - 5
+      - 6
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSpinKnifeAppear76-66_3
+      rect:
+        serializedVersion: 2
+        x: 256.02676
+        y: 17.02675
+        width: 22.946497
+        height: 25.897127
+      alignment: 9
+      pivot: {x: 0.43463, y: 0.6167962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.4999876, y: -12.975314}
+        - {x: -7.5000124, y: -12.975314}
+        - {x: -11.500012, y: -11.975314}
+        - {x: -11.500012, y: 7.024686}
+        - {x: -9.500012, y: 13.024686}
+        - {x: 8.499988, y: 13.024686}
+        - {x: 11.499988, y: 7.024686}
+        - {x: 11.499988, y: -5.975314}
+      physicsShape:
+      - - {x: 8.499988, y: 13.024686}
+        - {x: -9.500012, y: 13.024686}
+        - {x: -11.500012, y: 7.024686}
+        - {x: -11.500012, y: -11.975314}
+        - {x: -7.5000124, y: -12.975314}
+        - {x: 2.4999876, y: -12.975314}
+        - {x: 11.499988, y: -5.975314}
+        - {x: 11.499988, y: 7.024686}
+      - - {x: -2.5000124, y: 1.0246859}
+        - {x: 1.4999876, y: 2.0246859}
+        - {x: 2.4999876, y: -1.9753141}
+        - {x: 1.4999876, y: -2.9753141}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7332de514e6c4aab976639513b71d727
+      internalID: 21300002
+      vertices:
+      - {x: 21.473248, y: 22.948563}
+      - {x: 14.4732485, y: 11.948564}
+      - {x: 15.4732485, y: 7.9485636}
+      - {x: 10.4732485, y: 10.948564}
+      - {x: 3.4732485, y: 22.948563}
+      - {x: 5.4732485, y: -3.0514364}
+      - {x: 1.4732485, y: 16.948563}
+      - {x: 1.4732485, y: -2.0514364}
+      - {x: 24.473248, y: 3.9485636}
+      - {x: 24.473248, y: 16.948563}
+      - {x: 15.4732485, y: -3.0514364}
+      - {x: 14.4732485, y: 6.9485636}
+      indices:
+      - 5
+      - 3
+      - 10
+      - 11
+      - 10
+      - 3
+      - 2
+      - 10
+      - 11
+      - 8
+      - 10
+      - 2
+      - 0
+      - 8
+      - 2
+      - 9
+      - 8
+      - 0
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSpinKnifeAppear76-66_2
+      rect:
+        serializedVersion: 2
+        x: 177.07613
+        y: 18.02675
+        width: 28.847757
+        height: 22.946497
+      alignment: 9
+      pivot: {x: 0.44800273, y: 0.65252876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.499995, y: -11.499999}
+        - {x: -3.5000048, y: -11.499999}
+        - {x: -11.500005, y: -6.499999}
+        - {x: -14.500005, y: 2.500001}
+        - {x: -14.500005, y: 7.500001}
+        - {x: -8.500005, y: 11.500001}
+        - {x: 4.499995, y: 11.500001}
+        - {x: 14.499995, y: 4.500001}
+        - {x: 14.499995, y: -5.499999}
+      physicsShape:
+      - - {x: -8.500005, y: 11.500001}
+        - {x: -14.500005, y: 7.500001}
+        - {x: -14.500005, y: 2.500001}
+        - {x: -11.500005, y: -6.499999}
+        - {x: -3.5000048, y: -11.499999}
+        - {x: 10.499995, y: -11.499999}
+        - {x: 14.499995, y: -5.499999}
+        - {x: 14.499995, y: 4.500001}
+        - {x: 4.499995, y: 11.500001}
+      - - {x: 0.49999523, y: 0.50000095}
+        - {x: -0.50000477, y: 0.50000095}
+        - {x: 0.49999523, y: -0.49999905}
+        - {x: -0.50000477, y: -0.49999905}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d63e5294384cdb8cc53d3becc78ac6
+      internalID: 21300004
+      vertices:
+      - {x: 16.423878, y: 8.4732485}
+      - {x: 15.423879, y: 8.4732485}
+      - {x: 15.423879, y: 7.4732485}
+      - {x: 16.423878, y: 8.4732485}
+      - {x: 16.423878, y: 7.4732485}
+      - {x: 20.423878, y: 19.473248}
+      - {x: 12.423879, y: -3.5267515}
+      - {x: 7.4238787, y: 19.473248}
+      - {x: 4.4238787, y: 1.4732485}
+      - {x: 1.4238787, y: 15.4732485}
+      - {x: 1.4238787, y: 10.4732485}
+      - {x: 30.423878, y: 12.4732485}
+      - {x: 26.423878, y: -3.5267515}
+      - {x: 30.423878, y: 2.4732485}
+      indices:
+      - 6
+      - 2
+      - 12
+      - 4
+      - 12
+      - 2
+      - 3
+      - 12
+      - 4
+      - 5
+      - 12
+      - 3
+      - 11
+      - 12
+      - 5
+      - 13
+      - 12
+      - 11
+      - 10
+      - 9
+      - 8
+      - 7
+      - 8
+      - 9
+      - 6
+      - 8
+      - 7
+      - 1
+      - 6
+      - 7
+      - 5
+      - 1
+      - 7
+      - 2
+      - 6
+      - 1
+      - 3
+      - 1
+      - 5
+      - 4
+      - 0
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSpinKnifeAppear76-66_5
+      rect:
+        serializedVersion: 2
+        x: 394.02676
+        y: 6.026751
+        width: 45.946495
+        height: 45.946495
+      alignment: 9
+      pivot: {x: 0.5217642, y: 0.5870578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.00001, y: -22.999998}
+        - {x: -23.00001, y: -21.999998}
+        - {x: -23.00001, y: 9.000002}
+        - {x: -11.00001, y: 23.000002}
+        - {x: 12.99999, y: 23.000002}
+        - {x: 22.99999, y: 14.000002}
+        - {x: 22.99999, y: -7.999998}
+        - {x: 20.99999, y: -16.999998}
+        - {x: 17.99999, y: -22.999998}
+      physicsShape:
+      - - {x: 12.99999, y: 23.000002}
+        - {x: -11.00001, y: 23.000002}
+        - {x: -23.00001, y: 9.000002}
+        - {x: -23.00001, y: -21.999998}
+        - {x: -18.00001, y: -22.999998}
+        - {x: 17.99999, y: -22.999998}
+        - {x: 20.99999, y: -16.999998}
+        - {x: 22.99999, y: -7.999998}
+        - {x: 22.99999, y: 14.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08a9c830eb446fb9e4cf122367616e3
+      internalID: 21300006
+      vertices:
+      - {x: 44.973248, y: 32.973248}
+      - {x: 42.973248, y: 1.9732475}
+      - {x: 44.973248, y: 10.973248}
+      - {x: 39.973248, y: -4.0267525}
+      - {x: 34.973248, y: 41.973248}
+      - {x: 10.973248, y: 41.973248}
+      - {x: 3.9732475, y: -4.0267525}
+      - {x: -1.0267525, y: 27.973248}
+      - {x: -1.0267525, y: -3.0267525}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSpinKnifeAppear76-66_0
+      rect:
+        serializedVersion: 2
+        x: 27.016514
+        y: 13.07612
+        width: 23.956734
+        height: 33.847755
+      alignment: 9
+      pivot: {x: 0.45847178, y: 0.5886322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.9948807, y: -16.999998}
+        - {x: -11.994881, y: -11.999998}
+        - {x: -11.994881, y: 2.000002}
+        - {x: -6.9948807, y: 16.000002}
+        - {x: -1.9948807, y: 17.000002}
+        - {x: 9.005119, y: 17.000002}
+        - {x: 12.005119, y: 15.000002}
+        - {x: 12.005119, y: -5.999998}
+        - {x: 8.005119, y: -16.999998}
+      physicsShape:
+      - - {x: -1.9948807, y: 17.000002}
+        - {x: -6.9948807, y: 16.000002}
+        - {x: -11.994881, y: 2.000002}
+        - {x: -11.994881, y: -11.999998}
+        - {x: -6.9948807, y: -16.999998}
+        - {x: 8.005119, y: -16.999998}
+        - {x: 12.005119, y: -5.999998}
+        - {x: 12.005119, y: 15.000002}
+        - {x: 9.005119, y: 17.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737f54d3007e416782c95c22bafada96
+      internalID: 21300008
+      vertices:
+      - {x: 21.978367, y: 30.923878}
+      - {x: 24.978367, y: 7.9238777}
+      - {x: 24.978367, y: 28.923878}
+      - {x: 20.978367, y: -3.0761223}
+      - {x: 10.978367, y: 30.923878}
+      - {x: 5.978367, y: 29.923878}
+      - {x: 5.978367, y: -3.0761223}
+      - {x: 0.97836685, y: 15.923878}
+      - {x: 0.97836685, y: 1.9238777}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSpinKnifeAppear76-66_4
+      rect:
+        serializedVersion: 2
+        x: 332.02676
+        y: 17.042908
+        width: 22.946497
+        height: 25.88097
+      alignment: 9
+      pivot: {x: 0.43463, y: 0.61655694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5000124, y: -1.9833937}
+        - {x: -2.5000124, y: -4.9833937}
+        - {x: -0.5000124, y: -5.9833937}
+        - {x: 2.4999876, y: -4.9833937}
+        - {x: 5.4999876, y: -1.9833937}
+        - {x: 4.4999876, y: 2.0166063}
+        - {x: 1.4999876, y: 5.0166063}
+        - {x: -2.5000124, y: 4.0166063}
+        - {x: -5.5000124, y: 1.0166063}
+      physicsShape:
+      - - {x: -11.500012, y: 13.016606}
+        - {x: -11.500012, y: -5.9833937}
+        - {x: -7.5000124, y: -12.983394}
+        - {x: 11.499988, y: -12.983394}
+        - {x: 11.499988, y: 9.016606}
+        - {x: 1.4999876, y: 13.016606}
+      - - {x: -5.5000124, y: -1.9833937}
+        - {x: -5.5000124, y: 1.0166063}
+        - {x: -2.5000124, y: 4.0166063}
+        - {x: 1.4999876, y: 5.0166063}
+        - {x: 4.4999876, y: 2.0166063}
+        - {x: 5.4999876, y: -1.9833937}
+        - {x: 2.4999876, y: -4.9833937}
+        - {x: -0.5000124, y: -5.9833937}
+        - {x: -2.5000124, y: -4.9833937}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083a9321d51044a8a32b2f6843281a3f
+      internalID: 21300010
+      vertices:
+      - {x: 24.473248, y: 18.940485}
+      - {x: 18.473248, y: 7.940485}
+      - {x: 24.473248, y: -3.059515}
+      - {x: 17.473248, y: 11.940485}
+      - {x: 14.4732485, y: 22.940485}
+      - {x: 14.4732485, y: 14.940485}
+      - {x: 10.4732485, y: 13.940485}
+      - {x: 7.4732485, y: 10.940485}
+      - {x: 5.4732485, y: -3.059515}
+      - {x: 7.4732485, y: 7.940485}
+      - {x: 1.4732485, y: 22.940485}
+      - {x: 1.4732485, y: 3.940485}
+      - {x: 15.4732485, y: 4.940485}
+      - {x: 12.4732485, y: 3.940485}
+      - {x: 10.4732485, y: 4.940485}
+      indices:
+      - 9
+      - 14
+      - 8
+      - 2
+      - 8
+      - 14
+      - 13
+      - 2
+      - 14
+      - 12
+      - 2
+      - 13
+      - 1
+      - 2
+      - 12
+      - 11
+      - 10
+      - 8
+      - 7
+      - 8
+      - 10
+      - 4
+      - 7
+      - 10
+      - 9
+      - 8
+      - 7
+      - 6
+      - 7
+      - 4
+      - 5
+      - 6
+      - 4
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 591ab39634acdd66ceaa70c8282befd8.bundle
+  assetBundleVariant:

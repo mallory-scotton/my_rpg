@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: de38aab253afb104494241a785db291b
+timeCreated: 1706119813
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: AxolotlCooking56x29_6
+  - first:
+      213: 21300002
+    second: AxolotlCooking56x29_5
+  - first:
+      213: 21300004
+    second: AxolotlCooking56x29_3
+  - first:
+      213: 21300006
+    second: AxolotlCooking56x29_2
+  - first:
+      213: 21300008
+    second: AxolotlCooking56x29_1
+  - first:
+      213: 21300010
+    second: AxolotlCooking56x29_7
+  - first:
+      213: 21300012
+    second: AxolotlCooking56x29_0
+  - first:
+      213: 21300014
+    second: AxolotlCooking56x29_4
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AxolotlCooking56x29_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 29
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -14.5}
+        - {x: -14, y: 14.5}
+        - {x: 14, y: 14.5}
+        - {x: 14, y: -14.5}
+      physicsShape:
+      - - {x: -12, y: 9.5}
+        - {x: -12, y: -3.5}
+        - {x: -4, y: -10.5}
+        - {x: 6, y: -10.5}
+        - {x: 12, y: -3.5}
+        - {x: 12, y: 6.5}
+        - {x: 11, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6bb41e713047448d5546f45cd990d5
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 29}
+      - {x: 28, y: 29}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxolotlCooking56x29_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 58
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -14.5}
+        - {x: -14, y: 14.5}
+        - {x: 14, y: 14.5}
+        - {x: 14, y: -14.5}
+      physicsShape:
+      - - {x: -11, y: 9.5}
+        - {x: -12, y: 6.5}
+        - {x: -12, y: -8.5}
+        - {x: -7, y: -10.5}
+        - {x: 8, y: -10.5}
+        - {x: 12, y: -5.5}
+        - {x: 12, y: 6.5}
+        - {x: 11, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcd783c2e5f404e91b1874a0f10b9be
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 29}
+      - {x: 28, y: 29}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxolotlCooking56x29_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -14.5}
+        - {x: -11, y: 14.5}
+        - {x: 11, y: 14.5}
+        - {x: 11, y: -14.5}
+      physicsShape:
+      - - {x: -1, y: 7.5}
+        - {x: -4, y: 5.5}
+        - {x: -4, y: -10.5}
+        - {x: -3, y: -11.5}
+        - {x: 6, y: -11.5}
+        - {x: 6, y: 6.5}
+        - {x: 5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1056625fa9ef42e6a628975934a259af
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 29}
+      - {x: 22, y: 29}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxolotlCooking56x29_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -14.5}
+        - {x: -11, y: 14.5}
+        - {x: 11, y: 14.5}
+        - {x: 11, y: -14.5}
+      physicsShape:
+      - - {x: 1, y: 6.5}
+        - {x: -1, y: 6.5}
+        - {x: -4, y: 3.5}
+        - {x: -5, y: 0.5}
+        - {x: -5, y: -10.5}
+        - {x: -2, y: -11.5}
+        - {x: 4, y: -11.5}
+        - {x: 5, y: -8.5}
+        - {x: 5, y: 0.5}
+        - {x: 4, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8373a3ba38484c0395e393b48ac94b74
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 29}
+      - {x: 22, y: 29}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxolotlCooking56x29_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -14.5}
+        - {x: -11, y: 14.5}
+        - {x: 11, y: 14.5}
+        - {x: 11, y: -14.5}
+      physicsShape:
+      - - {x: -3, y: 7.5}
+        - {x: -6, y: 6.5}
+        - {x: -6, y: -9.5}
+        - {x: -3, y: -11.5}
+        - {x: 1, y: -11.5}
+        - {x: 4, y: -9.5}
+        - {x: 4, y: 4.5}
+        - {x: 2, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d06eafcd9e4494a38fbef1d539f931
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 29}
+      - {x: 22, y: 29}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxolotlCooking56x29_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -14.5}
+        - {x: -14, y: 14.5}
+        - {x: 14, y: 14.5}
+        - {x: 14, y: -14.5}
+      physicsShape:
+      - - {x: 9, y: 11.5}
+        - {x: -5, y: 11.5}
+        - {x: -12, y: 9.5}
+        - {x: -12, y: -2.5}
+        - {x: -6, y: -10.5}
+        - {x: 5, y: -10.5}
+        - {x: 12, y: -2.5}
+        - {x: 12, y: 6.5}
+        - {x: 11, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1374870f0756449d9424821249a085e2
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 29}
+      - {x: 28, y: 29}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxolotlCooking56x29_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -14.5}
+        - {x: -11, y: 14.5}
+        - {x: 11, y: 14.5}
+        - {x: 11, y: -14.5}
+      physicsShape:
+      - - {x: -2, y: 8.5}
+        - {x: -5, y: 7.5}
+        - {x: -5, y: -8.5}
+        - {x: -2, y: -10.5}
+        - {x: 2, y: -10.5}
+        - {x: 5, y: -8.5}
+        - {x: 5, y: 5.5}
+        - {x: 3, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6d7db491de4335adee3f96b9939d62
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 29}
+      - {x: 22, y: 29}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxolotlCooking56x29_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 87
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -14.5}
+        - {x: -14, y: 14.5}
+        - {x: 14, y: 14.5}
+        - {x: 14, y: -14.5}
+      physicsShape:
+      - - {x: 11, y: 11.5}
+        - {x: -10, y: 11.5}
+        - {x: -12, y: 10.5}
+        - {x: -12, y: -7.5}
+        - {x: -6, y: -10.5}
+        - {x: 6, y: -10.5}
+        - {x: 7, y: -6.5}
+        - {x: 12, y: -1.5}
+        - {x: 12, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2895ff6515d749c993452c816edd82dd
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 29}
+      - {x: 28, y: 29}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 1f0e03801170aa975b541c4c7d517a45.bundle
+  assetBundleVariant:

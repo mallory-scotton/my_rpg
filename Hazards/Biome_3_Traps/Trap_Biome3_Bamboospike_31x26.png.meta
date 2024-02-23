@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 6e1e43541fca70f498e5a906a3564d8a
+timeCreated: 1706119842
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Trap_Biome3_Bamboospike_31x26_2
+  - first:
+      213: 21300002
+    second: Trap_Biome3_Bamboospike_31x26_4
+  - first:
+      213: 21300004
+    second: Trap_Biome3_Bamboospike_31x26_5
+  - first:
+      213: 21300006
+    second: Trap_Biome3_Bamboospike_31x26_1
+  - first:
+      213: 21300008
+    second: Trap_Biome3_Bamboospike_31x26_0
+  - first:
+      213: 21300010
+    second: Trap_Biome3_Bamboospike_31x26_3
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trap_Biome3_Bamboospike_31x26_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -13}
+        - {x: -15.5, y: 13}
+        - {x: 15.5, y: 13}
+        - {x: 15.5, y: -13}
+      physicsShape:
+      - - {x: -10.5, y: 11}
+        - {x: -15.5, y: 6}
+        - {x: -15.5, y: -6}
+        - {x: -12.5, y: -13}
+        - {x: 11.5, y: -13}
+        - {x: 15.5, y: -11}
+        - {x: 15.5, y: 3}
+        - {x: 11.5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c16faea808441398340899d26267072
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 26}
+      - {x: 31, y: 26}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Biome3_Bamboospike_31x26_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -13}
+        - {x: -15.5, y: 13}
+        - {x: 15.5, y: 13}
+        - {x: 15.5, y: -13}
+      physicsShape:
+      - - {x: -11.5, y: 13}
+        - {x: -15.5, y: 6}
+        - {x: -15.5, y: -6}
+        - {x: -13.5, y: -13}
+        - {x: 15.5, y: -13}
+        - {x: 15.5, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29e04ea19cc485a853323b17a90b935
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 26}
+      - {x: 31, y: 26}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Biome3_Bamboospike_31x26_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -13}
+        - {x: -15.5, y: 13}
+        - {x: 15.5, y: 13}
+        - {x: 15.5, y: -13}
+      physicsShape:
+      - - {x: -11.5, y: 13}
+        - {x: -15.5, y: 6}
+        - {x: -15.5, y: -6}
+        - {x: -13.5, y: -13}
+        - {x: 15.5, y: -13}
+        - {x: 15.5, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4e800838a147ad8d9b134f4af240dc
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 26}
+      - {x: 31, y: 26}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Biome3_Bamboospike_31x26_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -13}
+        - {x: -15.5, y: 13}
+        - {x: 15.5, y: 13}
+        - {x: 15.5, y: -13}
+      physicsShape:
+      - - {x: -10.5, y: 11}
+        - {x: -15.5, y: 6}
+        - {x: -15.5, y: -6}
+        - {x: -12.5, y: -13}
+        - {x: 11.5, y: -13}
+        - {x: 15.5, y: -11}
+        - {x: 15.5, y: 3}
+        - {x: 11.5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0278c3c725e14be2adc292d2e54f903c
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 26}
+      - {x: 31, y: 26}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Biome3_Bamboospike_31x26_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -13}
+        - {x: -15.5, y: 13}
+        - {x: 15.5, y: 13}
+        - {x: 15.5, y: -13}
+      physicsShape:
+      - - {x: -10.5, y: 11}
+        - {x: -15.5, y: 6}
+        - {x: -15.5, y: -6}
+        - {x: -12.5, y: -13}
+        - {x: 11.5, y: -13}
+        - {x: 15.5, y: -11}
+        - {x: 15.5, y: 3}
+        - {x: 11.5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcce02d0aa14ff2863d3e6e8442b42f
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 26}
+      - {x: 31, y: 26}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Biome3_Bamboospike_31x26_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -13}
+        - {x: -15.5, y: 13}
+        - {x: 15.5, y: 13}
+        - {x: 15.5, y: -13}
+      physicsShape:
+      - - {x: -15.5, y: 13}
+        - {x: -15.5, y: -12}
+        - {x: -13.5, y: -13}
+        - {x: 15.5, y: -13}
+        - {x: 15.5, y: 9}
+        - {x: 14.5, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e7ee0a487543c5b9f1b0b80e6ac631
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 26}
+      - {x: 31, y: 26}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 656c418b0cacb402f6e588b07d32a86b.bundle
+  assetBundleVariant:

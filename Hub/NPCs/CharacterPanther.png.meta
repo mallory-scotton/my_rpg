@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: 790aacf6c4975084590d7fd251c43061
+timeCreated: 1706119813
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CharacterPanther_1
+  - first:
+      213: 21300002
+    second: CharacterPanther_2
+  - first:
+      213: 21300004
+    second: CharacterPanther_7
+  - first:
+      213: 21300006
+    second: CharacterPanther_6
+  - first:
+      213: 21300008
+    second: CharacterPanther_9
+  - first:
+      213: 21300010
+    second: CharacterPanther_5
+  - first:
+      213: 21300012
+    second: CharacterPanther_3
+  - first:
+      213: 21300014
+    second: CharacterPanther_0
+  - first:
+      213: 21300016
+    second: CharacterPanther_8
+  - first:
+      213: 21300018
+    second: CharacterPanther_4
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharacterPanther_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 30
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.000002, y: -13.5}
+        - {x: -11.000002, y: 13.5}
+        - {x: 10.999998, y: 13.5}
+        - {x: 10.999998, y: -13.5}
+      physicsShape:
+      - - {x: -10.000002, y: 12.5}
+        - {x: -11.000002, y: 10.5}
+        - {x: -11.000002, y: -13.5}
+        - {x: 8.999998, y: -13.5}
+        - {x: 10.999998, y: -7.5}
+        - {x: 10.999998, y: 11.5}
+        - {x: 8.999998, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0414758a51845b5a55dc29be9ca58da
+      internalID: 21300000
+      vertices:
+      - {x: -4.4000015, y: 40.5}
+      - {x: 17.599998, y: 40.5}
+      - {x: -4.4000015, y: 13.5}
+      - {x: 17.599998, y: 13.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterPanther_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 30
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.000002, y: -13.5}
+        - {x: -11.000002, y: 13.5}
+        - {x: 10.999998, y: 13.5}
+        - {x: 10.999998, y: -13.5}
+      physicsShape:
+      - - {x: -6.000002, y: 13.5}
+        - {x: -8.000002, y: 12.5}
+        - {x: -11.000002, y: 0.5}
+        - {x: -11.000002, y: -12.5}
+        - {x: -10.000002, y: -13.5}
+        - {x: 10.999998, y: -13.5}
+        - {x: 10.999998, y: 13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6785727dc33f410aad1ce045e667bb2d
+      internalID: 21300002
+      vertices:
+      - {x: -4.4000015, y: 40.5}
+      - {x: 17.599998, y: 40.5}
+      - {x: -4.4000015, y: 13.5}
+      - {x: 17.599998, y: 13.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterPanther_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.03846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -13}
+        - {x: -10.5, y: 13}
+        - {x: 10.5, y: 13}
+        - {x: 10.5, y: -13}
+      physicsShape:
+      - - {x: -7.5, y: 13}
+        - {x: -10.5, y: 3}
+        - {x: -10.5, y: -9}
+        - {x: -9.5, y: -11}
+        - {x: 7.5, y: -11}
+        - {x: 10.5, y: -10}
+        - {x: 10.5, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd100cd59f644c26b933374047543562
+      internalID: 21300004
+      vertices:
+      - {x: -3.5, y: 38}
+      - {x: 17.5, y: 38}
+      - {x: -3.5, y: 12}
+      - {x: 17.5, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterPanther_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.03846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -13}
+        - {x: -10.5, y: 13}
+        - {x: 10.5, y: 13}
+        - {x: 10.5, y: -13}
+      physicsShape:
+      - - {x: -9.5, y: 13}
+        - {x: -10.5, y: 10}
+        - {x: -10.5, y: -11}
+        - {x: 10.5, y: -11}
+        - {x: 10.5, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb38de321a0420ba7909f58a5f38898
+      internalID: 21300006
+      vertices:
+      - {x: -3.5, y: 38}
+      - {x: 17.5, y: 38}
+      - {x: -3.5, y: 12}
+      - {x: 17.5, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterPanther_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.03846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -13}
+        - {x: -10.5, y: 13}
+        - {x: 10.5, y: 13}
+        - {x: 10.5, y: -13}
+      physicsShape:
+      - - {x: -4.5, y: 13}
+        - {x: -8.5, y: 5}
+        - {x: -8.5, y: -8}
+        - {x: -4.5, y: -11}
+        - {x: 10.5, y: -11}
+        - {x: 10.5, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483f882c4bc343a19db212b1da490d74
+      internalID: 21300008
+      vertices:
+      - {x: -3.5, y: 38}
+      - {x: 17.5, y: 38}
+      - {x: -3.5, y: 12}
+      - {x: 17.5, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterPanther_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.03846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -13}
+        - {x: -10.5, y: 13}
+        - {x: 10.5, y: 13}
+        - {x: 10.5, y: -13}
+      physicsShape:
+      - - {x: -10.5, y: 13}
+        - {x: -10.5, y: -12}
+        - {x: 2.5, y: -12}
+        - {x: 10.5, y: -11}
+        - {x: 10.5, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80670f618dd4b6f853d70bd79868fb4
+      internalID: 21300010
+      vertices:
+      - {x: -3.5, y: 38}
+      - {x: 17.5, y: 38}
+      - {x: -3.5, y: 12}
+      - {x: 17.5, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterPanther_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 30
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.000002, y: -13.5}
+        - {x: -11.000002, y: 13.5}
+        - {x: 10.999998, y: 13.5}
+        - {x: 10.999998, y: -13.5}
+      physicsShape:
+      - - {x: -8.000002, y: 12.5}
+        - {x: -11.000002, y: 5.5}
+        - {x: -11.000002, y: -10.5}
+        - {x: -7.000002, y: -13.5}
+        - {x: 8.999998, y: -13.5}
+        - {x: 10.999998, y: -10.5}
+        - {x: 10.999998, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6311fb5a31ad4df0820f140c7529773d
+      internalID: 21300012
+      vertices:
+      - {x: -4.4000015, y: 40.5}
+      - {x: 17.599998, y: 40.5}
+      - {x: -4.4000015, y: 13.5}
+      - {x: 17.599998, y: 13.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterPanther_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -13.5}
+        - {x: -11, y: 13.5}
+        - {x: 11, y: 13.5}
+        - {x: 11, y: -13.5}
+      physicsShape:
+      - - {x: -9, y: 11.5}
+        - {x: -11, y: 1.5}
+        - {x: -11, y: -13.5}
+        - {x: 8, y: -13.5}
+        - {x: 11, y: -7.5}
+        - {x: 11, y: 10.5}
+        - {x: 8, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d7ee32d8e148e3a1b57fb2cccb1e51
+      internalID: 21300014
+      vertices:
+      - {x: -4.3999996, y: 40.5}
+      - {x: 17.6, y: 40.5}
+      - {x: -4.3999996, y: 13.5}
+      - {x: 17.6, y: 13.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterPanther_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.03846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -13}
+        - {x: -10.5, y: 13}
+        - {x: 10.5, y: 13}
+        - {x: 10.5, y: -13}
+      physicsShape:
+      - - {x: -8.5, y: 13}
+        - {x: -10.5, y: 4}
+        - {x: -10.5, y: -9}
+        - {x: -8.5, y: -11}
+        - {x: 8.5, y: -11}
+        - {x: 10.5, y: -9}
+        - {x: 10.5, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3179ef31088c4bd1a1597841b3436e00
+      internalID: 21300016
+      vertices:
+      - {x: -3.5, y: 38}
+      - {x: 17.5, y: 38}
+      - {x: -3.5, y: 12}
+      - {x: 17.5, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterPanther_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 30
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.000002, y: -13.5}
+        - {x: -11.000002, y: 13.5}
+        - {x: 10.999998, y: 13.5}
+        - {x: 10.999998, y: -13.5}
+      physicsShape:
+      - - {x: -8.000002, y: 10.5}
+        - {x: -11.000002, y: 0.5}
+        - {x: -11.000002, y: -13.5}
+        - {x: 7.999998, y: -13.5}
+        - {x: 9.999998, y: -12.5}
+        - {x: 10.999998, y: -1.5}
+        - {x: 10.999998, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe625ba366d4364826cdfa7bbca272d
+      internalID: 21300018
+      vertices:
+      - {x: -4.4000015, y: 40.5}
+      - {x: 17.599998, y: 40.5}
+      - {x: -4.4000015, y: 13.5}
+      - {x: 17.599998, y: 13.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 1f0e03801170aa975b541c4c7d517a45.bundle
+  assetBundleVariant:

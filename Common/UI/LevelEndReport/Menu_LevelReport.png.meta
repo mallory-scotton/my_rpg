@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: 53945854322f8a646b71965dff5dee57
+timeCreated: 1706119846
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Menu_LevelReport_21
+  - first:
+      213: 21300002
+    second: Menu_LevelReport_13
+  - first:
+      213: 21300004
+    second: Menu_LevelReport_16
+  - first:
+      213: 21300006
+    second: Menu_LevelReport_11
+  - first:
+      213: 21300008
+    second: Menu_LevelReport_17
+  - first:
+      213: 21300010
+    second: Menu_LevelReport_4
+  - first:
+      213: 21300012
+    second: Menu_LevelReport_12
+  - first:
+      213: 21300014
+    second: Menu_LevelReport_15
+  - first:
+      213: 21300016
+    second: Menu_LevelReport_3
+  - first:
+      213: 21300018
+    second: Menu_LevelReport_19
+  - first:
+      213: 21300020
+    second: Menu_LevelReport_2
+  - first:
+      213: 21300022
+    second: Menu_LevelReport_1
+  - first:
+      213: 21300024
+    second: Menu_LevelReport_0
+  - first:
+      213: 21300026
+    second: Menu_LevelReport_20
+  - first:
+      213: 21300028
+    second: Menu_LevelReport_14
+  - first:
+      213: 21300030
+    second: Menu_LevelReport_18
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Menu_LevelReport_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 11
+        width: 46
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -8}
+        - {x: -23, y: 8}
+        - {x: 23, y: 8}
+        - {x: 23, y: -8}
+      physicsShape:
+      - - {x: -22.999998, y: 8}
+        - {x: -22.999998, y: -8}
+        - {x: 22.999998, y: -8}
+        - {x: 22.999998, y: 8}
+      - - {x: -2, y: 2}
+        - {x: 0, y: 3}
+        - {x: 2, y: 2}
+        - {x: 1, y: 3}
+        - {x: 0, y: 2}
+        - {x: -1, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1061b9aa9b84544ab1f28bad2a0e886
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 46, y: 16}
+      - {x: 0, y: 0}
+      - {x: 46, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_LevelReport_13
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 145
+        width: 84
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -15.000001}
+        - {x: -42, y: 15.000001}
+        - {x: 42, y: 15.000001}
+        - {x: 42, y: -15.000001}
+      physicsShape:
+      - - {x: 33, y: -14.999999}
+        - {x: 42, y: -1}
+        - {x: 42, y: 14.999999}
+        - {x: -42, y: 14.999999}
+        - {x: -42, y: 2}
+        - {x: -38, y: -2}
+        - {x: -42, y: -4.9999995}
+        - {x: -42, y: -13}
+        - {x: -41, y: -14.999999}
+        - {x: -25, y: -14.999999}
+        - {x: -19, y: -13}
+        - {x: -7, y: -14}
+        - {x: 6, y: -14.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de05dd0ef8741e2a273a11f1f01b459
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 84, y: 30}
+      - {x: 0, y: -9.536743E-07}
+      - {x: 84, y: -9.536743E-07}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_LevelReport_16
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 113
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -6}
+        - {x: -6, y: 6}
+        - {x: 6, y: 6}
+        - {x: 6, y: -6}
+      physicsShape:
+      - - {x: -6, y: 6}
+        - {x: -6, y: -4.9999995}
+        - {x: -4.9999995, y: -6}
+        - {x: 6, y: -6}
+        - {x: 6, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55900200fd5942c5bdb9aef47c31290d
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 12, y: 12}
+      - {x: 0, y: 0}
+      - {x: 12, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_LevelReport_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 157
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78.5, y: -111}
+        - {x: -78.5, y: -111}
+        - {x: -78.5, y: 111}
+        - {x: 78.5, y: 111}
+      physicsShape:
+      - - {x: 78.5, y: -110}
+        - {x: 78.5, y: 111}
+        - {x: -77.5, y: 111}
+        - {x: -78.5, y: 110}
+        - {x: -78.5, y: -107.99999}
+        - {x: -76.5, y: -111}
+        - {x: 77.5, y: -111}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72f41d052344a3aa947fc970fefc585
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 222}
+      - {x: 157, y: 0}
+      - {x: 157, y: 222}
+      - {x: 0, y: 0}
+      indices:
+      - 3
+      - 0
+      - 1
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_LevelReport_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 113
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -6}
+        - {x: -6, y: 6}
+        - {x: 6, y: 6}
+        - {x: 6, y: -6}
+      physicsShape:
+      - - {x: -6, y: 6}
+        - {x: -6, y: -4.9999995}
+        - {x: -4.9999995, y: -6}
+        - {x: 6, y: -6}
+        - {x: 6, y: 6}
+      - - {x: -1, y: 1}
+        - {x: 1, y: 1}
+        - {x: 1, y: -1}
+        - {x: -1, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72821eee24004cab937ef9e88d803dca
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 12, y: 12}
+      - {x: 0, y: 0}
+      - {x: 12, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_LevelReport_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 95
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: -41}
+        - {x: -47.5, y: -2}
+        - {x: -47.5, y: 42}
+        - {x: -46.5, y: 43}
+        - {x: 42.5, y: 43}
+        - {x: 47.5, y: 36}
+        - {x: 47.5, y: 1}
+        - {x: 44.5, y: -8}
+        - {x: 33.5, y: -27.000002}
+        - {x: 33.5, y: -42}
+        - {x: 29.499998, y: -43}
+        - {x: -31.5, y: -43}
+      physicsShape:
+      - - {x: 47.5, y: 1}
+        - {x: 47.5, y: 33}
+        - {x: 46.5, y: 34}
+        - {x: 35.5, y: 42.999996}
+        - {x: 4.5, y: 42.999996}
+        - {x: -10.5, y: 35}
+        - {x: -17.5, y: 42.999996}
+        - {x: -43.5, y: 42.999996}
+        - {x: -47.5, y: 36}
+        - {x: -47.5, y: -1}
+        - {x: -30.5, y: -12}
+        - {x: -42.5, y: -21}
+        - {x: -37.5, y: -39}
+        - {x: -22.5, y: -42.999996}
+        - {x: 29.499998, y: -42.999996}
+        - {x: 33.499996, y: -42}
+        - {x: 33.499996, y: -26.999998}
+        - {x: 32.5, y: -12}
+        - {x: 44.5, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f2193f4e254265896ff441f6e8eff8
+      internalID: 21300010
+      vertices:
+      - {x: 95, y: 79}
+      - {x: 92, y: 35}
+      - {x: 95, y: 44}
+      - {x: 90, y: 86}
+      - {x: 81, y: 15.999998}
+      - {x: 77, y: 0}
+      - {x: 81, y: 1}
+      - {x: 16, y: 0}
+      - {x: 8, y: 2}
+      - {x: 1, y: 86}
+      - {x: 0, y: 85}
+      - {x: 0, y: 41}
+      indices:
+      - 11
+      - 10
+      - 8
+      - 9
+      - 8
+      - 10
+      - 3
+      - 8
+      - 9
+      - 7
+      - 8
+      - 3
+      - 5
+      - 7
+      - 3
+      - 4
+      - 5
+      - 3
+      - 6
+      - 5
+      - 4
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_LevelReport_12
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 183
+        width: 109
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: -15.000001}
+        - {x: -54.5, y: -11}
+        - {x: -54.5, y: 19}
+        - {x: 53.500004, y: 19}
+        - {x: 54.5, y: 17}
+        - {x: 54.5, y: -16}
+        - {x: 33.5, y: -19}
+        - {x: -30.5, y: -19}
+      physicsShape:
+      - - {x: 54.5, y: 9.999999}
+        - {x: 48.5, y: 16}
+        - {x: 37.5, y: 19}
+        - {x: 18.5, y: 19}
+        - {x: 11.499999, y: 14.999999}
+        - {x: 0.5, y: 13}
+        - {x: -26.499998, y: 14.999999}
+        - {x: -38.5, y: 17}
+        - {x: -51.5, y: 14}
+        - {x: -54.5, y: 9.999999}
+        - {x: -54.5, y: -9}
+        - {x: -47.5, y: -14.999999}
+        - {x: -27.5, y: -19}
+        - {x: 13.499999, y: -19}
+        - {x: 33.499996, y: -14.999999}
+        - {x: 50.5, y: -16}
+        - {x: 54.5, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7656335248de484cb07df16446af3c7a
+      internalID: 21300012
+      vertices:
+      - {x: 108, y: 38}
+      - {x: 109, y: 3}
+      - {x: 109, y: 36}
+      - {x: 88, y: 0}
+      - {x: 24, y: 0}
+      - {x: 7, y: 3.999999}
+      - {x: 0, y: 38}
+      - {x: 0, y: 8}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 0
+      - 5
+      - 6
+      - 4
+      - 5
+      - 0
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_LevelReport_15
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 107
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -12}
+        - {x: -12.5, y: 12}
+        - {x: 12.5, y: 12}
+        - {x: 12.5, y: -12}
+      physicsShape:
+      - - {x: -12.5, y: 9}
+        - {x: -12.5, y: -6}
+        - {x: -7.4999995, y: -9}
+        - {x: 4.5, y: -9}
+        - {x: 12.5, y: -6}
+        - {x: 12.5, y: 8}
+        - {x: 10.5, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d91f10034b4afbbf5c071b35d4a916
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 25, y: 24}
+      - {x: 0, y: 0}
+      - {x: 25, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_LevelReport_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 46
+        width: 34
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -8}
+        - {x: -17, y: 8}
+        - {x: 17, y: 8}
+        - {x: 17, y: -8}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -17, y: 7}
+        - {x: -17, y: -8}
+        - {x: 17, y: -8}
+        - {x: 17, y: 4.9999995}
+        - {x: 14, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120cc0e8a354455e95dc6adc3b6d9853
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 34, y: 16}
+      - {x: 0, y: 0}
+      - {x: 34, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_LevelReport_19
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 80
+        width: 38
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -4.5}
+        - {x: -19, y: 4.5}
+        - {x: 19, y: 4.5}
+        - {x: 19, y: -4.5}
+      physicsShape:
+      - - {x: -19, y: -4.5}
+        - {x: -13, y: -4.5}
+        - {x: -13, y: -1.5}
+        - {x: -14.999999, y: 0.5}
+        - {x: -19, y: -0.5}
+      - - {x: -2, y: 4.5}
+        - {x: -13, y: 1.5}
+        - {x: -13, y: -3.5}
+        - {x: -12, y: -4.5}
+        - {x: -3, y: -4.5}
+        - {x: 11, y: -2.4999998}
+        - {x: 13, y: 1.5}
+        - {x: 13, y: 4.5}
+      - - {x: 13, y: 4.5}
+        - {x: 13, y: 1.5}
+        - {x: 14.999999, y: -0.5}
+        - {x: 19, y: 0.5}
+        - {x: 19, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dbb0a0948d448d92bcacec767da9b1
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 9}
+      - {x: 38, y: 9}
+      - {x: 0, y: 0}
+      - {x: 38, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_LevelReport_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 71
+        width: 41
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -7}
+        - {x: -20.5, y: 7}
+        - {x: 20.5, y: 7}
+        - {x: 20.5, y: -7}
+      physicsShape:
+      - - {x: -20.5, y: 7}
+        - {x: -20.5, y: -4.9999995}
+        - {x: -16.5, y: -7}
+        - {x: 20.5, y: -7}
+        - {x: 20.5, y: 4.9999995}
+        - {x: 16.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2ba0d6694c43008a13bdf30d52d7d7
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 41, y: 14}
+      - {x: 0, y: 0}
+      - {x: 41, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_LevelReport_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 100
+        width: 142
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: -17.5}
+        - {x: -71, y: -17.5}
+        - {x: -71, y: 17.5}
+        - {x: 71, y: 17.5}
+      physicsShape:
+      - - {x: -71, y: 17.5}
+        - {x: -71, y: -17.5}
+        - {x: 71, y: -17.5}
+        - {x: 71, y: 17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d084c1219b094e0ab4f7d1bc9af3e517
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 35}
+      - {x: 142, y: 0}
+      - {x: 142, y: 35}
+      - {x: 0, y: 0}
+      indices:
+      - 3
+      - 0
+      - 1
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_LevelReport_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 152
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: -43}
+        - {x: -76, y: -43}
+        - {x: -76, y: 43}
+        - {x: 76, y: 43}
+      physicsShape:
+      - - {x: -76, y: 42.999996}
+        - {x: -76, y: -42.999996}
+        - {x: 76, y: -42.999996}
+        - {x: 76, y: 42.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7454957cc5413c81d5ba61053bf721
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 86}
+      - {x: 152, y: 0}
+      - {x: 152, y: 86}
+      - {x: 0, y: 0}
+      indices:
+      - 3
+      - 0
+      - 1
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_LevelReport_20
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 38
+        width: 96
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: -11.5}
+        - {x: -48, y: 11.5}
+        - {x: 48, y: 11.5}
+        - {x: 48, y: -11.5}
+      physicsShape:
+      - - {x: 48, y: 11.499999}
+        - {x: 29, y: 11.499999}
+        - {x: 24, y: 10.5}
+        - {x: 4.9999995, y: 10.5}
+        - {x: -3, y: 9.5}
+        - {x: -4.9999995, y: 5.5}
+        - {x: -4.9999995, y: -11.499999}
+        - {x: 9, y: -11.499999}
+        - {x: 14.999999, y: -9.5}
+        - {x: 47, y: -10.5}
+        - {x: 48, y: -8.5}
+      - - {x: -19, y: 11.499999}
+        - {x: -48, y: 11.499999}
+        - {x: -48, y: -2.4999998}
+        - {x: -47, y: -6.5}
+        - {x: -41, y: -9.5}
+        - {x: -13, y: -9.5}
+        - {x: -9, y: -7.4999995}
+        - {x: -9, y: 4.5}
+        - {x: -14, y: 9.5}
+      - - {x: 3, y: 1.5}
+        - {x: 4, y: -0.5}
+        - {x: 3, y: 0.5}
+      - - {x: 17, y: -0.5}
+        - {x: 17, y: 0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8918d2882425470dab8eda18918b1e06
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 23}
+      - {x: 96, y: 23}
+      - {x: 0, y: 0}
+      - {x: 96, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_LevelReport_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 107
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -12}
+        - {x: -12.5, y: 12}
+        - {x: 12.5, y: 12}
+        - {x: 12.5, y: -12}
+      physicsShape:
+      - - {x: -12.5, y: 9}
+        - {x: -12.5, y: -6}
+        - {x: -7.4999995, y: -9}
+        - {x: 4.5, y: -9}
+        - {x: 12.5, y: -6}
+        - {x: 12.5, y: 8}
+        - {x: 10.5, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: df14755ecc5b488aac57454ac72628d8
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 25, y: 24}
+      - {x: 0, y: 0}
+      - {x: 25, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_LevelReport_18
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 78
+        width: 66
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -7.5000005}
+        - {x: -33, y: 7.5000005}
+        - {x: 33, y: 7.5000005}
+        - {x: 33, y: -7.5000005}
+      physicsShape:
+      - - {x: -33, y: -7.4999995}
+        - {x: -26.999998, y: -7.4999995}
+        - {x: -26.999998, y: -4.5}
+        - {x: -29, y: -2.4999998}
+        - {x: -33, y: -3.5}
+      - - {x: -19, y: -0.5}
+        - {x: -26.999998, y: -1.5}
+        - {x: -26.999998, y: -7.4999995}
+        - {x: -16, y: -7.4999995}
+        - {x: -14, y: -6.5}
+        - {x: -13, y: -4.5}
+        - {x: -13, y: -2.4999998}
+        - {x: -14, y: -0.5}
+      - - {x: -12, y: -5.5}
+        - {x: -9, y: -5.5}
+        - {x: -4.9999995, y: -4.5}
+        - {x: -4.9999995, y: 1.5}
+        - {x: -9.999999, y: 1.5}
+        - {x: -13, y: 0.5}
+        - {x: -13, y: -4.5}
+      - - {x: -1, y: 3.5}
+        - {x: -4.9999995, y: 0.5}
+        - {x: -4.9999995, y: -1.5}
+        - {x: -3, y: -3.5}
+        - {x: 0, y: -3.5}
+        - {x: 3, y: -0.5}
+        - {x: 3, y: 1.5}
+        - {x: 1, y: 3.5}
+      - - {x: 3, y: 4.5}
+        - {x: 3, y: -0.5}
+        - {x: 4, y: -1.5}
+        - {x: 9.999999, y: -1.5}
+        - {x: 11, y: -0.5}
+        - {x: 11, y: 4.5}
+      - - {x: 12, y: 6.5}
+        - {x: 11, y: 4.5}
+        - {x: 11, y: -0.5}
+        - {x: 14.999999, y: -0.5}
+        - {x: 19, y: 0.5}
+        - {x: 19, y: 4.5}
+        - {x: 17, y: 6.5}
+      - - {x: 21, y: 7.4999995}
+        - {x: 19, y: 6.5}
+        - {x: 19, y: 3.5}
+        - {x: 21, y: 1.5}
+        - {x: 25, y: 1.5}
+        - {x: 26.999998, y: 3.5}
+        - {x: 26.999998, y: 7.4999995}
+      - - {x: 26.999998, y: 7.4999995}
+        - {x: 26.999998, y: 4.5}
+        - {x: 29, y: 2.4999998}
+        - {x: 33, y: 3.5}
+        - {x: 33, y: 7.4999995}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e259446eae41628bcf7c0229a3f079
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 15}
+      - {x: 66, y: 15}
+      - {x: 0, y: -4.7683716E-07}
+      - {x: 66, y: -4.7683716E-07}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 210415df8e4dc3b4a8c54ffc5b9f356b
+timeCreated: 1706119842
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Trap_Biome3_Saw_43x44_0
+  - first:
+      213: 21300002
+    second: Trap_Biome3_Saw_43x44_2
+  - first:
+      213: 21300004
+    second: Trap_Biome3_Saw_43x44_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trap_Biome3_Saw_43x44_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 43
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -22}
+        - {x: -21.5, y: -14}
+        - {x: -21.5, y: 18}
+        - {x: -15.5, y: 22}
+        - {x: 17.5, y: 22}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -19}
+        - {x: 16.5, y: -22}
+      physicsShape:
+      - - {x: -15.5, y: 22}
+        - {x: -21.5, y: 18}
+        - {x: -21.5, y: -14}
+        - {x: -18.5, y: -22}
+        - {x: 16.5, y: -22}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 14}
+        - {x: 17.5, y: 22}
+      - - {x: 0.5, y: 1}
+        - {x: -0.5, y: 1}
+        - {x: 0.5, y: 0}
+        - {x: -0.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7141a07f184bb1a3c0faee4a7c2a54
+      internalID: 21300000
+      vertices:
+      - {x: 22, y: 23}
+      - {x: 21, y: 23}
+      - {x: 21, y: 22}
+      - {x: 22, y: 23}
+      - {x: 22, y: 22}
+      - {x: 39, y: 44}
+      - {x: 43, y: 3}
+      - {x: 43, y: 36}
+      - {x: 38, y: 0}
+      - {x: 6, y: 44}
+      - {x: 3, y: 0}
+      - {x: 0, y: 40}
+      - {x: 0, y: 8}
+      indices:
+      - 12
+      - 11
+      - 10
+      - 9
+      - 10
+      - 11
+      - 2
+      - 10
+      - 9
+      - 8
+      - 10
+      - 2
+      - 4
+      - 8
+      - 2
+      - 3
+      - 8
+      - 4
+      - 5
+      - 1
+      - 9
+      - 2
+      - 9
+      - 1
+      - 3
+      - 1
+      - 5
+      - 8
+      - 3
+      - 5
+      - 6
+      - 8
+      - 5
+      - 7
+      - 6
+      - 5
+      - 4
+      - 0
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Biome3_Saw_43x44_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 43
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -22}
+        - {x: -21.5, y: -14}
+        - {x: -21.5, y: 18}
+        - {x: -15.5, y: 22}
+        - {x: 17.5, y: 22}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -19}
+        - {x: 16.5, y: -22}
+      physicsShape:
+      - - {x: -15.5, y: 22}
+        - {x: -21.5, y: 18}
+        - {x: -21.5, y: -14}
+        - {x: -18.5, y: -22}
+        - {x: 16.5, y: -22}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 14}
+        - {x: 17.5, y: 22}
+      - - {x: 0.5, y: 1}
+        - {x: -0.5, y: 1}
+        - {x: 0.5, y: 0}
+        - {x: -0.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc5f886acbc4d5389c78e623c9aa805
+      internalID: 21300002
+      vertices:
+      - {x: 22, y: 23}
+      - {x: 21, y: 23}
+      - {x: 21, y: 22}
+      - {x: 22, y: 23}
+      - {x: 22, y: 22}
+      - {x: 39, y: 44}
+      - {x: 43, y: 3}
+      - {x: 43, y: 36}
+      - {x: 38, y: 0}
+      - {x: 6, y: 44}
+      - {x: 3, y: 0}
+      - {x: 0, y: 40}
+      - {x: 0, y: 8}
+      indices:
+      - 12
+      - 11
+      - 10
+      - 9
+      - 10
+      - 11
+      - 2
+      - 10
+      - 9
+      - 8
+      - 10
+      - 2
+      - 4
+      - 8
+      - 2
+      - 3
+      - 8
+      - 4
+      - 5
+      - 1
+      - 9
+      - 2
+      - 9
+      - 1
+      - 3
+      - 1
+      - 5
+      - 8
+      - 3
+      - 5
+      - 6
+      - 8
+      - 5
+      - 7
+      - 6
+      - 5
+      - 4
+      - 0
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Biome3_Saw_43x44_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 43
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -22}
+        - {x: -21.5, y: -14}
+        - {x: -21.5, y: 18}
+        - {x: -15.5, y: 22}
+        - {x: 17.5, y: 22}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: -19}
+        - {x: 16.5, y: -22}
+      physicsShape:
+      - - {x: -15.5, y: 22}
+        - {x: -21.5, y: 18}
+        - {x: -21.5, y: -14}
+        - {x: -18.5, y: -22}
+        - {x: 16.5, y: -22}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 14}
+        - {x: 17.5, y: 22}
+      - - {x: 0.5, y: 1}
+        - {x: -0.5, y: 1}
+        - {x: 0.5, y: 0}
+        - {x: -0.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a1048245d54a908e195346519c02e0
+      internalID: 21300004
+      vertices:
+      - {x: 22, y: 23}
+      - {x: 21, y: 23}
+      - {x: 21, y: 22}
+      - {x: 22, y: 23}
+      - {x: 22, y: 22}
+      - {x: 39, y: 44}
+      - {x: 43, y: 3}
+      - {x: 43, y: 36}
+      - {x: 38, y: 0}
+      - {x: 6, y: 44}
+      - {x: 3, y: 0}
+      - {x: 0, y: 40}
+      - {x: 0, y: 8}
+      indices:
+      - 12
+      - 11
+      - 10
+      - 9
+      - 10
+      - 11
+      - 2
+      - 10
+      - 9
+      - 8
+      - 10
+      - 2
+      - 4
+      - 8
+      - 2
+      - 3
+      - 8
+      - 4
+      - 5
+      - 1
+      - 9
+      - 2
+      - 9
+      - 1
+      - 3
+      - 1
+      - 5
+      - 8
+      - 3
+      - 5
+      - 6
+      - 8
+      - 5
+      - 7
+      - 6
+      - 5
+      - 4
+      - 0
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 656c418b0cacb402f6e588b07d32a86b.bundle
+  assetBundleVariant:

@@ -1,0 +1,759 @@
+fileFormatVersion: 2
+guid: bf7afad630635a64e88f84a2f2758fba
+timeCreated: 1706119822
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SP_claypot_02_Destructible1_Particles_10
+  - first:
+      213: 21300002
+    second: SP_claypot_02_Destructible1_Particles_14
+  - first:
+      213: 21300004
+    second: SP_claypot_02_Destructible1_Particles_2
+  - first:
+      213: 21300006
+    second: SP_claypot_02_Destructible1_Particles_4
+  - first:
+      213: 21300008
+    second: SP_claypot_02_Destructible1_Particles_1
+  - first:
+      213: 21300010
+    second: SP_claypot_02_Destructible1_Particles_11
+  - first:
+      213: 21300012
+    second: SP_claypot_02_Destructible1_Particles_9
+  - first:
+      213: 21300014
+    second: SP_claypot_02_Destructible1_Particles_13
+  - first:
+      213: 21300016
+    second: SP_claypot_02_Destructible1_Particles_7
+  - first:
+      213: 21300018
+    second: SP_claypot_02_Destructible1_Particles_0
+  - first:
+      213: 21300020
+    second: SP_claypot_02_Destructible1_Particles_3
+  - first:
+      213: 21300022
+    second: SP_claypot_02_Destructible1_Particles_12
+  - first:
+      213: 21300024
+    second: SP_claypot_02_Destructible1_Particles_6
+  - first:
+      213: 21300026
+    second: SP_claypot_02_Destructible1_Particles_8
+  - first:
+      213: 21300028
+    second: SP_claypot_02_Destructible1_Particles_5
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SP_claypot_02_Destructible1_Particles_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 42
+        width: 10
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -3}
+        - {x: -5, y: 3}
+        - {x: 5, y: 3}
+        - {x: 5, y: -3}
+      physicsShape:
+      - - {x: -5, y: 3}
+        - {x: -5, y: -3}
+        - {x: 3, y: -3}
+        - {x: 5, y: -1}
+        - {x: 5, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefae27b212c48399588d1a83e048c6d
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 6}
+      - {x: 10, y: 6}
+      - {x: 0, y: 0}
+      - {x: 10, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_claypot_02_Destructible1_Particles_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 8
+        width: 10
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -2}
+        - {x: -5, y: 2}
+        - {x: 5, y: 2}
+        - {x: 5, y: -2}
+      physicsShape:
+      - - {x: -5, y: 2}
+        - {x: -5, y: -2}
+        - {x: 5, y: -2}
+        - {x: 5, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a63b73e01345c2a30864c99225641f
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 10, y: 4}
+      - {x: 0, y: 0}
+      - {x: 10, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_claypot_02_Destructible1_Particles_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 72
+        width: 8
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -2}
+        - {x: -4, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: -2}
+      physicsShape:
+      - - {x: -3, y: 2}
+        - {x: -4, y: 1}
+        - {x: -4, y: -2}
+        - {x: 4, y: -2}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d572a1d83b5a4443aab64962515109b0
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 8, y: 4}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_claypot_02_Destructible1_Particles_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 71
+        width: 8
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -2}
+        - {x: -4, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: -2}
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -2}
+        - {x: 4, y: -2}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf31d9b3bba04c159d54297978380e54
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 8, y: 4}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_claypot_02_Destructible1_Particles_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 86
+        width: 5
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -3}
+        - {x: -2.5, y: 3}
+        - {x: 2.5, y: 3}
+        - {x: 2.5, y: -3}
+      physicsShape:
+      - - {x: -2.5, y: 3}
+        - {x: -2.5, y: -3}
+        - {x: 2.5, y: -3}
+        - {x: 2.5, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbb4b4c1ee0416d95c39cd3c86df89b
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 6}
+      - {x: 5, y: 6}
+      - {x: 0, y: 0}
+      - {x: 5, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_claypot_02_Destructible1_Particles_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 23
+        width: 10
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -2.5}
+        - {x: -5, y: 2.5}
+        - {x: 5, y: 2.5}
+        - {x: 5, y: -2.5}
+      physicsShape:
+      - - {x: -5, y: 2.5}
+        - {x: -5, y: -1.5}
+        - {x: -4, y: -2.5}
+        - {x: 5, y: -2.5}
+        - {x: 5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb5c5a73b394312bf3bc329c025cb16
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 10, y: 5}
+      - {x: 0, y: 0}
+      - {x: 10, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_claypot_02_Destructible1_Particles_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 9
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -2}
+        - {x: -4.5, y: 2}
+        - {x: 4.5, y: 2}
+        - {x: 4.5, y: -2}
+      physicsShape:
+      - - {x: -4.5, y: 2}
+        - {x: -4.5, y: -2}
+        - {x: 4.5, y: -2}
+        - {x: 4.5, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ae4f8b8bb14df29713c0fb6c195089
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 9, y: 4}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_claypot_02_Destructible1_Particles_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9
+        width: 9
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -2}
+        - {x: -4.5, y: 2}
+        - {x: 4.5, y: 2}
+        - {x: 4.5, y: -2}
+      physicsShape:
+      - - {x: 4.5, y: -2}
+        - {x: 4.5, y: 2}
+        - {x: -4.5, y: 2}
+        - {x: -4.5, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4075e38432c4b07a5917dfaa8aa3dd4
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 9, y: 4}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_claypot_02_Destructible1_Particles_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 56
+        width: 12
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -2}
+        - {x: -6, y: 2}
+        - {x: 6, y: 2}
+        - {x: 6, y: -2}
+      physicsShape:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2d5177f5e54547a327fc3ea70f5471
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 12, y: 4}
+      - {x: 0, y: 0}
+      - {x: 12, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_claypot_02_Destructible1_Particles_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 86
+        width: 7
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -3}
+        - {x: -3.5, y: 3}
+        - {x: 3.5, y: 3}
+        - {x: 3.5, y: -3}
+      physicsShape:
+      - - {x: -3.5, y: 3}
+        - {x: -3.5, y: -3}
+        - {x: 3.5, y: -3}
+        - {x: 3.5, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342fd241a1174ea887c81102bdb3983f
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 6}
+      - {x: 7, y: 6}
+      - {x: 0, y: 0}
+      - {x: 7, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_claypot_02_Destructible1_Particles_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 73
+        width: 7
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -2}
+        - {x: -3.5, y: 2}
+        - {x: 3.5, y: 2}
+        - {x: 3.5, y: -2}
+      physicsShape:
+      - - {x: -3.5, y: 2}
+        - {x: -3.5, y: -2}
+        - {x: 3.5, y: -2}
+        - {x: 3.5, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f37412210144284a229e50303f41386
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 7, y: 4}
+      - {x: 0, y: 0}
+      - {x: 7, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_claypot_02_Destructible1_Particles_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 23
+        width: 11
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -2.5}
+        - {x: -5.5, y: 2.5}
+        - {x: 5.5, y: 2.5}
+        - {x: 5.5, y: -2.5}
+      physicsShape:
+      - - {x: -5.5, y: 2.5}
+        - {x: -5.5, y: -2.5}
+        - {x: 5.5, y: -2.5}
+        - {x: 5.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d607ec9a656e43d8b88cb1f15ff84ae2
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 11, y: 5}
+      - {x: 0, y: 0}
+      - {x: 11, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_claypot_02_Destructible1_Particles_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 56
+        width: 9
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -2}
+        - {x: -4.5, y: 2}
+        - {x: 4.5, y: 2}
+        - {x: 4.5, y: -2}
+      physicsShape:
+      - - {x: 4.5, y: -2}
+        - {x: 4.5, y: 2}
+        - {x: -4.5, y: 2}
+        - {x: -4.5, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270d2fc54c254e9bb608cb5c04fe8945
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 9, y: 4}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_claypot_02_Destructible1_Particles_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 40
+        width: 8
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -2}
+        - {x: -4, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: -2}
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -2}
+        - {x: 4, y: -2}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ec171a8a444f86add689546de7e54b
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 8, y: 4}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_claypot_02_Destructible1_Particles_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 56
+        width: 8
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -2}
+        - {x: -4, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: -2}
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -2}
+        - {x: 4, y: -2}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3fe3fb1fdb4f30b105952349adfb34
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 8, y: 4}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 2601eefa90f1f302662960eba7e3f32c.bundle
+  assetBundleVariant:

@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: c51ce8a7e67162445a759e323d37d86c
+timeCreated: 1706119814
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Weapons_Pistolhands30x24_5
+  - first:
+      213: 21300002
+    second: Weapons_Pistolhands30x24_12
+  - first:
+      213: 21300004
+    second: Weapons_Pistolhands30x24_0
+  - first:
+      213: 21300006
+    second: Weapons_Pistolhands30x24_9
+  - first:
+      213: 21300008
+    second: Weapons_Pistolhands30x24_10
+  - first:
+      213: 21300010
+    second: Weapons_Pistolhands30x24_2
+  - first:
+      213: 21300012
+    second: Weapons_Pistolhands30x24_11
+  - first:
+      213: 21300014
+    second: Weapons_Pistolhands30x24_6
+  - first:
+      213: 21300016
+    second: Weapons_Pistolhands30x24_7
+  - first:
+      213: 21300018
+    second: Weapons_Pistolhands30x24_4
+  - first:
+      213: 21300020
+    second: Weapons_Pistolhands30x24_3
+  - first:
+      213: 21300022
+    second: Weapons_Pistolhands30x24_13
+  - first:
+      213: 21300024
+    second: Weapons_Pistolhands30x24_8
+  - first:
+      213: 21300026
+    second: Weapons_Pistolhands30x24_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapons_Pistolhands30x24_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.42083862, y: 0.6036387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999994, y: -12}
+        - {x: -14.999994, y: 12}
+        - {x: 15.000006, y: 12}
+        - {x: 15.000006, y: -12}
+      physicsShape:
+      - - {x: -13.999994, y: -7}
+        - {x: -13.999994, y: -8}
+        - {x: -11.999994, y: -12}
+        - {x: -8.999994, y: -12}
+        - {x: -2.9999943, y: -8}
+        - {x: -2.9999943, y: -4}
+        - {x: -5.9999943, y: -1}
+        - {x: -7.9999943, y: -1}
+      - - {x: 2.0000057, y: 12}
+        - {x: -3.9999943, y: 6}
+        - {x: -3.9999943, y: 1}
+        - {x: -0.9999943, y: -4}
+        - {x: 14.000006, y: -4}
+        - {x: 15.000006, y: -2}
+        - {x: 15.000006, y: 7}
+        - {x: 7.0000057, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc31914a52f4e09ad3437f9b114757c
+      internalID: 21300000
+      vertices:
+      - {x: 2.3748474, y: 21.51267}
+      - {x: 32.374847, y: 21.51267}
+      - {x: 2.3748474, y: -2.4873295}
+      - {x: 32.374847, y: -2.4873295}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistolhands30x24_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.42083862, y: 0.6036387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999994, y: -12}
+        - {x: -14.999994, y: 12}
+        - {x: 15.000006, y: 12}
+        - {x: 15.000006, y: -12}
+      physicsShape:
+      - - {x: -9.999994, y: 10}
+        - {x: -10.999994, y: 5}
+        - {x: -10.999994, y: -5}
+        - {x: 5.0000057, y: -5}
+        - {x: 9.000006, y: -4}
+        - {x: 9.000006, y: 8}
+        - {x: 6.0000057, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f75f0abb2a45d7a79988c9a489af94
+      internalID: 21300002
+      vertices:
+      - {x: 2.3748474, y: 21.51267}
+      - {x: 32.374847, y: 21.51267}
+      - {x: 2.3748474, y: -2.4873295}
+      - {x: 32.374847, y: -2.4873295}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistolhands30x24_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.42083862, y: 0.6036387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -12}
+        - {x: -15, y: 12}
+        - {x: 15, y: 12}
+        - {x: 15, y: -12}
+      physicsShape:
+      - - {x: -11, y: 10}
+        - {x: -11, y: -5}
+        - {x: 1, y: -5}
+        - {x: 8, y: -3}
+        - {x: 8, y: 7}
+        - {x: 5, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b37359014c4e6f9422f5d91a21ea2b
+      internalID: 21300004
+      vertices:
+      - {x: 2.3748417, y: 21.51267}
+      - {x: 32.37484, y: 21.51267}
+      - {x: 2.3748417, y: -2.4873295}
+      - {x: 32.37484, y: -2.4873295}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistolhands30x24_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.42083862, y: 0.6036387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999994, y: -12}
+        - {x: -14.999994, y: 12}
+        - {x: 15.000006, y: 12}
+        - {x: 15.000006, y: -12}
+      physicsShape:
+      - - {x: 8.000006, y: 12}
+        - {x: 1.0000057, y: 12}
+        - {x: -3.9999943, y: 4}
+        - {x: -3.9999943, y: -1}
+        - {x: -1.9999943, y: -3}
+        - {x: 13.000006, y: -3}
+        - {x: 15.000006, y: -1}
+        - {x: 15.000006, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1617d2c477b141b5b45d04b004082fda
+      internalID: 21300006
+      vertices:
+      - {x: 2.3748474, y: 21.51267}
+      - {x: 32.374847, y: 21.51267}
+      - {x: 2.3748474, y: -2.4873295}
+      - {x: 32.374847, y: -2.4873295}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistolhands30x24_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.42083862, y: 0.6036387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999994, y: -12}
+        - {x: -14.999994, y: 12}
+        - {x: 15.000006, y: 12}
+        - {x: 15.000006, y: -12}
+      physicsShape:
+      - - {x: -10.999994, y: -5}
+        - {x: 1.0000057, y: -5}
+        - {x: 8.000006, y: -3}
+        - {x: 8.000006, y: 7}
+        - {x: 6.0000057, y: 10}
+        - {x: -10.999994, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51f4037e65d4106be7b76d65b271b17
+      internalID: 21300008
+      vertices:
+      - {x: 2.3748474, y: 21.51267}
+      - {x: 32.374847, y: 21.51267}
+      - {x: 2.3748474, y: -2.4873295}
+      - {x: 32.374847, y: -2.4873295}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistolhands30x24_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.42083862, y: 0.6036387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.000002, y: -12}
+        - {x: -15.000002, y: 12}
+        - {x: 14.999998, y: 12}
+        - {x: 14.999998, y: -12}
+      physicsShape:
+      - - {x: -1.9073486E-06, y: 12}
+        - {x: -5.000002, y: 3}
+        - {x: -5.000002, y: -3}
+        - {x: -4.000002, y: -4}
+        - {x: 14.999998, y: -4}
+        - {x: 14.999998, y: 6}
+        - {x: 6.999998, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4214dcee7e5400897d6ea4176b2342c
+      internalID: 21300010
+      vertices:
+      - {x: 2.3748398, y: 21.51267}
+      - {x: 32.37484, y: 21.51267}
+      - {x: 2.3748398, y: -2.4873295}
+      - {x: 32.37484, y: -2.4873295}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistolhands30x24_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.42083862, y: 0.6036387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999994, y: -12}
+        - {x: -14.999994, y: 12}
+        - {x: 15.000006, y: 12}
+        - {x: 15.000006, y: -12}
+      physicsShape:
+      - - {x: -14.999994, y: 10}
+        - {x: -14.999994, y: 4}
+        - {x: -11.999994, y: -3}
+        - {x: -11.999994, y: -5}
+        - {x: 4.0000057, y: -5}
+        - {x: 8.000006, y: -4}
+        - {x: 8.000006, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac0cf8fa67943eaaad9479240128a28
+      internalID: 21300012
+      vertices:
+      - {x: 2.3748474, y: 21.51267}
+      - {x: 32.374847, y: 21.51267}
+      - {x: 2.3748474, y: -2.4873295}
+      - {x: 32.374847, y: -2.4873295}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistolhands30x24_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.42083862, y: 0.6036387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999994, y: -12}
+        - {x: -14.999994, y: 12}
+        - {x: 15.000006, y: 12}
+        - {x: 15.000006, y: -12}
+      physicsShape:
+      - - {x: -13.999994, y: -7}
+        - {x: -13.999994, y: -8}
+        - {x: -11.999994, y: -12}
+        - {x: -8.999994, y: -12}
+        - {x: -2.9999943, y: -8}
+        - {x: -2.9999943, y: -4}
+        - {x: -5.9999943, y: -1}
+        - {x: -7.9999943, y: -1}
+      - - {x: 2.0000057, y: 12}
+        - {x: -3.9999943, y: 6}
+        - {x: -3.9999943, y: 1}
+        - {x: -0.9999943, y: -4}
+        - {x: 14.000006, y: -4}
+        - {x: 15.000006, y: -2}
+        - {x: 15.000006, y: 7}
+        - {x: 7.0000057, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a102a823f354a3bb575fd05d3845451
+      internalID: 21300014
+      vertices:
+      - {x: 2.3748474, y: 21.51267}
+      - {x: 32.374847, y: 21.51267}
+      - {x: 2.3748474, y: -2.4873295}
+      - {x: 32.374847, y: -2.4873295}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistolhands30x24_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.42083862, y: 0.6036387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999994, y: -12}
+        - {x: -14.999994, y: 12}
+        - {x: 15.000006, y: 12}
+        - {x: 15.000006, y: -12}
+      physicsShape:
+      - - {x: -10.999994, y: -2}
+        - {x: -14.999994, y: -8}
+        - {x: -14.999994, y: -11}
+        - {x: -12.999994, y: -12}
+        - {x: -7.9999943, y: -12}
+        - {x: -3.9999943, y: -9}
+        - {x: -3.9999943, y: -5}
+        - {x: -4.9999943, y: -2}
+      - - {x: 2.0000057, y: 12}
+        - {x: -3.9999943, y: 6}
+        - {x: -3.9999943, y: 1}
+        - {x: -0.9999943, y: -4}
+        - {x: 14.000006, y: -4}
+        - {x: 15.000006, y: -2}
+        - {x: 15.000006, y: 7}
+        - {x: 7.0000057, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0815ee8e867c4db7970225a718f3ddae
+      internalID: 21300016
+      vertices:
+      - {x: 2.3748474, y: 21.51267}
+      - {x: 32.374847, y: 21.51267}
+      - {x: 2.3748474, y: -2.4873295}
+      - {x: 32.374847, y: -2.4873295}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistolhands30x24_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.42083862, y: 0.6036387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999994, y: -12}
+        - {x: -14.999994, y: 12}
+        - {x: 15.000006, y: 12}
+        - {x: 15.000006, y: -12}
+      physicsShape:
+      - - {x: -13.999994, y: -7}
+        - {x: -13.999994, y: -8}
+        - {x: -11.999994, y: -12}
+        - {x: -8.999994, y: -12}
+        - {x: -2.9999943, y: -8}
+        - {x: -2.9999943, y: -4}
+        - {x: -5.9999943, y: -1}
+        - {x: -7.9999943, y: -1}
+      - - {x: 2.0000057, y: 12}
+        - {x: -3.9999943, y: 6}
+        - {x: -3.9999943, y: 1}
+        - {x: -0.9999943, y: -4}
+        - {x: 14.000006, y: -4}
+        - {x: 15.000006, y: -2}
+        - {x: 15.000006, y: 7}
+        - {x: 7.0000057, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e0a862d7834399a4953a743159a8cf
+      internalID: 21300018
+      vertices:
+      - {x: 2.3748474, y: 21.51267}
+      - {x: 32.374847, y: 21.51267}
+      - {x: 2.3748474, y: -2.4873295}
+      - {x: 32.374847, y: -2.4873295}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistolhands30x24_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.42083862, y: 0.6036387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.000002, y: -12}
+        - {x: -15.000002, y: 12}
+        - {x: 14.999998, y: 12}
+        - {x: 14.999998, y: -12}
+      physicsShape:
+      - - {x: 6.999998, y: 12}
+        - {x: -1.9073486E-06, y: 12}
+        - {x: -5.000002, y: 3}
+        - {x: -5.000002, y: -2}
+        - {x: -3.000002, y: -4}
+        - {x: 11.999998, y: -4}
+        - {x: 14.999998, y: -1}
+        - {x: 14.999998, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e781675b0483456abd063f177ab5d4b8
+      internalID: 21300020
+      vertices:
+      - {x: 2.3748398, y: 21.51267}
+      - {x: 32.37484, y: 21.51267}
+      - {x: 2.3748398, y: -2.4873295}
+      - {x: 32.37484, y: -2.4873295}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistolhands30x24_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.42083862, y: 0.6036387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999994, y: -12}
+        - {x: -14.999994, y: 12}
+        - {x: 15.000006, y: 12}
+        - {x: 15.000006, y: -12}
+      physicsShape:
+      - - {x: -10.999994, y: -5}
+        - {x: 1.0000057, y: -5}
+        - {x: 8.000006, y: -3}
+        - {x: 8.000006, y: 7}
+        - {x: 6.0000057, y: 10}
+        - {x: -10.999994, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de043bedc63043e98f5d1094aab1e45f
+      internalID: 21300022
+      vertices:
+      - {x: 2.3748474, y: 21.51267}
+      - {x: 32.374847, y: 21.51267}
+      - {x: 2.3748474, y: -2.4873295}
+      - {x: 32.374847, y: -2.4873295}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistolhands30x24_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.42083862, y: 0.6036387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999994, y: -12}
+        - {x: -14.999994, y: 12}
+        - {x: 15.000006, y: 12}
+        - {x: 15.000006, y: -12}
+      physicsShape:
+      - - {x: 1.0000057, y: 12}
+        - {x: -2.9999943, y: 7}
+        - {x: -2.9999943, y: -1}
+        - {x: -1.9999943, y: -2}
+        - {x: 15.000006, y: -2}
+        - {x: 15.000006, y: 7}
+        - {x: 9.000006, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e168654ca24124867ad067cb3e2f67
+      internalID: 21300024
+      vertices:
+      - {x: 2.3748474, y: 21.51267}
+      - {x: 32.374847, y: 21.51267}
+      - {x: 2.3748474, y: -2.4873295}
+      - {x: 32.374847, y: -2.4873295}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Pistolhands30x24_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.42083862, y: 0.6036387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.000002, y: -12}
+        - {x: -15.000002, y: 12}
+        - {x: 14.999998, y: 12}
+        - {x: 14.999998, y: -12}
+      physicsShape:
+      - - {x: -4.000002, y: 0}
+        - {x: 3.999998, y: -5}
+        - {x: 14.999998, y: -5}
+        - {x: 14.999998, y: 4}
+        - {x: 10.999998, y: 12}
+        - {x: 1.9999981, y: 12}
+        - {x: -4.000002, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34604f8fb09a427fb0b6fb1e6ced00ed
+      internalID: 21300026
+      vertices:
+      - {x: 2.3748398, y: 21.51267}
+      - {x: 32.37484, y: 21.51267}
+      - {x: 2.3748398, y: -2.4873295}
+      - {x: 32.37484, y: -2.4873295}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: dd14d2ddaa07bc34756cc666fad2ee2c.bundle
+  assetBundleVariant:

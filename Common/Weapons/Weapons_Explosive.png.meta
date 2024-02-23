@@ -1,0 +1,779 @@
+fileFormatVersion: 2
+guid: 04b308ac85307164b89a67c1d5b5e121
+timeCreated: 1706119845
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Weapons_Explosive_Buccaneer_HUD
+  - first:
+      213: 21300002
+    second: Weapons_Explosive_Grenade
+  - first:
+      213: 21300004
+    second: Weapons_Explosive_Buccaneer_Drop
+  - first:
+      213: 21300006
+    second: Weapons_Explosive_Hydra_HUD
+  - first:
+      213: 21300008
+    second: Weapons_Explosive_Hydra
+  - first:
+      213: 21300010
+    second: Weapons_Explosive_Grenade_Drop
+  - first:
+      213: 21300012
+    second: Weapons_Explosive_GrenadeLauncher_Drop
+  - first:
+      213: 21300014
+    second: Weapons_Explosive_GrenadeLauncher
+  - first:
+      213: 21300016
+    second: Weapons_Explosive_HammerHead_HUD
+  - first:
+      213: 21300018
+    second: Weapons_Explosive_HammerHead
+  - first:
+      213: 21300020
+    second: Weapons_Explosive_Grenade_HUD
+  - first:
+      213: 21300022
+    second: Weapons_Explosive_HammerHead_Drop
+  - first:
+      213: 21300024
+    second: Weapons_Explosive_Buccaneer
+  - first:
+      213: 21300026
+    second: Weapons_Explosive_Hydra_Drop
+  - first:
+      213: 21300028
+    second: Weapons_Explosive_GrenadeLauncher_HUD
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapons_Explosive_Buccaneer_HUD
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 25
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -6}
+        - {x: -12.5, y: 6}
+        - {x: 12.5, y: 6}
+        - {x: 12.5, y: -6}
+      physicsShape:
+      - - {x: -10.5, y: 6}
+        - {x: -12.5, y: 4}
+        - {x: -12.5, y: -6}
+        - {x: 12.5, y: -6}
+        - {x: 12.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2555dba2ec2243fc9b62dec0660292a7
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 25, y: 12}
+      - {x: 0, y: 0}
+      - {x: 25, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosive_Grenade
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -5}
+        - {x: -4.5, y: 5}
+        - {x: 4.5, y: 5}
+        - {x: 4.5, y: -5}
+      physicsShape:
+      - - {x: -4.5, y: 5}
+        - {x: -4.5, y: -5}
+        - {x: 4.5, y: -5}
+        - {x: 4.5, y: 4}
+        - {x: 3.5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee272a08d7e842a2a53ab0b4c96599c3
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 10}
+      - {x: 9, y: 10}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosive_Buccaneer_Drop
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 25
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -6}
+        - {x: -12.5, y: 6}
+        - {x: 12.5, y: 6}
+        - {x: 12.5, y: -6}
+      physicsShape:
+      - - {x: -8.5, y: 6}
+        - {x: -12.5, y: 3}
+        - {x: -12.5, y: -6}
+        - {x: 12.5, y: -6}
+        - {x: 12.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f91d6e70fd46c881d6980e7cc84656
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 25, y: 18}
+      - {x: 0, y: 6}
+      - {x: 25, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosive_Hydra_HUD
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 32
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -9}
+        - {x: -16, y: 9}
+        - {x: 16, y: 9}
+        - {x: 16, y: -9}
+      physicsShape:
+      - - {x: -16, y: 9}
+        - {x: -16, y: -8}
+        - {x: -14, y: -9}
+        - {x: 8, y: -9}
+        - {x: 16, y: -6}
+        - {x: 16, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151de7ab77c9488e81d573bcedd0dc4c
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 32, y: 18}
+      - {x: 0, y: 0}
+      - {x: 32, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosive_Hydra
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -15, y: 8}
+        - {x: -15, y: -8}
+        - {x: 9, y: -8}
+        - {x: 15, y: -7}
+        - {x: 15, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb29378ede3945e7958511db0c59065a
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 30, y: 16}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosive_Grenade_Drop
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 59
+        width: 11
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -8}
+        - {x: -5.5, y: 8}
+        - {x: 5.5, y: 8}
+        - {x: 5.5, y: -8}
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -3}
+        - {x: -3.5, y: -6}
+        - {x: 2.5, y: -6}
+        - {x: 5.5, y: -5}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c17d9f6b8554d6babd366aaf900f6d3
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 11, y: 24}
+      - {x: 0, y: 8}
+      - {x: 11, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosive_GrenadeLauncher_Drop
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 63
+        width: 30
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -7.5}
+        - {x: -15, y: 7.5}
+        - {x: 15, y: 7.5}
+        - {x: 15, y: -7.5}
+      physicsShape:
+      - - {x: -15, y: 7.5}
+        - {x: -15, y: -2.5}
+        - {x: -14, y: -4.5}
+        - {x: -9, y: -7.5}
+        - {x: 15, y: -7.5}
+        - {x: 15, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b27fc841ea4e5c8e00bf3709ac382b
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 22.5}
+      - {x: 30, y: 22.5}
+      - {x: 0, y: 7.5}
+      - {x: 30, y: 7.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosive_GrenadeLauncher
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 28
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6.5}
+        - {x: -14, y: 6.5}
+        - {x: 14, y: 6.5}
+        - {x: 14, y: -6.5}
+      physicsShape:
+      - - {x: -14, y: 6.5}
+        - {x: -14, y: -6.5}
+        - {x: 14, y: -6.5}
+        - {x: 14, y: 5.5}
+        - {x: 12, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559adc7c3ab449c0b2b6cffcf97798f0
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 13}
+      - {x: 28, y: 13}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosive_HammerHead_HUD
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 39
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -8}
+        - {x: -19.5, y: 8}
+        - {x: 19.5, y: 8}
+        - {x: 19.5, y: -8}
+      physicsShape:
+      - - {x: 14.5, y: 8}
+        - {x: -19.5, y: 8}
+        - {x: -19.5, y: -5}
+        - {x: -15.5, y: -8}
+        - {x: 19.5, y: -8}
+        - {x: 19.5, y: 6}
+        - {x: 17.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48db4909322145e7bdedd0b72741278a
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 39, y: 16}
+      - {x: 0, y: 0}
+      - {x: 39, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosive_HammerHead
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 37
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -7}
+        - {x: -18.5, y: 7}
+        - {x: 18.5, y: 7}
+        - {x: 18.5, y: -7}
+      physicsShape:
+      - - {x: -18.5, y: 7}
+        - {x: -18.5, y: -4}
+        - {x: -13.5, y: -7}
+        - {x: 18.5, y: -7}
+        - {x: 18.5, y: 6}
+        - {x: 16.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6f41f36e2c485bb8205a396b12cfd8
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 37, y: 14}
+      - {x: 0, y: 0}
+      - {x: 37, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosive_Grenade_HUD
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 10
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5.5}
+        - {x: -5, y: 5.5}
+        - {x: 5, y: 5.5}
+        - {x: 5, y: -5.5}
+      physicsShape:
+      - - {x: -5, y: 5.5}
+        - {x: -5, y: -5.5}
+        - {x: 5, y: -5.5}
+        - {x: 5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1193bc4ea14148ba73eddee039c3be
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 11}
+      - {x: 10, y: 11}
+      - {x: 0, y: 0}
+      - {x: 10, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosive_HammerHead_Drop
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 39
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -8}
+        - {x: -19.5, y: 8}
+        - {x: 19.5, y: 8}
+        - {x: 19.5, y: -8}
+      physicsShape:
+      - - {x: -19.5, y: 8}
+        - {x: -19.5, y: -8}
+        - {x: 16.5, y: -8}
+        - {x: 18.5, y: -7}
+        - {x: 19.5, y: -5}
+        - {x: 19.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32d0fbd8c5a48f8bfed6ecf2a6747cb
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 39, y: 24}
+      - {x: 0, y: 8}
+      - {x: 39, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosive_Buccaneer
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 23
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -5}
+        - {x: -11.5, y: 5}
+        - {x: 11.5, y: 5}
+        - {x: 11.5, y: -5}
+      physicsShape:
+      - - {x: -11.5, y: 5}
+        - {x: -11.5, y: -5}
+        - {x: 11.5, y: -5}
+        - {x: 11.5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8d12d2afbe408fbf5d1f373c914403
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 10}
+      - {x: 23, y: 10}
+      - {x: 0, y: 0}
+      - {x: 23, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosive_Hydra_Drop
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 32
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -9}
+        - {x: -16, y: 9}
+        - {x: 16, y: 9}
+        - {x: 16, y: -9}
+      physicsShape:
+      - - {x: -16, y: 9}
+        - {x: -16, y: -6}
+        - {x: -15, y: -9}
+        - {x: 11, y: -9}
+        - {x: 15, y: -8}
+        - {x: 16, y: -5}
+        - {x: 16, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8e9d2d4ddc4f57b212d83d2ffeb035
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 27}
+      - {x: 32, y: 27}
+      - {x: 0, y: 9}
+      - {x: 32, y: 9}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Explosive_GrenadeLauncher_HUD
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 30
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -7.5}
+        - {x: -15, y: 7.5}
+        - {x: 15, y: 7.5}
+        - {x: 15, y: -7.5}
+      physicsShape:
+      - - {x: -15, y: 7.5}
+        - {x: -15, y: -4.5}
+        - {x: -12, y: -7.5}
+        - {x: 15, y: -7.5}
+        - {x: 15, y: 5.5}
+        - {x: 11, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfe7d0b3e7249f9a0e7d885935dfedf
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: 24898ac976efb304d98ab7069762fb2d
+timeCreated: 1706119845
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Bullets_AKImpactWall32x43_5
+  - first:
+      213: 21300002
+    second: Bullets_AKImpactWall32x43_1
+  - first:
+      213: 21300004
+    second: Bullets_AKImpactWall32x43_0
+  - first:
+      213: 21300006
+    second: Bullets_AKImpactWall32x43_2
+  - first:
+      213: 21300008
+    second: Bullets_AKImpactWall32x43_6
+  - first:
+      213: 21300010
+    second: Bullets_AKImpactWall32x43_3
+  - first:
+      213: 21300012
+    second: Bullets_AKImpactWall32x43_4
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bullets_AKImpactWall32x43_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 43
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -21.5}
+        - {x: -16, y: 21.5}
+        - {x: 16, y: 21.5}
+        - {x: 16, y: -21.5}
+      physicsShape:
+      - - {x: 13, y: -16.5}
+        - {x: 12, y: -19.5}
+        - {x: 13, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: -17.5}
+        - {x: 15, y: -16.5}
+      - - {x: -16, y: 3.5}
+        - {x: -16, y: -2.5}
+        - {x: -4, y: -2.5}
+        - {x: -3, y: 0.5}
+        - {x: -3, y: 3.5}
+      - - {x: 13, y: 21.5}
+        - {x: 12, y: 18.5}
+        - {x: 14, y: 16.5}
+        - {x: 16, y: 17.5}
+        - {x: 16, y: 21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47ec8048ca74034a939372aabdce86c
+      internalID: 21300000
+      vertices:
+      - {x: -16, y: 43}
+      - {x: 16, y: 43}
+      - {x: -16, y: 0}
+      - {x: 16, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_AKImpactWall32x43_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 43
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -21.5}
+        - {x: -16, y: 21.5}
+        - {x: 16, y: 21.5}
+        - {x: 16, y: -21.5}
+      physicsShape:
+      - - {x: 5, y: 2.5}
+        - {x: 5, y: -0.5}
+        - {x: 10, y: -6.5}
+        - {x: 15, y: -10.5}
+        - {x: 16, y: -10.5}
+        - {x: 16, y: 10.5}
+        - {x: 12, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06185156ba3645d6b9d46d292ade07e4
+      internalID: 21300002
+      vertices:
+      - {x: -16, y: 43}
+      - {x: 16, y: 43}
+      - {x: -16, y: 0}
+      - {x: 16, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_AKImpactWall32x43_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 43
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -21.5}
+        - {x: -16, y: 21.5}
+        - {x: 16, y: 21.5}
+        - {x: 16, y: -21.5}
+      physicsShape:
+      - - {x: 9, y: 2.5}
+        - {x: 9, y: -3.5}
+        - {x: 13, y: -7.5}
+        - {x: 16, y: -7.5}
+        - {x: 16, y: 6.5}
+        - {x: 13, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a5fdb7802641c1b882fb566bfa9c8a
+      internalID: 21300004
+      vertices:
+      - {x: -16, y: 43}
+      - {x: 16, y: 43}
+      - {x: -16, y: 0}
+      - {x: 16, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_AKImpactWall32x43_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 43
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -21.5}
+        - {x: -16, y: 21.5}
+        - {x: 16, y: 21.5}
+        - {x: 16, y: -21.5}
+      physicsShape:
+      - - {x: 11, y: -11.5}
+        - {x: 11, y: -14.5}
+        - {x: 15, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 16, y: -5.5}
+        - {x: 13, y: -6.5}
+      - - {x: -3, y: 2.5}
+        - {x: -3, y: -1.5}
+        - {x: 2, y: -4.5}
+        - {x: 16, y: -4.5}
+        - {x: 16, y: 4.5}
+        - {x: 14, y: 4.5}
+        - {x: -2, y: 2.5}
+      - - {x: 11, y: 15.5}
+        - {x: 11, y: 11.5}
+        - {x: 13, y: 5.5}
+        - {x: 16, y: 5.5}
+        - {x: 16, y: 17.5}
+        - {x: 15, y: 17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc70ae79f6f4995a6076f17936974a2
+      internalID: 21300006
+      vertices:
+      - {x: -16, y: 43}
+      - {x: 16, y: 43}
+      - {x: -16, y: 0}
+      - {x: 16, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_AKImpactWall32x43_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 43
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -21.5}
+        - {x: -16, y: 21.5}
+        - {x: 16, y: 21.5}
+        - {x: 16, y: -21.5}
+      physicsShape:
+      - - {x: 13, y: -16.5}
+        - {x: 12, y: -19.5}
+        - {x: 13, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: -17.5}
+        - {x: 15, y: -16.5}
+      - - {x: -16, y: -2.5}
+        - {x: -14, y: -2.5}
+        - {x: -12, y: -0.5}
+        - {x: -13, y: 2.5}
+        - {x: -16, y: 2.5}
+      - - {x: -9, y: -1.5}
+        - {x: -6, y: -0.5}
+        - {x: -6, y: 2.5}
+        - {x: -9, y: 3.5}
+        - {x: -11, y: 1.5}
+      - - {x: 13, y: 21.5}
+        - {x: 12, y: 18.5}
+        - {x: 14, y: 16.5}
+        - {x: 16, y: 17.5}
+        - {x: 16, y: 21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fc4950ed3a478ebb0a79d1f1b955c9
+      internalID: 21300008
+      vertices:
+      - {x: -16, y: 43}
+      - {x: 16, y: 43}
+      - {x: -16, y: 0}
+      - {x: 16, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_AKImpactWall32x43_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 43
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -21.5}
+        - {x: -16, y: 21.5}
+        - {x: 16, y: 21.5}
+        - {x: 16, y: -21.5}
+      physicsShape:
+      - - {x: 12, y: -17.5}
+        - {x: 15, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: -9.5}
+        - {x: 13, y: -10.5}
+      - - {x: 12, y: 0.5}
+        - {x: 12, y: -0.5}
+        - {x: 15, y: -3.5}
+        - {x: 16, y: -3.5}
+        - {x: 16, y: 3.5}
+        - {x: 15, y: 3.5}
+      - - {x: -11, y: 3.5}
+        - {x: -12, y: 0.5}
+        - {x: -11, y: -2.5}
+        - {x: 10, y: -2.5}
+        - {x: 12, y: -0.5}
+        - {x: 11, y: 2.5}
+        - {x: 5, y: 3.5}
+      - - {x: 12, y: 17.5}
+        - {x: 12, y: 12.5}
+        - {x: 14, y: 9.5}
+        - {x: 16, y: 9.5}
+        - {x: 16, y: 21.5}
+        - {x: 13, y: 20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c223945c8a1a4305be7c581a9bde34ba
+      internalID: 21300010
+      vertices:
+      - {x: -16, y: 43}
+      - {x: 16, y: 43}
+      - {x: -16, y: 0}
+      - {x: 16, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_AKImpactWall32x43_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 43
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -21.5}
+        - {x: -16, y: 21.5}
+        - {x: 16, y: 21.5}
+        - {x: 16, y: -21.5}
+      physicsShape:
+      - - {x: 12, y: -18.5}
+        - {x: 14, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: -13.5}
+        - {x: 13, y: -14.5}
+      - - {x: -11, y: 3.5}
+        - {x: -15, y: 1.5}
+        - {x: -15, y: -0.5}
+        - {x: -14, y: -2.5}
+        - {x: 0, y: -2.5}
+        - {x: 2, y: -0.5}
+        - {x: 1, y: 2.5}
+        - {x: -2, y: 3.5}
+      - - {x: 12, y: 17.5}
+        - {x: 15, y: 13.5}
+        - {x: 16, y: 13.5}
+        - {x: 16, y: 21.5}
+        - {x: 13, y: 21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2c89892f6940c0b10caac30f691d1b
+      internalID: 21300012
+      vertices:
+      - {x: -16, y: 43}
+      - {x: 16, y: 43}
+      - {x: -16, y: 0}
+      - {x: 16, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

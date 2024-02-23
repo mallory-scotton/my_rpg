@@ -1,0 +1,2174 @@
+fileFormatVersion: 2
+guid: 5c869f87acd8a85459df583296c0027c
+timeCreated: 1706119846
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: NewSacrificeability186x192_6
+  - first:
+      213: 21300002
+    second: NewSacrificeability186x192_3
+  - first:
+      213: 21300004
+    second: NewSacrificeability186x192_1
+  - first:
+      213: 21300006
+    second: NewSacrificeability186x192_5
+  - first:
+      213: 21300008
+    second: NewSacrificeability186x192_14
+  - first:
+      213: 21300010
+    second: NewSacrificeability186x192_18
+  - first:
+      213: 21300012
+    second: NewSacrificeability186x192_15
+  - first:
+      213: 21300014
+    second: NewSacrificeability186x192_8
+  - first:
+      213: 21300016
+    second: NewSacrificeability186x192_19
+  - first:
+      213: 21300018
+    second: NewSacrificeability186x192_4
+  - first:
+      213: 21300020
+    second: NewSacrificeability186x192_21
+  - first:
+      213: 21300022
+    second: NewSacrificeability186x192_0
+  - first:
+      213: 21300024
+    second: NewSacrificeability186x192_13
+  - first:
+      213: 21300026
+    second: NewSacrificeability186x192_16
+  - first:
+      213: 21300028
+    second: NewSacrificeability186x192_9
+  - first:
+      213: 21300030
+    second: NewSacrificeability186x192_7
+  - first:
+      213: 21300032
+    second: NewSacrificeability186x192_17
+  - first:
+      213: 21300034
+    second: NewSacrificeability186x192_10
+  - first:
+      213: 21300036
+    second: NewSacrificeability186x192_12
+  - first:
+      213: 21300038
+    second: NewSacrificeability186x192_20
+  - first:
+      213: 21300040
+    second: NewSacrificeability186x192_2
+  - first:
+      213: 21300042
+    second: NewSacrificeability186x192_11
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dde564507e4ab28bd3ec749b8a0cae
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_3
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 576
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac18e9b66304ce4851ee6ab5c1625d5
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 576
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dc4d78ce97405cb9e9b544719d1ae4
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_5
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 576
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9e01f178e24f62bbd9ac8c18fd31e3
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 192
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape:
+      - - {x: -7, y: -35}
+        - {x: 5, y: -34}
+        - {x: 8, y: -30}
+        - {x: 19, y: -8}
+        - {x: 28, y: -18}
+        - {x: 54, y: -28}
+        - {x: 63, y: -36}
+        - {x: 76, y: -36}
+        - {x: 80, y: -35}
+        - {x: 80, y: -22}
+        - {x: 77, y: -17}
+        - {x: 60, y: -14}
+        - {x: 71, y: -9}
+        - {x: 69, y: -5}
+        - {x: 62, y: -4}
+        - {x: 51, y: -11}
+        - {x: 35, y: -4}
+        - {x: 43, y: 0}
+        - {x: 57, y: 2}
+        - {x: 62, y: -2}
+        - {x: 71, y: 3}
+        - {x: 70, y: 11}
+        - {x: 61, y: 25}
+        - {x: 50, y: 19}
+        - {x: 59, y: 28}
+        - {x: 64, y: 22}
+        - {x: 67, y: 24}
+        - {x: 67, y: 31}
+        - {x: 64, y: 36}
+        - {x: 43, y: 36}
+        - {x: 36, y: 35}
+        - {x: 26, y: 27}
+        - {x: 6, y: 32}
+        - {x: -32, y: 30}
+        - {x: -44, y: 36}
+        - {x: -63, y: 36}
+        - {x: -68, y: 31}
+        - {x: -68, y: 25}
+        - {x: -66, y: 23}
+        - {x: -63, y: 24}
+        - {x: -74, y: 12}
+        - {x: -67, y: -3}
+        - {x: -63, y: 0}
+        - {x: -62, y: 3}
+        - {x: -56, y: 1}
+        - {x: -33, y: 2}
+        - {x: -51, y: -11}
+        - {x: -64, y: -4}
+        - {x: -69, y: -5}
+        - {x: -72, y: -7}
+        - {x: -68, y: -12}
+        - {x: -80, y: -15}
+        - {x: -81, y: -18}
+        - {x: -81, y: -34}
+        - {x: -78, y: -36}
+        - {x: -65, y: -36}
+        - {x: -57, y: -30}
+        - {x: -30, y: -17}
+        - {x: -21, y: -11}
+      - - {x: -28, y: 15}
+        - {x: -23, y: 17}
+        - {x: -22, y: 17}
+        - {x: -24, y: 18}
+        - {x: -27, y: 15}
+        - {x: -28, y: 16}
+      - - {x: 23, y: 18}
+        - {x: 21, y: 17}
+        - {x: 23, y: 17}
+        - {x: 27, y: 15}
+        - {x: 26, y: 15}
+        - {x: 26, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef97afe4acb42a5a7c5047affab8ce0
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape:
+      - - {x: 30, y: -52}
+        - {x: 3, y: -61}
+        - {x: 3, y: -69}
+        - {x: 4, y: -72}
+        - {x: 24, y: -72}
+        - {x: 32, y: -71}
+        - {x: 36, y: -63}
+        - {x: 36, y: -52}
+      - - {x: -41, y: -46}
+        - {x: -43, y: -47}
+        - {x: -43, y: -50}
+        - {x: -42, y: -52}
+        - {x: -39, y: -56}
+        - {x: -33, y: -63}
+        - {x: -19, y: -70}
+        - {x: -11, y: -70}
+        - {x: -10, y: -69}
+        - {x: -10, y: -64}
+        - {x: -37, y: -46}
+      - - {x: 39, y: -22}
+        - {x: 38, y: -19}
+        - {x: 38, y: -20}
+        - {x: 40, y: -23}
+        - {x: 40, y: -25}
+        - {x: 35, y: -46}
+        - {x: 37, y: -52}
+        - {x: 45, y: -47}
+        - {x: 48, y: -43}
+        - {x: 48, y: -22}
+        - {x: 47, y: -18}
+        - {x: 37, y: -4}
+        - {x: 27, y: 32}
+        - {x: 24, y: 46}
+        - {x: 22, y: 48}
+        - {x: 19, y: 47}
+        - {x: 17, y: 75}
+        - {x: 16, y: 77}
+        - {x: 14, y: 77}
+        - {x: 10, y: 75}
+        - {x: 9, y: 61}
+        - {x: 9, y: 34}
+        - {x: 9, y: 36}
+        - {x: 7, y: 48}
+        - {x: 0, y: 52}
+        - {x: 0, y: 56}
+        - {x: -5, y: 64}
+        - {x: -13, y: 75}
+        - {x: -16, y: 77}
+        - {x: -19, y: 77}
+        - {x: -26, y: 65}
+        - {x: -26, y: 41}
+        - {x: -31, y: 35}
+        - {x: -36, y: -2}
+        - {x: -47, y: -14}
+        - {x: -49, y: -17}
+        - {x: -49, y: -39}
+        - {x: -45, y: -50}
+        - {x: -41, y: -45}
+        - {x: -40, y: -42}
+        - {x: -23, y: -56}
+        - {x: -11, y: -61}
+        - {x: 10, y: -61}
+        - {x: 20, y: -55}
+        - {x: 32, y: -42}
+        - {x: 39, y: -26}
+      - - {x: -16, y: 23}
+        - {x: -17, y: 24}
+        - {x: -17, y: 27}
+        - {x: -20, y: 30}
+        - {x: -18, y: 29}
+        - {x: -16, y: 29}
+        - {x: -16, y: 17}
+      - - {x: 1, y: 29}
+        - {x: 4, y: 30}
+        - {x: 4, y: 29}
+        - {x: 2, y: 26}
+        - {x: 3, y: 24}
+        - {x: 4, y: 25}
+      - - {x: -46, y: 68}
+        - {x: -42, y: 64}
+        - {x: -40, y: 64}
+        - {x: -37, y: 67}
+        - {x: -38, y: 70}
+        - {x: -44, y: 71}
+      - - {x: 35, y: 69}
+        - {x: 35, y: 67}
+        - {x: 38, y: 64}
+        - {x: 40, y: 64}
+        - {x: 44, y: 68}
+        - {x: 43, y: 71}
+        - {x: 40, y: 71}
+      - - {x: -93, y: 82}
+        - {x: -93, y: 78}
+        - {x: -77, y: 78}
+        - {x: -75, y: 80}
+        - {x: -76, y: 83}
+        - {x: -92, y: 83}
+      - - {x: 73, y: 81}
+        - {x: 74, y: 78}
+        - {x: 90, y: 78}
+        - {x: 92, y: 80}
+        - {x: 91, y: 83}
+        - {x: 75, y: 83}
+      - - {x: -61, y: 89}
+        - {x: -62, y: 85}
+        - {x: -61, y: 83}
+        - {x: -58, y: 83}
+        - {x: -52, y: 85}
+        - {x: -52, y: 88}
+        - {x: -55, y: 91}
+        - {x: -58, y: 91}
+      - - {x: 51, y: 91}
+        - {x: 50, y: 89}
+        - {x: 50, y: 85}
+        - {x: 54, y: 83}
+        - {x: 58, y: 83}
+        - {x: 60, y: 85}
+        - {x: 60, y: 89}
+        - {x: 56, y: 91}
+      - - {x: -36, y: 96}
+        - {x: -38, y: 95}
+        - {x: -38, y: 89}
+        - {x: -36, y: 88}
+        - {x: -32, y: 88}
+        - {x: -28, y: 90}
+        - {x: -28, y: 94}
+        - {x: -29, y: 96}
+      - - {x: 29, y: 96}
+        - {x: 26, y: 93}
+        - {x: 27, y: 90}
+        - {x: 33, y: 88}
+        - {x: 36, y: 89}
+        - {x: 36, y: 93}
+        - {x: 33, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceff33f44c14fd48f3284d425b2f327
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_15
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 192
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape:
+      - - {x: -18, y: -14}
+        - {x: -7, y: -34}
+        - {x: 5, y: -34}
+        - {x: 8, y: -30}
+        - {x: 16, y: -13}
+        - {x: 27, y: -3}
+        - {x: 36, y: -11}
+        - {x: 39, y: -9}
+        - {x: 50, y: -26}
+        - {x: 52, y: -39}
+        - {x: 57, y: -39}
+        - {x: 61, y: -29}
+        - {x: 66, y: -23}
+        - {x: 68, y: -28}
+        - {x: 72, y: -39}
+        - {x: 73, y: -39}
+        - {x: 76, y: -35}
+        - {x: 81, y: -25}
+        - {x: 83, y: -9}
+        - {x: 83, y: 17}
+        - {x: 81, y: 32}
+        - {x: 72, y: 47}
+        - {x: 59, y: 70}
+        - {x: 57, y: 74}
+        - {x: 42, y: 74}
+        - {x: 39, y: 61}
+        - {x: 31, y: 58}
+        - {x: 23, y: 51}
+        - {x: 27, y: 43}
+        - {x: 20, y: 37}
+        - {x: 21, y: 28}
+        - {x: 5, y: 30}
+        - {x: -6, y: 31}
+        - {x: -15, y: 27}
+        - {x: -21, y: 29}
+        - {x: -21, y: 39}
+        - {x: -23, y: 42}
+        - {x: -30, y: 44}
+        - {x: -25, y: 50}
+        - {x: -26, y: 56}
+        - {x: -39, y: 50}
+        - {x: -35, y: 56}
+        - {x: -35, y: 60}
+        - {x: -43, y: 74}
+        - {x: -56, y: 74}
+        - {x: -59, y: 70}
+        - {x: -59, y: 62}
+        - {x: -72, y: 47}
+        - {x: -81, y: 32}
+        - {x: -83, y: 20}
+        - {x: -83, y: -17}
+        - {x: -80, y: -25}
+        - {x: -74, y: -36}
+        - {x: -70, y: -35}
+        - {x: -66, y: -22}
+        - {x: -62, y: -27}
+        - {x: -64, y: -38}
+        - {x: -55, y: -39}
+        - {x: -52, y: -38}
+        - {x: -44, y: -3}
+        - {x: -35, y: -10}
+        - {x: -30, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfb786c64ba4514a1a769ad0e7be08a
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 384
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape:
+      - - {x: 37, y: -8}
+        - {x: 37, y: -1}
+        - {x: 35, y: 0}
+        - {x: 24, y: 7}
+        - {x: 26, y: 13}
+        - {x: 14, y: 23}
+        - {x: -14, y: 23}
+        - {x: -15, y: 22}
+        - {x: -23, y: 18}
+        - {x: -26, y: 12}
+        - {x: -26, y: 3}
+        - {x: -39, y: -1}
+        - {x: -39, y: -8}
+        - {x: -37, y: -14}
+        - {x: -27, y: -12}
+        - {x: -15, y: -33}
+        - {x: -11, y: -36}
+        - {x: 10, y: -36}
+        - {x: 14, y: -33}
+        - {x: 21, y: -17}
+        - {x: 34, y: -14}
+      - - {x: -11, y: 15}
+        - {x: -10, y: 15}
+        - {x: -11, y: 14}
+      - - {x: 7, y: 15}
+        - {x: 9, y: 15}
+        - {x: 9, y: 14}
+        - {x: 9, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186d9d838b4d4f6dabbdb032b8c8285d
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_19
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape:
+      - - {x: 25, y: -71}
+        - {x: 28, y: -70}
+        - {x: 33, y: -68}
+        - {x: 35, y: -66}
+        - {x: 37, y: -69}
+        - {x: 41, y: -68}
+        - {x: 46, y: -63}
+        - {x: 52, y: -53}
+        - {x: 62, y: -50}
+        - {x: 62, y: -21}
+        - {x: 57, y: -11}
+        - {x: 49, y: 0}
+        - {x: 14, y: 14}
+        - {x: 0, y: 25}
+        - {x: -4, y: 24}
+        - {x: -12, y: 13}
+        - {x: -12, y: 25}
+        - {x: -15, y: 28}
+        - {x: -18, y: 28}
+        - {x: -29, y: 19}
+        - {x: -32, y: 14}
+        - {x: -32, y: 7}
+        - {x: -45, y: -4}
+        - {x: -50, y: -21}
+        - {x: -51, y: -31}
+        - {x: -51, y: -44}
+        - {x: -44, y: -58}
+        - {x: -29, y: -73}
+        - {x: 3, y: -82}
+        - {x: 20, y: -82}
+        - {x: 37, y: -73}
+        - {x: 36, y: -70}
+        - {x: 34, y: -68}
+      - - {x: 11, y: -66}
+        - {x: 13, y: -66}
+        - {x: 15, y: -63}
+        - {x: 24, y: -59}
+        - {x: 33, y: -50}
+        - {x: 37, y: -42}
+        - {x: 36, y: -36}
+        - {x: 34, y: -34}
+        - {x: 34, y: -22}
+        - {x: 31, y: -19}
+        - {x: 31, y: -9}
+        - {x: 29, y: -8}
+        - {x: 29, y: -11}
+        - {x: 30, y: -15}
+        - {x: 36, y: -21}
+        - {x: 39, y: -27}
+        - {x: 43, y: -30}
+        - {x: 43, y: -38}
+        - {x: 41, y: -41}
+        - {x: 37, y: -48}
+        - {x: 26, y: -57}
+        - {x: 23, y: -61}
+        - {x: 20, y: -64}
+        - {x: 12, y: -67}
+        - {x: 10, y: -69}
+        - {x: 11, y: -69}
+      - - {x: -16, y: -50}
+        - {x: -21, y: -46}
+        - {x: -24, y: -43}
+        - {x: -26, y: -38}
+        - {x: -29, y: -35}
+        - {x: -30, y: -36}
+        - {x: -30, y: -33}
+        - {x: -29, y: -34}
+        - {x: -26, y: -32}
+        - {x: -25, y: -29}
+        - {x: -21, y: -24}
+        - {x: -17, y: -22}
+        - {x: -12, y: -18}
+        - {x: 2, y: -18}
+        - {x: 5, y: -21}
+        - {x: 6, y: -21}
+        - {x: 9, y: -18}
+        - {x: 9, y: -17}
+        - {x: 8, y: -16}
+        - {x: 8, y: -17}
+        - {x: 9, y: -17}
+        - {x: 9, y: -18}
+        - {x: 13, y: -22}
+        - {x: 18, y: -28}
+        - {x: 18, y: -30}
+        - {x: 19, y: -31}
+        - {x: 19, y: -40}
+        - {x: 18, y: -41}
+        - {x: 18, y: -43}
+        - {x: 11, y: -50}
+        - {x: 11, y: -51}
+        - {x: 8, y: -51}
+        - {x: 5, y: -54}
+        - {x: -3, y: -54}
+        - {x: -4, y: -53}
+      - - {x: -37, y: -5}
+        - {x: -37, y: -6}
+        - {x: -34, y: -4}
+        - {x: -33, y: -4}
+        - {x: -32, y: -6}
+        - {x: -35, y: -8}
+        - {x: -34, y: -8}
+      - - {x: -12, y: 4}
+        - {x: -13, y: 6}
+        - {x: -9, y: 6}
+        - {x: -8, y: 1}
+        - {x: -9, y: 2}
+        - {x: -11, y: 2}
+        - {x: -13, y: 0}
+        - {x: -12, y: 0}
+      - - {x: -93, y: 78}
+        - {x: -91, y: 78}
+        - {x: -89, y: 80}
+        - {x: -90, y: 83}
+        - {x: -93, y: 83}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ca61b6d96b49008cf11c20849f04db
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_4
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 576
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f4687dee0e403488b839f811642767
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_21
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape:
+      - - {x: -43, y: -60}
+        - {x: -44, y: -63}
+        - {x: -38, y: -69}
+        - {x: -32, y: -73}
+        - {x: -29, y: -73}
+        - {x: -27, y: -71}
+        - {x: -28, y: -68}
+        - {x: -41, y: -60}
+      - - {x: -7, y: -65}
+        - {x: -6, y: -68}
+        - {x: 3, y: -68}
+        - {x: 5, y: -66}
+        - {x: 4, y: -63}
+        - {x: -5, y: -63}
+      - - {x: 7, y: -64}
+        - {x: 8, y: -67}
+        - {x: 13, y: -67}
+        - {x: 21, y: -66}
+        - {x: 35, y: -55}
+        - {x: 35, y: -50}
+        - {x: 30, y: -50}
+        - {x: 12, y: -59}
+      - - {x: -30, y: -63}
+        - {x: -23, y: -66}
+        - {x: -16, y: -66}
+        - {x: -16, y: -63}
+        - {x: -19, y: -59}
+        - {x: -29, y: -58}
+        - {x: -31, y: -60}
+      - - {x: -44, y: -48}
+        - {x: -45, y: -49}
+        - {x: -45, y: -52}
+        - {x: -37, y: -59}
+        - {x: -35, y: -59}
+        - {x: -33, y: -58}
+        - {x: -33, y: -54}
+        - {x: -41, y: -48}
+      - - {x: -64, y: -42}
+        - {x: -62, y: -53}
+        - {x: -57, y: -56}
+        - {x: -54, y: -55}
+        - {x: -54, y: -50}
+        - {x: -56, y: -42}
+        - {x: -61, y: -36}
+        - {x: -64, y: -36}
+      - - {x: 35, y: -49}
+        - {x: 37, y: -51}
+        - {x: 40, y: -50}
+        - {x: 40, y: -47}
+        - {x: 38, y: -45}
+        - {x: 35, y: -46}
+      - - {x: 54, y: -25}
+        - {x: 54, y: -36}
+        - {x: 57, y: -44}
+        - {x: 60, y: -44}
+        - {x: 61, y: -43}
+        - {x: 61, y: -29}
+        - {x: 57, y: -24}
+        - {x: 55, y: -24}
+      - - {x: -43, y: -25}
+        - {x: -45, y: -25}
+        - {x: -49, y: -30}
+        - {x: -49, y: -40}
+        - {x: -47, y: -42}
+        - {x: -44, y: -40}
+        - {x: -44, y: -35}
+        - {x: -42, y: -31}
+        - {x: -41, y: -27}
+      - - {x: 38, y: -39}
+        - {x: 40, y: -41}
+        - {x: 43, y: -40}
+        - {x: 43, y: -35}
+        - {x: 41, y: -33}
+        - {x: 38, y: -34}
+      - - {x: -52, y: -9}
+        - {x: -56, y: -19}
+        - {x: -56, y: -28}
+        - {x: -51, y: -28}
+        - {x: -45, y: -18}
+        - {x: -45, y: -11}
+        - {x: -46, y: -9}
+      - - {x: 37, y: -28}
+        - {x: 40, y: -27}
+        - {x: 40, y: -24}
+        - {x: 37, y: -23}
+        - {x: 35, y: -25}
+      - - {x: 28, y: -19}
+        - {x: 31, y: -23}
+        - {x: 34, y: -24}
+        - {x: 37, y: -23}
+        - {x: 37, y: -21}
+        - {x: 34, y: -17}
+        - {x: 30, y: -16}
+      - - {x: -36, y: -20}
+        - {x: -33, y: -19}
+        - {x: -33, y: -16}
+        - {x: -36, y: -15}
+        - {x: -38, y: -17}
+      - - {x: -25, y: -8}
+        - {x: -33, y: -13}
+        - {x: -33, y: -16}
+        - {x: -32, y: -17}
+        - {x: -23, y: -17}
+        - {x: -20, y: -12}
+        - {x: -20, y: -8}
+      - - {x: 8, y: -12}
+        - {x: 11, y: -11}
+        - {x: 11, y: -8}
+        - {x: 8, y: -7}
+        - {x: 6, y: -9}
+      - - {x: -14, y: -11}
+        - {x: -11, y: -10}
+        - {x: -11, y: -7}
+        - {x: -14, y: -6}
+        - {x: -16, y: -8}
+      - - {x: -9, y: -8}
+        - {x: -8, y: -11}
+        - {x: -2, y: -11}
+        - {x: 0, y: -9}
+        - {x: -1, y: -6}
+        - {x: -7, y: -6}
+      - - {x: 27, y: 3}
+        - {x: 29, y: 0}
+        - {x: 39, y: -5}
+        - {x: 42, y: -4}
+        - {x: 42, y: -2}
+        - {x: 40, y: 1}
+        - {x: 29, y: 6}
+      - - {x: -32, y: 4}
+        - {x: -31, y: 1}
+        - {x: -27, y: 1}
+        - {x: -18, y: 3}
+        - {x: -17, y: 6}
+        - {x: -18, y: 9}
+        - {x: -23, y: 9}
+      - - {x: 10, y: 10}
+        - {x: 8, y: 8}
+        - {x: 9, y: 5}
+        - {x: 18, y: 4}
+        - {x: 22, y: 4}
+        - {x: 24, y: 6}
+        - {x: 23, y: 9}
+        - {x: 18, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f055a60b3f74f2f8dbf126f6ddca176
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223e9d77d3214beeaa95074031875943
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_13
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 192
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape:
+      - - {x: -7, y: -35}
+        - {x: -3, y: -35}
+        - {x: 5, y: -34}
+        - {x: 9, y: -30}
+        - {x: 21, y: -8}
+        - {x: 29, y: -18}
+        - {x: 65, y: -35}
+        - {x: 76, y: -35}
+        - {x: 81, y: -33}
+        - {x: 81, y: -16}
+        - {x: 80, y: -12}
+        - {x: 61, y: -13}
+        - {x: 71, y: -8}
+        - {x: 69, y: -4}
+        - {x: 62, y: -3}
+        - {x: 52, y: -10}
+        - {x: 39, y: -6}
+        - {x: 38, y: 7}
+        - {x: 72, y: 19}
+        - {x: 67, y: 36}
+        - {x: 59, y: 39}
+        - {x: 62, y: 43}
+        - {x: 58, y: 50}
+        - {x: 43, y: 50}
+        - {x: 26, y: 38}
+        - {x: 25, y: 26}
+        - {x: 34, y: 16}
+        - {x: 26, y: 12}
+        - {x: 27, y: 22}
+        - {x: 22, y: 27}
+        - {x: 6, y: 32}
+        - {x: -23, y: 28}
+        - {x: -28, y: 15}
+        - {x: -24, y: 26}
+        - {x: -28, y: 38}
+        - {x: -35, y: 46}
+        - {x: -43, y: 50}
+        - {x: -56, y: 50}
+        - {x: -63, y: 43}
+        - {x: -52, y: 37}
+        - {x: -58, y: 37}
+        - {x: -61, y: 36}
+        - {x: -65, y: 33}
+        - {x: -70, y: 27}
+        - {x: -69, y: 22}
+        - {x: -67, y: 20}
+        - {x: -64, y: 21}
+        - {x: -54, y: 13}
+        - {x: -32, y: 2}
+        - {x: -53, y: -10}
+        - {x: -63, y: -2}
+        - {x: -77, y: -5}
+        - {x: -65, y: -13}
+        - {x: -80, y: -13}
+        - {x: -82, y: -18}
+        - {x: -82, y: -33}
+        - {x: -80, y: -35}
+        - {x: -68, y: -35}
+        - {x: -63, y: -34}
+        - {x: -48, y: -23}
+        - {x: -38, y: -22}
+        - {x: -20, y: -13}
+      - - {x: -38, y: 27}
+        - {x: -39, y: 28}
+        - {x: -39, y: 38}
+        - {x: -41, y: 40}
+        - {x: -37, y: 38}
+        - {x: -37, y: 37}
+        - {x: -35, y: 35}
+        - {x: -35, y: 28}
+        - {x: -38, y: 24}
+      - - {x: 35, y: 28}
+        - {x: 35, y: 35}
+        - {x: 40, y: 40}
+        - {x: 39, y: 38}
+        - {x: 39, y: 28}
+        - {x: 38, y: 27}
+        - {x: 38, y: 24}
+      - - {x: -33, y: 47}
+        - {x: -29, y: 47}
+        - {x: -20, y: 55}
+        - {x: -20, y: 59}
+        - {x: -21, y: 61}
+        - {x: -30, y: 61}
+        - {x: -33, y: 55}
+      - - {x: 19, y: 61}
+        - {x: 19, y: 57}
+        - {x: 28, y: 47}
+        - {x: 29, y: 47}
+        - {x: 32, y: 48}
+        - {x: 32, y: 54}
+        - {x: 27, y: 60}
+        - {x: 24, y: 61}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a01b1c44fa467097d5ef8eb270b919
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_16
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 192
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape:
+      - - {x: 46, y: -8}
+        - {x: 52, y: -8}
+        - {x: 62, y: -11}
+        - {x: 66, y: -9}
+        - {x: 65, y: -1}
+        - {x: 63, y: 19}
+        - {x: 73, y: 4}
+        - {x: 76, y: 5}
+        - {x: 76, y: 10}
+        - {x: 73, y: 20}
+        - {x: 67, y: 31}
+        - {x: 44, y: 56}
+        - {x: 36, y: 60}
+        - {x: 22, y: 66}
+        - {x: 25, y: 73}
+        - {x: 33, y: 67}
+        - {x: 46, y: 69}
+        - {x: 52, y: 76}
+        - {x: 62, y: 77}
+        - {x: 66, y: 79}
+        - {x: 64, y: 84}
+        - {x: 49, y: 86}
+        - {x: 45, y: 83}
+        - {x: 32, y: 80}
+        - {x: 32, y: 86}
+        - {x: 29, y: 91}
+        - {x: 23, y: 90}
+        - {x: 20, y: 87}
+        - {x: 8, y: 93}
+        - {x: 3, y: 94}
+        - {x: -7, y: 94}
+        - {x: -10, y: 93}
+        - {x: -20, y: 83}
+        - {x: -24, y: 91}
+        - {x: -31, y: 91}
+        - {x: -38, y: 80}
+        - {x: -50, y: 88}
+        - {x: -66, y: 84}
+        - {x: -70, y: 79}
+        - {x: -59, y: 74}
+        - {x: -40, y: 66}
+        - {x: -30, y: 70}
+        - {x: -26, y: 73}
+        - {x: -23, y: 67}
+        - {x: -20, y: 69}
+        - {x: -30, y: 65}
+        - {x: -43, y: 58}
+        - {x: -73, y: 27}
+        - {x: -78, y: 12}
+        - {x: -78, y: 6}
+        - {x: -76, y: 5}
+        - {x: -73, y: 6}
+        - {x: -61, y: 16}
+        - {x: -68, y: -6}
+        - {x: -67, y: -9}
+        - {x: -60, y: -15}
+        - {x: -44, y: -18}
+        - {x: -42, y: -25}
+        - {x: -33, y: -22}
+        - {x: -22, y: -14}
+        - {x: -7, y: -35}
+        - {x: 5, y: -35}
+        - {x: 15, y: -18}
+        - {x: 32, y: -21}
+        - {x: 38, y: -23}
+      - - {x: -12, y: 45}
+        - {x: -8, y: 47}
+        - {x: -4, y: 48}
+        - {x: -1, y: 51}
+        - {x: -1, y: 52}
+        - {x: -4, y: 55}
+        - {x: -2, y: 57}
+        - {x: -2, y: 58}
+        - {x: 1, y: 59}
+        - {x: 0, y: 57}
+        - {x: 2, y: 55}
+        - {x: -1, y: 52}
+        - {x: -1, y: 51}
+        - {x: 2, y: 48}
+        - {x: 6, y: 47}
+        - {x: 10, y: 45}
+        - {x: 9, y: 44}
+        - {x: 9, y: 43}
+        - {x: 4, y: 45}
+        - {x: -6, y: 45}
+        - {x: -7, y: 44}
+        - {x: -11, y: 43}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99021416b05a49cb99224844572fa34f
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 384
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape:
+      - - {x: 52, y: 4}
+        - {x: 52, y: 23}
+        - {x: 50, y: 26}
+        - {x: 42, y: 16}
+        - {x: 47, y: 31}
+        - {x: 29, y: 34}
+        - {x: 24, y: 43}
+        - {x: 8, y: 43}
+        - {x: 5, y: 42}
+        - {x: -7, y: 42}
+        - {x: -13, y: 43}
+        - {x: -24, y: 43}
+        - {x: -28, y: 37}
+        - {x: -28, y: 31}
+        - {x: -44, y: 32}
+        - {x: -48, y: 30}
+        - {x: -54, y: 23}
+        - {x: -54, y: 1}
+        - {x: -42, y: -14}
+        - {x: -25, y: -8}
+        - {x: -10, y: -35}
+        - {x: 10, y: -35}
+        - {x: 25, y: -9}
+        - {x: 39, y: -10}
+        - {x: 49, y: -6}
+      - - {x: -36, y: 3}
+        - {x: -34, y: 3}
+        - {x: -32, y: 4}
+        - {x: -34, y: 2}
+        - {x: -37, y: 2}
+      - - {x: 30, y: 4}
+        - {x: 30, y: 3}
+        - {x: 31, y: 4}
+        - {x: 32, y: 3}
+        - {x: 35, y: 2}
+        - {x: 32, y: 3}
+      - - {x: -25, y: 17}
+        - {x: -24, y: 18}
+        - {x: -27, y: 15}
+        - {x: -26, y: 15}
+      - - {x: 22, y: 18}
+        - {x: 25, y: 16}
+        - {x: 24, y: 16}
+      - - {x: -13, y: 22}
+        - {x: -14, y: 26}
+        - {x: -17, y: 30}
+        - {x: -17, y: 33}
+        - {x: -13, y: 34}
+        - {x: -10, y: 31}
+        - {x: -9, y: 25}
+        - {x: -10, y: 26}
+        - {x: -13, y: 23}
+        - {x: -12, y: 21}
+        - {x: -12, y: 22}
+      - - {x: 11, y: 23}
+        - {x: 8, y: 26}
+        - {x: 7, y: 25}
+        - {x: 7, y: 30}
+        - {x: 14, y: 34}
+        - {x: 16, y: 33}
+        - {x: 11, y: 24}
+        - {x: 11, y: 22}
+        - {x: 10, y: 21}
+        - {x: 11, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dce8bc7c98c4b8a8278b133be8536d2
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 384
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape:
+      - - {x: -9, y: -8}
+        - {x: -17, y: -10}
+        - {x: -17, y: -31}
+        - {x: -11, y: -36}
+        - {x: 12, y: -36}
+        - {x: 17, y: -24}
+        - {x: 17, y: -13}
+        - {x: 13, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc87b4ba51434d369546d1cd6ada55c9
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_17
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 192
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape:
+      - - {x: 26, y: 65}
+        - {x: 22, y: 79}
+        - {x: 10, y: 88}
+        - {x: -11, y: 88}
+        - {x: -17, y: 84}
+        - {x: -25, y: 72}
+        - {x: -28, y: 65}
+        - {x: -28, y: 27}
+        - {x: -25, y: 7}
+        - {x: -23, y: 5}
+        - {x: -20, y: 4}
+        - {x: -9, y: -5}
+        - {x: -6, y: -5}
+        - {x: -4, y: -4}
+        - {x: 5, y: 5}
+        - {x: 13, y: -2}
+        - {x: 26, y: 5}
+      - - {x: -53, y: 76}
+        - {x: -53, y: 69}
+        - {x: -52, y: 66}
+        - {x: -42, y: 65}
+        - {x: -37, y: 65}
+        - {x: -32, y: 72}
+        - {x: -33, y: 76}
+      - - {x: 30, y: 76}
+        - {x: 30, y: 72}
+        - {x: 31, y: 67}
+        - {x: 36, y: 65}
+        - {x: 43, y: 65}
+        - {x: 51, y: 73}
+        - {x: 50, y: 76}
+      - - {x: -49, y: 90}
+        - {x: -74, y: 90}
+        - {x: -87, y: 88}
+        - {x: -87, y: 79}
+        - {x: -83, y: 77}
+        - {x: -50, y: 77}
+        - {x: -49, y: 78}
+        - {x: -48, y: 80}
+        - {x: -48, y: 88}
+      - - {x: 48, y: 90}
+        - {x: 46, y: 84}
+        - {x: 46, y: 79}
+        - {x: 49, y: 77}
+        - {x: 85, y: 77}
+        - {x: 85, y: 84}
+        - {x: 72, y: 90}
+      - - {x: -29, y: 94}
+        - {x: -34, y: 95}
+        - {x: -37, y: 91}
+        - {x: -37, y: 81}
+        - {x: -35, y: 79}
+        - {x: -32, y: 80}
+        - {x: -23, y: 79}
+        - {x: -22, y: 82}
+        - {x: -22, y: 86}
+      - - {x: 21, y: 87}
+        - {x: 20, y: 82}
+        - {x: 23, y: 79}
+        - {x: 35, y: 79}
+        - {x: 35, y: 91}
+        - {x: 32, y: 95}
+        - {x: 27, y: 94}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc8824a92bc4db490ab23ee88bb91c1
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_10
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 384
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape:
+      - - {x: 61, y: 24}
+        - {x: 57, y: 31}
+        - {x: 50, y: 32}
+        - {x: 45, y: 26}
+        - {x: 44, y: 19}
+        - {x: 47, y: 17}
+        - {x: 44, y: 17}
+        - {x: 45, y: 32}
+        - {x: 29, y: 52}
+        - {x: -26, y: 52}
+        - {x: -35, y: 46}
+        - {x: -44, y: 26}
+        - {x: -44, y: 17}
+        - {x: -44, y: 21}
+        - {x: -45, y: 26}
+        - {x: -50, y: 31}
+        - {x: -55, y: 31}
+        - {x: -61, y: 24}
+        - {x: -61, y: 10}
+        - {x: -49, y: -14}
+        - {x: -42, y: -12}
+        - {x: -25, y: -5}
+        - {x: -8, y: -35}
+        - {x: 8, y: -35}
+        - {x: 22, y: -7}
+        - {x: 48, y: -12}
+        - {x: 61, y: 7}
+      - - {x: -34, y: 20}
+        - {x: -34, y: 24}
+        - {x: -33, y: 25}
+        - {x: -32, y: 21}
+        - {x: -30, y: 20}
+        - {x: -29, y: 15}
+        - {x: -30, y: 15}
+      - - {x: 30, y: 20}
+        - {x: 32, y: 21}
+        - {x: 33, y: 25}
+        - {x: 34, y: 24}
+        - {x: 34, y: 21}
+        - {x: 30, y: 15}
+        - {x: 29, y: 15}
+      - - {x: -22, y: 23}
+        - {x: -24, y: 26}
+        - {x: -20, y: 26}
+        - {x: -13, y: 22}
+        - {x: -14, y: 22}
+        - {x: -15, y: 21}
+        - {x: -22, y: 20}
+      - - {x: 15, y: 21}
+        - {x: 14, y: 22}
+        - {x: 13, y: 22}
+        - {x: 14, y: 22}
+        - {x: 20, y: 26}
+        - {x: 24, y: 27}
+        - {x: 23, y: 26}
+        - {x: 22, y: 20}
+        - {x: 20, y: 21}
+      - - {x: 9, y: 29}
+        - {x: 4, y: 34}
+        - {x: 5, y: 35}
+        - {x: 11, y: 42}
+        - {x: 13, y: 42}
+        - {x: 14, y: 43}
+        - {x: 21, y: 43}
+        - {x: 24, y: 41}
+        - {x: 26, y: 40}
+        - {x: 27, y: 36}
+        - {x: 23, y: 36}
+        - {x: 22, y: 35}
+        - {x: 19, y: 35}
+        - {x: 14, y: 33}
+        - {x: 13, y: 31}
+        - {x: 12, y: 31}
+        - {x: 9, y: 28}
+      - - {x: -19, y: 35}
+        - {x: -22, y: 35}
+        - {x: -23, y: 36}
+        - {x: -27, y: 36}
+        - {x: -24, y: 42}
+        - {x: -22, y: 42}
+        - {x: -21, y: 43}
+        - {x: -14, y: 43}
+        - {x: -13, y: 42}
+        - {x: -11, y: 42}
+        - {x: -5, y: 35}
+        - {x: -4, y: 34}
+        - {x: -9, y: 29}
+        - {x: -10, y: 30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdb2dffd4984fdeb1faad2639aed200
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape:
+      - - {x: 61, y: -21}
+        - {x: 67, y: -29}
+        - {x: 77, y: -27}
+        - {x: 77, y: -8}
+        - {x: 59, y: 2}
+        - {x: 51, y: -5}
+        - {x: 33, y: 2}
+        - {x: 53, y: 14}
+        - {x: 57, y: 21}
+        - {x: 47, y: 22}
+        - {x: 56, y: 35}
+        - {x: 51, y: 43}
+        - {x: 35, y: 42}
+        - {x: 46, y: 50}
+        - {x: 43, y: 60}
+        - {x: 40, y: 60}
+        - {x: 30, y: 57}
+        - {x: 23, y: 60}
+        - {x: 8, y: 60}
+        - {x: -1, y: 54}
+        - {x: -1, y: 50}
+        - {x: 4, y: 48}
+        - {x: 24, y: 47}
+        - {x: 24, y: 22}
+        - {x: 15, y: 23}
+        - {x: 4, y: 30}
+        - {x: -7, y: 32}
+        - {x: -32, y: 14}
+        - {x: -26, y: 22}
+        - {x: -26, y: 46}
+        - {x: -6, y: 48}
+        - {x: -1, y: 50}
+        - {x: -2, y: 54}
+        - {x: -8, y: 60}
+        - {x: -38, y: 60}
+        - {x: -49, y: 54}
+        - {x: -47, y: 50}
+        - {x: -43, y: 38}
+        - {x: -53, y: 42}
+        - {x: -56, y: 38}
+        - {x: -57, y: 34}
+        - {x: -54, y: 32}
+        - {x: -57, y: 20}
+        - {x: -55, y: 12}
+        - {x: -36, y: 2}
+        - {x: -38, y: -3}
+        - {x: -60, y: -1}
+        - {x: -69, y: -1}
+        - {x: -78, y: -12}
+        - {x: -78, y: -26}
+        - {x: -68, y: -29}
+        - {x: -62, y: -21}
+        - {x: -38, y: -19}
+        - {x: -23, y: -11}
+        - {x: -7, y: -34}
+        - {x: 5, y: -34}
+        - {x: 11, y: -26}
+        - {x: 22, y: -8}
+        - {x: 32, y: -16}
+      - - {x: -38, y: 26}
+        - {x: -34, y: 33}
+        - {x: -34, y: 26}
+        - {x: -36, y: 22}
+        - {x: -38, y: 22}
+      - - {x: 32, y: 26}
+        - {x: 32, y: 33}
+        - {x: 34, y: 29}
+        - {x: 36, y: 26}
+        - {x: 36, y: 22}
+        - {x: 34, y: 22}
+        - {x: 34, y: 23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d051cc99672a48e2ae7d6a2dbfca6a24
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_20
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape:
+      - - {x: 45, y: -59}
+        - {x: 43, y: -58}
+        - {x: 39, y: -58}
+        - {x: 6, y: -74}
+        - {x: 0, y: -77}
+        - {x: 0, y: -80}
+        - {x: 4, y: -84}
+        - {x: 15, y: -84}
+        - {x: 23, y: -83}
+        - {x: 37, y: -74}
+        - {x: 41, y: -68}
+        - {x: 45, y: -61}
+      - - {x: -35, y: -60}
+        - {x: -45, y: -55}
+        - {x: -47, y: -55}
+        - {x: -48, y: -57}
+        - {x: -48, y: -62}
+        - {x: -32, y: -74}
+        - {x: -21, y: -74}
+        - {x: -20, y: -72}
+        - {x: -20, y: -69}
+        - {x: -23, y: -67}
+      - - {x: 26, y: -45}
+        - {x: 12, y: -56}
+        - {x: -9, y: -60}
+        - {x: -32, y: -45}
+        - {x: -33, y: -45}
+        - {x: -35, y: -47}
+        - {x: -35, y: -52}
+        - {x: -32, y: -60}
+        - {x: -19, y: -67}
+        - {x: 17, y: -67}
+        - {x: 29, y: -50}
+        - {x: 29, y: -45}
+      - - {x: -63, y: -50}
+        - {x: -54, y: -63}
+        - {x: -48, y: -63}
+        - {x: -48, y: -50}
+        - {x: -58, y: -28}
+        - {x: -60, y: -28}
+        - {x: -62, y: -29}
+        - {x: -63, y: -34}
+      - - {x: 45, y: -14}
+        - {x: 45, y: -56}
+        - {x: 51, y: -56}
+        - {x: 60, y: -50}
+        - {x: 60, y: -21}
+        - {x: 59, y: -14}
+      - - {x: -38, y: -43}
+        - {x: -36, y: -45}
+        - {x: -33, y: -44}
+        - {x: -33, y: -39}
+        - {x: -35, y: -37}
+        - {x: -38, y: -38}
+      - - {x: -5, y: 7}
+        - {x: -6, y: 10}
+        - {x: -26, y: 10}
+        - {x: -41, y: 3}
+        - {x: -55, y: -15}
+        - {x: -55, y: -34}
+        - {x: -53, y: -39}
+        - {x: -49, y: -39}
+        - {x: -48, y: -38}
+        - {x: -45, y: -17}
+        - {x: -21, y: 1}
+        - {x: -6, y: 4}
+      - - {x: 20, y: -6}
+        - {x: 15, y: 0}
+        - {x: 13, y: -1}
+        - {x: 6, y: 0}
+        - {x: 5, y: 0}
+        - {x: 13, y: 2}
+        - {x: 16, y: -1}
+        - {x: 45, y: -13}
+        - {x: 46, y: -9}
+        - {x: 46, y: -4}
+        - {x: 33, y: 8}
+        - {x: 14, y: 11}
+        - {x: -2, y: 11}
+        - {x: -35, y: -15}
+        - {x: -37, y: -26}
+        - {x: -38, y: -31}
+        - {x: -35, y: -34}
+        - {x: -34, y: -34}
+        - {x: -20, y: -18}
+        - {x: 9, y: -14}
+        - {x: 27, y: -34}
+        - {x: 29, y: -34}
+        - {x: 31, y: -33}
+        - {x: 31, y: -27}
+        - {x: 23, y: -8}
+        - {x: 21, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832f9d292dd94199967011d967c3e893
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 576
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e176ca1cc0a44a99baafa09480be8bb0
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSacrificeability186x192_11
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 384
+        width: 186
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -96}
+        - {x: -93, y: 96}
+        - {x: 93, y: 96}
+        - {x: 93, y: -96}
+      physicsShape:
+      - - {x: 77, y: -12}
+        - {x: 78, y: -7}
+        - {x: 78, y: -1}
+        - {x: 74, y: 4}
+        - {x: 67, y: 13}
+        - {x: 54, y: 9}
+        - {x: 38, y: 0}
+        - {x: 42, y: 10}
+        - {x: 46, y: 26}
+        - {x: 32, y: 40}
+        - {x: 29, y: 52}
+        - {x: 25, y: 56}
+        - {x: 19, y: 57}
+        - {x: -21, y: 57}
+        - {x: -28, y: 56}
+        - {x: -32, y: 49}
+        - {x: -46, y: 26}
+        - {x: -40, y: 0}
+        - {x: -63, y: 12}
+        - {x: -69, y: 13}
+        - {x: -80, y: 4}
+        - {x: -80, y: -9}
+        - {x: -71, y: -13}
+        - {x: -56, y: -10}
+        - {x: -34, y: -14}
+        - {x: -19, y: -12}
+        - {x: -9, y: -34}
+        - {x: 7, y: -34}
+        - {x: 18, y: -12}
+        - {x: 32, y: -14}
+        - {x: 43, y: -13}
+      - - {x: -33, y: 17}
+        - {x: -25, y: 24}
+        - {x: -23, y: 29}
+        - {x: -14, y: 38}
+        - {x: -12, y: 43}
+        - {x: -11, y: 47}
+        - {x: -8, y: 46}
+        - {x: -8, y: 44}
+        - {x: -6, y: 41}
+        - {x: -6, y: 36}
+        - {x: -7, y: 35}
+        - {x: -8, y: 31}
+        - {x: -13, y: 25}
+        - {x: -14, y: 22}
+        - {x: -18, y: 22}
+        - {x: -21, y: 20}
+        - {x: -24, y: 20}
+        - {x: -27, y: 18}
+        - {x: -31, y: 14}
+        - {x: -31, y: 15}
+      - - {x: 22, y: 20}
+        - {x: 19, y: 20}
+        - {x: 15, y: 22}
+        - {x: 12, y: 22}
+        - {x: 12, y: 24}
+        - {x: 8, y: 28}
+        - {x: 8, y: 29}
+        - {x: 5, y: 33}
+        - {x: 5, y: 35}
+        - {x: 4, y: 36}
+        - {x: 4, y: 41}
+        - {x: 7, y: 46}
+        - {x: 9, y: 47}
+        - {x: 9, y: 46}
+        - {x: 10, y: 43}
+        - {x: 12, y: 38}
+        - {x: 17, y: 34}
+        - {x: 18, y: 34}
+        - {x: 21, y: 32}
+        - {x: 21, y: 29}
+        - {x: 23, y: 24}
+        - {x: 31, y: 17}
+        - {x: 29, y: 14}
+        - {x: 29, y: 15}
+      - - {x: -33, y: 24}
+        - {x: -32, y: 28}
+        - {x: -34, y: 25}
+        - {x: -35, y: 23}
+        - {x: -34, y: 23}
+      - - {x: 30, y: 28}
+        - {x: 31, y: 26}
+        - {x: 33, y: 23}
+        - {x: 33, y: 24}
+      - - {x: -18, y: 48}
+        - {x: -22, y: 42}
+        - {x: -22, y: 41}
+      - - {x: 19, y: 42}
+        - {x: 17, y: 44}
+        - {x: 16, y: 48}
+        - {x: 17, y: 48}
+        - {x: 20, y: 46}
+        - {x: 21, y: 41}
+        - {x: 20, y: 42}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684927ffff9f4c45a1b8f41c67407a70
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 228}
+      - {x: 186, y: 228}
+      - {x: 0, y: 36}
+      - {x: 186, y: 36}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

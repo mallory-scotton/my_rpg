@@ -1,0 +1,1866 @@
+fileFormatVersion: 2
+guid: ee1dfb6158a0866459fd6e6f0e2865d0
+timeCreated: 1706119846
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: cauldron_UI-Sheet136x146px_7
+  - first:
+      213: 21300002
+    second: cauldron_UI-Sheet136x146px_1
+  - first:
+      213: 21300004
+    second: cauldron_UI-Sheet136x146px_11
+  - first:
+      213: 21300006
+    second: cauldron_UI-Sheet136x146px_14
+  - first:
+      213: 21300008
+    second: cauldron_UI-Sheet136x146px_19
+  - first:
+      213: 21300010
+    second: cauldron_UI-Sheet136x146px_17
+  - first:
+      213: 21300012
+    second: cauldron_UI-Sheet136x146px_10
+  - first:
+      213: 21300014
+    second: cauldron_UI-Sheet136x146px_0
+  - first:
+      213: 21300016
+    second: cauldron_UI-Sheet136x146px_2
+  - first:
+      213: 21300018
+    second: cauldron_UI-Sheet136x146px_3
+  - first:
+      213: 21300020
+    second: cauldron_UI-Sheet136x146px_15
+  - first:
+      213: 21300022
+    second: cauldron_UI-Sheet136x146px_12
+  - first:
+      213: 21300024
+    second: cauldron_UI-Sheet136x146px_6
+  - first:
+      213: 21300026
+    second: cauldron_UI-Sheet136x146px_9
+  - first:
+      213: 21300028
+    second: cauldron_UI-Sheet136x146px_18
+  - first:
+      213: 21300030
+    second: cauldron_UI-Sheet136x146px_16
+  - first:
+      213: 21300032
+    second: cauldron_UI-Sheet136x146px_13
+  - first:
+      213: 21300034
+    second: cauldron_UI-Sheet136x146px_8
+  - first:
+      213: 21300036
+    second: cauldron_UI-Sheet136x146px_5
+  - first:
+      213: 21300038
+    second: cauldron_UI-Sheet136x146px_4
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 292
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: -73}
+        - {x: -68, y: -69}
+        - {x: -68, y: -2}
+        - {x: -57, y: 62}
+        - {x: -49, y: 73}
+        - {x: 47, y: 73}
+        - {x: 68, y: 66}
+        - {x: 68, y: -70}
+        - {x: 50, y: -73}
+      physicsShape:
+      - - {x: 68, y: -60}
+        - {x: 68, y: -13}
+        - {x: 65, y: 15}
+        - {x: 63, y: 22}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 29, y: 73}
+        - {x: -24, y: 73}
+        - {x: -41, y: 65}
+        - {x: -50, y: 56}
+        - {x: -58, y: 44}
+        - {x: -64, y: 16}
+        - {x: -65, y: -4}
+        - {x: -67, y: -27}
+        - {x: -68, y: -34}
+        - {x: -68, y: -60}
+        - {x: -65, y: -62}
+        - {x: -41, y: -63}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 38, y: -73}
+        - {x: 42, y: -72}
+        - {x: 42, y: -63}
+        - {x: 66, y: -62}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2155da9551ad44b68e9850f019d18dff
+      internalID: 21300000
+      vertices:
+      - {x: 136, y: 139}
+      - {x: 118, y: 0}
+      - {x: 136, y: 3}
+      - {x: 115, y: 146}
+      - {x: 19, y: 146}
+      - {x: 11, y: 135}
+      - {x: 8, y: 0}
+      - {x: 0, y: 71}
+      - {x: 0, y: 4}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 1
+      - 6
+      - 5
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 438
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -73}
+        - {x: -68, y: -70}
+        - {x: -68, y: 40}
+        - {x: -45, y: 73}
+        - {x: 30, y: 73}
+        - {x: 45, y: 68}
+        - {x: 64, y: 47}
+        - {x: 68, y: 5}
+        - {x: 68, y: -68}
+        - {x: 61, y: -73}
+      physicsShape:
+      - - {x: 66, y: -62}
+        - {x: 68, y: -61}
+        - {x: 68, y: -24}
+        - {x: 65, y: -21}
+        - {x: 66, y: 15}
+        - {x: 62, y: 26}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 26, y: 73}
+        - {x: -24, y: 73}
+        - {x: -41, y: 65}
+        - {x: -50, y: 56}
+        - {x: -58, y: 44}
+        - {x: -64, y: 16}
+        - {x: -65, y: -15}
+        - {x: -68, y: -33}
+        - {x: -68, y: -60}
+        - {x: -65, y: -62}
+        - {x: -41, y: -63}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 38, y: -73}
+        - {x: 41, y: -72}
+        - {x: 42, y: -63}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9d6a92e67c413fb294302f18c3fa88
+      internalID: 21300002
+      vertices:
+      - {x: 132, y: 120}
+      - {x: 136, y: 5}
+      - {x: 136, y: 78}
+      - {x: 129, y: 0}
+      - {x: 113, y: 141}
+      - {x: 98, y: 146}
+      - {x: 23, y: 146}
+      - {x: 18, y: 0}
+      - {x: 0, y: 113}
+      - {x: 0, y: 3}
+      indices:
+      - 9
+      - 8
+      - 7
+      - 6
+      - 7
+      - 8
+      - 3
+      - 7
+      - 6
+      - 5
+      - 3
+      - 6
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 146
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -73}
+        - {x: -68, y: -70}
+        - {x: -68, y: 40}
+        - {x: -45, y: 73}
+        - {x: 30, y: 73}
+        - {x: 45, y: 68}
+        - {x: 64, y: 47}
+        - {x: 68, y: 5}
+        - {x: 68, y: -68}
+        - {x: 61, y: -73}
+      physicsShape:
+      - - {x: 66, y: -62}
+        - {x: 68, y: -61}
+        - {x: 68, y: -24}
+        - {x: 65, y: -21}
+        - {x: 66, y: 15}
+        - {x: 62, y: 26}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 26, y: 73}
+        - {x: -24, y: 73}
+        - {x: -41, y: 65}
+        - {x: -50, y: 56}
+        - {x: -58, y: 44}
+        - {x: -64, y: 16}
+        - {x: -65, y: -15}
+        - {x: -68, y: -33}
+        - {x: -68, y: -60}
+        - {x: -65, y: -62}
+        - {x: -41, y: -63}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 38, y: -73}
+        - {x: 41, y: -72}
+        - {x: 42, y: -63}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e9e852ef59412a8b8c4f5e4333d3a5
+      internalID: 21300004
+      vertices:
+      - {x: 132, y: 120}
+      - {x: 136, y: 5}
+      - {x: 136, y: 78}
+      - {x: 129, y: 0}
+      - {x: 113, y: 141}
+      - {x: 98, y: 146}
+      - {x: 23, y: 146}
+      - {x: 18, y: 0}
+      - {x: 0, y: 113}
+      - {x: 0, y: 3}
+      indices:
+      - 9
+      - 8
+      - 7
+      - 6
+      - 7
+      - 8
+      - 3
+      - 7
+      - 6
+      - 5
+      - 3
+      - 6
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_14
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 146
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -73}
+        - {x: -68, y: -67}
+        - {x: -68, y: -3}
+        - {x: -59, y: 62}
+        - {x: -50, y: 73}
+        - {x: 49, y: 73}
+        - {x: 68, y: 67}
+        - {x: 68, y: -70}
+        - {x: 46, y: -73}
+      physicsShape:
+      - - {x: 68, y: -60}
+        - {x: 68, y: -13}
+        - {x: 65, y: 15}
+        - {x: 63, y: 22}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 26, y: 73}
+        - {x: -24, y: 73}
+        - {x: -41, y: 65}
+        - {x: -50, y: 56}
+        - {x: -58, y: 44}
+        - {x: -64, y: 16}
+        - {x: -65, y: -4}
+        - {x: -68, y: -33}
+        - {x: -68, y: -59}
+        - {x: -64, y: -60}
+        - {x: -52, y: -62}
+        - {x: -37, y: -66}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 40, y: -73}
+        - {x: 41, y: -72}
+        - {x: 42, y: -63}
+        - {x: 66, y: -62}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6009574fd95c47059bcc730cb623120e
+      internalID: 21300006
+      vertices:
+      - {x: 117, y: 146}
+      - {x: 136, y: 3}
+      - {x: 136, y: 140}
+      - {x: 114, y: 0}
+      - {x: 18, y: 146}
+      - {x: 12, y: 0}
+      - {x: 9, y: 135}
+      - {x: 0, y: 70}
+      - {x: 0, y: 6}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_19
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -73}
+        - {x: -68, y: -67}
+        - {x: -68, y: -3}
+        - {x: -59, y: 62}
+        - {x: -50, y: 73}
+        - {x: 49, y: 73}
+        - {x: 68, y: 67}
+        - {x: 68, y: -70}
+        - {x: 46, y: -73}
+      physicsShape:
+      - - {x: 68, y: -60}
+        - {x: 68, y: -13}
+        - {x: 65, y: 15}
+        - {x: 63, y: 22}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 26, y: 73}
+        - {x: -24, y: 73}
+        - {x: -41, y: 65}
+        - {x: -50, y: 56}
+        - {x: -58, y: 44}
+        - {x: -64, y: 16}
+        - {x: -65, y: -4}
+        - {x: -68, y: -33}
+        - {x: -68, y: -59}
+        - {x: -64, y: -60}
+        - {x: -52, y: -62}
+        - {x: -37, y: -66}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 40, y: -73}
+        - {x: 41, y: -72}
+        - {x: 42, y: -63}
+        - {x: 66, y: -62}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817e4730015f43848d888daa0ed5bbe0
+      internalID: 21300008
+      vertices:
+      - {x: 117, y: 146}
+      - {x: 136, y: 3}
+      - {x: 136, y: 140}
+      - {x: 114, y: 0}
+      - {x: 18, y: 146}
+      - {x: 12, y: 0}
+      - {x: 9, y: 135}
+      - {x: 0, y: 70}
+      - {x: 0, y: 6}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: -73}
+        - {x: -68, y: -69}
+        - {x: -68, y: -2}
+        - {x: -57, y: 62}
+        - {x: -49, y: 73}
+        - {x: 47, y: 73}
+        - {x: 68, y: 66}
+        - {x: 68, y: -70}
+        - {x: 50, y: -73}
+      physicsShape:
+      - - {x: 68, y: -60}
+        - {x: 68, y: -13}
+        - {x: 65, y: 15}
+        - {x: 63, y: 22}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 29, y: 73}
+        - {x: -24, y: 73}
+        - {x: -41, y: 65}
+        - {x: -50, y: 56}
+        - {x: -58, y: 44}
+        - {x: -64, y: 16}
+        - {x: -65, y: -4}
+        - {x: -67, y: -27}
+        - {x: -68, y: -34}
+        - {x: -68, y: -60}
+        - {x: -65, y: -62}
+        - {x: -41, y: -63}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 38, y: -73}
+        - {x: 42, y: -72}
+        - {x: 42, y: -63}
+        - {x: 66, y: -62}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fe096eca9a416a8314a71018658b4f
+      internalID: 21300010
+      vertices:
+      - {x: 136, y: 139}
+      - {x: 118, y: 0}
+      - {x: 136, y: 3}
+      - {x: 115, y: 146}
+      - {x: 19, y: 146}
+      - {x: 11, y: 135}
+      - {x: 8, y: 0}
+      - {x: 0, y: 71}
+      - {x: 0, y: 4}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 1
+      - 6
+      - 5
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -73}
+        - {x: -68, y: -68}
+        - {x: -68, y: 66}
+        - {x: -48, y: 73}
+        - {x: 55, y: 73}
+        - {x: 68, y: 51}
+        - {x: 68, y: -73}
+      physicsShape:
+      - - {x: 66, y: -62}
+        - {x: 68, y: -60}
+        - {x: 68, y: -13}
+        - {x: 65, y: 15}
+        - {x: 63, y: 22}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 29, y: 73}
+        - {x: -24, y: 73}
+        - {x: -42, y: 66}
+        - {x: -59, y: 44}
+        - {x: -65, y: 16}
+        - {x: -65, y: -20}
+        - {x: -68, y: -27}
+        - {x: -68, y: -60}
+        - {x: -65, y: -62}
+        - {x: -37, y: -63}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 38, y: -73}
+        - {x: 41, y: -72}
+        - {x: 42, y: -63}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61786aaf6c72440282721565c4669df6
+      internalID: 21300012
+      vertices:
+      - {x: 123, y: 146}
+      - {x: 136, y: 0}
+      - {x: 136, y: 124}
+      - {x: 20, y: 146}
+      - {x: 19, y: 0}
+      - {x: 0, y: 139}
+      - {x: 0, y: 5}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -73}
+        - {x: -68, y: -68}
+        - {x: -68, y: 66}
+        - {x: -48, y: 73}
+        - {x: 55, y: 73}
+        - {x: 68, y: 51}
+        - {x: 68, y: -73}
+      physicsShape:
+      - - {x: 66, y: -62}
+        - {x: 68, y: -60}
+        - {x: 68, y: -13}
+        - {x: 65, y: 15}
+        - {x: 63, y: 22}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 29, y: 73}
+        - {x: -24, y: 73}
+        - {x: -42, y: 66}
+        - {x: -59, y: 44}
+        - {x: -65, y: 16}
+        - {x: -65, y: -20}
+        - {x: -68, y: -27}
+        - {x: -68, y: -60}
+        - {x: -65, y: -62}
+        - {x: -37, y: -63}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 38, y: -73}
+        - {x: 41, y: -72}
+        - {x: 42, y: -63}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91813fad4ebb491990213f73026206cb
+      internalID: 21300014
+      vertices:
+      - {x: 123, y: 146}
+      - {x: 136, y: 0}
+      - {x: 136, y: 124}
+      - {x: 20, y: 146}
+      - {x: 19, y: 0}
+      - {x: 0, y: 139}
+      - {x: 0, y: 5}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 438
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: -73}
+        - {x: -68, y: -69}
+        - {x: -68, y: -2}
+        - {x: -57, y: 62}
+        - {x: -49, y: 73}
+        - {x: 47, y: 73}
+        - {x: 68, y: 66}
+        - {x: 68, y: -70}
+        - {x: 50, y: -73}
+      physicsShape:
+      - - {x: 68, y: -60}
+        - {x: 68, y: -13}
+        - {x: 65, y: 15}
+        - {x: 63, y: 22}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 29, y: 73}
+        - {x: -24, y: 73}
+        - {x: -41, y: 65}
+        - {x: -50, y: 56}
+        - {x: -58, y: 44}
+        - {x: -64, y: 16}
+        - {x: -65, y: -4}
+        - {x: -67, y: -27}
+        - {x: -68, y: -34}
+        - {x: -68, y: -60}
+        - {x: -65, y: -62}
+        - {x: -41, y: -63}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 38, y: -73}
+        - {x: 42, y: -72}
+        - {x: 42, y: -63}
+        - {x: 66, y: -62}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0125cea3d0d4c92bbd423d1db566436
+      internalID: 21300016
+      vertices:
+      - {x: 136, y: 139}
+      - {x: 118, y: 0}
+      - {x: 136, y: 3}
+      - {x: 115, y: 146}
+      - {x: 19, y: 146}
+      - {x: 11, y: 135}
+      - {x: 8, y: 0}
+      - {x: 0, y: 71}
+      - {x: 0, y: 4}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 1
+      - 6
+      - 5
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 438
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: -73}
+        - {x: -68, y: -71}
+        - {x: -68, y: 70}
+        - {x: -45, y: 73}
+        - {x: 41, y: 73}
+        - {x: 67, y: 48}
+        - {x: 68, y: 36}
+        - {x: 68, y: -70}
+        - {x: 48, y: -73}
+      physicsShape:
+      - - {x: 66, y: -62}
+        - {x: 68, y: -61}
+        - {x: 68, y: -3}
+        - {x: 66, y: 16}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 29, y: 73}
+        - {x: -24, y: 73}
+        - {x: -41, y: 65}
+        - {x: -50, y: 56}
+        - {x: -58, y: 44}
+        - {x: -64, y: 16}
+        - {x: -65, y: -4}
+        - {x: -63, y: -16}
+        - {x: -68, y: -26}
+        - {x: -68, y: -30}
+        - {x: -66, y: -38}
+        - {x: -68, y: -43}
+        - {x: -68, y: -60}
+        - {x: -65, y: -62}
+        - {x: -41, y: -63}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 38, y: -73}
+        - {x: 42, y: -72}
+        - {x: 42, y: -63}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b813c5b3c5439fa547b246a2c850d2
+      internalID: 21300018
+      vertices:
+      - {x: 135, y: 121}
+      - {x: 136, y: 3}
+      - {x: 136, y: 109}
+      - {x: 116, y: 0}
+      - {x: 109, y: 146}
+      - {x: 23, y: 146}
+      - {x: 5, y: 0}
+      - {x: 0, y: 143}
+      - {x: 0, y: 2}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -73}
+        - {x: -68, y: -68}
+        - {x: -68, y: 66}
+        - {x: -48, y: 73}
+        - {x: 55, y: 73}
+        - {x: 68, y: 51}
+        - {x: 68, y: -73}
+      physicsShape:
+      - - {x: 66, y: -62}
+        - {x: 68, y: -60}
+        - {x: 68, y: -13}
+        - {x: 65, y: 15}
+        - {x: 63, y: 22}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 29, y: 73}
+        - {x: -24, y: 73}
+        - {x: -42, y: 66}
+        - {x: -59, y: 44}
+        - {x: -65, y: 16}
+        - {x: -65, y: -20}
+        - {x: -68, y: -27}
+        - {x: -68, y: -60}
+        - {x: -65, y: -62}
+        - {x: -37, y: -63}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 38, y: -73}
+        - {x: 41, y: -72}
+        - {x: 42, y: -63}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d288810126c54082b97fcbf3eb3fea4e
+      internalID: 21300020
+      vertices:
+      - {x: 123, y: 146}
+      - {x: 136, y: 0}
+      - {x: 136, y: 124}
+      - {x: 20, y: 146}
+      - {x: 19, y: 0}
+      - {x: 0, y: 139}
+      - {x: 0, y: 5}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 146
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: -73}
+        - {x: -68, y: -69}
+        - {x: -68, y: -2}
+        - {x: -57, y: 62}
+        - {x: -49, y: 73}
+        - {x: 47, y: 73}
+        - {x: 68, y: 66}
+        - {x: 68, y: -70}
+        - {x: 50, y: -73}
+      physicsShape:
+      - - {x: 68, y: -60}
+        - {x: 68, y: -13}
+        - {x: 65, y: 15}
+        - {x: 63, y: 22}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 29, y: 73}
+        - {x: -24, y: 73}
+        - {x: -41, y: 65}
+        - {x: -50, y: 56}
+        - {x: -58, y: 44}
+        - {x: -64, y: 16}
+        - {x: -65, y: -4}
+        - {x: -67, y: -27}
+        - {x: -68, y: -34}
+        - {x: -68, y: -60}
+        - {x: -65, y: -62}
+        - {x: -41, y: -63}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 38, y: -73}
+        - {x: 42, y: -72}
+        - {x: 42, y: -63}
+        - {x: 66, y: -62}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284cabe20b8842e6a97bea3b172fa7a4
+      internalID: 21300022
+      vertices:
+      - {x: 136, y: 139}
+      - {x: 118, y: 0}
+      - {x: 136, y: 3}
+      - {x: 115, y: 146}
+      - {x: 19, y: 146}
+      - {x: 11, y: 135}
+      - {x: 8, y: 0}
+      - {x: 0, y: 71}
+      - {x: 0, y: 4}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 1
+      - 6
+      - 5
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 292
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -73}
+        - {x: -68, y: -70}
+        - {x: -68, y: 40}
+        - {x: -45, y: 73}
+        - {x: 30, y: 73}
+        - {x: 45, y: 68}
+        - {x: 64, y: 47}
+        - {x: 68, y: 5}
+        - {x: 68, y: -68}
+        - {x: 61, y: -73}
+      physicsShape:
+      - - {x: 66, y: -62}
+        - {x: 68, y: -61}
+        - {x: 68, y: -24}
+        - {x: 65, y: -21}
+        - {x: 66, y: 15}
+        - {x: 62, y: 26}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 26, y: 73}
+        - {x: -24, y: 73}
+        - {x: -41, y: 65}
+        - {x: -50, y: 56}
+        - {x: -58, y: 44}
+        - {x: -64, y: 16}
+        - {x: -65, y: -15}
+        - {x: -68, y: -33}
+        - {x: -68, y: -60}
+        - {x: -65, y: -62}
+        - {x: -41, y: -63}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 38, y: -73}
+        - {x: 41, y: -72}
+        - {x: 42, y: -63}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d67d5c35df94eb7ad1e255a5966514c
+      internalID: 21300024
+      vertices:
+      - {x: 132, y: 120}
+      - {x: 136, y: 5}
+      - {x: 136, y: 78}
+      - {x: 129, y: 0}
+      - {x: 113, y: 141}
+      - {x: 98, y: 146}
+      - {x: 23, y: 146}
+      - {x: 18, y: 0}
+      - {x: 0, y: 113}
+      - {x: 0, y: 3}
+      indices:
+      - 9
+      - 8
+      - 7
+      - 6
+      - 7
+      - 8
+      - 3
+      - 7
+      - 6
+      - 5
+      - 3
+      - 6
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_9
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 292
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -73}
+        - {x: -68, y: -67}
+        - {x: -68, y: -3}
+        - {x: -59, y: 62}
+        - {x: -50, y: 73}
+        - {x: 49, y: 73}
+        - {x: 68, y: 67}
+        - {x: 68, y: -70}
+        - {x: 46, y: -73}
+      physicsShape:
+      - - {x: 68, y: -60}
+        - {x: 68, y: -13}
+        - {x: 65, y: 15}
+        - {x: 63, y: 22}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 26, y: 73}
+        - {x: -24, y: 73}
+        - {x: -41, y: 65}
+        - {x: -50, y: 56}
+        - {x: -58, y: 44}
+        - {x: -64, y: 16}
+        - {x: -65, y: -4}
+        - {x: -68, y: -33}
+        - {x: -68, y: -59}
+        - {x: -64, y: -60}
+        - {x: -52, y: -62}
+        - {x: -37, y: -66}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 40, y: -73}
+        - {x: 41, y: -72}
+        - {x: 42, y: -63}
+        - {x: 66, y: -62}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a28a8ab06714cc3bb7cd89512cc7028
+      internalID: 21300026
+      vertices:
+      - {x: 117, y: 146}
+      - {x: 136, y: 3}
+      - {x: 136, y: 140}
+      - {x: 114, y: 0}
+      - {x: 18, y: 146}
+      - {x: 12, y: 0}
+      - {x: 9, y: 135}
+      - {x: 0, y: 70}
+      - {x: 0, y: 6}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: -73}
+        - {x: -68, y: -71}
+        - {x: -68, y: 70}
+        - {x: -45, y: 73}
+        - {x: 41, y: 73}
+        - {x: 67, y: 48}
+        - {x: 68, y: 36}
+        - {x: 68, y: -70}
+        - {x: 48, y: -73}
+      physicsShape:
+      - - {x: 66, y: -62}
+        - {x: 68, y: -61}
+        - {x: 68, y: -3}
+        - {x: 66, y: 16}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 29, y: 73}
+        - {x: -24, y: 73}
+        - {x: -41, y: 65}
+        - {x: -50, y: 56}
+        - {x: -58, y: 44}
+        - {x: -64, y: 16}
+        - {x: -65, y: -4}
+        - {x: -63, y: -16}
+        - {x: -68, y: -26}
+        - {x: -68, y: -30}
+        - {x: -66, y: -38}
+        - {x: -68, y: -43}
+        - {x: -68, y: -60}
+        - {x: -65, y: -62}
+        - {x: -41, y: -63}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 38, y: -73}
+        - {x: 42, y: -72}
+        - {x: 42, y: -63}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d243f007cba34c9da5129606372a3f25
+      internalID: 21300028
+      vertices:
+      - {x: 135, y: 121}
+      - {x: 136, y: 3}
+      - {x: 136, y: 109}
+      - {x: 116, y: 0}
+      - {x: 109, y: 146}
+      - {x: 23, y: 146}
+      - {x: 5, y: 0}
+      - {x: 0, y: 143}
+      - {x: 0, y: 2}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -73}
+        - {x: -68, y: -70}
+        - {x: -68, y: 40}
+        - {x: -45, y: 73}
+        - {x: 30, y: 73}
+        - {x: 45, y: 68}
+        - {x: 64, y: 47}
+        - {x: 68, y: 5}
+        - {x: 68, y: -68}
+        - {x: 61, y: -73}
+      physicsShape:
+      - - {x: 66, y: -62}
+        - {x: 68, y: -61}
+        - {x: 68, y: -24}
+        - {x: 65, y: -21}
+        - {x: 66, y: 15}
+        - {x: 62, y: 26}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 26, y: 73}
+        - {x: -24, y: 73}
+        - {x: -41, y: 65}
+        - {x: -50, y: 56}
+        - {x: -58, y: 44}
+        - {x: -64, y: 16}
+        - {x: -65, y: -15}
+        - {x: -68, y: -33}
+        - {x: -68, y: -60}
+        - {x: -65, y: -62}
+        - {x: -41, y: -63}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 38, y: -73}
+        - {x: 41, y: -72}
+        - {x: 42, y: -63}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c20cf2d08634b8593b9df3de19eb573
+      internalID: 21300030
+      vertices:
+      - {x: 132, y: 120}
+      - {x: 136, y: 5}
+      - {x: 136, y: 78}
+      - {x: 129, y: 0}
+      - {x: 113, y: 141}
+      - {x: 98, y: 146}
+      - {x: 23, y: 146}
+      - {x: 18, y: 0}
+      - {x: 0, y: 113}
+      - {x: 0, y: 3}
+      indices:
+      - 9
+      - 8
+      - 7
+      - 6
+      - 7
+      - 8
+      - 3
+      - 7
+      - 6
+      - 5
+      - 3
+      - 6
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 146
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: -73}
+        - {x: -68, y: -71}
+        - {x: -68, y: 70}
+        - {x: -45, y: 73}
+        - {x: 41, y: 73}
+        - {x: 67, y: 48}
+        - {x: 68, y: 36}
+        - {x: 68, y: -70}
+        - {x: 48, y: -73}
+      physicsShape:
+      - - {x: 66, y: -62}
+        - {x: 68, y: -61}
+        - {x: 68, y: -3}
+        - {x: 66, y: 16}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 29, y: 73}
+        - {x: -24, y: 73}
+        - {x: -41, y: 65}
+        - {x: -50, y: 56}
+        - {x: -58, y: 44}
+        - {x: -64, y: 16}
+        - {x: -65, y: -4}
+        - {x: -63, y: -16}
+        - {x: -68, y: -26}
+        - {x: -68, y: -30}
+        - {x: -66, y: -38}
+        - {x: -68, y: -43}
+        - {x: -68, y: -60}
+        - {x: -65, y: -62}
+        - {x: -41, y: -63}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 38, y: -73}
+        - {x: 42, y: -72}
+        - {x: 42, y: -63}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202f16b64aa7437da04f92a1d98afcac
+      internalID: 21300032
+      vertices:
+      - {x: 135, y: 121}
+      - {x: 136, y: 3}
+      - {x: 136, y: 109}
+      - {x: 116, y: 0}
+      - {x: 109, y: 146}
+      - {x: 23, y: 146}
+      - {x: 5, y: 0}
+      - {x: 0, y: 143}
+      - {x: 0, y: 2}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 292
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: -73}
+        - {x: -68, y: -71}
+        - {x: -68, y: 70}
+        - {x: -45, y: 73}
+        - {x: 41, y: 73}
+        - {x: 67, y: 48}
+        - {x: 68, y: 36}
+        - {x: 68, y: -70}
+        - {x: 48, y: -73}
+      physicsShape:
+      - - {x: 66, y: -62}
+        - {x: 68, y: -61}
+        - {x: 68, y: -3}
+        - {x: 66, y: 16}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 29, y: 73}
+        - {x: -24, y: 73}
+        - {x: -41, y: 65}
+        - {x: -50, y: 56}
+        - {x: -58, y: 44}
+        - {x: -64, y: 16}
+        - {x: -65, y: -4}
+        - {x: -63, y: -16}
+        - {x: -68, y: -26}
+        - {x: -68, y: -30}
+        - {x: -66, y: -38}
+        - {x: -68, y: -43}
+        - {x: -68, y: -60}
+        - {x: -65, y: -62}
+        - {x: -41, y: -63}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 38, y: -73}
+        - {x: 42, y: -72}
+        - {x: 42, y: -63}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750bd59504614d1aa734cb787014049a
+      internalID: 21300034
+      vertices:
+      - {x: 135, y: 121}
+      - {x: 136, y: 3}
+      - {x: 136, y: 109}
+      - {x: 116, y: 0}
+      - {x: 109, y: 146}
+      - {x: 23, y: 146}
+      - {x: 5, y: 0}
+      - {x: 0, y: 143}
+      - {x: 0, y: 2}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -73}
+        - {x: -68, y: -68}
+        - {x: -68, y: 66}
+        - {x: -48, y: 73}
+        - {x: 55, y: 73}
+        - {x: 68, y: 51}
+        - {x: 68, y: -73}
+      physicsShape:
+      - - {x: 66, y: -62}
+        - {x: 68, y: -60}
+        - {x: 68, y: -13}
+        - {x: 65, y: 15}
+        - {x: 63, y: 22}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 29, y: 73}
+        - {x: -24, y: 73}
+        - {x: -42, y: 66}
+        - {x: -59, y: 44}
+        - {x: -65, y: 16}
+        - {x: -65, y: -20}
+        - {x: -68, y: -27}
+        - {x: -68, y: -60}
+        - {x: -65, y: -62}
+        - {x: -37, y: -63}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 38, y: -73}
+        - {x: 41, y: -72}
+        - {x: 42, y: -63}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f789755ee0845e8a8a2e6489ff8e4bc
+      internalID: 21300036
+      vertices:
+      - {x: 123, y: 146}
+      - {x: 136, y: 0}
+      - {x: 136, y: 124}
+      - {x: 20, y: 146}
+      - {x: 19, y: 0}
+      - {x: 0, y: 139}
+      - {x: 0, y: 5}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron_UI-Sheet136x146px_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 438
+        width: 136
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -73}
+        - {x: -68, y: -67}
+        - {x: -68, y: -3}
+        - {x: -59, y: 62}
+        - {x: -50, y: 73}
+        - {x: 49, y: 73}
+        - {x: 68, y: 67}
+        - {x: 68, y: -70}
+        - {x: 46, y: -73}
+      physicsShape:
+      - - {x: 68, y: -60}
+        - {x: 68, y: -13}
+        - {x: 65, y: 15}
+        - {x: 63, y: 22}
+        - {x: 61, y: 46}
+        - {x: 57, y: 53}
+        - {x: 43, y: 65}
+        - {x: 26, y: 73}
+        - {x: -24, y: 73}
+        - {x: -41, y: 65}
+        - {x: -50, y: 56}
+        - {x: -58, y: 44}
+        - {x: -64, y: 16}
+        - {x: -65, y: -4}
+        - {x: -68, y: -33}
+        - {x: -68, y: -59}
+        - {x: -64, y: -60}
+        - {x: -52, y: -62}
+        - {x: -37, y: -66}
+        - {x: -38, y: -72}
+        - {x: -36, y: -73}
+        - {x: 40, y: -73}
+        - {x: 41, y: -72}
+        - {x: 42, y: -63}
+        - {x: 66, y: -62}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54532f8fe864b039a932d5475d5c305
+      internalID: 21300038
+      vertices:
+      - {x: 117, y: 146}
+      - {x: 136, y: 3}
+      - {x: 136, y: 140}
+      - {x: 114, y: 0}
+      - {x: 18, y: 146}
+      - {x: 12, y: 0}
+      - {x: 9, y: 135}
+      - {x: 0, y: 70}
+      - {x: 0, y: 6}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: c7200393f27baeb4497541653e5bfc8d
+timeCreated: 1706119835
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: AK_boss3_TailBullet_2
+  - first:
+      213: 21300002
+    second: AK_boss3_TailBullet_4
+  - first:
+      213: 21300004
+    second: AK_boss3_TailBullet_1
+  - first:
+      213: 21300006
+    second: AK_boss3_TailBullet_5
+  - first:
+      213: 21300008
+    second: AK_boss3_TailBullet_0
+  - first:
+      213: 21300010
+    second: AK_boss3_TailBullet_3
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AK_boss3_TailBullet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.485, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.000004, y: -16}
+        - {x: -16.000004, y: 16}
+        - {x: 15.999996, y: 16}
+        - {x: 15.999996, y: -16}
+      physicsShape:
+      - - {x: -8.000004, y: 10}
+        - {x: -11.000004, y: 5}
+        - {x: -11.000004, y: -10}
+        - {x: -9.000004, y: -11}
+        - {x: 8.999996, y: -11}
+        - {x: 9.999996, y: -9}
+        - {x: 9.999996, y: 4}
+        - {x: 6.999996, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e48ceaf8f443f1acdf81d69ea4ab09
+      internalID: 21300000
+      vertices:
+      - {x: 0.47999573, y: 32.48}
+      - {x: 32.479996, y: 32.48}
+      - {x: 0.47999573, y: 0.47999954}
+      - {x: 32.479996, y: 0.47999954}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss3_TailBullet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.485, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.000004, y: -16}
+        - {x: -16.000004, y: 16}
+        - {x: 15.999996, y: 16}
+        - {x: 15.999996, y: -16}
+      physicsShape:
+      - - {x: -8.000004, y: 10}
+        - {x: -11.000004, y: 5}
+        - {x: -11.000004, y: -10}
+        - {x: -9.000004, y: -11}
+        - {x: 8.999996, y: -11}
+        - {x: 9.999996, y: -9}
+        - {x: 9.999996, y: 4}
+        - {x: 6.999996, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405dc0f1a89648b9acacf28c5b988446
+      internalID: 21300002
+      vertices:
+      - {x: 0.47999573, y: 32.48}
+      - {x: 32.479996, y: 32.48}
+      - {x: 0.47999573, y: 0.47999954}
+      - {x: 32.479996, y: 0.47999954}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss3_TailBullet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.485, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -8, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -10}
+        - {x: -9, y: -11}
+        - {x: 9, y: -11}
+        - {x: 10, y: -9}
+        - {x: 10, y: 4}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e10449b9a74030a64ae8affe1a7b97
+      internalID: 21300004
+      vertices:
+      - {x: 0.47999954, y: 32.48}
+      - {x: 32.48, y: 32.48}
+      - {x: 0.47999954, y: 0.47999954}
+      - {x: 32.48, y: 0.47999954}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss3_TailBullet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.485, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.000004, y: -16}
+        - {x: -16.000004, y: 16}
+        - {x: 15.999996, y: 16}
+        - {x: 15.999996, y: -16}
+      physicsShape:
+      - - {x: -8.000004, y: 10}
+        - {x: -11.000004, y: 5}
+        - {x: -11.000004, y: -10}
+        - {x: -9.000004, y: -11}
+        - {x: 8.999996, y: -11}
+        - {x: 9.999996, y: -9}
+        - {x: 9.999996, y: 4}
+        - {x: 6.999996, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7c361fff4e485eb4f9f8415b0d3026
+      internalID: 21300006
+      vertices:
+      - {x: 0.47999573, y: 32.48}
+      - {x: 32.479996, y: 32.48}
+      - {x: 0.47999573, y: 0.47999954}
+      - {x: 32.479996, y: 0.47999954}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss3_TailBullet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.485, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -8, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -10}
+        - {x: -9, y: -11}
+        - {x: 9, y: -11}
+        - {x: 10, y: -9}
+        - {x: 10, y: 4}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db382604ed3d4880a2712fa0404dd850
+      internalID: 21300008
+      vertices:
+      - {x: 0.47999954, y: 32.48}
+      - {x: 32.48, y: 32.48}
+      - {x: 0.47999954, y: 0.47999954}
+      - {x: 32.48, y: 0.47999954}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss3_TailBullet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.485, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.000004, y: -16}
+        - {x: -16.000004, y: 16}
+        - {x: 15.999996, y: 16}
+        - {x: 15.999996, y: -16}
+      physicsShape:
+      - - {x: -8.000004, y: 10}
+        - {x: -11.000004, y: 5}
+        - {x: -11.000004, y: -10}
+        - {x: -9.000004, y: -11}
+        - {x: 8.999996, y: -11}
+        - {x: 9.999996, y: -9}
+        - {x: 9.999996, y: 4}
+        - {x: 6.999996, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51f85d4a2874c4da66c26718caad2b5
+      internalID: 21300010
+      vertices:
+      - {x: 0.47999573, y: 32.48}
+      - {x: 32.479996, y: 32.48}
+      - {x: 0.47999573, y: 0.47999954}
+      - {x: 32.479996, y: 0.47999954}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 30e948be952094fb8f652ba8ab91d1fb.bundle
+  assetBundleVariant:

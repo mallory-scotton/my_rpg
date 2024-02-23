@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: b7168b649e001e64cb0bb97003758a07
+timeCreated: 1706119842
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: shadow_box
+  - first:
+      213: 21300002
+    second: xmas_deco_10
+  - first:
+      213: 21300004
+    second: xmas_deco_6
+  - first:
+      213: 21300006
+    second: xmas_deco_14
+  - first:
+      213: 21300008
+    second: xmas_deco_16
+  - first:
+      213: 21300010
+    second: xmas_deco_7
+  - first:
+      213: 21300012
+    second: xmas_deco_4
+  - first:
+      213: 21300014
+    second: xmas_deco_2
+  - first:
+      213: 21300016
+    second: xmas_deco_1
+  - first:
+      213: 21300018
+    second: xmas_deco_11
+  - first:
+      213: 21300020
+    second: xmas_deco_9
+  - first:
+      213: 21300022
+    second: xmas_deco_8
+  - first:
+      213: 21300024
+    second: xmas_deco_5
+  - first:
+      213: 21300026
+    second: xmas_deco_0
+  - first:
+      213: 21300028
+    second: xmas_deco_3
+  - first:
+      213: 21300030
+    second: xmas_deco_15
+  - first:
+      213: 21300032
+    second: xmas_deco_13
+  - first:
+      213: 21300034
+    second: xmas_deco_12
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shadow_box
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a8066f670447508e6098ad8ded5d62
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 16, y: 16}
+      - {x: 0, y: 0}
+      - {x: 16, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_deco_10
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 17
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: 0.48, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -12.5}
+        - {x: -12.5, y: 12.5}
+        - {x: 12.5, y: 12.5}
+        - {x: 12.5, y: -12.5}
+      physicsShape:
+      - - {x: -8.5, y: 12.5}
+        - {x: -11.5, y: 10.5}
+        - {x: -11.5, y: -9.5}
+        - {x: -10.5, y: -12.5}
+        - {x: 12.5, y: -12.5}
+        - {x: 12.5, y: 6.5}
+        - {x: 7.5, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406e3bc8c4dd4713948687e93080e430
+      internalID: 21300002
+      vertices:
+      - {x: 0.5, y: 34.5}
+      - {x: 25.5, y: 34.5}
+      - {x: 0.5, y: 9.5}
+      - {x: 25.5, y: 9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_deco_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 65
+        width: 57
+        height: 88
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.499998, y: -44}
+        - {x: -28.499998, y: 44}
+        - {x: 28.500002, y: 44}
+        - {x: 28.500002, y: -44}
+      physicsShape:
+      - - {x: 28.500002, y: -18}
+        - {x: 27.500002, y: -14}
+        - {x: 25.500002, y: -1}
+        - {x: 18.500002, y: 13}
+        - {x: 12.500002, y: 19}
+        - {x: 21.500002, y: 22}
+        - {x: 20.500002, y: 36}
+        - {x: 11.500002, y: 42}
+        - {x: -1.4999981, y: 42}
+        - {x: -7.499998, y: 41}
+        - {x: -15.499998, y: 30}
+        - {x: -13.499998, y: 19}
+        - {x: -7.499998, y: 18}
+        - {x: -15.499998, y: 10}
+        - {x: -26.499998, y: -13}
+        - {x: -28.499998, y: -20}
+        - {x: -28.499998, y: -32}
+        - {x: -20.499998, y: -36}
+        - {x: -11.499998, y: -44}
+        - {x: 14.500002, y: -44}
+        - {x: 14.500002, y: -41}
+        - {x: 23.500002, y: -36}
+        - {x: 28.500002, y: -33}
+      - - {x: -5.499998, y: 29}
+        - {x: -4.499998, y: 28}
+        - {x: -4.499998, y: 27}
+        - {x: -6.499998, y: 27}
+      - - {x: 10.500002, y: 28}
+        - {x: 11.500002, y: 29}
+        - {x: 12.500002, y: 27}
+        - {x: 10.500002, y: 27}
+      - - {x: 4.500002, y: 32}
+        - {x: 1.5000019, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915d1311c87f40b4951f9d7d45f4894e
+      internalID: 21300004
+      vertices:
+      - {x: -0.5, y: 130}
+      - {x: 56.5, y: 130}
+      - {x: -0.5, y: 42}
+      - {x: 56.5, y: 42}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_deco_14
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 77
+        width: 72
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.046875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -32}
+        - {x: -36, y: 32}
+        - {x: 36, y: 32}
+        - {x: 36, y: -32}
+      physicsShape:
+      - - {x: 7, y: 32}
+        - {x: -2, y: 32}
+        - {x: -6, y: 27}
+        - {x: -7, y: 16}
+        - {x: -35, y: 2}
+        - {x: -35, y: -27}
+        - {x: -28, y: -31}
+        - {x: 31, y: -31}
+        - {x: 35, y: -30}
+        - {x: 35, y: 9}
+      - - {x: -25, y: -20}
+        - {x: -23, y: -19}
+        - {x: -21, y: -17}
+        - {x: -16, y: -22}
+        - {x: -24, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8e53f8d00244f09326e67878036aae
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 93}
+      - {x: 72, y: 93}
+      - {x: 0, y: 29}
+      - {x: 72, y: 29}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_deco_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -11}
+        - {x: -5.5, y: 11}
+        - {x: 5.5, y: 11}
+        - {x: 5.5, y: -11}
+      physicsShape:
+      - - {x: -5.5, y: 11}
+        - {x: -5.5, y: -11}
+        - {x: 5.5, y: -11}
+        - {x: 5.5, y: 6}
+        - {x: 0.5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132985b2ad6e4483a934721a981c7f75
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 11, y: 22}
+      - {x: 0, y: 0}
+      - {x: 11, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_deco_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 65
+        width: 33
+        height: 60
+      alignment: 9
+      pivot: {x: 0.75757575, y: 0.033333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -30}
+        - {x: -16.5, y: 30}
+        - {x: 16.5, y: 30}
+        - {x: 16.5, y: -30}
+      physicsShape:
+      - - {x: -6.5, y: 26}
+        - {x: -16.5, y: 19}
+        - {x: -16.5, y: 5}
+        - {x: -14.5, y: 2}
+        - {x: -1.5, y: -29}
+        - {x: 0.5, y: -30}
+        - {x: 16.5, y: -30}
+        - {x: 16.5, y: 16}
+        - {x: 6.5, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12053a88358840e2b6606543bda9c90a
+      internalID: 21300010
+      vertices:
+      - {x: -8.5, y: 88}
+      - {x: 24.5, y: 88}
+      - {x: -8.5, y: 28}
+      - {x: 24.5, y: 28}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_deco_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 234
+        width: 70
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -20}
+        - {x: -35, y: 20}
+        - {x: 35, y: 20}
+        - {x: 35, y: -20}
+      physicsShape:
+      - - {x: 34, y: 12}
+        - {x: 26, y: 17}
+        - {x: 18, y: 17}
+        - {x: 11, y: 7}
+        - {x: -5, y: 10}
+        - {x: -13, y: 9}
+        - {x: -21, y: 4}
+        - {x: -28, y: -2}
+        - {x: -29, y: -10}
+        - {x: -24, y: -16}
+        - {x: -18, y: -20}
+        - {x: 14, y: -20}
+        - {x: 30, y: -11}
+        - {x: 35, y: 2}
+        - {x: 35, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0aab6c355d453ba462271ca320b2df
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 70, y: 40}
+      - {x: 0, y: 0}
+      - {x: 70, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_deco_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 166
+        width: 156
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: -76}
+        - {x: -78, y: 76}
+        - {x: 78, y: 76}
+        - {x: 78, y: -76}
+      physicsShape:
+      - - {x: 72, y: -47}
+        - {x: 75, y: -42}
+        - {x: 75, y: -34}
+        - {x: 68, y: -27}
+        - {x: 49, y: -27}
+        - {x: 53, y: -26}
+        - {x: 61, y: -22}
+        - {x: 70, y: -13}
+        - {x: 67, y: -3}
+        - {x: 75, y: 4}
+        - {x: 75, y: 5}
+        - {x: 74, y: 8}
+        - {x: 67, y: 14}
+        - {x: 64, y: 18}
+        - {x: 70, y: 25}
+        - {x: 63, y: 36}
+        - {x: 56, y: 39}
+        - {x: 50, y: 40}
+        - {x: 61, y: 57}
+        - {x: 53, y: 68}
+        - {x: 41, y: 68}
+        - {x: 21, y: 71}
+        - {x: 2, y: 68}
+        - {x: -14, y: 75}
+        - {x: -27, y: 75}
+        - {x: -30, y: 67}
+        - {x: -56, y: 64}
+        - {x: -64, y: 54}
+        - {x: -70, y: 55}
+        - {x: -75, y: 43}
+        - {x: -66, y: 31}
+        - {x: -73, y: 30}
+        - {x: -78, y: 26}
+        - {x: -78, y: 21}
+        - {x: -75, y: 12}
+        - {x: -76, y: 6}
+        - {x: -71, y: -2}
+        - {x: -58, y: -2}
+        - {x: -57, y: -13}
+        - {x: -54, y: -18}
+        - {x: -44, y: -23}
+        - {x: -38, y: -25}
+        - {x: -37, y: -36}
+        - {x: -33, y: -41}
+        - {x: -43, y: -47}
+        - {x: -46, y: -50}
+        - {x: -47, y: -66}
+        - {x: -39, y: -75}
+        - {x: 15, y: -75}
+        - {x: 28, y: -74}
+        - {x: 40, y: -72}
+        - {x: 53, y: -68}
+        - {x: 64, y: -53}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ab5941cdf54ca691dcd04dc73f0138
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 152}
+      - {x: 156, y: 152}
+      - {x: 0, y: 0}
+      - {x: 156, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_deco_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 173
+        width: 132
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: -24}
+        - {x: -66, y: 24}
+        - {x: 66, y: 24}
+        - {x: 66, y: -24}
+      physicsShape:
+      - - {x: 24, y: 4}
+        - {x: 19, y: 15}
+        - {x: -2, y: 23}
+        - {x: -9, y: 24}
+        - {x: -36, y: 24}
+        - {x: -44, y: 22}
+        - {x: -58, y: 13}
+        - {x: -63, y: 7}
+        - {x: -63, y: 2}
+        - {x: -59, y: -5}
+        - {x: -52, y: -9}
+        - {x: -39, y: -9}
+        - {x: -33, y: -13}
+        - {x: -20, y: -14}
+        - {x: -19, y: -20}
+        - {x: -17, y: -23}
+        - {x: 4, y: -23}
+        - {x: 16, y: -19}
+        - {x: 21, y: -16}
+        - {x: 24, y: -13}
+      - - {x: 41, y: 15}
+        - {x: 39, y: 9}
+        - {x: 39, y: 0}
+        - {x: 45, y: -3}
+        - {x: 61, y: -3}
+        - {x: 64, y: 3}
+        - {x: 64, y: 12}
+        - {x: 59, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705ee8a6cb544618a6fbde977fbd15e3
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 132, y: 48}
+      - {x: 0, y: 0}
+      - {x: 132, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_deco_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 15
+        width: 47
+        height: 56
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.500002, y: -28}
+        - {x: -23.500002, y: 28}
+        - {x: 23.499998, y: 28}
+        - {x: 23.499998, y: -28}
+      physicsShape:
+      - - {x: 5.499998, y: -26}
+        - {x: 8.499998, y: -26}
+        - {x: 16.499998, y: -22}
+        - {x: 21.499998, y: -16}
+        - {x: 21.499998, y: 17}
+        - {x: 15.499998, y: 26}
+        - {x: -9.500002, y: 26}
+        - {x: -22.500002, y: 10}
+        - {x: -22.500002, y: -1}
+        - {x: -20.500002, y: -5}
+        - {x: -16.500002, y: -22}
+        - {x: -10.500002, y: -26}
+        - {x: 1.4999981, y: -26}
+        - {x: 3.499998, y: -24}
+        - {x: 3.499998, y: -20}
+        - {x: 3.499998, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eba8e39744416c994ceae53ea25a8c
+      internalID: 21300018
+      vertices:
+      - {x: 0.5, y: 80}
+      - {x: 47.5, y: 80}
+      - {x: 0.5, y: 24}
+      - {x: 47.5, y: 24}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_deco_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 47
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -11}
+        - {x: -14, y: 11}
+        - {x: 14, y: 11}
+        - {x: 14, y: -11}
+      physicsShape:
+      - - {x: -14, y: -9}
+        - {x: 14, y: -9}
+        - {x: 14, y: 11}
+        - {x: -12, y: 11}
+        - {x: -14, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f4a5f10a6542129a031732530c19dd
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 29}
+      - {x: 28, y: 29}
+      - {x: 0, y: 7}
+      - {x: 28, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_deco_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 84
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -12.5}
+        - {x: -42, y: 12.5}
+        - {x: 42, y: 12.5}
+        - {x: 42, y: -12.5}
+      physicsShape:
+      - - {x: 25, y: -5.5}
+        - {x: 40, y: -9.5}
+        - {x: 42, y: -4.5}
+        - {x: 42, y: 5.5}
+        - {x: 30, y: 12.5}
+        - {x: 23, y: 12.5}
+        - {x: 5, y: 3.5}
+        - {x: -6, y: 12.5}
+        - {x: -33, y: 12.5}
+        - {x: -42, y: 2.5}
+        - {x: -42, y: -4.5}
+        - {x: -40, y: -8.5}
+        - {x: -30, y: -3.5}
+        - {x: -28, y: 1.5}
+        - {x: -28, y: 5.5}
+        - {x: -28, y: 3.5}
+        - {x: -24, y: 0.5}
+        - {x: -24, y: -12.5}
+        - {x: -5, y: -12.5}
+        - {x: -8, y: -6.5}
+        - {x: 8, y: -7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114b76d6157d4a32912ee41748fa4c97
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 25}
+      - {x: 84, y: 25}
+      - {x: 0, y: 0}
+      - {x: 84, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_deco_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 175
+        width: 75
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: -20}
+        - {x: -37.5, y: 20}
+        - {x: 37.5, y: 20}
+        - {x: 37.5, y: -20}
+      physicsShape:
+      - - {x: 37.5, y: 3}
+        - {x: 37.5, y: 12}
+        - {x: 27.5, y: 18}
+        - {x: 15.5, y: 19}
+        - {x: -23.5, y: 19}
+        - {x: -27.5, y: 15}
+        - {x: -35.5, y: 3}
+        - {x: -35.5, y: -7}
+        - {x: -25.5, y: -14}
+        - {x: -13.5, y: -14}
+        - {x: 9.5, y: -18}
+        - {x: 15.5, y: -18}
+        - {x: 25.5, y: -15}
+        - {x: 30.5, y: -5}
+        - {x: 34.5, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c54cef800b40c18806c273cafac182
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 75, y: 40}
+      - {x: 0, y: 0}
+      - {x: 75, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_deco_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 227
+        width: 136
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -46}
+        - {x: -68, y: 46}
+        - {x: 68, y: 46}
+        - {x: 68, y: -46}
+      physicsShape:
+      - - {x: 48, y: -39}
+        - {x: 60, y: -38}
+        - {x: 62, y: -34}
+        - {x: 63, y: -30}
+        - {x: 57, y: -23}
+        - {x: 65, y: -14}
+        - {x: 66, y: -10}
+        - {x: 66, y: -2}
+        - {x: 59, y: 4}
+        - {x: 48, y: 6}
+        - {x: 48, y: 14}
+        - {x: 52, y: 26}
+        - {x: 52, y: 33}
+        - {x: 41, y: 39}
+        - {x: 26, y: 32}
+        - {x: 7, y: 38}
+        - {x: -7, y: 40}
+        - {x: -15, y: 40}
+        - {x: -29, y: 38}
+        - {x: -43, y: 34}
+        - {x: -51, y: 25}
+        - {x: -52, y: 14}
+        - {x: -59, y: 12}
+        - {x: -66, y: 7}
+        - {x: -66, y: 1}
+        - {x: -64, y: -4}
+        - {x: -60, y: -6}
+        - {x: -49, y: -14}
+        - {x: -59, y: -28}
+        - {x: -60, y: -33}
+        - {x: -53, y: -41}
+        - {x: -13, y: -41}
+        - {x: 0, y: -36}
+        - {x: 30, y: -34}
+        - {x: 36, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400a2c5d7c9d4675bc348305538c71c1
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 92}
+      - {x: 136, y: 92}
+      - {x: 0, y: 0}
+      - {x: 136, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_deco_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 277
+        width: 69
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: -19.5}
+        - {x: -34.5, y: 19.5}
+        - {x: 34.5, y: 19.5}
+        - {x: 34.5, y: -19.5}
+      physicsShape:
+      - - {x: 12.5, y: 16.5}
+        - {x: -5.5, y: 16.5}
+        - {x: -19.5, y: 15.5}
+        - {x: -26.5, y: 11.5}
+        - {x: -32.5, y: 1.5}
+        - {x: -32.5, y: -11.5}
+        - {x: -29.5, y: -15.5}
+        - {x: -20.5, y: -16.5}
+        - {x: -14.5, y: -17.5}
+        - {x: 11.5, y: -17.5}
+        - {x: 21.5, y: -14.5}
+        - {x: 32.5, y: -3.5}
+        - {x: 32.5, y: 6.5}
+        - {x: 28.5, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856c808c9b3340829608fa590d055c12
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 39}
+      - {x: 69, y: 39}
+      - {x: 0, y: 0}
+      - {x: 69, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_deco_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 4
+        width: 17
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -10}
+        - {x: -8.5, y: 10}
+        - {x: 8.5, y: 10}
+        - {x: 8.5, y: -10}
+      physicsShape:
+      - - {x: 1.5, y: 10}
+        - {x: -8.5, y: 6}
+        - {x: -8.5, y: -10}
+        - {x: -0.5, y: -10}
+        - {x: 8.5, y: 0}
+        - {x: 8.5, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7790f293260f4d92952cb36d8012929a
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 20}
+      - {x: 17, y: 20}
+      - {x: 0, y: 0}
+      - {x: 17, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_deco_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 80
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -15}
+        - {x: -10, y: 15}
+        - {x: 10, y: 15}
+        - {x: 10, y: -15}
+      physicsShape:
+      - - {x: -8, y: 15}
+        - {x: -10, y: 14}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 10, y: 11}
+        - {x: 7, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d67ed3154d14dc484665332c0212c18
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 42}
+      - {x: 20, y: 42}
+      - {x: 0, y: 12}
+      - {x: 20, y: 12}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_deco_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 5
+        width: 12
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -8}
+        - {x: -6, y: 8}
+        - {x: 6, y: 8}
+        - {x: 6, y: -8}
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -2}
+        - {x: -5, y: -6}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 6, y: -5}
+        - {x: 6, y: 0}
+        - {x: -2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2a3bc1cca041289d4679bc1f222efe
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 12, y: 16}
+      - {x: 0, y: 0}
+      - {x: 12, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: eb9545519a9255988c4443b244b59c6c.bundle
+  assetBundleVariant:

@@ -1,0 +1,882 @@
+fileFormatVersion: 2
+guid: 141d09d61a2127c4090fe1d378477ef9
+timeCreated: 1706119810
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: AcidBarrel_Particles_15
+  - first:
+      213: 21300002
+    second: AcidBarrel_Particles_8
+  - first:
+      213: 21300004
+    second: AcidBarrel_Particles_17
+  - first:
+      213: 21300006
+    second: AcidBarrel_Particles_7
+  - first:
+      213: 21300008
+    second: AcidBarrel_Particles_12
+  - first:
+      213: 21300010
+    second: AcidBarrel_Particles_5
+  - first:
+      213: 21300012
+    second: AcidBarrel_Particles_13
+  - first:
+      213: 21300014
+    second: AcidBarrel_Particles_10
+  - first:
+      213: 21300016
+    second: AcidBarrel_Particles_0
+  - first:
+      213: 21300018
+    second: AcidBarrel_Particles_1
+  - first:
+      213: 21300020
+    second: AcidBarrel_Particles_9
+  - first:
+      213: 21300022
+    second: AcidBarrel_Particles_14
+  - first:
+      213: 21300024
+    second: AcidBarrel_Particles_6
+  - first:
+      213: 21300026
+    second: AcidBarrel_Particles_2
+  - first:
+      213: 21300028
+    second: AcidBarrel_Particles_16
+  - first:
+      213: 21300030
+    second: AcidBarrel_Particles_11
+  - first:
+      213: 21300032
+    second: AcidBarrel_Particles_4
+  - first:
+      213: 21300034
+    second: AcidBarrel_Particles_3
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AcidBarrel_Particles_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 6
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943c15079a7545f797a7a0c54dff540b
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel_Particles_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 22
+        width: 6
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -2}
+        - {x: -3, y: 2}
+        - {x: 3, y: 2}
+        - {x: 3, y: -2}
+      physicsShape:
+      - - {x: -3, y: 2}
+        - {x: -3, y: -2}
+        - {x: 3, y: -2}
+        - {x: 3, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837c53197e34486c991cdebaa558865b
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 6, y: 4}
+      - {x: 0, y: 0}
+      - {x: 6, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel_Particles_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 38
+        width: 6
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -1.5}
+        - {x: -3, y: 1.5}
+        - {x: 3, y: 1.5}
+        - {x: 3, y: -1.5}
+      physicsShape:
+      - - {x: -3, y: 1.5}
+        - {x: -3, y: -1.5}
+        - {x: 3, y: -1.5}
+        - {x: 3, y: 1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8e55c47aa74a3eb8d1abfe93c8bb4c
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 3}
+      - {x: 6, y: 3}
+      - {x: 0, y: 0}
+      - {x: 6, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel_Particles_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 6
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -2.5}
+        - {x: -3, y: 2.5}
+        - {x: 3, y: 2.5}
+        - {x: 3, y: -2.5}
+      physicsShape:
+      - - {x: -3, y: 2.5}
+        - {x: -3, y: -2.5}
+        - {x: 3, y: -2.5}
+        - {x: 3, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff4e91d2c8b415586b24c122b677df9
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 6, y: 5}
+      - {x: 0, y: 0}
+      - {x: 6, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel_Particles_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a83525d787b44ee9019be825daf4565
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel_Particles_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 21
+        width: 3
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -2}
+        - {x: -1.5, y: 2}
+        - {x: 1.5, y: 2}
+        - {x: 1.5, y: -2}
+      physicsShape:
+      - - {x: -1.5, y: 2}
+        - {x: -1.5, y: -2}
+        - {x: 1.5, y: -2}
+        - {x: 1.5, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf3938a27cb4390a475c397703a028f
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 3, y: 4}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel_Particles_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 6
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ebf43fc7ec47829f1a0ca881b2005e
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel_Particles_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 21
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2.5}
+        - {x: -2, y: 2.5}
+        - {x: 2, y: 2.5}
+        - {x: 2, y: -2.5}
+      physicsShape:
+      - - {x: -2, y: 2.5}
+        - {x: -2, y: -2.5}
+        - {x: 2, y: -2.5}
+        - {x: 2, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8242bd74ae242aeb5b9f80c0e221179
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 4, y: 5}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel_Particles_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 53
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -2.5}
+        - {x: -2.5, y: 2.5}
+        - {x: 2.5, y: 2.5}
+        - {x: 2.5, y: -2.5}
+      physicsShape:
+      - - {x: -2.5, y: 2.5}
+        - {x: -2.5, y: -2.5}
+        - {x: 2.5, y: -2.5}
+        - {x: 2.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8771f1acea4a6bbafb64ff958bb53a
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 5, y: 5}
+      - {x: 0, y: 0}
+      - {x: 5, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel_Particles_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 55
+        width: 5
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -2}
+        - {x: -2.5, y: 2}
+        - {x: 2.5, y: 2}
+        - {x: 2.5, y: -2}
+      physicsShape:
+      - - {x: -2.5, y: 2}
+        - {x: -2.5, y: -2}
+        - {x: 2.5, y: -2}
+        - {x: 2.5, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6b1fb14c304eae9954cf83db7d2a6b
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 5, y: 4}
+      - {x: 0, y: 0}
+      - {x: 5, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel_Particles_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 5
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2.5}
+        - {x: -2, y: 2.5}
+        - {x: 2, y: 2.5}
+        - {x: 2, y: -2.5}
+      physicsShape:
+      - - {x: -2, y: 2.5}
+        - {x: -2, y: -2.5}
+        - {x: 2, y: -2.5}
+        - {x: 2, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35400d9d51a49c0ac2872a12de4b1bf
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 4, y: 5}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel_Particles_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 54
+        width: 6
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -1.5}
+        - {x: -3, y: 1.5}
+        - {x: 3, y: 1.5}
+        - {x: 3, y: -1.5}
+      physicsShape:
+      - - {x: -3, y: 1.5}
+        - {x: -3, y: -1.5}
+        - {x: 3, y: -1.5}
+        - {x: 3, y: 1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a0fb8598f64a3c83e581cc24397c4b
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 3}
+      - {x: 6, y: 3}
+      - {x: 0, y: 0}
+      - {x: 6, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel_Particles_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 38
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ada813db9f14cf5ba51aac06983b297
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel_Particles_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 53
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526373f2b9a540bea750491fdcc73136
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel_Particles_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 39
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2.5}
+        - {x: -2, y: 2.5}
+        - {x: 2, y: 2.5}
+        - {x: 2, y: -2.5}
+      physicsShape:
+      - - {x: -2, y: 2.5}
+        - {x: -2, y: -2.5}
+        - {x: 2, y: -2.5}
+        - {x: 2, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50c3e10b9af4af5858107633aab8e7c
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 4, y: 5}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel_Particles_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa830d5c5f543d3ae0889aff5bfbb66
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel_Particles_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 36
+        width: 3
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3}
+        - {x: -1.5, y: 3}
+        - {x: 1.5, y: 3}
+        - {x: 1.5, y: -3}
+      physicsShape:
+      - - {x: -1.5, y: 3}
+        - {x: -1.5, y: -3}
+        - {x: 1.5, y: -3}
+        - {x: 1.5, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0237c202f64048079b4cf1dc3a08d4b6
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 6}
+      - {x: 3, y: 6}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBarrel_Particles_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 53
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c4014da394447a9b03af5b7bb71c08
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 4cccb9c8fa36edf1f03dae7baaef6041.bundle
+  assetBundleVariant:

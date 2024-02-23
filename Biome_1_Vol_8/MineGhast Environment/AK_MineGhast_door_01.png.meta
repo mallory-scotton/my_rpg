@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 636fcfd66589c1e40847884ebc9a22dc
+timeCreated: 1706119805
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: AK_MineGhast_door_01_1
+  - first:
+      213: 21300002
+    second: AK_MineGhast_door_01_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AK_MineGhast_door_01_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 69
+        height: 30
+      alignment: 9
+      pivot: {x: 0.49275362, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: -15}
+        - {x: -34.5, y: 15}
+        - {x: 34.5, y: 15}
+        - {x: 34.5, y: -15}
+      physicsShape:
+      - - {x: 34.5, y: 3}
+        - {x: 17.5, y: 15}
+        - {x: -19.5, y: 15}
+        - {x: -25.5, y: 11}
+        - {x: -34.5, y: -1}
+        - {x: -34.5, y: -15}
+        - {x: -18.5, y: -15}
+        - {x: 10.5, y: 0}
+        - {x: 21.5, y: -15}
+        - {x: 34.5, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1948dd98602d46b58bddc9f2afaf2f22
+      internalID: 21300000
+      vertices:
+      - {x: 0.5, y: 30}
+      - {x: 69.5, y: 30}
+      - {x: 0.5, y: 0}
+      - {x: 69.5, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_MineGhast_door_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 69
+        height: 36
+      alignment: 9
+      pivot: {x: 0.49275362, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: -18}
+        - {x: -34.5, y: 18}
+        - {x: 34.5, y: 18}
+        - {x: 34.5, y: -18}
+      physicsShape:
+      - - {x: 21.5, y: 18}
+        - {x: 18.5, y: 3}
+        - {x: 18.5, y: -7}
+        - {x: 19.5, y: -8}
+        - {x: 30.5, y: -8}
+        - {x: 34.5, y: -6}
+        - {x: 34.5, y: 18}
+      - - {x: -34.5, y: 18}
+        - {x: -34.5, y: -5}
+        - {x: -32.5, y: -7}
+        - {x: -19.5, y: -7}
+        - {x: -16.5, y: -5}
+        - {x: -16.5, y: 11}
+        - {x: -18.5, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145d750381e843e39e3f0cbe639b0406
+      internalID: 21300002
+      vertices:
+      - {x: 0.5, y: 40}
+      - {x: 69.5, y: 40}
+      - {x: 0.5, y: 4}
+      - {x: 69.5, y: 4}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: d20d245706ceb2a0706723d65abadee0.bundle
+  assetBundleVariant:

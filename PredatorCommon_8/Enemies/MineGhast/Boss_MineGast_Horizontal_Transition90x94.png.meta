@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: e0304d87eb56eab4fa63c6bf8d593730
+timeCreated: 1706119809
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Boss_MineGast_Horizontal_Transition90x94_0
+  - first:
+      213: 21300002
+    second: Boss_MineGast_Horizontal_Transition90x94_7
+  - first:
+      213: 21300004
+    second: Boss_MineGast_Horizontal_Transition90x94_2
+  - first:
+      213: 21300006
+    second: Boss_MineGast_Horizontal_Transition90x94_6
+  - first:
+      213: 21300008
+    second: Boss_MineGast_Horizontal_Transition90x94_5
+  - first:
+      213: 21300010
+    second: Boss_MineGast_Horizontal_Transition90x94_1
+  - first:
+      213: 21300012
+    second: Boss_MineGast_Horizontal_Transition90x94_3
+  - first:
+      213: 21300014
+    second: Boss_MineGast_Horizontal_Transition90x94_4
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_MineGast_Horizontal_Transition90x94_0
+      rect:
+        serializedVersion: 2
+        x: 13.026751
+        y: 282
+        width: 62.930344
+        height: 62.923878
+      alignment: 9
+      pivot: {x: 0.5080736, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.491924, y: -31.461939}
+        - {x: -31.491924, y: -25.461939}
+        - {x: -31.491924, y: 18.538061}
+        - {x: -20.491924, y: 31.538061}
+        - {x: 23.508076, y: 31.538061}
+        - {x: 28.508076, y: 29.538061}
+        - {x: 31.508076, y: 20.538061}
+        - {x: 31.508076, y: -18.461939}
+        - {x: 28.508076, y: -31.461939}
+      physicsShape:
+      - - {x: -12.491924, y: 26.538061}
+        - {x: -23.491924, y: 24.538061}
+        - {x: -27.491924, y: 7.538061}
+        - {x: -27.491924, y: -14.461939}
+        - {x: -22.491924, y: -25.461939}
+        - {x: -19.491924, y: -31.461939}
+        - {x: 24.508076, y: -31.461939}
+        - {x: 28.508076, y: -20.461939}
+        - {x: 28.508076, y: 8.538061}
+        - {x: 24.508076, y: 26.538061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a75886160d6474fafd009d42c2243c0
+      internalID: 21300000
+      vertices:
+      - {x: 59.46517, y: 92.46194}
+      - {x: 62.46517, y: 44.461937}
+      - {x: 62.46517, y: 83.46194}
+      - {x: 59.46517, y: 31.461939}
+      - {x: 54.46517, y: 94.46194}
+      - {x: 10.465172, y: 94.46194}
+      - {x: 2.4651718, y: 31.461939}
+      - {x: -0.5348282, y: 81.46194}
+      - {x: -0.5348282, y: 37.461937}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_MineGast_Horizontal_Transition90x94_7
+      rect:
+        serializedVersion: 2
+        x: 110.04291
+        y: 0
+        width: 46.880974
+        height: 67.97325
+      alignment: 9
+      pivot: {x: 0.5323501, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.516605, y: -33.986626}
+        - {x: -23.483395, y: -33.986626}
+        - {x: -23.483395, y: 34.013374}
+        - {x: 15.516605, y: 34.013374}
+        - {x: 23.516605, y: 21.013374}
+      physicsShape:
+      - - {x: 17.516605, y: 8.013374}
+        - {x: 17.516605, y: 22.013374}
+        - {x: 12.516605, y: 28.013374}
+        - {x: 5.5166054, y: 33.013374}
+        - {x: -8.483395, y: 33.013374}
+        - {x: -17.483395, y: 21.013374}
+        - {x: -17.483395, y: 13.013374}
+        - {x: -20.483395, y: 6.0133743}
+        - {x: -20.483395, y: -26.986626}
+        - {x: -15.483395, y: -33.986626}
+        - {x: 17.516605, y: -33.986626}
+        - {x: 23.516605, y: -30.986626}
+        - {x: 23.516605, y: 2.0133743}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63bd107910846d8990d11bc47f4c410
+      internalID: 21300002
+      vertices:
+      - {x: 37.440487, y: 101.986626}
+      - {x: 45.440487, y: 33.986626}
+      - {x: 45.440487, y: 88.986626}
+      - {x: -1.5595131, y: 101.986626}
+      - {x: -1.5595131, y: 33.986626}
+      indices:
+      - 4
+      - 3
+      - 1
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_MineGast_Horizontal_Transition90x94_2
+      rect:
+        serializedVersion: 2
+        x: 23.02675
+        y: 188
+        width: 43.897133
+        height: 50.973248
+      alignment: 9
+      pivot: {x: 0.5005623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.975317, y: -25.486624}
+        - {x: -21.975317, y: -20.486624}
+        - {x: -21.975317, y: 16.513376}
+        - {x: -15.975317, y: 25.513376}
+        - {x: 12.024683, y: 25.513376}
+        - {x: 22.024683, y: 20.513376}
+        - {x: 22.024683, y: -25.486624}
+      physicsShape:
+      - - {x: -10.975317, y: 23.513376}
+        - {x: -21.975317, y: 14.513376}
+        - {x: -21.975317, y: -17.486624}
+        - {x: -19.975317, y: -25.486624}
+        - {x: 16.024683, y: -25.486624}
+        - {x: 22.024683, y: -22.486624}
+        - {x: 22.024683, y: 10.513376}
+        - {x: 8.024683, y: 23.513376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b011a49eadae41d2862fdffa280615f4
+      internalID: 21300004
+      vertices:
+      - {x: 33.948566, y: 76.486626}
+      - {x: 43.948566, y: 25.486624}
+      - {x: 43.948566, y: 71.486626}
+      - {x: 5.9485664, y: 76.486626}
+      - {x: 1.9485664, y: 25.486624}
+      - {x: -0.051433563, y: 67.486626}
+      - {x: -0.051433563, y: 30.486624}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_MineGast_Horizontal_Transition90x94_6
+      rect:
+        serializedVersion: 2
+        x: 23.07612
+        y: 0
+        width: 43.847763
+        height: 62.923878
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.999998, y: -31.461939}
+        - {x: -22.000002, y: -31.461939}
+        - {x: -22.000002, y: 31.538061}
+        - {x: 6.999998, y: 31.538061}
+        - {x: 18.999998, y: 27.538061}
+        - {x: 21.999998, y: 22.538061}
+        - {x: 21.999998, y: -30.461939}
+      physicsShape:
+      - - {x: 12.999998, y: 28.538061}
+        - {x: 5.999998, y: 31.538061}
+        - {x: -10.000002, y: 31.538061}
+        - {x: -12.000002, y: 30.538061}
+        - {x: -14.000002, y: 20.538061}
+        - {x: -22.000002, y: 1.5380611}
+        - {x: -22.000002, y: -24.461939}
+        - {x: -17.000002, y: -31.461939}
+        - {x: 15.999998, y: -31.461939}
+        - {x: 21.999998, y: -28.461939}
+        - {x: 21.999998, y: 8.538061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6444a0c106e5453fada4f0414b79cb84
+      internalID: 21300006
+      vertices:
+      - {x: 43.92388, y: 85.46194}
+      - {x: 42.92388, y: 31.461939}
+      - {x: 43.92388, y: 32.461937}
+      - {x: 40.92388, y: 90.46194}
+      - {x: 28.923882, y: 94.46194}
+      - {x: -0.07611847, y: 94.46194}
+      - {x: -0.07611847, y: 31.461939}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_MineGast_Horizontal_Transition90x94_5
+      rect:
+        serializedVersion: 2
+        x: 113.07612
+        y: 94
+        width: 43.847763
+        height: 61.923878
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -30.961939}
+        - {x: -22, y: -27.961939}
+        - {x: -22, y: 4.038061}
+        - {x: -20, y: 28.038061}
+        - {x: -15, y: 31.038061}
+        - {x: 12, y: 31.038061}
+        - {x: 22, y: 11.038061}
+        - {x: 22, y: -29.961939}
+        - {x: 21, y: -30.961939}
+      physicsShape:
+      - - {x: 4, y: 26.038061}
+        - {x: -7, y: 26.038061}
+        - {x: -22, y: 7.038061}
+        - {x: -22, y: -23.961939}
+        - {x: -17, y: -30.961939}
+        - {x: 18, y: -30.961939}
+        - {x: 22, y: -24.961939}
+        - {x: 22, y: 3.0380611}
+        - {x: 12, y: 20.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cd0bae8b61414a939e5a3a0825a10c
+      internalID: 21300008
+      vertices:
+      - {x: 43.92388, y: 72.96194}
+      - {x: 42.92388, y: 30.961939}
+      - {x: 43.92388, y: 31.961939}
+      - {x: 33.92388, y: 92.96194}
+      - {x: 6.9238815, y: 92.96194}
+      - {x: 3.9238815, y: 30.961939}
+      - {x: 1.9238815, y: 89.96194}
+      - {x: -0.07611847, y: 65.96194}
+      - {x: -0.07611847, y: 33.961937}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_MineGast_Horizontal_Transition90x94_1
+      rect:
+        serializedVersion: 2
+        x: 112.02675
+        y: 282
+        width: 46.946503
+        height: 54.973248
+      alignment: 9
+      pivot: {x: 0.48934957, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: -27.486624}
+        - {x: -23.5, y: -27.486624}
+        - {x: -23.5, y: 27.513376}
+        - {x: 11.5, y: 27.513376}
+        - {x: 23.5, y: 21.513376}
+        - {x: 23.5, y: -21.486624}
+      physicsShape:
+      - - {x: -21.5, y: 24.513376}
+        - {x: -22.5, y: 19.513376}
+        - {x: -22.5, y: -27.486624}
+        - {x: 19.5, y: -27.486624}
+        - {x: 21.5, y: -24.486624}
+        - {x: 21.5, y: 9.513376}
+        - {x: 16.5, y: 24.513376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae77bd1cef924ae49fb9746d8cae537e
+      internalID: 21300010
+      vertices:
+      - {x: 47.47325, y: 76.486626}
+      - {x: 46.47325, y: 27.486624}
+      - {x: 47.47325, y: 33.486626}
+      - {x: 35.47325, y: 82.486626}
+      - {x: 0.47325134, y: 82.486626}
+      - {x: 0.47325134, y: 27.486624}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_MineGast_Horizontal_Transition90x94_3
+      rect:
+        serializedVersion: 2
+        x: 113.07612
+        y: 188
+        width: 43.847763
+        height: 44.923878
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -22.461939}
+        - {x: -22, y: -15.461939}
+        - {x: -22, y: 9.538061}
+        - {x: -17, y: 22.538061}
+        - {x: 22, y: 22.538061}
+        - {x: 22, y: -22.461939}
+      physicsShape:
+      - - {x: -22, y: 12.538061}
+        - {x: -22, y: -15.461939}
+        - {x: -17, y: -22.461939}
+        - {x: 17, y: -22.461939}
+        - {x: 22, y: -19.461939}
+        - {x: 22, y: 12.538061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a73ff19deb4451185bef4c412fe8fc1
+      internalID: 21300012
+      vertices:
+      - {x: 4.9238815, y: 67.46194}
+      - {x: 43.92388, y: 22.461939}
+      - {x: 43.92388, y: 67.46194}
+      - {x: 4.9238815, y: 22.461939}
+      - {x: -0.07611847, y: 54.461937}
+      - {x: -0.07611847, y: 29.461939}
+      indices:
+      - 5
+      - 4
+      - 3
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_MineGast_Horizontal_Transition90x94_4
+      rect:
+        serializedVersion: 2
+        x: 23.07612
+        y: 94
+        width: 43.847763
+        height: 63.923878
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.000002, y: -31.961939}
+        - {x: -22.000002, y: -24.961939}
+        - {x: -22.000002, y: 0.038061142}
+        - {x: -20.000002, y: 23.038061}
+        - {x: -1.0000019, y: 32.038063}
+        - {x: 18.999998, y: 32.038063}
+        - {x: 21.999998, y: 19.038061}
+        - {x: 21.999998, y: -28.961939}
+        - {x: 18.999998, y: -31.961939}
+      physicsShape:
+      - - {x: 1.9999981, y: 21.038061}
+        - {x: -6.000002, y: 18.038061}
+        - {x: -16.000002, y: 16.038061}
+        - {x: -22.000002, y: 0.038061142}
+        - {x: -22.000002, y: -25.961939}
+        - {x: -17.000002, y: -31.961939}
+        - {x: 16.999998, y: -31.961939}
+        - {x: 21.999998, y: -28.961939}
+        - {x: 21.999998, y: 4.038061}
+        - {x: 7.999998, y: 21.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08ebd220ec8493eae27947ad640705e
+      internalID: 21300014
+      vertices:
+      - {x: 40.92388, y: 95.96194}
+      - {x: 43.92388, y: 34.961937}
+      - {x: 43.92388, y: 82.96194}
+      - {x: 40.92388, y: 31.961939}
+      - {x: 20.923882, y: 95.96194}
+      - {x: 4.9238815, y: 31.961939}
+      - {x: 1.9238815, y: 86.96194}
+      - {x: -0.07611847, y: 63.961937}
+      - {x: -0.07611847, y: 38.961937}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 18979b6ea7ccdc86004681d90bf9ac05.bundle
+  assetBundleVariant:

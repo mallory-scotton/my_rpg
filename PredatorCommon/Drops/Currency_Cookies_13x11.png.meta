@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: dde9720cfc2ed9e49ac9d85dbe99a16d
+timeCreated: 1706119846
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Currency_Cookies_13x11_11
+  - first:
+      213: 21300002
+    second: Currency_Cookies_13x11_8
+  - first:
+      213: 21300004
+    second: Currency_Cookies_13x11_9
+  - first:
+      213: 21300006
+    second: Currency_Cookies_13x11_2
+  - first:
+      213: 21300008
+    second: Currency_Cookies_13x11_5
+  - first:
+      213: 21300010
+    second: Currency_Cookies_13x11_10
+  - first:
+      213: 21300012
+    second: Currency_Cookies_13x11_4
+  - first:
+      213: 21300014
+    second: Currency_Cookies_13x11_1
+  - first:
+      213: 21300016
+    second: Currency_Cookies_13x11_6
+  - first:
+      213: 21300018
+    second: Currency_Cookies_13x11_3
+  - first:
+      213: 21300020
+    second: Currency_Cookies_13x11_7
+  - first:
+      213: 21300022
+    second: Currency_Cookies_13x11_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Currency_Cookies_13x11_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -5.5}
+        - {x: -6.5, y: 5.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 6.5, y: -5.5}
+      physicsShape:
+      - - {x: -6.5, y: 5.5}
+        - {x: -6.5, y: -4.5}
+        - {x: -4.5, y: -5.5}
+        - {x: 6.5, y: -5.5}
+        - {x: 6.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae99397775745488b51f0b921ff6860
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 16.5}
+      - {x: 13, y: 16.5}
+      - {x: 0, y: 5.5}
+      - {x: 13, y: 5.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Currency_Cookies_13x11_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 11
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -5.5}
+        - {x: -6.5, y: 5.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 6.5, y: -5.5}
+      physicsShape:
+      - - {x: -4.5, y: 5.5}
+        - {x: -5.5, y: 2.5}
+        - {x: -5.5, y: -3.5}
+        - {x: -3.5, y: -5.5}
+        - {x: 4.5, y: -5.5}
+        - {x: 5.5, y: -3.5}
+        - {x: 5.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf2e7175cdd4150bec48116658344ea
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 16.5}
+      - {x: 13, y: 16.5}
+      - {x: 0, y: 5.5}
+      - {x: 13, y: 5.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Currency_Cookies_13x11_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -5.5}
+        - {x: -6.5, y: 5.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 6.5, y: -5.5}
+      physicsShape:
+      - - {x: -4.5, y: 5.5}
+        - {x: -4.5, y: -3.5}
+        - {x: -3.5, y: -5.5}
+        - {x: 5.5, y: -5.5}
+        - {x: 5.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a65de84bc594d1e836d7e512abb069a
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 16.5}
+      - {x: 13, y: 16.5}
+      - {x: 0, y: 5.5}
+      - {x: 13, y: 5.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Currency_Cookies_13x11_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 33
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -5.5}
+        - {x: -6.5, y: 5.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 6.5, y: -5.5}
+      physicsShape:
+      - - {x: -5.5, y: 5.5}
+        - {x: -6.5, y: 4.5}
+        - {x: -6.5, y: -1.5}
+        - {x: -3.5, y: -5.5}
+        - {x: 3.5, y: -5.5}
+        - {x: 5.5, y: -3.5}
+        - {x: 5.5, y: 2.5}
+        - {x: 4.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945d03d703aa4375b7475553a950bd21
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 16.5}
+      - {x: 13, y: 16.5}
+      - {x: 0, y: 5.5}
+      - {x: 13, y: 5.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Currency_Cookies_13x11_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 22
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -5.5}
+        - {x: -6.5, y: 5.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 6.5, y: -5.5}
+      physicsShape:
+      - - {x: -3.5, y: 5.5}
+        - {x: -6.5, y: 3.5}
+        - {x: -6.5, y: -2.5}
+        - {x: -3.5, y: -5.5}
+        - {x: 4.5, y: -5.5}
+        - {x: 6.5, y: -4.5}
+        - {x: 6.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e707d48ef2f4270b02523486bf32721
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 16.5}
+      - {x: 13, y: 16.5}
+      - {x: 0, y: 5.5}
+      - {x: 13, y: 5.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Currency_Cookies_13x11_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -5.5}
+        - {x: -6.5, y: 5.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 6.5, y: -5.5}
+      physicsShape:
+      - - {x: -3.5, y: 5.5}
+        - {x: -6.5, y: 2.5}
+        - {x: -6.5, y: -1.5}
+        - {x: -3.5, y: -5.5}
+        - {x: 3.5, y: -5.5}
+        - {x: 5.5, y: -3.5}
+        - {x: 6.5, y: 1.5}
+        - {x: 2.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380789ed49d64463af60475114da4607
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 16.5}
+      - {x: 13, y: 16.5}
+      - {x: 0, y: 5.5}
+      - {x: 13, y: 5.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Currency_Cookies_13x11_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 22
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -5.5}
+        - {x: -6.5, y: 5.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 6.5, y: -5.5}
+      physicsShape:
+      - - {x: -4.5, y: 5.5}
+        - {x: -5.5, y: 2.5}
+        - {x: -5.5, y: -3.5}
+        - {x: -3.5, y: -5.5}
+        - {x: 4.5, y: -5.5}
+        - {x: 6.5, y: -2.5}
+        - {x: 6.5, y: 4.5}
+        - {x: 5.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7be47f76dc4753b5f232e146c0baad
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 16.5}
+      - {x: 13, y: 16.5}
+      - {x: 0, y: 5.5}
+      - {x: 13, y: 5.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Currency_Cookies_13x11_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 33
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -5.5}
+        - {x: -6.5, y: 5.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 6.5, y: -5.5}
+      physicsShape:
+      - - {x: -6.5, y: 5.5}
+        - {x: -6.5, y: -4.5}
+        - {x: -4.5, y: -5.5}
+        - {x: 6.5, y: -5.5}
+        - {x: 6.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3e4994adcc4192a0bca1752f3cfd82
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 16.5}
+      - {x: 13, y: 16.5}
+      - {x: 0, y: 5.5}
+      - {x: 13, y: 5.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Currency_Cookies_13x11_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -5.5}
+        - {x: -6.5, y: 5.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 6.5, y: -5.5}
+      physicsShape:
+      - - {x: -6.5, y: -5.5}
+        - {x: 6.5, y: -5.5}
+        - {x: 6.5, y: 5.5}
+        - {x: -4.5, y: 5.5}
+        - {x: -6.5, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8246e06071cb4781bb70ee613ba65a54
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 16.5}
+      - {x: 13, y: 16.5}
+      - {x: 0, y: 5.5}
+      - {x: 13, y: 5.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Currency_Cookies_13x11_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -5.5}
+        - {x: -6.5, y: 5.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 6.5, y: -5.5}
+      physicsShape:
+      - - {x: -4.5, y: 5.5}
+        - {x: -4.5, y: -2.5}
+        - {x: -3.5, y: -5.5}
+        - {x: 5.5, y: -5.5}
+        - {x: 5.5, y: 4.5}
+        - {x: 4.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3934fbe408f144d2b65e08e0b9e4e27c
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 16.5}
+      - {x: 13, y: 16.5}
+      - {x: 0, y: 5.5}
+      - {x: 13, y: 5.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Currency_Cookies_13x11_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 11
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -5.5}
+        - {x: -6.5, y: 5.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 6.5, y: -5.5}
+      physicsShape:
+      - - {x: -3.5, y: 5.5}
+        - {x: -6.5, y: 2.5}
+        - {x: -6.5, y: -2.5}
+        - {x: -5.5, y: -5.5}
+        - {x: 5.5, y: -5.5}
+        - {x: 6.5, y: -4.5}
+        - {x: 6.5, y: 3.5}
+        - {x: 4.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dc53f30b9046d6b0492e2e93fcba84
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 16.5}
+      - {x: 13, y: 16.5}
+      - {x: 0, y: 5.5}
+      - {x: 13, y: 5.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Currency_Cookies_13x11_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -5.5}
+        - {x: -6.5, y: 5.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 6.5, y: -5.5}
+      physicsShape:
+      - - {x: -6.5, y: 5.5}
+        - {x: -6.5, y: -5.5}
+        - {x: 6.5, y: -5.5}
+        - {x: 6.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebef739bdccb4966bfeb964c66685a2a
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 16.5}
+      - {x: 13, y: 16.5}
+      - {x: 0, y: 5.5}
+      - {x: 13, y: 5.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

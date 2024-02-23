@@ -1,0 +1,822 @@
+fileFormatVersion: 2
+guid: 48ca6bcd5b46cd74f8d4e17fae221432
+timeCreated: 1706119828
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SW_tortoise_fish_idle-Sheet60x32_4
+  - first:
+      213: 21300002
+    second: SW_tortoise_fish_idle-Sheet60x32_10
+  - first:
+      213: 21300004
+    second: SW_tortoise_fish_idle-Sheet60x32_6
+  - first:
+      213: 21300006
+    second: SW_tortoise_fish_idle-Sheet60x32_3
+  - first:
+      213: 21300008
+    second: SW_tortoise_fish_idle-Sheet60x32_0
+  - first:
+      213: 21300010
+    second: SW_tortoise_fish_idle-Sheet60x32_7
+  - first:
+      213: 21300012
+    second: SW_tortoise_fish_idle-Sheet60x32_2
+  - first:
+      213: 21300014
+    second: SW_tortoise_fish_idle-Sheet60x32_9
+  - first:
+      213: 21300016
+    second: SW_tortoise_fish_idle-Sheet60x32_8
+  - first:
+      213: 21300018
+    second: SW_tortoise_fish_idle-Sheet60x32_1
+  - first:
+      213: 21300020
+    second: SW_tortoise_fish_idle-Sheet60x32_5
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SW_tortoise_fish_idle-Sheet60x32_4
+      rect:
+        serializedVersion: 2
+        x: 5.0761204
+        y: 32
+        width: 48.847755
+        height: 26.97325
+      alignment: 9
+      pivot: {x: 0.5102359, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.500002, y: -13.486625}
+        - {x: -24.499998, y: -13.486625}
+        - {x: -24.499998, y: 11.513375}
+        - {x: -22.499998, y: 13.513375}
+        - {x: 3.500002, y: 13.513375}
+        - {x: 19.500002, y: 8.513375}
+        - {x: 24.500002, y: 2.5133753}
+        - {x: 24.500002, y: -10.486625}
+      physicsShape:
+      - - {x: 24.500002, y: -0.48662472}
+        - {x: 18.500002, y: 6.5133753}
+        - {x: 0.5000019, y: 13.513375}
+        - {x: -22.499998, y: 13.513375}
+        - {x: -24.499998, y: 11.513375}
+        - {x: -24.499998, y: -13.486625}
+        - {x: -3.499998, y: -13.486625}
+        - {x: 4.500002, y: -4.4866247}
+        - {x: 18.500002, y: -8.486625}
+        - {x: 24.500002, y: -6.4866247}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205475d8bfbe4c07995d518734416a49
+      internalID: 21300000
+      vertices:
+      - {x: 43.423878, y: 35.486626}
+      - {x: 48.423878, y: 16.486626}
+      - {x: 48.423878, y: 29.486626}
+      - {x: 35.423878, y: 13.486625}
+      - {x: 27.423878, y: 40.486626}
+      - {x: 1.4238777, y: 40.486626}
+      - {x: -0.5761223, y: 38.486626}
+      - {x: -0.5761223, y: 13.486625}
+      indices:
+      - 7
+      - 6
+      - 3
+      - 5
+      - 3
+      - 6
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_idle-Sheet60x32_10
+      rect:
+        serializedVersion: 2
+        x: 125.07612
+        y: 0
+        width: 48.847755
+        height: 25.97325
+      alignment: 9
+      pivot: {x: 0.51023597, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.500004, y: -12.986625}
+        - {x: -24.499996, y: -12.986625}
+        - {x: -24.499996, y: 12.013375}
+        - {x: -21.499996, y: 13.013375}
+        - {x: 10.500004, y: 13.013375}
+        - {x: 24.500004, y: 6.0133753}
+        - {x: 24.500004, y: -4.9866247}
+      physicsShape:
+      - - {x: 24.500004, y: 2.0133753}
+        - {x: 15.500004, y: 7.0133753}
+        - {x: 1.5000038, y: 13.013375}
+        - {x: -17.499996, y: 13.013375}
+        - {x: -24.499996, y: 11.013375}
+        - {x: -24.499996, y: -12.986625}
+        - {x: 1.5000038, y: -12.986625}
+        - {x: 22.500004, y: -5.9866247}
+        - {x: 24.500004, y: -3.9866247}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a630b59f8fbf481f9ff285192944c3a3
+      internalID: 21300002
+      vertices:
+      - {x: 34.423878, y: 38.986626}
+      - {x: 48.423878, y: 20.986626}
+      - {x: 48.423878, y: 31.986626}
+      - {x: 28.423878, y: 12.986625}
+      - {x: 2.4238777, y: 38.986626}
+      - {x: -0.5761223, y: 37.986626}
+      - {x: -0.5761223, y: 12.986625}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_idle-Sheet60x32_6
+      rect:
+        serializedVersion: 2
+        x: 125.02675
+        y: 32
+        width: 48.897125
+        height: 27.97325
+      alignment: 9
+      pivot: {x: 0.51073045, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.4753113, y: -13.986625}
+        - {x: -24.475311, y: -13.986625}
+        - {x: -24.475311, y: 11.013375}
+        - {x: -18.475311, y: 14.013375}
+        - {x: 8.524689, y: 14.013375}
+        - {x: 24.524689, y: 5.0133753}
+        - {x: 24.524689, y: -6.9866247}
+      physicsShape:
+      - - {x: 24.524689, y: 4.0133753}
+        - {x: -0.47531128, y: 14.013375}
+        - {x: -13.475311, y: 14.013375}
+        - {x: -22.475311, y: 12.013375}
+        - {x: -24.475311, y: 9.013375}
+        - {x: -24.475311, y: -6.9866247}
+        - {x: -23.475311, y: -13.986625}
+        - {x: -6.4753113, y: -13.986625}
+        - {x: -0.47531128, y: -7.9866247}
+        - {x: 20.524689, y: -6.9866247}
+        - {x: 24.524689, y: -4.9866247}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c15547011ba419b92f2fb388ceebaf0
+      internalID: 21300004
+      vertices:
+      - {x: 32.448563, y: 41.986626}
+      - {x: 48.448563, y: 20.986626}
+      - {x: 48.448563, y: 32.986626}
+      - {x: 22.448563, y: 13.986625}
+      - {x: 5.4485626, y: 41.986626}
+      - {x: -0.5514374, y: 38.986626}
+      - {x: -0.5514374, y: 13.986625}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_idle-Sheet60x32_3
+      rect:
+        serializedVersion: 2
+        x: 185.07613
+        y: 64
+        width: 48.847755
+        height: 25.97325
+      alignment: 9
+      pivot: {x: 0.5102358, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.499994, y: -12.986625}
+        - {x: -24.500006, y: -12.986625}
+        - {x: -24.500006, y: 10.013375}
+        - {x: -18.500006, y: 13.013375}
+        - {x: 5.4999943, y: 13.013375}
+        - {x: 24.499994, y: 3.0133753}
+        - {x: 24.499994, y: -10.986625}
+      physicsShape:
+      - - {x: 5.4999943, y: 13.013375}
+        - {x: -18.500006, y: 13.013375}
+        - {x: -24.500006, y: 10.013375}
+        - {x: -24.500006, y: -12.986625}
+        - {x: -1.5000057, y: -12.986625}
+        - {x: 5.4999943, y: -9.986625}
+        - {x: 24.499994, y: -9.986625}
+        - {x: 24.499994, y: 3.0133753}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f10e8c706d14b45842a245831ab1631
+      internalID: 21300006
+      vertices:
+      - {x: 48.423878, y: 28.986626}
+      - {x: 34.423878, y: 12.986625}
+      - {x: 48.423878, y: 14.986625}
+      - {x: 29.423878, y: 38.986626}
+      - {x: 5.4238777, y: 38.986626}
+      - {x: -0.5761223, y: 35.986626}
+      - {x: -0.5761223, y: 12.986625}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_idle-Sheet60x32_0
+      rect:
+        serializedVersion: 2
+        x: 5.0761204
+        y: 64
+        width: 48.847755
+        height: 25.97325
+      alignment: 9
+      pivot: {x: 0.5102359, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.500002, y: -12.986625}
+        - {x: -24.499998, y: -12.986625}
+        - {x: -24.499998, y: 13.013375}
+        - {x: 12.500002, y: 13.013375}
+        - {x: 24.500002, y: 11.013375}
+        - {x: 24.500002, y: -7.9866247}
+      physicsShape:
+      - - {x: 3.500002, y: 13.013375}
+        - {x: -24.499998, y: 13.013375}
+        - {x: -24.499998, y: -12.986625}
+        - {x: 7.500002, y: -12.986625}
+        - {x: 24.500002, y: -7.9866247}
+        - {x: 24.500002, y: 1.0133753}
+        - {x: 23.500002, y: 3.0133753}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531f9612ecf7447491548115da582a58
+      internalID: 21300008
+      vertices:
+      - {x: 36.423878, y: 38.986626}
+      - {x: 48.423878, y: 17.986626}
+      - {x: 48.423878, y: 36.986626}
+      - {x: 31.423878, y: 12.986625}
+      - {x: -0.5761223, y: 38.986626}
+      - {x: -0.5761223, y: 12.986625}
+      indices:
+      - 5
+      - 4
+      - 3
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_idle-Sheet60x32_7
+      rect:
+        serializedVersion: 2
+        x: 185.02675
+        y: 32
+        width: 48.897125
+        height: 26.97325
+      alignment: 9
+      pivot: {x: 0.51073045, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5246887, y: -13.486625}
+        - {x: -24.475311, y: -13.486625}
+        - {x: -24.475311, y: 12.513375}
+        - {x: -22.475311, y: 13.513375}
+        - {x: 2.5246887, y: 13.513375}
+        - {x: 24.524689, y: 5.5133753}
+        - {x: 24.524689, y: -6.4866247}
+      physicsShape:
+      - - {x: 2.5246887, y: 13.513375}
+        - {x: -21.475311, y: 13.513375}
+        - {x: -24.475311, y: 11.513375}
+        - {x: -24.475311, y: -13.486625}
+        - {x: -1.4753113, y: -13.486625}
+        - {x: 5.5246887, y: -6.4866247}
+        - {x: 24.524689, y: -5.4866247}
+        - {x: 24.524689, y: 3.5133753}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73df0ddea4a47e18334f7f1b7dd917d
+      internalID: 21300010
+      vertices:
+      - {x: 48.448563, y: 32.486626}
+      - {x: 29.448563, y: 13.486625}
+      - {x: 48.448563, y: 20.486626}
+      - {x: 26.448563, y: 40.486626}
+      - {x: 1.4485626, y: 40.486626}
+      - {x: -0.5514374, y: 39.486626}
+      - {x: -0.5514374, y: 13.486625}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_idle-Sheet60x32_2
+      rect:
+        serializedVersion: 2
+        x: 125.07612
+        y: 64
+        width: 48.847755
+        height: 25.97325
+      alignment: 9
+      pivot: {x: 0.51023597, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.500004, y: -12.986625}
+        - {x: -24.499996, y: -12.986625}
+        - {x: -24.499996, y: 12.013375}
+        - {x: -22.499996, y: 13.013375}
+        - {x: 5.500004, y: 13.013375}
+        - {x: 24.500004, y: 0.013375282}
+        - {x: 24.500004, y: -10.986625}
+      physicsShape:
+      - - {x: 24.500004, y: 0.013375282}
+        - {x: 5.500004, y: 13.013375}
+        - {x: -22.499996, y: 13.013375}
+        - {x: -24.499996, y: 12.013375}
+        - {x: -24.499996, y: -12.986625}
+        - {x: -3.4999962, y: -12.986625}
+        - {x: 4.500004, y: -4.9866247}
+        - {x: 18.500004, y: -8.986625}
+        - {x: 24.500004, y: -6.9866247}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e9376d2190468a8f5f5e8eb12465ab
+      internalID: 21300012
+      vertices:
+      - {x: 48.423878, y: 25.986626}
+      - {x: 36.423878, y: 12.986625}
+      - {x: 48.423878, y: 14.986625}
+      - {x: 29.423878, y: 38.986626}
+      - {x: 1.4238777, y: 38.986626}
+      - {x: -0.5761223, y: 37.986626}
+      - {x: -0.5761223, y: 12.986625}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_idle-Sheet60x32_9
+      rect:
+        serializedVersion: 2
+        x: 65.03875
+        y: 0
+        width: 48.885128
+        height: 26.97325
+      alignment: 9
+      pivot: {x: 0.5106103, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.518684, y: -13.486625}
+        - {x: -24.481316, y: -13.486625}
+        - {x: -24.481316, y: 9.513375}
+        - {x: -23.481316, y: 11.513375}
+        - {x: -21.481316, y: 13.513375}
+        - {x: 13.518684, y: 13.513375}
+        - {x: 24.518684, y: 3.5133753}
+        - {x: 24.518684, y: -10.486625}
+      physicsShape:
+      - - {x: 13.518684, y: 13.513375}
+        - {x: -21.481316, y: 13.513375}
+        - {x: -23.481316, y: 11.513375}
+        - {x: -24.481316, y: 9.513375}
+        - {x: -24.481316, y: -13.486625}
+        - {x: 7.5186844, y: -13.486625}
+        - {x: 23.518684, y: -6.4866247}
+        - {x: 24.518684, y: -6.4866247}
+        - {x: 24.518684, y: 3.5133753}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1682bb7cc34017a53d3d3252b1bf25
+      internalID: 21300014
+      vertices:
+      - {x: 48.442566, y: 30.486626}
+      - {x: 38.442566, y: 13.486625}
+      - {x: 48.442566, y: 16.486626}
+      - {x: 37.442566, y: 40.486626}
+      - {x: 2.442564, y: 40.486626}
+      - {x: 0.442564, y: 38.486626}
+      - {x: -0.557436, y: 36.486626}
+      - {x: -0.557436, y: 13.486625}
+      indices:
+      - 7
+      - 6
+      - 1
+      - 5
+      - 1
+      - 6
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_idle-Sheet60x32_8
+      rect:
+        serializedVersion: 2
+        x: 5.0429077
+        y: 0
+        width: 48.88097
+        height: 26.97325
+      alignment: 9
+      pivot: {x: 0.5105687, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.516607, y: -13.486625}
+        - {x: -24.483393, y: -13.486625}
+        - {x: -24.483393, y: 12.513375}
+        - {x: -21.483393, y: 13.513375}
+        - {x: 14.516607, y: 13.513375}
+        - {x: 24.516607, y: 9.513375}
+        - {x: 24.516607, y: -5.4866247}
+        - {x: 19.516607, y: -11.486625}
+      physicsShape:
+      - - {x: 24.516607, y: 1.5133753}
+        - {x: 16.516607, y: 5.5133753}
+        - {x: 1.5166073, y: 13.513375}
+        - {x: -18.483393, y: 13.513375}
+        - {x: -24.483393, y: 11.513375}
+        - {x: -24.483393, y: -13.486625}
+        - {x: -2.4833927, y: -13.486625}
+        - {x: 4.5166073, y: -5.4866247}
+        - {x: 17.516607, y: -7.4866247}
+        - {x: 24.516607, y: -4.4866247}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5263659abf4288b8819c58ca77a74e
+      internalID: 21300016
+      vertices:
+      - {x: 48.440483, y: 36.486626}
+      - {x: 43.440483, y: 15.486625}
+      - {x: 48.440483, y: 21.486626}
+      - {x: 38.440483, y: 40.486626}
+      - {x: 35.440483, y: 13.486625}
+      - {x: 2.440485, y: 40.486626}
+      - {x: -0.559515, y: 39.486626}
+      - {x: -0.559515, y: 13.486625}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_idle-Sheet60x32_1
+      rect:
+        serializedVersion: 2
+        x: 65.07612
+        y: 64
+        width: 48.847755
+        height: 25.97325
+      alignment: 9
+      pivot: {x: 0.51023597, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.500004, y: -12.986625}
+        - {x: -24.499996, y: -12.986625}
+        - {x: -24.499996, y: 11.013375}
+        - {x: -21.499996, y: 13.013375}
+        - {x: 10.500004, y: 13.013375}
+        - {x: 24.500004, y: 5.0133753}
+        - {x: 24.500004, y: -5.9866247}
+        - {x: 22.500004, y: -7.9866247}
+      physicsShape:
+      - - {x: 10.500004, y: 13.013375}
+        - {x: -21.499996, y: 13.013375}
+        - {x: -24.499996, y: 11.013375}
+        - {x: -24.499996, y: -12.986625}
+        - {x: -2.4999962, y: -12.986625}
+        - {x: 5.500004, y: -9.986625}
+        - {x: 22.500004, y: -7.9866247}
+        - {x: 24.500004, y: -5.9866247}
+        - {x: 24.500004, y: 5.0133753}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e405938ef0af499f9d1784033d53d0d6
+      internalID: 21300018
+      vertices:
+      - {x: 48.423878, y: 30.986626}
+      - {x: 46.423878, y: 17.986626}
+      - {x: 48.423878, y: 19.986626}
+      - {x: 34.423878, y: 38.986626}
+      - {x: 29.423878, y: 12.986625}
+      - {x: 2.4238777, y: 38.986626}
+      - {x: -0.5761223, y: 36.986626}
+      - {x: -0.5761223, y: 12.986625}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_tortoise_fish_idle-Sheet60x32_5
+      rect:
+        serializedVersion: 2
+        x: 65.07612
+        y: 32
+        width: 48.847755
+        height: 27.97325
+      alignment: 9
+      pivot: {x: 0.51023597, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5000038, y: -13.986625}
+        - {x: -24.499996, y: -13.986625}
+        - {x: -24.499996, y: 11.013375}
+        - {x: -16.499996, y: 14.013375}
+        - {x: 6.500004, y: 14.013375}
+        - {x: 24.500004, y: 5.0133753}
+        - {x: 24.500004, y: -8.986625}
+      physicsShape:
+      - - {x: 24.500004, y: 5.0133753}
+        - {x: 6.500004, y: 14.013375}
+        - {x: -16.499996, y: 14.013375}
+        - {x: -24.499996, y: 11.013375}
+        - {x: -24.499996, y: -13.986625}
+        - {x: -2.4999962, y: -13.986625}
+        - {x: 9.500004, y: -7.9866247}
+        - {x: 24.500004, y: -7.9866247}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719b5812637444a09ff29efb07445767
+      internalID: 21300020
+      vertices:
+      - {x: 30.423878, y: 41.986626}
+      - {x: 48.423878, y: 18.986626}
+      - {x: 48.423878, y: 32.986626}
+      - {x: 26.423878, y: 13.986625}
+      - {x: 7.4238777, y: 41.986626}
+      - {x: -0.5761223, y: 38.986626}
+      - {x: -0.5761223, y: 13.986625}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 01b90742928d4534582a302fcac22cbc
+timeCreated: 1706119851
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SW_deadtreewater3_28x23_7
+  - first:
+      213: 21300002
+    second: SW_deadtreewater3_28x23_4
+  - first:
+      213: 21300004
+    second: SW_deadtreewater3_28x23_0
+  - first:
+      213: 21300006
+    second: SW_deadtreewater3_28x23_2
+  - first:
+      213: 21300008
+    second: SW_deadtreewater3_28x23_6
+  - first:
+      213: 21300010
+    second: SW_deadtreewater3_28x23_3
+  - first:
+      213: 21300012
+    second: SW_deadtreewater3_28x23_5
+  - first:
+      213: 21300014
+    second: SW_deadtreewater3_28x23_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SW_deadtreewater3_28x23_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 28
+        height: 23
+      alignment: 9
+      pivot: {x: 0.45, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.999999, y: -11.5}
+        - {x: -13.999999, y: 11.5}
+        - {x: 14.000001, y: 11.5}
+        - {x: 14.000001, y: -11.5}
+      physicsShape:
+      - - {x: -4.999999, y: 11.5}
+        - {x: -5.999999, y: 9.5}
+        - {x: -13.999999, y: 6.5000005}
+        - {x: -13.999999, y: -8.5}
+        - {x: -6.999999, y: -11.5}
+        - {x: 8.000001, y: -11.5}
+        - {x: 12.000001, y: -9.5}
+        - {x: 13.000001, y: -6.5}
+        - {x: 13.000001, y: -3.5}
+        - {x: 3.000001, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e58d2f51af488c9a1bae38fb5a1b04
+      internalID: 21300000
+      vertices:
+      - {x: 1.4000015, y: 27.6}
+      - {x: 29.400002, y: 27.6}
+      - {x: 1.4000015, y: 4.6}
+      - {x: 29.400002, y: 4.6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_deadtreewater3_28x23_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 23
+        width: 28
+        height: 23
+      alignment: 9
+      pivot: {x: 0.45, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.999999, y: -11.5}
+        - {x: -13.999999, y: 11.5}
+        - {x: 14.000001, y: 11.5}
+        - {x: 14.000001, y: -11.5}
+      physicsShape:
+      - - {x: 3.000001, y: 11.5}
+        - {x: -6.999999, y: 11.5}
+        - {x: -9.999999, y: 9.5}
+        - {x: -12.999999, y: 0.5000005}
+        - {x: -12.999999, y: -6.4999995}
+        - {x: -9.999999, y: -11.5}
+        - {x: 6.000001, y: -11.5}
+        - {x: 11.000001, y: -6.4999995}
+        - {x: 11.000001, y: 0.5000005}
+      - - {x: 10.000001, y: -11.5}
+        - {x: 14.000001, y: -11.5}
+        - {x: 14.000001, y: -8.5}
+        - {x: 11.000001, y: -7.4999995}
+        - {x: 9.000001, y: -9.5}
+      - - {x: 11.000001, y: 4.5000005}
+        - {x: 14.000001, y: 5.5000005}
+        - {x: 14.000001, y: 8.5}
+        - {x: 11.000001, y: 9.5}
+        - {x: 9.000001, y: 7.5000005}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b844b557c64dd9a43ac1a4c396806a
+      internalID: 21300002
+      vertices:
+      - {x: 1.4000015, y: 27.6}
+      - {x: 29.400002, y: 27.6}
+      - {x: 1.4000015, y: 4.6000004}
+      - {x: 29.400002, y: 4.6000004}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_deadtreewater3_28x23_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 28
+        height: 23
+      alignment: 9
+      pivot: {x: 0.45, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -11.500002}
+        - {x: -14, y: 11.499998}
+        - {x: 14, y: 11.499998}
+        - {x: 14, y: -11.500002}
+      physicsShape:
+      - - {x: 4, y: 11.499998}
+        - {x: -6, y: 11.499998}
+        - {x: -14, y: 5.4999986}
+        - {x: -14, y: -5.5000014}
+        - {x: -12, y: -11.500002}
+        - {x: 7, y: -11.500002}
+        - {x: 11, y: -6.5000014}
+        - {x: 12, y: -4.5000014}
+        - {x: 12, y: 2.4999986}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22ca55994f5452182d72f79c945fdb1
+      internalID: 21300004
+      vertices:
+      - {x: 1.4000006, y: 27.599998}
+      - {x: 29.400002, y: 27.599998}
+      - {x: 1.4000006, y: 4.5999985}
+      - {x: 29.400002, y: 4.5999985}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_deadtreewater3_28x23_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 46
+        width: 28
+        height: 23
+      alignment: 9
+      pivot: {x: 0.45, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.999999, y: -11.500002}
+        - {x: -13.999999, y: 11.499998}
+        - {x: 14.000001, y: 11.499998}
+        - {x: 14.000001, y: -11.500002}
+      physicsShape:
+      - - {x: -13.999999, y: 11.499998}
+        - {x: -13.999999, y: -9.500002}
+        - {x: -7.999999, y: -11.500002}
+        - {x: 7.000001, y: -11.500002}
+        - {x: 8.000001, y: -10.500002}
+        - {x: 8.000001, y: 6.4999986}
+        - {x: 4.000001, y: 11.499998}
+      - - {x: 5.000001, y: 7.4999986}
+        - {x: 5.000001, y: -10.500002}
+        - {x: 8.000001, y: -10.500002}
+        - {x: 14.000001, y: -8.500002}
+        - {x: 14.000001, y: 1.4999986}
+        - {x: 9.000001, y: 7.4999986}
+      - - {x: 11.000001, y: 3.4999986}
+        - {x: 13.000001, y: 1.4999986}
+        - {x: 14.000001, y: 1.4999986}
+        - {x: 14.000001, y: 6.4999986}
+        - {x: 12.000001, y: 6.4999986}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9391fc0ce7f46358b92f71faa2546b3
+      internalID: 21300006
+      vertices:
+      - {x: 1.4000015, y: 27.599998}
+      - {x: 29.400002, y: 27.599998}
+      - {x: 1.4000015, y: 4.5999985}
+      - {x: 29.400002, y: 4.5999985}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_deadtreewater3_28x23_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 23
+      alignment: 9
+      pivot: {x: 0.45, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -11.5}
+        - {x: -14, y: 11.5}
+        - {x: 14, y: 11.5}
+        - {x: 14, y: -11.5}
+      physicsShape:
+      - - {x: -9, y: 11.5}
+        - {x: -14, y: 4.5000005}
+        - {x: -14, y: -8.5}
+        - {x: -12, y: -10.5}
+        - {x: 11, y: -10.5}
+        - {x: 13, y: -5.5}
+        - {x: 13, y: -0.5}
+        - {x: 2, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352d672cc0d44f2d9c4460252edab2fc
+      internalID: 21300008
+      vertices:
+      - {x: 1.4000006, y: 27.6}
+      - {x: 29.400002, y: 27.6}
+      - {x: 1.4000006, y: 4.6}
+      - {x: 29.400002, y: 4.6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_deadtreewater3_28x23_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 28
+        height: 23
+      alignment: 9
+      pivot: {x: 0.45, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -11.5}
+        - {x: -14, y: 11.5}
+        - {x: 14, y: 11.5}
+        - {x: 14, y: -11.5}
+      physicsShape:
+      - - {x: 3, y: 11.5}
+        - {x: -6, y: 11.5}
+        - {x: -8, y: 10.5}
+        - {x: -14, y: -0.49999952}
+        - {x: -14, y: -6.4999995}
+        - {x: -10, y: -11.5}
+        - {x: 6, y: -11.5}
+        - {x: 8, y: -2.4999995}
+        - {x: 8, y: -0.49999952}
+      - - {x: 8, y: -7.4999995}
+        - {x: 7, y: -10.5}
+        - {x: 7, y: -11.5}
+        - {x: 12, y: -11.5}
+        - {x: 14, y: -10.5}
+        - {x: 14, y: -2.4999995}
+        - {x: 11, y: -3.4999995}
+      - - {x: 5, y: 6.5000005}
+        - {x: 8, y: 1.5000005}
+        - {x: 11, y: 3.5000005}
+        - {x: 10, y: 7.5000005}
+        - {x: 8, y: 9.5}
+        - {x: 6, y: 9.5}
+      - - {x: 11, y: 3.5000005}
+        - {x: 13, y: 1.5000005}
+        - {x: 14, y: 1.5000005}
+        - {x: 14, y: 6.5000005}
+        - {x: 12, y: 6.5000005}
+      - - {x: -11, y: 4.5000005}
+        - {x: -11, y: 7.5000005}
+        - {x: -14, y: 8.5}
+        - {x: -14, y: 3.5000005}
+      - - {x: -9, y: 7.5000005}
+        - {x: -6, y: 8.5}
+        - {x: -6, y: 11.5}
+        - {x: -10, y: 11.5}
+        - {x: -11, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73c272cda2e484183d49084e6db52fa
+      internalID: 21300010
+      vertices:
+      - {x: 1.4000006, y: 27.6}
+      - {x: 29.400002, y: 27.6}
+      - {x: 1.4000006, y: 4.6000004}
+      - {x: 29.400002, y: 4.6000004}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_deadtreewater3_28x23_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 23
+        width: 28
+        height: 23
+      alignment: 9
+      pivot: {x: 0.45, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.999999, y: -11.5}
+        - {x: -13.999999, y: 11.5}
+        - {x: 14.000001, y: 11.5}
+        - {x: 14.000001, y: -11.5}
+      physicsShape:
+      - - {x: -8.999999, y: 11.5}
+        - {x: -13.999999, y: 2.5000005}
+        - {x: -13.999999, y: -7.4999995}
+        - {x: -11.999999, y: -9.5}
+        - {x: -5.999999, y: -11.5}
+        - {x: 6.000001, y: -11.5}
+        - {x: 12.000001, y: -4.4999995}
+        - {x: 12.000001, y: 2.5000005}
+        - {x: 5.000001, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f930d84c0d545478fa007b9205346fb
+      internalID: 21300012
+      vertices:
+      - {x: 1.4000015, y: 27.6}
+      - {x: 29.400002, y: 27.6}
+      - {x: 1.4000015, y: 4.6000004}
+      - {x: 29.400002, y: 4.6000004}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_deadtreewater3_28x23_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 46
+        width: 28
+        height: 23
+      alignment: 9
+      pivot: {x: 0.45, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.999999, y: -11.500002}
+        - {x: -13.999999, y: 11.499998}
+        - {x: 14.000001, y: 11.499998}
+        - {x: 14.000001, y: -11.500002}
+      physicsShape:
+      - - {x: -5.999999, y: 11.499998}
+        - {x: -13.999999, y: 4.4999986}
+        - {x: -13.999999, y: -6.5000014}
+        - {x: -7.999999, y: -10.500002}
+        - {x: 10.000001, y: -10.500002}
+        - {x: 13.000001, y: -6.5000014}
+        - {x: 13.000001, y: 5.4999986}
+        - {x: 7.000001, y: 11.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805d69fe1f9348feb860965eea5183ae
+      internalID: 21300014
+      vertices:
+      - {x: 1.4000015, y: 27.599998}
+      - {x: 29.400002, y: 27.599998}
+      - {x: 1.4000015, y: 4.5999985}
+      - {x: 29.400002, y: 4.5999985}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 95d35bf82d4be93d9c0d7dd6f29fa4e4.bundle
+  assetBundleVariant:

@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 3b8f3f66b69812344a62580d6c5436f5
+timeCreated: 1706119811
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Bullet_RedLaser28x12_2
+  - first:
+      213: 21300002
+    second: Bullet_RedLaser28x12_0
+  - first:
+      213: 21300004
+    second: Bullet_RedLaser28x12_1
+  - first:
+      213: 21300006
+    second: Bullet_RedLaser28x12_3
+  - first:
+      213: 21300008
+    second: Bullet_RedLaser28x12_4
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bullet_RedLaser28x12_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 28
+        height: 12
+      alignment: 9
+      pivot: {x: 0.8571429, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.999998, y: -6}
+        - {x: -13.999998, y: 6}
+        - {x: 14.000002, y: 6}
+        - {x: 14.000002, y: -6}
+      physicsShape:
+      - - {x: 1.9073486E-06, y: 5}
+        - {x: -0.9999981, y: 2}
+        - {x: 1.0000019, y: -3}
+        - {x: 6.000002, y: -4}
+        - {x: 12.000002, y: -4}
+        - {x: 12.000002, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ecc908f38341e597597af090f8e528
+      internalID: 21300000
+      vertices:
+      - {x: -10, y: 12}
+      - {x: 18, y: 12}
+      - {x: -10, y: 0}
+      - {x: 18, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_RedLaser28x12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 12
+      alignment: 9
+      pivot: {x: 0.7857143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -14, y: 6}
+        - {x: 14, y: 6}
+        - {x: 14, y: -6}
+      physicsShape:
+      - - {x: 10, y: -4}
+        - {x: 10, y: 5}
+        - {x: -13, y: 5}
+        - {x: -13, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6008e2844baf474792a673f324d06068
+      internalID: 21300002
+      vertices:
+      - {x: -8.000002, y: 12}
+      - {x: 19.999998, y: 12}
+      - {x: -8.000002, y: 0}
+      - {x: 19.999998, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_RedLaser28x12_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 28
+        height: 12
+      alignment: 9
+      pivot: {x: 0.8214286, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -14, y: 6}
+        - {x: 14, y: 6}
+        - {x: 14, y: -6}
+      physicsShape:
+      - - {x: -5, y: 5}
+        - {x: -7, y: 0}
+        - {x: -7, y: -2}
+        - {x: -6, y: -4}
+        - {x: 10, y: -4}
+        - {x: 11, y: -2}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee3a64ad30a4b86ba913f913519ea58
+      internalID: 21300004
+      vertices:
+      - {x: -9, y: 12}
+      - {x: 19, y: 12}
+      - {x: -9, y: 0}
+      - {x: 19, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_RedLaser28x12_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 28
+        height: 12
+      alignment: 9
+      pivot: {x: 0.8928572, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.999998, y: -6}
+        - {x: -13.999998, y: 6}
+        - {x: 14.000002, y: 6}
+        - {x: 14.000002, y: -6}
+      physicsShape:
+      - - {x: 4.000002, y: 2}
+        - {x: 6.000002, y: -3}
+        - {x: 10.000002, y: -4}
+        - {x: 13.000002, y: -3}
+        - {x: 13.000002, y: 3}
+        - {x: 11.000002, y: 5}
+        - {x: 6.000002, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ef32d28cf14f4cbc93211e8bfd4687
+      internalID: 21300006
+      vertices:
+      - {x: -11, y: 12}
+      - {x: 17, y: 12}
+      - {x: -11, y: 0}
+      - {x: 17, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_RedLaser28x12_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 28
+        height: 12
+      alignment: 9
+      pivot: {x: 0.9285714, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -14, y: 6}
+        - {x: 14, y: 6}
+        - {x: 14, y: -6}
+      physicsShape:
+      - - {x: 9, y: -2}
+        - {x: 11, y: -4}
+        - {x: 14, y: -3}
+        - {x: 14, y: 2}
+        - {x: 12, y: 4}
+        - {x: 9, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f44e4e1735443759dcf07273c84e87b
+      internalID: 21300008
+      vertices:
+      - {x: -12, y: 12}
+      - {x: 16, y: 12}
+      - {x: -12, y: 0}
+      - {x: 16, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 9f23ea1fa7a66eee1e1c5100444a3da7.bundle
+  assetBundleVariant:

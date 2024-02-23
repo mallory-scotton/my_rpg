@@ -1,0 +1,831 @@
+fileFormatVersion: 2
+guid: 7464f1e7a18c7a04092cc874ccd7c883
+timeCreated: 1706119842
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Boss_Minegast_Bullet1_7
+  - first:
+      213: 21300002
+    second: Boss_Minegast_Bullet1_3
+  - first:
+      213: 21300004
+    second: Boss_Minegast_Bullet1_4
+  - first:
+      213: 21300006
+    second: Boss_Minegast_Bullet1_2
+  - first:
+      213: 21300008
+    second: Boss_Minegast_Bullet1_6
+  - first:
+      213: 21300010
+    second: Boss_Minegast_Bullet1_1
+  - first:
+      213: 21300012
+    second: Boss_Minegast_Bullet1_5
+  - first:
+      213: 21300014
+    second: Boss_Minegast_Bullet1_0
+  - first:
+      213: 21300016
+    second: Boss_Minegast_Bullet1_8
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Minegast_Bullet1_7
+      rect:
+        serializedVersion: 2
+        x: 40.11422
+        y: 3.0761204
+        width: 32.834465
+        height: 30.897127
+      alignment: 9
+      pivot: {x: 0.51427, y: 0.19172914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.531452, y: -15.524684}
+        - {x: -16.531452, y: -8.524684}
+        - {x: -16.531452, y: 8.475316}
+        - {x: -9.531452, y: 15.475316}
+        - {x: 11.468548, y: 15.475316}
+        - {x: 16.468548, y: 13.475316}
+        - {x: 16.468548, y: -11.524684}
+        - {x: 12.468548, y: -15.524684}
+      physicsShape:
+      - - {x: -4.531452, y: 11.475316}
+        - {x: -11.531452, y: 7.475316}
+        - {x: -11.531452, y: -7.524684}
+        - {x: -9.531452, y: -11.524684}
+        - {x: 11.468548, y: -11.524684}
+        - {x: 12.468548, y: -6.524684}
+        - {x: 12.468548, y: 9.475316}
+        - {x: 9.468548, y: 11.475316}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119b5abb59344d97ac4e1d80aa16a45c
+      internalID: 21300000
+      vertices:
+      - {x: 32.417233, y: 38.448563}
+      - {x: 28.417233, y: 9.448564}
+      - {x: 32.417233, y: 13.448564}
+      - {x: 27.417233, y: 40.448563}
+      - {x: 6.4172325, y: 40.448563}
+      - {x: 6.4172325, y: 9.448564}
+      - {x: -0.5827675, y: 33.448563}
+      - {x: -0.5827675, y: 16.448563}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minegast_Bullet1_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 38
+        width: 34.923878
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5440404, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.461939, y: 14}
+        - {x: -17.461939, y: 15}
+        - {x: -17.461939, y: 19}
+        - {x: -13.461939, y: 19}
+        - {x: -12.461939, y: 17}
+        - {x: -15.461939, y: 14}
+      - - {x: -13.461939, y: -19}
+        - {x: -15.461939, y: -18}
+        - {x: -15.461939, y: 13}
+        - {x: -12.461939, y: 17}
+        - {x: 13.538061, y: 17}
+        - {x: 17.538061, y: 6}
+        - {x: 17.538061, y: -11}
+        - {x: 5.538061, y: -19}
+      physicsShape:
+      - - {x: 4.538061, y: 8}
+        - {x: -3.4619389, y: 8}
+        - {x: -9.461939, y: 2}
+        - {x: -9.461939, y: -9}
+        - {x: -3.4619389, y: -12}
+        - {x: 7.538061, y: -12}
+        - {x: 12.538061, y: -6}
+        - {x: 12.538061, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: faebad8bbda5492d9e59fbb60e9461fc
+      internalID: 21300002
+      vertices:
+      - {x: 29.461939, y: 46}
+      - {x: 33.461937, y: 18}
+      - {x: 33.461937, y: 35}
+      - {x: 21.461939, y: 10}
+      - {x: 3.4619389, y: 46}
+      - {x: 2.4619389, y: 10}
+      - {x: 0.46193886, y: 42}
+      - {x: 0.46193886, y: 11}
+      - {x: 2.4619389, y: 48}
+      - {x: 0.46193886, y: 43}
+      - {x: -0.53806114, y: 43}
+      - {x: -1.5380611, y: 48}
+      - {x: -1.5380611, y: 44}
+      indices:
+      - 12
+      - 11
+      - 10
+      - 8
+      - 10
+      - 11
+      - 9
+      - 10
+      - 8
+      - 4
+      - 9
+      - 8
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minegast_Bullet1_4
+      rect:
+        serializedVersion: 2
+        x: 154.07613
+        y: 38
+        width: 32.880974
+        height: 35.987087
+      alignment: 9
+      pivot: {x: 0.5147011, y: 0.2500897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.516613, y: -17.993544}
+        - {x: -11.516613, y: -13.993544}
+        - {x: -13.516613, y: -14.993544}
+        - {x: -15.516613, y: -11.993544}
+        - {x: -13.516613, y: -9.993544}
+        - {x: -16.516613, y: -5.9935436}
+        - {x: -16.516613, y: 18.006456}
+        - {x: 9.483387, y: 18.006456}
+        - {x: 16.483387, y: 9.006456}
+        - {x: 16.483387, y: -4.9935436}
+        - {x: 7.483387, y: -17.993544}
+      physicsShape:
+      - - {x: -3.516613, y: 11.006456}
+        - {x: -10.516613, y: 9.006456}
+        - {x: -10.516613, y: -3.9935436}
+        - {x: -8.516613, y: -6.9935436}
+        - {x: -3.516613, y: -10.993544}
+        - {x: 10.483387, y: -10.993544}
+        - {x: 11.483387, y: -6.9935436}
+        - {x: 11.483387, y: 9.006456}
+        - {x: 8.483387, y: 11.006456}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d895d874144c84827b304c0c59c787
+      internalID: 21300004
+      vertices:
+      - {x: 2.440487, y: 16.993544}
+      - {x: 2.440487, y: 11.993544}
+      - {x: 4.440487, y: 12.993544}
+      - {x: 0.4404869, y: 14.993544}
+      - {x: 5.440487, y: 15.993544}
+      - {x: 5.440487, y: 12.993544}
+      - {x: 2.440487, y: 16.993544}
+      - {x: 25.440487, y: 44.993546}
+      - {x: 32.440487, y: 21.993544}
+      - {x: 32.440487, y: 35.993546}
+      - {x: 23.440487, y: 8.993544}
+      - {x: 7.440487, y: 8.993544}
+      - {x: -0.5595131, y: 44.993546}
+      - {x: -0.5595131, y: 20.993544}
+      indices:
+      - 2
+      - 5
+      - 11
+      - 4
+      - 11
+      - 5
+      - 13
+      - 12
+      - 0
+      - 7
+      - 0
+      - 12
+      - 6
+      - 0
+      - 7
+      - 4
+      - 6
+      - 7
+      - 11
+      - 4
+      - 7
+      - 10
+      - 11
+      - 7
+      - 8
+      - 10
+      - 7
+      - 9
+      - 8
+      - 7
+      - 0
+      - 6
+      - 2
+      - 4
+      - 2
+      - 6
+      - 5
+      - 2
+      - 4
+      - 3
+      - 0
+      - 1
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minegast_Bullet1_2
+      rect:
+        serializedVersion: 2
+        x: 76.07612
+        y: 39.076122
+        width: 36.805553
+        height: 36.847755
+      alignment: 9
+      pivot: {x: 0.5141583, y: 0.21504371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.521105, y: -18.5}
+        - {x: -18.478895, y: -18.5}
+        - {x: -18.478895, y: 18.5}
+        - {x: 2.5211048, y: 18.5}
+        - {x: 10.521105, y: 16.5}
+        - {x: 17.521105, y: 9.5}
+        - {x: 13.521105, y: 7.5}
+        - {x: 15.521105, y: 5.5}
+        - {x: 18.521105, y: 0.5}
+        - {x: 18.521105, y: -12.5}
+      physicsShape:
+      - - {x: -5.478895, y: 8.5}
+        - {x: -10.478895, y: 3.5}
+        - {x: -10.478895, y: -12.5}
+        - {x: 8.521105, y: -12.5}
+        - {x: 11.521105, y: -11.5}
+        - {x: 11.521105, y: 3.5}
+        - {x: 5.521105, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a14c61c3b3497ca706e4663409813a
+      internalID: 21300006
+      vertices:
+      - {x: 35.40278, y: 38.423878}
+      - {x: 29.402777, y: 36.423878}
+      - {x: 31.402777, y: 36.423878}
+      - {x: 28.402777, y: 45.423878}
+      - {x: 33.40278, y: 34.423878}
+      - {x: 36.40278, y: 16.423878}
+      - {x: 36.40278, y: 29.423878}
+      - {x: 27.402777, y: 10.423878}
+      - {x: 20.402777, y: 47.423878}
+      - {x: -0.5972233, y: 47.423878}
+      - {x: -0.5972233, y: 10.423878}
+      indices:
+      - 10
+      - 9
+      - 7
+      - 8
+      - 7
+      - 9
+      - 3
+      - 7
+      - 8
+      - 1
+      - 7
+      - 3
+      - 5
+      - 7
+      - 1
+      - 2
+      - 5
+      - 1
+      - 4
+      - 5
+      - 2
+      - 6
+      - 5
+      - 4
+      - 3
+      - 0
+      - 1
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minegast_Bullet1_6
+      rect:
+        serializedVersion: 2
+        x: 3.042908
+        y: 3.026751
+        width: 31.914185
+        height: 31.946497
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18697666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -16}
+        - {x: -16, y: -9}
+        - {x: -16, y: 9}
+        - {x: -4, y: 16}
+        - {x: 7, y: 16}
+        - {x: 16, y: 12}
+        - {x: 16, y: -12}
+        - {x: 13, y: -16}
+      physicsShape:
+      - - {x: -4, y: 10}
+        - {x: -11, y: 8}
+        - {x: -11, y: -5}
+        - {x: -9, y: -8}
+        - {x: -4, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -8}
+        - {x: 11, y: 8}
+        - {x: 8, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c77527326b4c318136560c4a1ec87f
+      internalID: 21300008
+      vertices:
+      - {x: 31.957092, y: 37.973248}
+      - {x: 28.957092, y: 9.9732485}
+      - {x: 31.957092, y: 13.9732485}
+      - {x: 22.957092, y: 41.973248}
+      - {x: 11.957092, y: 41.973248}
+      - {x: 5.9570923, y: 9.9732485}
+      - {x: -0.042907715, y: 34.973248}
+      - {x: -0.042907715, y: 16.973248}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minegast_Bullet1_1
+      rect:
+        serializedVersion: 2
+        x: 38.00404
+        y: 40.07612
+        width: 35.919838
+        height: 35.910965
+      alignment: 9
+      pivot: {x: 0.52884316, y: 0.19280688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.963959, y: -18.0316}
+        - {x: -17.963959, y: -16.0316}
+        - {x: -17.963959, y: 15.968399}
+        - {x: 3.0360413, y: 15.968399}
+        - {x: 5.0360413, y: 17.9684}
+        - {x: 8.036041, y: 16.9684}
+        - {x: 8.036041, y: 14.968399}
+        - {x: 17.036041, y: 12.968399}
+        - {x: 18.036041, y: 6.968399}
+        - {x: 18.036041, y: -14.031601}
+        - {x: 12.036041, y: -18.0316}
+      physicsShape:
+      - - {x: -2.9639587, y: 8.968399}
+        - {x: -9.963959, y: 5.968399}
+        - {x: -9.963959, y: -7.031601}
+        - {x: -3.9639587, y: -13.031601}
+        - {x: 5.0360413, y: -13.031601}
+        - {x: 8.036041, y: -12.031601}
+        - {x: 12.036041, y: -10.031601}
+        - {x: 12.036041, y: 4.968399}
+        - {x: 8.036041, y: 8.968399}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563a8b1f0d234847a0963e914e3db6eb
+      internalID: 21300010
+      vertices:
+      - {x: 21.959919, y: 44.955482}
+      - {x: 24.959919, y: 42.955482}
+      - {x: 24.959919, y: 43.955482}
+      - {x: 21.959919, y: 41.955482}
+      - {x: 19.959919, y: 44.955482}
+      - {x: 21.959919, y: 46.955482}
+      - {x: 24.959919, y: 45.955482}
+      - {x: 33.95992, y: 41.955482}
+      - {x: 34.95992, y: 14.9554825}
+      - {x: 34.95992, y: 35.955482}
+      - {x: 28.959919, y: 10.9554825}
+      - {x: 7.959919, y: 10.9554825}
+      - {x: -1.040081, y: 44.955482}
+      - {x: -1.040081, y: 12.9554825}
+      indices:
+      - 13
+      - 12
+      - 11
+      - 4
+      - 11
+      - 12
+      - 10
+      - 11
+      - 4
+      - 3
+      - 10
+      - 4
+      - 1
+      - 10
+      - 3
+      - 2
+      - 10
+      - 1
+      - 7
+      - 10
+      - 2
+      - 8
+      - 10
+      - 7
+      - 9
+      - 8
+      - 7
+      - 4
+      - 5
+      - 0
+      - 2
+      - 0
+      - 5
+      - 6
+      - 2
+      - 5
+      - 4
+      - 0
+      - 3
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minegast_Bullet1_5
+      rect:
+        serializedVersion: 2
+        x: 192.07613
+        y: 41.07612
+        width: 32.887596
+        height: 32.887596
+      alignment: 9
+      pivot: {x: 0.5145975, y: 0.1801251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.480076, y: -16.519917}
+        - {x: -16.519924, y: -16.519917}
+        - {x: -16.519924, y: 13.480083}
+        - {x: -13.519924, y: 16.480083}
+        - {x: 11.480076, y: 16.480083}
+        - {x: 16.480076, y: 7.4800835}
+        - {x: 16.480076, y: -8.519917}
+      physicsShape:
+      - - {x: -8.519924, y: 10.480083}
+        - {x: -10.519924, y: 6.4800835}
+        - {x: -10.519924, y: -10.519917}
+        - {x: -8.519924, y: -12.519917}
+        - {x: 10.480076, y: -12.519917}
+        - {x: 11.480076, y: -6.5199165}
+        - {x: 11.480076, y: 5.4800835}
+        - {x: 6.480076, y: 10.480083}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565531d08d674aa4a39de3d5b9d1ba65
+      internalID: 21300012
+      vertices:
+      - {x: 32.443798, y: 34.443798}
+      - {x: 30.443798, y: 10.443798}
+      - {x: 32.443798, y: 18.443798}
+      - {x: 27.443798, y: 43.443798}
+      - {x: 2.443798, y: 43.443798}
+      - {x: -0.55620193, y: 40.443798}
+      - {x: -0.55620193, y: 10.443798}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minegast_Bullet1_0
+      rect:
+        serializedVersion: 2
+        x: 1.0761205
+        y: 41.026752
+        width: 33.88097
+        height: 33.897125
+      alignment: 9
+      pivot: {x: 0.52902496, y: 0.17621693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.983395, y: -16.975315}
+        - {x: -17.016605, y: -16.975315}
+        - {x: -17.016605, y: 8.024685}
+        - {x: -15.016605, y: 17.024685}
+        - {x: 12.983395, y: 17.024685}
+        - {x: 16.983395, y: 10.024685}
+        - {x: 16.983395, y: -11.975315}
+        - {x: 15.983395, y: -13.975315}
+      physicsShape:
+      - - {x: -3.0166054, y: 9.024685}
+        - {x: -10.016605, y: 7.024685}
+        - {x: -10.016605, y: -5.975315}
+        - {x: -8.016605, y: -8.975315}
+        - {x: -3.0166054, y: -12.975315}
+        - {x: 10.983395, y: -12.975315}
+        - {x: 11.983395, y: -8.975315}
+        - {x: 11.983395, y: 7.024685}
+        - {x: 8.983395, y: 9.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e4c9f05c3245c2a9196b18a12c2857
+      internalID: 21300014
+      vertices:
+      - {x: 32.940483, y: 37.948563}
+      - {x: 31.940485, y: 13.948563}
+      - {x: 32.940483, y: 15.948563}
+      - {x: 28.940485, y: 44.948563}
+      - {x: 25.940485, y: 10.948563}
+      - {x: 0.940485, y: 44.948563}
+      - {x: -1.059515, y: 35.948563}
+      - {x: -1.059515, y: 10.948563}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minegast_Bullet1_8
+      rect:
+        serializedVersion: 2
+        x: 78.07612
+        y: 2.091487
+        width: 31.847757
+        height: 32.865604
+      alignment: 9
+      pivot: {x: 0.5313995, y: 0.21020496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.999997, y: -16.524288}
+        - {x: -15.999997, y: -8.524289}
+        - {x: -15.999997, y: 8.475711}
+        - {x: -12.999997, y: 16.475712}
+        - {x: 7.000003, y: 16.475712}
+        - {x: 16.000004, y: 12.475711}
+        - {x: 16.000004, y: -10.524289}
+        - {x: 15.000003, y: -16.524288}
+      physicsShape:
+      - - {x: -3.9999971, y: 14.475711}
+        - {x: -9.999997, y: 7.475711}
+        - {x: -9.999997, y: -4.524289}
+        - {x: -8.999997, y: -6.524289}
+        - {x: -4.999997, y: -11.524289}
+        - {x: 5.000003, y: -11.524289}
+        - {x: 12.000003, y: -7.524289}
+        - {x: 12.000003, y: 7.475711}
+        - {x: 5.000003, y: 14.475711}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651e8f6654674656af5a712e6570b73a
+      internalID: 21300016
+      vertices:
+      - {x: 30.923878, y: 38.4328}
+      - {x: 29.923878, y: 9.432802}
+      - {x: 30.923878, y: 15.432802}
+      - {x: 21.923878, y: 42.4328}
+      - {x: 8.923879, y: 9.432802}
+      - {x: 1.9238787, y: 42.4328}
+      - {x: -1.0761213, y: 34.4328}
+      - {x: -1.0761213, y: 17.432802}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: aaebf9ae97352d82639d9e1fe8346bc0.bundle
+  assetBundleVariant:

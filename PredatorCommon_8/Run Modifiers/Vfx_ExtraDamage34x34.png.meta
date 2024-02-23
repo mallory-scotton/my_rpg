@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 9020c697b98c9d449a455ae663067572
+timeCreated: 1706119835
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Vfx_ExtraDamage34x34_1
+  - first:
+      213: 21300002
+    second: Vfx_ExtraDamage34x34_0
+  - first:
+      213: 21300004
+    second: Vfx_ExtraDamage34x34_3
+  - first:
+      213: 21300006
+    second: Vfx_ExtraDamage34x34_2
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vfx_ExtraDamage34x34_1
+      rect:
+        serializedVersion: 2
+        x: 36.07612
+        y: 1.0362852
+        width: 29.867508
+        height: 27.887594
+      alignment: 9
+      pivot: {x: 0.49966946, y: 0.5724307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.990128, y: -13.9800825}
+        - {x: -15.009872, y: -13.9800825}
+        - {x: -15.009872, y: 14.0199175}
+        - {x: 14.990128, y: 14.0199175}
+        - {x: 14.990128, y: -12.9800825}
+      physicsShape:
+      - - {x: 4.9901276, y: 12.0199175}
+        - {x: -12.009872, y: 12.0199175}
+        - {x: -13.009872, y: 4.0199175}
+        - {x: -13.009872, y: -10.9800825}
+        - {x: -11.009872, y: -11.9800825}
+        - {x: 12.990128, y: -11.9800825}
+        - {x: 12.990128, y: 10.0199175}
+        - {x: 9.990128, y: 11.0199175}
+      - - {x: 0.99012756, y: 2.0199175}
+        - {x: -0.0098724365, y: 3.0199175}
+        - {x: -1.0098724, y: 0.019917488}
+        - {x: -0.0098724365, y: 0.019917488}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdce8b15e5df4b86ac8bbd1e5388b627
+      internalID: 21300000
+      vertices:
+      - {x: 29.933754, y: 25.943798}
+      - {x: 28.933754, y: -2.056203}
+      - {x: 29.933754, y: -1.0562029}
+      - {x: -0.06624603, y: 25.943798}
+      - {x: -0.06624603, y: -2.056203}
+      indices:
+      - 4
+      - 3
+      - 1
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vfx_ExtraDamage34x34_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 33.948685
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5007558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -16.974342}
+        - {x: -17, y: -16.974342}
+        - {x: -17, y: 17.025658}
+        - {x: 17, y: 17.025658}
+      physicsShape:
+      - - {x: -16, y: 15.025658}
+        - {x: -16, y: -15.974342}
+        - {x: 17, y: -15.974342}
+        - {x: 17, y: 14.025658}
+        - {x: 6, y: 15.025658}
+      - - {x: 2, y: -5.9743423}
+        - {x: 1, y: -5.9743423}
+        - {x: 2, y: -8.974342}
+        - {x: -1, y: -8.974342}
+      - - {x: -7, y: -0.97434235}
+        - {x: -2, y: -2.9743423}
+        - {x: 1, y: 0.025657654}
+        - {x: 1, y: 1.0256577}
+        - {x: -1, y: 4.0256577}
+        - {x: 2, y: 4.0256577}
+        - {x: -1, y: 1.0256577}
+        - {x: -1, y: 0.025657654}
+        - {x: 0, y: -0.97434235}
+        - {x: -1, y: 0.025657654}
+        - {x: -4, y: -0.97434235}
+        - {x: -7, y: -2.9743423}
+      - - {x: 5, y: -1.9743423}
+        - {x: 6, y: -1.9743423}
+        - {x: 7, y: -0.97434235}
+        - {x: 7, y: -2.9743423}
+        - {x: 6, y: -2.9743423}
+        - {x: 6, y: -1.9743423}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d322c393da124ec989c7f3f0a736891d
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 33.974342}
+      - {x: 34, y: -0.025657654}
+      - {x: 34, y: 33.974342}
+      - {x: 0, y: -0.025657654}
+      indices:
+      - 3
+      - 0
+      - 1
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vfx_ExtraDamage34x34_3
+      rect:
+        serializedVersion: 2
+        x: 114.07612
+        y: 9.07612
+        width: 9.847759
+        height: 9.847759
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.80463785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.9999981, y: -5}
+        - {x: -4.999998, y: -1}
+        - {x: -4.999998, y: 1}
+        - {x: -2.999998, y: 5}
+        - {x: 1.0000019, y: 5}
+        - {x: 5.000002, y: 3}
+        - {x: 5.000002, y: -1}
+        - {x: 1.0000019, y: -5}
+      physicsShape:
+      - - {x: -0.9999981, y: 3}
+        - {x: -2.999998, y: 1}
+        - {x: -2.999998, y: -1}
+        - {x: -0.9999981, y: -3}
+        - {x: 1.0000019, y: -3}
+        - {x: 3.000002, y: -1}
+        - {x: 3.000002, y: 1}
+        - {x: 1.0000019, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce60caef94d4ffd9af8046346d675ef
+      internalID: 21300004
+      vertices:
+      - {x: 5.9238796, y: 6.9238796}
+      - {x: 9.92388, y: 0.9238796}
+      - {x: 9.92388, y: 4.9238796}
+      - {x: 5.9238796, y: -3.0761204}
+      - {x: 3.9238796, y: -3.0761204}
+      - {x: 1.9238796, y: 6.9238796}
+      - {x: -0.07612038, y: 2.9238796}
+      - {x: -0.07612038, y: 0.9238796}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vfx_ExtraDamage34x34_2
+      rect:
+        serializedVersion: 2
+        x: 74.07612
+        y: 3.0761204
+        width: 20.872562
+        height: 19.880972
+      alignment: 9
+      pivot: {x: 0.52336085, y: 0.70036215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.4876, y: -10.016605}
+        - {x: -10.5124, y: -10.016605}
+        - {x: -10.5124, y: 9.983395}
+        - {x: 10.4876, y: 9.983395}
+      physicsShape:
+      - - {x: -7.5123997, y: 7.9833946}
+        - {x: -8.5124, y: -4.0166054}
+        - {x: -8.5124, y: -6.0166054}
+        - {x: -6.5123997, y: -8.016605}
+        - {x: 8.4876, y: -8.016605}
+        - {x: 8.4876, y: 7.9833946}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a98333ab674ed3a307fb9a819bba52
+      internalID: 21300006
+      vertices:
+      - {x: -0.5637188, y: 15.940486}
+      - {x: 20.436281, y: -4.059514}
+      - {x: 20.436281, y: 15.940486}
+      - {x: -0.5637188, y: -4.059514}
+      indices:
+      - 3
+      - 0
+      - 1
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 24e188a08ecf8f52b093149b66e1d5bb.bundle
+  assetBundleVariant:

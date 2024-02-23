@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: 32fe6e62ee937e84dae0854e50ccfa78
+timeCreated: 1706119813
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: HUB_waterfall_horizontal_left30x76_3
+  - first:
+      213: 21300002
+    second: HUB_waterfall_horizontal_left30x76_1
+  - first:
+      213: 21300004
+    second: HUB_waterfall_horizontal_left30x76_7
+  - first:
+      213: 21300006
+    second: HUB_waterfall_horizontal_left30x76_2
+  - first:
+      213: 21300008
+    second: HUB_waterfall_horizontal_left30x76_0
+  - first:
+      213: 21300010
+    second: HUB_waterfall_horizontal_left30x76_4
+  - first:
+      213: 21300012
+    second: HUB_waterfall_horizontal_left30x76_6
+  - first:
+      213: 21300014
+    second: HUB_waterfall_horizontal_left30x76_5
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HUB_waterfall_horizontal_left30x76_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 76
+      alignment: 9
+      pivot: {x: 0.8000001, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999998, y: -38}
+        - {x: -14.999998, y: 38}
+        - {x: 15.000002, y: 38}
+        - {x: 15.000002, y: -38}
+      physicsShape:
+      - - {x: -0.9999981, y: 38}
+        - {x: -1.9999981, y: 15}
+        - {x: -9.999998, y: 8}
+        - {x: -9.999998, y: -2}
+        - {x: 4.000002, y: -22}
+        - {x: 7.000002, y: -23}
+        - {x: 15.000002, y: -23}
+        - {x: 15.000002, y: 38}
+      - - {x: -9.999998, y: 13}
+        - {x: -6.999998, y: 14}
+        - {x: -6.999998, y: 17}
+        - {x: -9.999998, y: 18}
+        - {x: -11.999998, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b97808d9444132b7cac7222f166e61
+      internalID: 21300000
+      vertices:
+      - {x: -9, y: 96}
+      - {x: 21, y: 96}
+      - {x: -9, y: 20}
+      - {x: 21, y: 20}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUB_waterfall_horizontal_left30x76_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 76
+      alignment: 9
+      pivot: {x: 0.8000001, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999998, y: -38}
+        - {x: -14.999998, y: 38}
+        - {x: 15.000002, y: 38}
+        - {x: 15.000002, y: -38}
+      physicsShape:
+      - - {x: 3.000002, y: 38}
+        - {x: 1.0000019, y: 36}
+        - {x: -9.999998, y: 20}
+        - {x: -9.999998, y: -12}
+        - {x: -1.9999981, y: -22}
+        - {x: 15.000002, y: -22}
+        - {x: 15.000002, y: 38}
+      - - {x: -13.999998, y: 3}
+        - {x: -12.999998, y: 0}
+        - {x: -9.999998, y: 0}
+        - {x: -7.999998, y: 2}
+        - {x: -8.999998, y: 5}
+        - {x: -11.999998, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3658f9612435492593c545f23a50f814
+      internalID: 21300002
+      vertices:
+      - {x: -9, y: 96}
+      - {x: 21, y: 96}
+      - {x: -9, y: 20}
+      - {x: 21, y: 20}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUB_waterfall_horizontal_left30x76_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 76
+      alignment: 9
+      pivot: {x: 0.8000001, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999998, y: -38}
+        - {x: -14.999998, y: 38}
+        - {x: 15.000002, y: 38}
+        - {x: 15.000002, y: -38}
+      physicsShape:
+      - - {x: 2.000002, y: 38}
+        - {x: -11.999998, y: 27}
+        - {x: -11.999998, y: 14}
+        - {x: 2.000002, y: -23}
+        - {x: 15.000002, y: -23}
+        - {x: 15.000002, y: 38}
+      - - {x: -11.999998, y: -6}
+        - {x: -10.999998, y: -9}
+        - {x: -7.999998, y: -9}
+        - {x: -5.999998, y: -7}
+        - {x: -6.999998, y: -4}
+        - {x: -9.999998, y: -4}
+      - - {x: -8.999998, y: 13}
+        - {x: -5.999998, y: 14}
+        - {x: -5.999998, y: 17}
+        - {x: -8.999998, y: 18}
+        - {x: -10.999998, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079f67c76ed14ba6a80b07f2b5283129
+      internalID: 21300004
+      vertices:
+      - {x: -9, y: 96}
+      - {x: 21, y: 96}
+      - {x: -9, y: 20}
+      - {x: 21, y: 20}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUB_waterfall_horizontal_left30x76_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 76
+      alignment: 9
+      pivot: {x: 0.8000001, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999998, y: -38}
+        - {x: -14.999998, y: 38}
+        - {x: 15.000002, y: 38}
+        - {x: 15.000002, y: -38}
+      physicsShape:
+      - - {x: 6.000002, y: 38}
+        - {x: 1.0000019, y: 37}
+        - {x: -5.999998, y: 17}
+        - {x: -12.999998, y: 6}
+        - {x: -12.999998, y: 0}
+        - {x: -10.999998, y: -3}
+        - {x: 2.000002, y: -22}
+        - {x: 12.000002, y: -22}
+        - {x: 15.000002, y: -21}
+        - {x: 15.000002, y: 37}
+        - {x: 14.000002, y: 38}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac730b7fb4764d3d93cfe0f0ba981c48
+      internalID: 21300006
+      vertices:
+      - {x: -9, y: 96}
+      - {x: 21, y: 96}
+      - {x: -9, y: 20}
+      - {x: 21, y: 20}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUB_waterfall_horizontal_left30x76_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 76
+      alignment: 9
+      pivot: {x: 0.8000001, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -38}
+        - {x: -15, y: 38}
+        - {x: 15, y: 38}
+        - {x: 15, y: -38}
+      physicsShape:
+      - - {x: 4, y: 38}
+        - {x: 2, y: 35}
+        - {x: -11, y: 26}
+        - {x: -11, y: 17}
+        - {x: 1, y: -22}
+        - {x: 15, y: -22}
+        - {x: 15, y: 38}
+      - - {x: -11, y: -6}
+        - {x: -10, y: -9}
+        - {x: -5, y: -9}
+        - {x: -3, y: -7}
+        - {x: -4, y: -4}
+        - {x: -9, y: -4}
+      - - {x: -13, y: 1}
+        - {x: -10, y: 2}
+        - {x: -10, y: 5}
+        - {x: -13, y: 6}
+        - {x: -15, y: 4}
+      - - {x: -10, y: 16}
+        - {x: -9, y: 13}
+        - {x: -3, y: 13}
+        - {x: -1, y: 15}
+        - {x: -2, y: 18}
+        - {x: -8, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64be8d789dbb4ab4b5638a18e10aaa06
+      internalID: 21300008
+      vertices:
+      - {x: -9.000002, y: 96}
+      - {x: 20.999998, y: 96}
+      - {x: -9.000002, y: 20}
+      - {x: 20.999998, y: 20}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUB_waterfall_horizontal_left30x76_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 76
+      alignment: 9
+      pivot: {x: 0.8000001, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999998, y: -38}
+        - {x: -14.999998, y: 38}
+        - {x: 15.000002, y: 38}
+        - {x: 15.000002, y: -38}
+      physicsShape:
+      - - {x: -1.9999981, y: 38}
+        - {x: -2.999998, y: 34}
+        - {x: -2.999998, y: -20}
+        - {x: 1.0000019, y: -22}
+        - {x: 15.000002, y: -22}
+        - {x: 15.000002, y: 38}
+      - - {x: -11.999998, y: 16}
+        - {x: -10.999998, y: 13}
+        - {x: -7.999998, y: 13}
+        - {x: -5.999998, y: 15}
+        - {x: -6.999998, y: 18}
+        - {x: -9.999998, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7142efa94bdd4385ac0e9754698bdc7b
+      internalID: 21300010
+      vertices:
+      - {x: -9, y: 96}
+      - {x: 21, y: 96}
+      - {x: -9, y: 20}
+      - {x: 21, y: 20}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUB_waterfall_horizontal_left30x76_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 76
+      alignment: 9
+      pivot: {x: 0.8000001, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999998, y: -38}
+        - {x: -14.999998, y: 38}
+        - {x: 15.000002, y: 38}
+        - {x: 15.000002, y: -38}
+      physicsShape:
+      - - {x: 4.000002, y: 38}
+        - {x: -1.9999981, y: 29}
+        - {x: -2.999998, y: 26}
+        - {x: -7.999998, y: 15}
+        - {x: -6.999998, y: 12}
+        - {x: 1.9073486E-06, y: -17}
+        - {x: 6.000002, y: -22}
+        - {x: 12.000002, y: -22}
+        - {x: 15.000002, y: -21}
+        - {x: 15.000002, y: 38}
+      - - {x: -14.999998, y: 24}
+        - {x: -13.999998, y: 21}
+        - {x: -8.999998, y: 21}
+        - {x: -6.999998, y: 23}
+        - {x: -7.999998, y: 26}
+        - {x: -12.999998, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dab164f9ba4991b4f62f75d362b461
+      internalID: 21300012
+      vertices:
+      - {x: -9, y: 96}
+      - {x: 21, y: 96}
+      - {x: -9, y: 20}
+      - {x: 21, y: 20}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUB_waterfall_horizontal_left30x76_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 76
+      alignment: 9
+      pivot: {x: 0.8000001, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999998, y: -38}
+        - {x: -14.999998, y: 38}
+        - {x: 15.000002, y: 38}
+        - {x: 15.000002, y: -38}
+      physicsShape:
+      - - {x: 2.000002, y: 38}
+        - {x: -10.999998, y: 20}
+        - {x: -10.999998, y: 9}
+        - {x: 1.9073486E-06, y: -22}
+        - {x: 12.000002, y: -22}
+        - {x: 15.000002, y: -21}
+        - {x: 15.000002, y: 37}
+        - {x: 14.000002, y: 38}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3965790c9d448b0b99bca253911ca3d
+      internalID: 21300014
+      vertices:
+      - {x: -9, y: 96}
+      - {x: 21, y: 96}
+      - {x: -9, y: 20}
+      - {x: 21, y: 20}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 1f0e03801170aa975b541c4c7d517a45.bundle
+  assetBundleVariant:

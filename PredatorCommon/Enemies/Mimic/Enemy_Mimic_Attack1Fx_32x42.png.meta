@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: dd06296e396321c4d8dbccbdcff311f7
+timeCreated: 1706119828
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Enemy_Mimic_Attack1Fx_32x42_0
+  - first:
+      213: 21300002
+    second: Enemy_Mimic_Attack1Fx_32x42_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Mimic_Attack1Fx_32x42_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 30.908512
+        height: 42
+      alignment: 9
+      pivot: {x: 0.51765674, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.454256, y: -15}
+        - {x: -15.454256, y: -7}
+        - {x: -15.454256, y: 17}
+        - {x: -7.454256, y: 21}
+        - {x: 10.545744, y: 21}
+        - {x: 15.545744, y: 16}
+        - {x: 15.545744, y: 1}
+        - {x: 13.545744, y: -6}
+        - {x: 2.545744, y: -15}
+      - - {x: 1.545744, y: -21}
+        - {x: -3.454256, y: -21}
+        - {x: -1.454256, y: -18}
+        - {x: 1.545744, y: -19}
+      physicsShape:
+      - - {x: 1.545744, y: -21}
+        - {x: 1.545744, y: -19}
+        - {x: -1.454256, y: -18}
+        - {x: -3.454256, y: -21}
+      - - {x: -5.454256, y: 21}
+        - {x: -15.454256, y: 13}
+        - {x: -15.454256, y: 7}
+        - {x: -13.454256, y: -4}
+        - {x: -10.454256, y: -11}
+        - {x: -4.454256, y: -15}
+        - {x: 0.54574394, y: -15}
+        - {x: 13.545744, y: -6}
+        - {x: 15.545744, y: 1}
+        - {x: 15.545744, y: 15}
+        - {x: 6.545744, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21778a206214d1c9b11ce7da0b08f6d
+      internalID: 21300000
+      vertices:
+      - {x: 13.454256, y: 3}
+      - {x: 16.454256, y: 0}
+      - {x: 16.454256, y: 2}
+      - {x: 11.454256, y: 0}
+      - {x: 30.454256, y: 37}
+      - {x: 28.454256, y: 15}
+      - {x: 30.454256, y: 22}
+      - {x: 25.454256, y: 42}
+      - {x: 17.454256, y: 6}
+      - {x: 9.454256, y: 6}
+      - {x: 7.454256, y: 42}
+      - {x: -0.54574394, y: 38}
+      - {x: -0.54574394, y: 14}
+      indices:
+      - 12
+      - 11
+      - 9
+      - 10
+      - 9
+      - 11
+      - 7
+      - 9
+      - 10
+      - 8
+      - 9
+      - 7
+      - 5
+      - 8
+      - 7
+      - 4
+      - 5
+      - 7
+      - 6
+      - 5
+      - 4
+      - 3
+      - 0
+      - 1
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_Attack1Fx_32x42_1
+      rect:
+        serializedVersion: 2
+        x: 0.026750982
+        y: 0.012912571
+        width: 30.938593
+        height: 41.987087
+      alignment: 9
+      pivot: {x: 0.5162888, y: 0.49984622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.496047, y: -12.006456}
+        - {x: -15.496047, y: -1.0064564}
+        - {x: -15.496047, y: 18.993544}
+        - {x: -10.496047, y: 20.993544}
+        - {x: 9.503953, y: 20.993544}
+        - {x: 15.503953, y: 11.993544}
+        - {x: 15.503953, y: 3.9935436}
+        - {x: 10.503953, y: -8.006456}
+        - {x: 4.503953, y: -12.006456}
+      - - {x: -1.496047, y: -21.006456}
+        - {x: -3.496047, y: -19.006456}
+        - {x: -3.496047, y: -16.006456}
+        - {x: -0.49604702, y: -15.006456}
+        - {x: 1.503953, y: -17.006456}
+        - {x: 1.503953, y: -20.006456}
+      physicsShape:
+      - - {x: -3.496047, y: -19.006456}
+        - {x: -1.496047, y: -21.006456}
+        - {x: 1.503953, y: -20.006456}
+        - {x: 1.503953, y: -17.006456}
+        - {x: -0.49604702, y: -15.006456}
+        - {x: -3.496047, y: -16.006456}
+      - - {x: -10.496047, y: 20.993544}
+        - {x: -15.496047, y: 18.993544}
+        - {x: -15.496047, y: 3.9935436}
+        - {x: -8.496047, y: -9.006456}
+        - {x: -3.496047, y: -12.006456}
+        - {x: 1.503953, y: -12.006456}
+        - {x: 10.503953, y: -8.006456}
+        - {x: 15.503953, y: 3.9935436}
+        - {x: 15.503953, y: 11.993544}
+        - {x: 9.503953, y: 20.993544}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f07f6d0fb1418da5198c6d8708a4ee
+      internalID: 21300002
+      vertices:
+      - {x: 14.469296, y: 5.9935436}
+      - {x: 16.469296, y: 0.9935436}
+      - {x: 16.469296, y: 3.9935436}
+      - {x: 13.469296, y: -0.006456375}
+      - {x: 11.469296, y: 4.9935436}
+      - {x: 11.469296, y: 1.9935436}
+      - {x: 30.469296, y: 32.993546}
+      - {x: 25.469296, y: 12.993544}
+      - {x: 30.469296, y: 24.993544}
+      - {x: 24.469296, y: 41.993546}
+      - {x: 19.469296, y: 8.993544}
+      - {x: 8.469296, y: 8.993544}
+      - {x: 4.4692965, y: 41.993546}
+      - {x: -0.53070354, y: 39.993546}
+      - {x: -0.53070354, y: 19.993544}
+      indices:
+      - 14
+      - 13
+      - 11
+      - 12
+      - 11
+      - 13
+      - 9
+      - 11
+      - 12
+      - 10
+      - 11
+      - 9
+      - 7
+      - 10
+      - 9
+      - 6
+      - 7
+      - 9
+      - 8
+      - 7
+      - 6
+      - 5
+      - 4
+      - 3
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

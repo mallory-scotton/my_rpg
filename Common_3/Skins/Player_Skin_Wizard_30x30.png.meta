@@ -1,0 +1,4579 @@
+fileFormatVersion: 2
+guid: c7bccbe4d8aae994d8595139a9878bf4
+timeCreated: 1706119835
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Player_Skin_Wizard_30x30_83
+  - first:
+      213: 21300002
+    second: Player_Skin_Wizard_30x30_74
+  - first:
+      213: 21300004
+    second: Player_Skin_Wizard_30x30_60
+  - first:
+      213: 21300006
+    second: Player_Skin_Wizard_Hand
+  - first:
+      213: 21300008
+    second: Player_Skin_Wizard_30x30_40
+  - first:
+      213: 21300010
+    second: Player_Skin_Wizard_30x30_47
+  - first:
+      213: 21300012
+    second: Player_Skin_Wizard_30x30_43
+  - first:
+      213: 21300014
+    second: Player_Skin_Wizard_30x30_89
+  - first:
+      213: 21300016
+    second: Player_Skin_Wizard_30x30_48
+  - first:
+      213: 21300018
+    second: Player_Skin_Wizard_30x30_88
+  - first:
+      213: 21300020
+    second: Player_Skin_Wizard_30x30_68
+  - first:
+      213: 21300022
+    second: Player_Skin_Wizard_30x30_23
+  - first:
+      213: 21300024
+    second: Player_Skin_Wizard_30x30_10
+  - first:
+      213: 21300026
+    second: Player_Skin_Wizard_30x30_30
+  - first:
+      213: 21300028
+    second: Player_Skin_Wizard_30x30_6
+  - first:
+      213: 21300030
+    second: Player_Skin_Wizard_30x30_14
+  - first:
+      213: 21300032
+    second: Player_Skin_Wizard_30x30_82
+  - first:
+      213: 21300034
+    second: Player_Skin_Wizard_30x30_20
+  - first:
+      213: 21300036
+    second: Player_Skin_Wizard_30x30_5
+  - first:
+      213: 21300038
+    second: Player_Skin_Wizard_30x30_42
+  - first:
+      213: 21300040
+    second: Player_Skin_Wizard_30x30_69
+  - first:
+      213: 21300042
+    second: Player_Skin_Wizard_30x30_80
+  - first:
+      213: 21300044
+    second: Player_Skin_Wizard_30x30_12
+  - first:
+      213: 21300046
+    second: Player_Skin_Wizard_30x30_77
+  - first:
+      213: 21300048
+    second: Player_Skin_Wizard_30x30_81
+  - first:
+      213: 21300050
+    second: Player_Skin_Wizard_30x30_15
+  - first:
+      213: 21300052
+    second: Player_Skin_Wizard_30x30_16
+  - first:
+      213: 21300054
+    second: Player_Skin_Wizard_30x30_11
+  - first:
+      213: 21300056
+    second: Player_Skin_Wizard_30x30_62
+  - first:
+      213: 21300058
+    second: Player_Skin_Wizard_30x30_9
+  - first:
+      213: 21300060
+    second: Player_Skin_Wizard_30x30_32
+  - first:
+      213: 21300062
+    second: Player_Skin_Wizard_30x30_13
+  - first:
+      213: 21300064
+    second: Player_Skin_Wizard_30x30_18
+  - first:
+      213: 21300066
+    second: Player_Skin_Wizard_30x30_46
+  - first:
+      213: 21300068
+    second: Player_Skin_Wizard_30x30_8
+  - first:
+      213: 21300070
+    second: Player_Skin_Wizard_30x30_71
+  - first:
+      213: 21300072
+    second: Player_Skin_Wizard_30x30_27
+  - first:
+      213: 21300074
+    second: Player_Skin_Wizard_30x30_87
+  - first:
+      213: 21300076
+    second: Player_Skin_Wizard_30x30_56
+  - first:
+      213: 21300078
+    second: Player_Skin_Wizard_30x30_57
+  - first:
+      213: 21300080
+    second: Player_Skin_Wizard_30x30_29
+  - first:
+      213: 21300082
+    second: Player_Skin_Wizard_30x30_3
+  - first:
+      213: 21300084
+    second: Player_Skin_Wizard_30x30_2
+  - first:
+      213: 21300086
+    second: Player_Skin_Wizard_30x30_39
+  - first:
+      213: 21300088
+    second: Player_Skin_Wizard_30x30_26
+  - first:
+      213: 21300090
+    second: Player_Skin_Wizard_30x30_93
+  - first:
+      213: 21300092
+    second: Player_Skin_Wizard_30x30_90
+  - first:
+      213: 21300094
+    second: Player_Skin_Wizard_30x30_52
+  - first:
+      213: 21300096
+    second: Player_Skin_Wizard_30x30_41
+  - first:
+      213: 21300098
+    second: Player_Skin_Wizard_30x30_59
+  - first:
+      213: 21300100
+    second: Player_Skin_Wizard_30x30_79
+  - first:
+      213: 21300102
+    second: Player_Skin_Wizard_30x30_33
+  - first:
+      213: 21300104
+    second: Player_Skin_Wizard_30x30_49
+  - first:
+      213: 21300106
+    second: Player_Skin_Wizard_30x30_37
+  - first:
+      213: 21300108
+    second: Player_Skin_Wizard_30x30_94
+  - first:
+      213: 21300110
+    second: Player_Skin_Wizard_30x30_21
+  - first:
+      213: 21300112
+    second: Player_Skin_Wizard_30x30_36
+  - first:
+      213: 21300114
+    second: Player_Skin_Wizard_30x30_91
+  - first:
+      213: 21300116
+    second: Player_Skin_Wizard_30x30_31
+  - first:
+      213: 21300118
+    second: Player_Skin_Wizard_30x30_24
+  - first:
+      213: 21300120
+    second: Player_Skin_Wizard_30x30_19
+  - first:
+      213: 21300122
+    second: Player_Skin_Wizard_30x30_61
+  - first:
+      213: 21300124
+    second: Player_Skin_Wizard_30x30_85
+  - first:
+      213: 21300126
+    second: Player_Skin_Wizard_30x30_45
+  - first:
+      213: 21300128
+    second: Player_Skin_Wizard_30x30_78
+  - first:
+      213: 21300130
+    second: Player_Skin_Wizard_30x30_4
+  - first:
+      213: 21300132
+    second: Player_Skin_Wizard_30x30_54
+  - first:
+      213: 21300134
+    second: Player_Skin_Wizard_30x30_86
+  - first:
+      213: 21300136
+    second: Player_Skin_Wizard_30x30_64
+  - first:
+      213: 21300138
+    second: Player_Skin_Wizard_30x30_70
+  - first:
+      213: 21300140
+    second: Player_Skin_Wizard_30x30_28
+  - first:
+      213: 21300142
+    second: Player_Skin_Wizard_30x30_44
+  - first:
+      213: 21300144
+    second: Player_Skin_Wizard_30x30_1
+  - first:
+      213: 21300146
+    second: Player_Skin_Wizard_30x30_0
+  - first:
+      213: 21300148
+    second: Player_Skin_Wizard_30x30_22
+  - first:
+      213: 21300150
+    second: Player_Skin_Wizard_30x30_67
+  - first:
+      213: 21300152
+    second: Player_Skin_Wizard_30x30_92
+  - first:
+      213: 21300154
+    second: Player_Skin_Wizard_30x30_73
+  - first:
+      213: 21300156
+    second: Player_Skin_Wizard_30x30_72
+  - first:
+      213: 21300158
+    second: Player_Skin_Wizard_30x30_38
+  - first:
+      213: 21300160
+    second: Player_Skin_Wizard_30x30_25
+  - first:
+      213: 21300162
+    second: Player_Skin_Wizard_30x30_65
+  - first:
+      213: 21300164
+    second: Player_Skin_Wizard_30x30_75
+  - first:
+      213: 21300166
+    second: Player_Skin_Wizard_30x30_34
+  - first:
+      213: 21300168
+    second: Player_Skin_Wizard_30x30_55
+  - first:
+      213: 21300170
+    second: Player_Skin_Wizard_30x30_63
+  - first:
+      213: 21300172
+    second: Player_Skin_Wizard_30x30_66
+  - first:
+      213: 21300174
+    second: Player_Skin_Wizard_30x30_76
+  - first:
+      213: 21300176
+    second: Player_Skin_Wizard_30x30_53
+  - first:
+      213: 21300178
+    second: Player_Skin_Wizard_30x30_58
+  - first:
+      213: 21300180
+    second: Player_Skin_Wizard_30x30_35
+  - first:
+      213: 21300182
+    second: Player_Skin_Wizard_30x30_7
+  - first:
+      213: 21300184
+    second: Player_Skin_Wizard_30x30_17
+  - first:
+      213: 21300186
+    second: Player_Skin_Wizard_30x30_84
+  - first:
+      213: 21300188
+    second: Player_Skin_Wizard_30x30_51
+  - first:
+      213: 21300190
+    second: Player_Skin_Wizard_30x30_50
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_83
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 30
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 3, y: 8}
+        - {x: -10, y: 8}
+        - {x: -11, y: 7}
+        - {x: -11, y: -15}
+        - {x: 12, y: -15}
+        - {x: 12, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7929008bb1448f5ac3e0104056289f1
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_74
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 0, y: 14}
+        - {x: -5, y: 14}
+        - {x: -11, y: 4}
+        - {x: -13, y: -4}
+        - {x: -13, y: -7}
+        - {x: -5, y: -15}
+        - {x: 6, y: -15}
+        - {x: 13, y: -9}
+        - {x: 13, y: 6}
+        - {x: 4, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23d92a47ca34de281246d94609a5e18
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -14, y: -9}
+        - {x: -13, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 7}
+        - {x: 6, y: 15}
+        - {x: -5, y: 15}
+        - {x: -14, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3966555e6174bd2af22bfeda60d8770
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_Hand
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 96
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3063630c41094a19b09522e15e09f1d0
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 0, y: 11}
+        - {x: -9, y: 11}
+        - {x: -12, y: 7}
+        - {x: -12, y: -4}
+        - {x: -10, y: -6}
+        - {x: -12, y: -8}
+        - {x: -12, y: -15}
+        - {x: 12, y: -15}
+        - {x: 12, y: 7}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650bcb8986bc4c38acbe554baa9c4aa8
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 150
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -1, y: 11}
+        - {x: -11, y: 11}
+        - {x: -13, y: 10}
+        - {x: -13, y: -15}
+        - {x: 5, y: -15}
+        - {x: 10, y: -6}
+        - {x: 10, y: 6}
+        - {x: 9, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758c96634bef48c29156fa93160525b2
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_43
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 150
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -10, y: 10}
+        - {x: -13, y: 5}
+        - {x: -13, y: -13}
+        - {x: -12, y: -15}
+        - {x: 6, y: -15}
+        - {x: 12, y: -12}
+        - {x: 12, y: 7}
+        - {x: 4, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3aad65ce394118b40d169d17e85be0
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_89
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 30
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 8, y: 7}
+        - {x: -8, y: 7}
+        - {x: -12, y: 5}
+        - {x: -12, y: -7}
+        - {x: -10, y: -9}
+        - {x: -12, y: -12}
+        - {x: -12, y: -15}
+        - {x: 9, y: -15}
+        - {x: 11, y: -7}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc22214f34de4c35819c3647f095a7a1
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 150
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 3, y: -3}
+        - {x: -9, y: -6}
+        - {x: -11, y: -10}
+        - {x: -11, y: -15}
+        - {x: 14, y: -15}
+        - {x: 14, y: -7}
+        - {x: 8, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a82b19432a54c79bbef3b7149ef0133
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_88
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 30
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 8, y: 7}
+        - {x: -8, y: 7}
+        - {x: -12, y: 5}
+        - {x: -12, y: -7}
+        - {x: -10, y: -9}
+        - {x: -12, y: -12}
+        - {x: -12, y: -15}
+        - {x: 9, y: -15}
+        - {x: 11, y: -7}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8e7dab83984801b48d103db07b8497
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_68
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 90
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -7, y: 8}
+        - {x: -11, y: 6}
+        - {x: -11, y: -15}
+        - {x: 9, y: -15}
+        - {x: 12, y: -5}
+        - {x: 12, y: 5}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c966fe4ec35478da0e291c93c7ff1aa
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_23
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 210
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -8, y: 9}
+        - {x: -11, y: 2}
+        - {x: -11, y: -15}
+        - {x: 10, y: -15}
+        - {x: 12, y: -8}
+        - {x: 12, y: 6}
+        - {x: 4, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a753891f924ae290d4bb4e4c82ab25
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -14, y: 7}
+        - {x: -14, y: -9}
+        - {x: -11, y: -15}
+        - {x: 7, y: -15}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a91d40931ce4036858273e5eedc988e
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -8, y: 4}
+        - {x: -15, y: 1}
+        - {x: -15, y: -15}
+        - {x: 10, y: -15}
+        - {x: 11, y: -13}
+        - {x: 11, y: -7}
+        - {x: 9, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbb1f0fa5c24013bfddb72592dffef1
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 270
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -10, y: 5}
+        - {x: -10, y: -15}
+        - {x: 9, y: -15}
+        - {x: 13, y: -11}
+        - {x: 13, y: 5}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aad35128014c0c8d4bdaa01920f9ca
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -9, y: 5}
+        - {x: -13, y: -2}
+        - {x: -13, y: -15}
+        - {x: 14, y: -15}
+        - {x: 14, y: -6}
+        - {x: 5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa824b4bbf0411fa03c0cc6752ab8e3
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_82
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 4, y: 9}
+        - {x: -9, y: 9}
+        - {x: -12, y: 7}
+        - {x: -12, y: -15}
+        - {x: 7, y: -15}
+        - {x: 9, y: -10}
+        - {x: 11, y: -3}
+        - {x: 11, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e244b484f24322be691054af50134c
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 6, y: -2}
+        - {x: 0, y: -2}
+        - {x: -13, y: -12}
+        - {x: -13, y: -14}
+        - {x: -12, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: -8}
+        - {x: 14, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a51856d146b4367bc311a497204825a
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 270
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 8, y: 9}
+        - {x: -8, y: 9}
+        - {x: -11, y: 0}
+        - {x: -11, y: -14}
+        - {x: -10, y: -15}
+        - {x: -2, y: -15}
+        - {x: 7, y: -14}
+        - {x: 9, y: -12}
+        - {x: 13, y: -4}
+        - {x: 13, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e9060956f14fe4b4f38a7ca2696eb1
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -6, y: 9}
+        - {x: -13, y: 6}
+        - {x: -13, y: -10}
+        - {x: -12, y: -13}
+        - {x: -10, y: -15}
+        - {x: 11, y: -15}
+        - {x: 12, y: -11}
+        - {x: 12, y: 8}
+        - {x: 8, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a8026cbf0140fa915be7abd9ed6da8
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_69
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 90
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -3, y: -2}
+        - {x: -3, y: -8}
+        - {x: -2, y: -10}
+        - {x: 3, y: -10}
+        - {x: 5, y: -7}
+        - {x: 5, y: -3}
+        - {x: 3, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb35a0e23814dbca89f5a4de463755e
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -1, y: 14}
+        - {x: -6, y: 14}
+        - {x: -12, y: 4}
+        - {x: -14, y: -4}
+        - {x: -14, y: -7}
+        - {x: -6, y: -15}
+        - {x: 5, y: -15}
+        - {x: 12, y: -9}
+        - {x: 12, y: 6}
+        - {x: 3, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff961d13caf547589a9bdeef347c27ec
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 240
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 0, y: 11}
+        - {x: -7, y: 11}
+        - {x: -12, y: 6}
+        - {x: -12, y: -15}
+        - {x: 10, y: -15}
+        - {x: 12, y: -8}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca168467b3e493ca20133a0ae7502bd
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_77
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -3, y: 15}
+        - {x: -13, y: 10}
+        - {x: -13, y: -6}
+        - {x: -9, y: -12}
+        - {x: 8, y: -12}
+        - {x: 13, y: -10}
+        - {x: 13, y: 8}
+        - {x: 5, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d81d0d7c1642b4ba5a3f6648012b3c
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_81
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 30
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 11, y: 5}
+        - {x: 10, y: 7}
+        - {x: 0, y: 11}
+        - {x: -8, y: 11}
+        - {x: -12, y: 6}
+        - {x: -12, y: -4}
+        - {x: -10, y: -6}
+        - {x: -12, y: -10}
+        - {x: -12, y: -13}
+        - {x: -9, y: -15}
+        - {x: 4, y: -15}
+        - {x: 10, y: -4}
+        - {x: 11, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeb341a56484ed2bc107603d93d7ae3
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 240
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 0, y: 5}
+        - {x: -8, y: 5}
+        - {x: -9, y: 4}
+        - {x: -12, y: -2}
+        - {x: -13, y: -9}
+        - {x: -13, y: -15}
+        - {x: 13, y: -15}
+        - {x: 13, y: -4}
+        - {x: 11, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e57162dc49948dbb43c580d235b62ce
+      internalID: 21300050
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 240
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 11, y: 2}
+        - {x: -1, y: 5}
+        - {x: -9, y: 5}
+        - {x: -13, y: 2}
+        - {x: -13, y: -15}
+        - {x: 13, y: -15}
+        - {x: 13, y: -14}
+        - {x: 12, y: -11}
+        - {x: 12, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4f9d45c1844bffbaba84d9ac5454f8
+      internalID: 21300052
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 240
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -13, y: 12}
+        - {x: -15, y: 9}
+        - {x: -15, y: -8}
+        - {x: -12, y: -15}
+        - {x: 9, y: -15}
+        - {x: 9, y: 9}
+        - {x: 0, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc3892d14e64ca68c42aebc20bdf1b2
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_62
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 90
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -3, y: 15}
+        - {x: -12, y: 6}
+        - {x: -13, y: 4}
+        - {x: -13, y: -11}
+        - {x: -7, y: -14}
+        - {x: 13, y: -14}
+        - {x: 13, y: 11}
+        - {x: 1, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bed2f8698445bb94f5a40f42f5ca9b
+      internalID: 21300056
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 270
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 2, y: 8}
+        - {x: -6, y: 8}
+        - {x: -11, y: 4}
+        - {x: -11, y: -15}
+        - {x: 8, y: -15}
+        - {x: 14, y: -7}
+        - {x: 14, y: 4}
+        - {x: 13, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e73f349e6e4589ac4fa1ff1e02519f
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -11, y: -15}
+        - {x: 12, y: -15}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54706a7137a48a48ae0298f5890c418
+      internalID: 21300060
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 240
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 9, y: 8}
+        - {x: -7, y: 8}
+        - {x: -13, y: 5}
+        - {x: -13, y: -15}
+        - {x: 14, y: -15}
+        - {x: 14, y: -1}
+        - {x: 13, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff209e9d3ae4fab8824ec883f6f9b67
+      internalID: 21300062
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -7, y: 7}
+        - {x: -11, y: 0}
+        - {x: -13, y: -10}
+        - {x: -13, y: -15}
+        - {x: 14, y: -15}
+        - {x: 14, y: 3}
+        - {x: 3, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405d5da3c5db4fb9b17f12bedfea9bcd
+      internalID: 21300064
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_46
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 150
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 0, y: 11}
+        - {x: -9, y: 11}
+        - {x: -12, y: 7}
+        - {x: -12, y: -4}
+        - {x: -10, y: -6}
+        - {x: -12, y: -10}
+        - {x: -12, y: -13}
+        - {x: -9, y: -15}
+        - {x: 7, y: -15}
+        - {x: 11, y: -7}
+        - {x: 11, y: 7}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd4b4217b9b4c08a6d9ae834b2721c7
+      internalID: 21300066
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 270
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 14, y: 2}
+        - {x: 12, y: 4}
+        - {x: 4, y: 9}
+        - {x: -9, y: 9}
+        - {x: -11, y: 6}
+        - {x: -11, y: -15}
+        - {x: 6, y: -15}
+        - {x: 8, y: -13}
+        - {x: 13, y: -6}
+        - {x: 14, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2414d51b7745689bf0607e0ff52187
+      internalID: 21300068
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_71
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: -4, y: -10}
+        - {x: -3, y: -12}
+        - {x: 2, y: -12}
+        - {x: 4, y: -9}
+        - {x: 4, y: -5}
+        - {x: 2, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6a197e536b41ec8d2c2e6e1bd6675e
+      internalID: 21300070
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 210
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -5, y: 11}
+        - {x: -14, y: 1}
+        - {x: -14, y: -7}
+        - {x: -11, y: -12}
+        - {x: 12, y: -12}
+        - {x: 15, y: -2}
+        - {x: 15, y: 6}
+        - {x: 4, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a554fcf607b540098422b9b95becf68d
+      internalID: 21300072
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_87
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 30
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 8, y: 7}
+        - {x: -8, y: 7}
+        - {x: -12, y: 5}
+        - {x: -12, y: -7}
+        - {x: -10, y: -9}
+        - {x: -12, y: -12}
+        - {x: -12, y: -15}
+        - {x: 9, y: -15}
+        - {x: 11, y: -7}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf302d0fa764982bdeb22ef68e6e2dc
+      internalID: 21300074
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_56
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -5, y: 15}
+        - {x: -12, y: 11}
+        - {x: -12, y: -4}
+        - {x: -9, y: -12}
+        - {x: -3, y: -14}
+        - {x: 5, y: -14}
+        - {x: 12, y: -5}
+        - {x: 12, y: 8}
+        - {x: 6, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46650b24eff14a5187452e76a5bc7840
+      internalID: 21300076
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_57
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -5, y: 15}
+        - {x: -12, y: 11}
+        - {x: -12, y: -4}
+        - {x: -9, y: -12}
+        - {x: -3, y: -14}
+        - {x: 5, y: -14}
+        - {x: 12, y: -5}
+        - {x: 12, y: 8}
+        - {x: 6, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033e48894b6a45a3828a09077e283abf
+      internalID: 21300078
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 210
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -2, y: 3}
+        - {x: -9, y: 1}
+        - {x: -11, y: -6}
+        - {x: -11, y: -15}
+        - {x: 11, y: -15}
+        - {x: 11, y: -10}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ce80eb2956406abebe54b7609a2c6a
+      internalID: 21300080
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 270
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -9, y: 11}
+        - {x: -12, y: 7}
+        - {x: -12, y: -15}
+        - {x: 5, y: -15}
+        - {x: 11, y: -7}
+        - {x: 11, y: 5}
+        - {x: 4, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c3f8d96ec549539910d251f6bfea85
+      internalID: 21300082
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 270
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -7, y: 8}
+        - {x: -12, y: 5}
+        - {x: -12, y: -13}
+        - {x: -11, y: -15}
+        - {x: 5, y: -15}
+        - {x: 11, y: -8}
+        - {x: 11, y: 2}
+        - {x: 4, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd121e7acbe42bb9919a1b9a9f877f2
+      internalID: 21300084
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 180
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -12, y: -4}
+        - {x: -10, y: -6}
+        - {x: -12, y: -10}
+        - {x: -12, y: -13}
+        - {x: -11, y: -15}
+        - {x: 12, y: -15}
+        - {x: 12, y: 6}
+        - {x: 11, y: 9}
+        - {x: 2, y: 11}
+        - {x: -9, y: 11}
+        - {x: -12, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86774763484b4d759d227de50cfde865
+      internalID: 21300086
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 210
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 2, y: 10}
+        - {x: -12, y: 10}
+        - {x: -14, y: 1}
+        - {x: -14, y: -14}
+        - {x: -12, y: -15}
+        - {x: 8, y: -15}
+        - {x: 12, y: -7}
+        - {x: 12, y: 6}
+        - {x: 11, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130fae22fce54bc082d7589b53da0aba
+      internalID: 21300088
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_93
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 6, y: 7}
+        - {x: -10, y: 7}
+        - {x: -12, y: 6}
+        - {x: -12, y: -12}
+        - {x: -10, y: -15}
+        - {x: 5, y: -15}
+        - {x: 9, y: -10}
+        - {x: 11, y: -3}
+        - {x: 11, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b922ccf6e99646b0a248d205854b66e6
+      internalID: 21300090
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 8, y: 7}
+        - {x: -8, y: 7}
+        - {x: -12, y: 5}
+        - {x: -12, y: -7}
+        - {x: -10, y: -9}
+        - {x: -12, y: -12}
+        - {x: -12, y: -15}
+        - {x: 9, y: -15}
+        - {x: 11, y: -7}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d43330e1214de696eed266b565e8b1
+      internalID: 21300092
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_52
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 12, y: 2}
+        - {x: 3, y: 8}
+        - {x: -8, y: 8}
+        - {x: -10, y: 4}
+        - {x: -10, y: -14}
+        - {x: -9, y: -15}
+        - {x: 8, y: -15}
+        - {x: 13, y: -10}
+        - {x: 14, y: -2}
+        - {x: 14, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6b74067790450183b6e0f477599e55
+      internalID: 21300094
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_41
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 150
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -12, y: -4}
+        - {x: -10, y: -6}
+        - {x: -12, y: -10}
+        - {x: -12, y: -15}
+        - {x: 10, y: -15}
+        - {x: 12, y: -14}
+        - {x: 12, y: 5}
+        - {x: 11, y: 9}
+        - {x: 1, y: 11}
+        - {x: -8, y: 11}
+        - {x: -12, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d93ac8e87134971aaf4fb1159beabd4
+      internalID: 21300096
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_59
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 120
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -4, y: 15}
+        - {x: -12, y: 8}
+        - {x: -12, y: -2}
+        - {x: -10, y: -12}
+        - {x: -8, y: -14}
+        - {x: 3, y: -14}
+        - {x: 12, y: -10}
+        - {x: 12, y: 9}
+        - {x: 1, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: efba0b3a1b654f8c8f489d34f6844f21
+      internalID: 21300098
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_79
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 60
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -3, y: 15}
+        - {x: -13, y: 10}
+        - {x: -13, y: -6}
+        - {x: -9, y: -12}
+        - {x: 8, y: -12}
+        - {x: 13, y: -10}
+        - {x: 13, y: 8}
+        - {x: 5, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdc6c648f8e4414a07d901061927505
+      internalID: 21300100
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -8, y: 11}
+        - {x: -12, y: 6}
+        - {x: -12, y: -4}
+        - {x: -10, y: -6}
+        - {x: -12, y: -10}
+        - {x: -12, y: -13}
+        - {x: -9, y: -15}
+        - {x: 5, y: -15}
+        - {x: 11, y: -8}
+        - {x: 11, y: 9}
+        - {x: 1, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdb295c63dc43dc83fce4ed219a6786
+      internalID: 21300102
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_49
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 150
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 8, y: 6}
+        - {x: 2, y: 6}
+        - {x: -7, y: 2}
+        - {x: -11, y: -9}
+        - {x: -11, y: -15}
+        - {x: 9, y: -15}
+        - {x: 14, y: -11}
+        - {x: 14, y: -8}
+        - {x: 12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fcaa937604496a82d73b93d9147f79
+      internalID: 21300104
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_37
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -9, y: 12}
+        - {x: -13, y: 5}
+        - {x: -13, y: -11}
+        - {x: -10, y: -12}
+        - {x: -7, y: -15}
+        - {x: 5, y: -15}
+        - {x: 12, y: -6}
+        - {x: 12, y: 4}
+        - {x: 5, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622b624b15b5444b8094e5619898eeb4
+      internalID: 21300106
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_94
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 5, y: 12}
+        - {x: -12, y: 12}
+        - {x: -12, y: -15}
+        - {x: 5, y: -15}
+        - {x: 11, y: -3}
+        - {x: 11, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d5bbfd17964df3993995c123805951
+      internalID: 21300108
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 210
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 3, y: -3}
+        - {x: -9, y: -6}
+        - {x: -11, y: -10}
+        - {x: -11, y: -15}
+        - {x: 14, y: -15}
+        - {x: 14, y: -7}
+        - {x: 8, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb4ab23e39a492e8e63b61d88601d3d
+      internalID: 21300110
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_36
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -5, y: 10}
+        - {x: -13, y: 2}
+        - {x: -13, y: -7}
+        - {x: -7, y: -15}
+        - {x: 8, y: -15}
+        - {x: 12, y: -7}
+        - {x: 12, y: 6}
+        - {x: 1, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfc0c493c674d01880b1233924320ff
+      internalID: 21300112
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_91
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 8, y: 7}
+        - {x: -8, y: 7}
+        - {x: -12, y: 5}
+        - {x: -12, y: -7}
+        - {x: -10, y: -9}
+        - {x: -12, y: -12}
+        - {x: -12, y: -15}
+        - {x: 9, y: -15}
+        - {x: 11, y: -7}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3302fa9f17b465ebd989db4fe8a05ee
+      internalID: 21300114
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_31
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -13, y: 4}
+        - {x: -13, y: -11}
+        - {x: -6, y: -15}
+        - {x: 11, y: -15}
+        - {x: 11, y: 5}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0d328e6ba64a2b827774a0e350c062
+      internalID: 21300116
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 210
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -7, y: 9}
+        - {x: -11, y: 1}
+        - {x: -11, y: -6}
+        - {x: -9, y: -8}
+        - {x: -11, y: -12}
+        - {x: -11, y: -14}
+        - {x: -10, y: -15}
+        - {x: 10, y: -15}
+        - {x: 12, y: -7}
+        - {x: 12, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f6c67906bc4dee93f1b7646839b351
+      internalID: 21300118
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 240
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -1, y: -3}
+        - {x: -8, y: -6}
+        - {x: -13, y: -13}
+        - {x: -12, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: -11}
+        - {x: 10, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6acee66d53842f0964995325efe4379
+      internalID: 21300120
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_61
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 90
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -4, y: 15}
+        - {x: -13, y: 10}
+        - {x: -13, y: -12}
+        - {x: -8, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -10}
+        - {x: 13, y: 7}
+        - {x: 6, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbec493f0b94ed2b5cb6a93d95917d3
+      internalID: 21300122
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_85
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 30
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 8, y: 7}
+        - {x: -8, y: 7}
+        - {x: -12, y: 5}
+        - {x: -12, y: -7}
+        - {x: -10, y: -9}
+        - {x: -12, y: -12}
+        - {x: -12, y: -15}
+        - {x: 9, y: -15}
+        - {x: 11, y: -7}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfcd3c2de554229a39ae27ce6672795
+      internalID: 21300124
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_45
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 0, y: 11}
+        - {x: -8, y: 11}
+        - {x: -12, y: 6}
+        - {x: -12, y: -4}
+        - {x: -10, y: -6}
+        - {x: -12, y: -10}
+        - {x: -12, y: -13}
+        - {x: -9, y: -15}
+        - {x: 4, y: -15}
+        - {x: 11, y: -8}
+        - {x: 11, y: 5}
+        - {x: 9, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd61df645764760b0e8a6038f7d440a
+      internalID: 21300126
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 60
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -5, y: 15}
+        - {x: -13, y: 11}
+        - {x: -13, y: -8}
+        - {x: -6, y: -11}
+        - {x: 9, y: -11}
+        - {x: 13, y: -7}
+        - {x: 13, y: 9}
+        - {x: 7, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f85feca5f004c3299729bcd7221a6ba
+      internalID: 21300128
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 270
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -4, y: 9}
+        - {x: -10, y: 1}
+        - {x: -12, y: -7}
+        - {x: -12, y: -15}
+        - {x: 6, y: -15}
+        - {x: 14, y: -9}
+        - {x: 14, y: 0}
+        - {x: 4, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910f4b95f05b41879ba978f5af6ca936
+      internalID: 21300130
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_54
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -3, y: 13}
+        - {x: -12, y: 4}
+        - {x: -12, y: -12}
+        - {x: -6, y: -15}
+        - {x: 12, y: -15}
+        - {x: 12, y: 7}
+        - {x: 9, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448a46ae65cc4af0b507bd866a7f6425
+      internalID: 21300132
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_86
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 30
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 8, y: 7}
+        - {x: -8, y: 7}
+        - {x: -12, y: 5}
+        - {x: -12, y: -7}
+        - {x: -10, y: -9}
+        - {x: -12, y: -12}
+        - {x: -12, y: -15}
+        - {x: 9, y: -15}
+        - {x: 11, y: -7}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0dd55d50c940a0a82328244137e1ef
+      internalID: 21300134
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_64
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 90
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -4, y: 15}
+        - {x: -13, y: 10}
+        - {x: -13, y: -12}
+        - {x: -8, y: -15}
+        - {x: 10, y: -15}
+        - {x: 13, y: -10}
+        - {x: 13, y: 7}
+        - {x: 6, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464d4665f7f9403eb8c31b3d243edd95
+      internalID: 21300136
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -1, y: -4}
+        - {x: -4, y: -5}
+        - {x: -4, y: -9}
+        - {x: -1, y: -12}
+        - {x: 2, y: -12}
+        - {x: 5, y: -9}
+        - {x: 5, y: -7}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f3b0dfcb3e4f34be0da5f4a5ca3bad
+      internalID: 21300138
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 210
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -7, y: 6}
+        - {x: -10, y: 0}
+        - {x: -10, y: -14}
+        - {x: -5, y: -15}
+        - {x: 13, y: -15}
+        - {x: 14, y: -13}
+        - {x: 14, y: 0}
+        - {x: 6, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d4ba53c79b49b5860e8e38ff1e06cf
+      internalID: 21300140
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 150
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -11, y: 10}
+        - {x: -12, y: 8}
+        - {x: -12, y: -15}
+        - {x: 6, y: -15}
+        - {x: 12, y: -13}
+        - {x: 12, y: 7}
+        - {x: 5, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f0f4347c3d40d6bfefecdd23c01f7f
+      internalID: 21300142
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 270
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 6, y: 8}
+        - {x: -10, y: 8}
+        - {x: -12, y: 2}
+        - {x: -12, y: -15}
+        - {x: 8, y: -15}
+        - {x: 11, y: -10}
+        - {x: 11, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406e3f8edf474fabafca4f9b5e46ced7
+      internalID: 21300144
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 11, y: 5}
+        - {x: 10, y: 7}
+        - {x: 0, y: 11}
+        - {x: -8, y: 11}
+        - {x: -12, y: 6}
+        - {x: -12, y: -4}
+        - {x: -10, y: -6}
+        - {x: -12, y: -10}
+        - {x: -12, y: -13}
+        - {x: -9, y: -15}
+        - {x: 4, y: -15}
+        - {x: 10, y: -4}
+        - {x: 11, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d6f6030c2449e9a6e751eef37d6bf8
+      internalID: 21300146
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 210
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -8, y: 9}
+        - {x: -11, y: 8}
+        - {x: -11, y: -15}
+        - {x: 8, y: -15}
+        - {x: 12, y: -8}
+        - {x: 12, y: 5}
+        - {x: 8, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08668c471a6e4c9c9f42b091b3be375a
+      internalID: 21300148
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 90
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -10, y: 6}
+        - {x: -11, y: 3}
+        - {x: -11, y: -15}
+        - {x: 11, y: -15}
+        - {x: 12, y: -8}
+        - {x: 12, y: 2}
+        - {x: 5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b0f2e045634bac8e23453ab010a1c6
+      internalID: 21300150
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_92
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 8, y: 7}
+        - {x: -8, y: 7}
+        - {x: -12, y: 5}
+        - {x: -12, y: -7}
+        - {x: -10, y: -9}
+        - {x: -12, y: -12}
+        - {x: -12, y: -15}
+        - {x: 9, y: -15}
+        - {x: 11, y: -7}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce345e78e47a4e7d98f472121d0c1caf
+      internalID: 21300152
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_73
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -5, y: 11}
+        - {x: -9, y: 6}
+        - {x: -9, y: -14}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 14, y: -8}
+        - {x: 14, y: 10}
+        - {x: 6, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89c9e616fb64680bcf4fc4e2f446bbe
+      internalID: 21300154
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_72
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -4, y: -2}
+        - {x: -4, y: -8}
+        - {x: -3, y: -10}
+        - {x: 2, y: -10}
+        - {x: 4, y: -7}
+        - {x: 4, y: -3}
+        - {x: 2, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edf29e0097e4f0f8a814e7e3ee5d858
+      internalID: 21300156
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 180
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 1, y: 11}
+        - {x: -9, y: 11}
+        - {x: -12, y: 7}
+        - {x: -12, y: -4}
+        - {x: -10, y: -6}
+        - {x: -12, y: -10}
+        - {x: -12, y: -13}
+        - {x: -9, y: -15}
+        - {x: 5, y: -15}
+        - {x: 11, y: -9}
+        - {x: 11, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a257bc2f08ec4d629d603f8c959ad1bd
+      internalID: 21300158
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 210
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 1, y: 9}
+        - {x: -9, y: 9}
+        - {x: -11, y: 6}
+        - {x: -11, y: -15}
+        - {x: 9, y: -15}
+        - {x: 12, y: -6}
+        - {x: 12, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428185d03ec64787b643f11b5e5d3e3c
+      internalID: 21300160
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_65
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 90
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -5, y: 14}
+        - {x: -12, y: 8}
+        - {x: -13, y: 3}
+        - {x: -13, y: -9}
+        - {x: -9, y: -15}
+        - {x: 6, y: -15}
+        - {x: 13, y: -7}
+        - {x: 13, y: 8}
+        - {x: 2, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a7539fb88a4398a56ab7d6ab443668
+      internalID: 21300162
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_75
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -5, y: 15}
+        - {x: -12, y: 9}
+        - {x: -13, y: 4}
+        - {x: -13, y: -8}
+        - {x: -9, y: -15}
+        - {x: 6, y: -15}
+        - {x: 13, y: -6}
+        - {x: 13, y: 9}
+        - {x: 2, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2bbc61462b4df3bbb29010aee0b426
+      internalID: 21300164
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 4, y: 12}
+        - {x: -8, y: 12}
+        - {x: -13, y: 5}
+        - {x: -13, y: -13}
+        - {x: -11, y: -15}
+        - {x: 7, y: -15}
+        - {x: 12, y: -4}
+        - {x: 12, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297c4f16002f4f7083c7999d2478a181
+      internalID: 21300166
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_55
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -3, y: 14}
+        - {x: -12, y: 9}
+        - {x: -12, y: -2}
+        - {x: -11, y: -4}
+        - {x: -7, y: -14}
+        - {x: 6, y: -14}
+        - {x: 11, y: -12}
+        - {x: 12, y: -4}
+        - {x: 12, y: 7}
+        - {x: 6, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f42060587af43d784f96ec430cd6853
+      internalID: 21300168
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_63
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 1, y: 15}
+        - {x: -3, y: 15}
+        - {x: -13, y: 9}
+        - {x: -13, y: -13}
+        - {x: -9, y: -14}
+        - {x: 7, y: -14}
+        - {x: 11, y: -11}
+        - {x: 13, y: -9}
+        - {x: 13, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14879716cd7042048e95c8901c0a5b06
+      internalID: 21300170
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_66
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 90
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -6, y: 13}
+        - {x: -11, y: 3}
+        - {x: -13, y: -5}
+        - {x: -13, y: -8}
+        - {x: -6, y: -15}
+        - {x: 7, y: -15}
+        - {x: 13, y: -10}
+        - {x: 13, y: 6}
+        - {x: 0, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31796d6071d14683a0c4e3ae63597215
+      internalID: 21300172
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_76
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -1, y: 15}
+        - {x: -13, y: 9}
+        - {x: -13, y: -8}
+        - {x: -7, y: -13}
+        - {x: 8, y: -13}
+        - {x: 12, y: -12}
+        - {x: 13, y: -10}
+        - {x: 13, y: 7}
+        - {x: 4, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a883f2b75b54171b09c05c923a82069
+      internalID: 21300174
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_53
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 4, y: 10}
+        - {x: -8, y: 10}
+        - {x: -11, y: 3}
+        - {x: -11, y: -12}
+        - {x: -9, y: -14}
+        - {x: -4, y: -15}
+        - {x: 6, y: -15}
+        - {x: 11, y: -8}
+        - {x: 12, y: -4}
+        - {x: 12, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2859c961abe54d73b100f590f7b43015
+      internalID: 21300176
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -5, y: 15}
+        - {x: -12, y: 11}
+        - {x: -12, y: -4}
+        - {x: -9, y: -12}
+        - {x: -3, y: -14}
+        - {x: 5, y: -14}
+        - {x: 12, y: -5}
+        - {x: 12, y: 8}
+        - {x: 6, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d29b3091b86410d8e3e312357e948fa
+      internalID: 21300178
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_35
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -4, y: 10}
+        - {x: -13, y: 5}
+        - {x: -13, y: -11}
+        - {x: -12, y: -14}
+        - {x: -11, y: -15}
+        - {x: 6, y: -15}
+        - {x: 10, y: -14}
+        - {x: 12, y: -6}
+        - {x: 12, y: 3}
+        - {x: 6, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377999a44fb7406db612cc51525c95f8
+      internalID: 21300180
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 270
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 8, y: 9}
+        - {x: -8, y: 9}
+        - {x: -9, y: 3}
+        - {x: -9, y: -15}
+        - {x: 7, y: -15}
+        - {x: 13, y: -8}
+        - {x: 14, y: -1}
+        - {x: 14, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53d0574ae40472a83b23a335d04cb69
+      internalID: 21300182
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 240
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -13, y: -8}
+        - {x: -13, y: -15}
+        - {x: 13, y: -15}
+        - {x: 13, y: 3}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972e89dfdfbc4471bc5d9d1a0c45907f
+      internalID: 21300184
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_84
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 5, y: 7}
+        - {x: -7, y: 7}
+        - {x: -10, y: 3}
+        - {x: -11, y: 0}
+        - {x: -11, y: -15}
+        - {x: 10, y: -15}
+        - {x: 12, y: -10}
+        - {x: 12, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646dd252c3424c7e9685bee889cce90c
+      internalID: 21300186
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_51
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -9, y: 5}
+        - {x: -11, y: 0}
+        - {x: -11, y: -15}
+        - {x: 12, y: -15}
+        - {x: 12, y: 0}
+        - {x: 3, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfa1cf4b5a54383ae71efdffc996bcb
+      internalID: 21300188
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skin_Wizard_30x30_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -7, y: 4}
+        - {x: -11, y: -7}
+        - {x: -11, y: -15}
+        - {x: 10, y: -15}
+        - {x: 13, y: -14}
+        - {x: 13, y: -1}
+        - {x: 5, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45499c53f87748ed81608762987d0fd3
+      internalID: 21300190
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 30, y: 45}
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: ad7a60b0a8d519f3d47952791a7fe203.bundle
+  assetBundleVariant:

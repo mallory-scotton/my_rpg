@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: bc0916f9abb5dc546912e900d627e913
+timeCreated: 1706119851
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SW_waterRock1_34x26_7
+  - first:
+      213: 21300002
+    second: SW_waterRock1_34x26_3
+  - first:
+      213: 21300004
+    second: SW_waterRock1_34x26_4
+  - first:
+      213: 21300006
+    second: SW_waterRock1_34x26_0
+  - first:
+      213: 21300008
+    second: SW_waterRock1_34x26_1
+  - first:
+      213: 21300010
+    second: SW_waterRock1_34x26_5
+  - first:
+      213: 21300012
+    second: SW_waterRock1_34x26_2
+  - first:
+      213: 21300014
+    second: SW_waterRock1_34x26_6
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SW_waterRock1_34x26_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 34
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -13}
+        - {x: -17, y: 13}
+        - {x: 17, y: 13}
+        - {x: 17, y: -13}
+      physicsShape:
+      - - {x: -4, y: 12}
+        - {x: -16, y: 6}
+        - {x: -16, y: -6}
+        - {x: -14, y: -7}
+        - {x: -9, y: -11}
+        - {x: 15, y: -11}
+        - {x: 17, y: -8}
+        - {x: 17, y: 2}
+        - {x: 8, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787a069db5cf4ea0b1364f92e20f1229
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 29}
+      - {x: 34, y: 29}
+      - {x: 0, y: 3}
+      - {x: 34, y: 3}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_waterRock1_34x26_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 34
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -13}
+        - {x: -17, y: 13}
+        - {x: 17, y: 13}
+        - {x: 17, y: -13}
+      physicsShape:
+      - - {x: -12, y: 12}
+        - {x: -13, y: 10}
+        - {x: -17, y: 7}
+        - {x: -17, y: -6}
+        - {x: -14, y: -13}
+        - {x: 13, y: -13}
+        - {x: 17, y: -6}
+        - {x: 17, y: 9}
+        - {x: 9, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0fab88e83d482299b29768aeead781
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 29}
+      - {x: 34, y: 29}
+      - {x: 0, y: 3}
+      - {x: 34, y: 3}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_waterRock1_34x26_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 34
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -13}
+        - {x: -17, y: 13}
+        - {x: 17, y: 13}
+        - {x: 17, y: -13}
+      physicsShape:
+      - - {x: 3, y: 13}
+        - {x: -9, y: 13}
+        - {x: -17, y: 8}
+        - {x: -17, y: -5}
+        - {x: -9, y: -13}
+        - {x: -7, y: -13}
+        - {x: -3, y: -9}
+        - {x: 4, y: -13}
+        - {x: 9, y: -13}
+        - {x: 17, y: -7}
+        - {x: 17, y: 8}
+        - {x: 10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f46bab42664ffc9efbcc02e6f7b59f
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 29}
+      - {x: 34, y: 29}
+      - {x: 0, y: 3}
+      - {x: 34, y: 3}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_waterRock1_34x26_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -13}
+        - {x: -17, y: 13}
+        - {x: 17, y: 13}
+        - {x: 17, y: -13}
+      physicsShape:
+      - - {x: 12, y: 12}
+        - {x: -8, y: 12}
+        - {x: -16, y: 9}
+        - {x: -16, y: -5}
+        - {x: -8, y: -11}
+        - {x: 4, y: -12}
+        - {x: 11, y: -12}
+        - {x: 17, y: -8}
+        - {x: 17, y: 0}
+        - {x: 16, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2988205ef9a54e51a6ac9f81dbf56cb2
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 29}
+      - {x: 34, y: 29}
+      - {x: 0, y: 3}
+      - {x: 34, y: 3}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_waterRock1_34x26_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 34
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -13}
+        - {x: -17, y: 13}
+        - {x: 17, y: 13}
+        - {x: 17, y: -13}
+      physicsShape:
+      - - {x: -7, y: 12}
+        - {x: -17, y: 7}
+        - {x: -17, y: -7}
+        - {x: -3, y: -13}
+        - {x: 11, y: -13}
+        - {x: 17, y: -8}
+        - {x: 17, y: 5}
+        - {x: 10, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d3e12f4abd47ea960625136757f941
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 29}
+      - {x: 34, y: 29}
+      - {x: 0, y: 3}
+      - {x: 34, y: 3}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_waterRock1_34x26_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 34
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -13}
+        - {x: -17, y: 13}
+        - {x: 17, y: 13}
+        - {x: 17, y: -13}
+      physicsShape:
+      - - {x: 4, y: 12}
+        - {x: -13, y: 12}
+        - {x: -16, y: 3}
+        - {x: -16, y: -6}
+        - {x: -15, y: -10}
+        - {x: -10, y: -12}
+        - {x: 15, y: -12}
+        - {x: 17, y: -6}
+        - {x: 17, y: 0}
+        - {x: 13, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2e9c3cb35e4ae2a9e6b7301b6061ca
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 29}
+      - {x: 34, y: 29}
+      - {x: 0, y: 3}
+      - {x: 34, y: 3}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_waterRock1_34x26_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 34
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -13}
+        - {x: -17, y: 13}
+        - {x: 17, y: 13}
+        - {x: 17, y: -13}
+      physicsShape:
+      - - {x: -11, y: 12}
+        - {x: -17, y: 7}
+        - {x: -17, y: -7}
+        - {x: -5, y: -13}
+        - {x: 12, y: -13}
+        - {x: 17, y: -7}
+        - {x: 17, y: 7}
+        - {x: 6, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d759eb5e29a47329f151da101269e0d
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 29}
+      - {x: 34, y: 29}
+      - {x: 0, y: 3}
+      - {x: 34, y: 3}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW_waterRock1_34x26_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 34
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -13}
+        - {x: -17, y: 13}
+        - {x: 17, y: 13}
+        - {x: 17, y: -13}
+      physicsShape:
+      - - {x: 4, y: 12}
+        - {x: -6, y: 12}
+        - {x: -16, y: 0}
+        - {x: -16, y: -5}
+        - {x: -9, y: -10}
+        - {x: 16, y: -10}
+        - {x: 17, y: -9}
+        - {x: 17, y: 0}
+        - {x: 16, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c307d6f5823f491eae9171d5278e1e7f
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 29}
+      - {x: 34, y: 29}
+      - {x: 0, y: 3}
+      - {x: 34, y: 3}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 95d35bf82d4be93d9c0d7dd6f29fa4e4.bundle
+  assetBundleVariant:

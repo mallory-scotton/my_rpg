@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: e97e47ef7935ade4382fee0f6e8538a5
+timeCreated: 1706119828
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ParticlesLaserAnticipation90x40_3
+  - first:
+      213: 21300002
+    second: ParticlesLaserAnticipation90x40_5
+  - first:
+      213: 21300004
+    second: ParticlesLaserAnticipation90x40_6
+  - first:
+      213: 21300006
+    second: ParticlesLaserAnticipation90x40_2
+  - first:
+      213: 21300008
+    second: ParticlesLaserAnticipation90x40_1
+  - first:
+      213: 21300010
+    second: ParticlesLaserAnticipation90x40_4
+  - first:
+      213: 21300012
+    second: ParticlesLaserAnticipation90x40_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParticlesLaserAnticipation90x40_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 90
+        height: 40
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 20, y: 13, z: 16, w: 18}
+      outline:
+      - - {x: -45, y: -20}
+        - {x: -45, y: 20}
+        - {x: 45, y: 20}
+        - {x: 45, y: -20}
+      physicsShape:
+      - - {x: 13, y: -10}
+        - {x: 15, y: -15}
+        - {x: 21, y: -19}
+        - {x: 32, y: -19}
+        - {x: 35, y: -16}
+        - {x: 35, y: -8}
+        - {x: 31, y: -5}
+        - {x: 15, y: -5}
+        - {x: 13, y: -6}
+      - - {x: -21, y: -9}
+        - {x: -18, y: -12}
+        - {x: -16, y: -12}
+        - {x: -12, y: -9}
+        - {x: -13, y: -6}
+        - {x: -20, y: -6}
+      - - {x: -3, y: -9}
+        - {x: -2, y: -12}
+        - {x: 2, y: -12}
+        - {x: 4, y: -10}
+        - {x: 3, y: -7}
+        - {x: -1, y: -7}
+      - - {x: -2, y: -4}
+        - {x: -1, y: -7}
+        - {x: 5, y: -7}
+        - {x: 7, y: -5}
+        - {x: 6, y: -2}
+        - {x: 0, y: -2}
+      - - {x: 14, y: 4}
+        - {x: 10, y: 0}
+        - {x: 11, y: -3}
+        - {x: 14, y: -3}
+        - {x: 18, y: 0}
+        - {x: 18, y: 2}
+        - {x: 16, y: 4}
+      - - {x: 19, y: 10}
+        - {x: 19, y: 0}
+        - {x: 40, y: 0}
+        - {x: 40, y: 10}
+      - - {x: -23, y: 6}
+        - {x: -22, y: 3}
+        - {x: -19, y: 2}
+        - {x: -16, y: 2}
+        - {x: -14, y: 5}
+        - {x: -15, y: 8}
+        - {x: -21, y: 8}
+      - - {x: -3, y: 8}
+        - {x: -5, y: 6}
+        - {x: -4, y: 3}
+        - {x: 0, y: 2}
+        - {x: 3, y: 2}
+        - {x: 4, y: 4}
+        - {x: 4, y: 6}
+        - {x: 1, y: 8}
+      - - {x: 10, y: 2}
+        - {x: 13, y: 3}
+        - {x: 13, y: 6}
+        - {x: 10, y: 7}
+        - {x: 8, y: 5}
+      - - {x: 9, y: 12}
+        - {x: 10, y: 9}
+        - {x: 13, y: 8}
+        - {x: 18, y: 8}
+        - {x: 19, y: 10}
+        - {x: 18, y: 13}
+        - {x: 11, y: 14}
+      - - {x: 26, y: 13}
+        - {x: 30, y: 9}
+        - {x: 33, y: 10}
+        - {x: 33, y: 13}
+        - {x: 29, y: 17}
+        - {x: 26, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82457ceaa2614ceeba6d339fc2d78108
+      internalID: 21300000
+      vertices:
+      - {x: -45, y: 40}
+      - {x: 45, y: 40}
+      - {x: -45, y: 0}
+      - {x: 45, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesLaserAnticipation90x40_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 90
+        height: 40
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 20, y: 13, z: 16, w: 18}
+      outline:
+      - - {x: -45, y: -20}
+        - {x: -45, y: 20}
+        - {x: 45, y: 20}
+        - {x: 45, y: -20}
+      physicsShape:
+      - - {x: 6, y: 6}
+        - {x: 0, y: 1}
+        - {x: -1, y: -2}
+        - {x: 0, y: -5}
+        - {x: 6, y: -10}
+        - {x: 14, y: -12}
+        - {x: 37, y: -12}
+        - {x: 45, y: -8}
+        - {x: 45, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e7f7b5b5654337bdf932a56875e0d5
+      internalID: 21300002
+      vertices:
+      - {x: -45, y: 40}
+      - {x: 45, y: 40}
+      - {x: -45, y: 0}
+      - {x: 45, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesLaserAnticipation90x40_6
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 90
+        height: 40
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 20, y: 13, z: 16, w: 18}
+      outline:
+      - - {x: -45, y: -20}
+        - {x: -45, y: 20}
+        - {x: 45, y: 20}
+        - {x: 45, y: -20}
+      physicsShape:
+      - - {x: 21, y: 14}
+        - {x: 10, y: 15}
+        - {x: 3, y: 5}
+        - {x: -40, y: 2}
+        - {x: -41, y: -1}
+        - {x: -40, y: -4}
+        - {x: 7, y: -19}
+        - {x: 27, y: -19}
+        - {x: 45, y: -9}
+        - {x: 45, y: 4}
+        - {x: 39, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b03a57d7cac463ebb7e36c36683720f
+      internalID: 21300004
+      vertices:
+      - {x: -45, y: 40}
+      - {x: 45, y: 40}
+      - {x: -45, y: 0}
+      - {x: 45, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesLaserAnticipation90x40_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 90
+        height: 40
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 20, y: 13, z: 16, w: 18}
+      outline:
+      - - {x: -45, y: -20}
+        - {x: -45, y: 20}
+        - {x: 45, y: 20}
+        - {x: 45, y: -20}
+      physicsShape:
+      - - {x: 19, y: 16}
+        - {x: 8, y: 13}
+        - {x: -19, y: 7}
+        - {x: -19, y: 3}
+        - {x: -18, y: 2}
+        - {x: -5, y: -2}
+        - {x: 2, y: -2}
+        - {x: -2, y: -2}
+        - {x: -15, y: -5}
+        - {x: -16, y: -8}
+        - {x: -15, y: -11}
+        - {x: 22, y: -15}
+        - {x: 44, y: -15}
+        - {x: 45, y: -11}
+        - {x: 45, y: 8}
+        - {x: 33, y: 16}
+      - - {x: -7, y: 11}
+        - {x: -7, y: 8}
+        - {x: -4, y: 6}
+        - {x: -2, y: 6}
+        - {x: 0, y: 7}
+        - {x: 0, y: 10}
+        - {x: -3, y: 13}
+        - {x: -5, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b6c9b4842b4364b44154e6c37ff879
+      internalID: 21300006
+      vertices:
+      - {x: -45, y: 40}
+      - {x: 45, y: 40}
+      - {x: -45, y: 0}
+      - {x: 45, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesLaserAnticipation90x40_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 90
+        height: 40
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 20, y: 13, z: 16, w: 18}
+      outline:
+      - - {x: -45, y: -20}
+        - {x: -45, y: 20}
+        - {x: 45, y: 20}
+        - {x: 45, y: -20}
+      physicsShape:
+      - - {x: 24, y: 12}
+        - {x: 18, y: 1}
+        - {x: 18, y: -16}
+        - {x: 45, y: -16}
+        - {x: 45, y: 10}
+        - {x: 40, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c4e8d067294ed9bc4aecd3900e60f2
+      internalID: 21300008
+      vertices:
+      - {x: -45, y: 40}
+      - {x: 45, y: 40}
+      - {x: -45, y: 0}
+      - {x: 45, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesLaserAnticipation90x40_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 90
+        height: 40
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 20, y: 13, z: 16, w: 18}
+      outline:
+      - - {x: -45, y: -20}
+        - {x: -45, y: 20}
+        - {x: 45, y: 20}
+        - {x: 45, y: -20}
+      physicsShape:
+      - - {x: 32, y: -10}
+        - {x: 29, y: -10}
+        - {x: 26, y: -14}
+        - {x: 26, y: -18}
+        - {x: 27, y: -20}
+        - {x: 31, y: -20}
+        - {x: 34, y: -16}
+        - {x: 34, y: -11}
+      - - {x: 21, y: -13}
+        - {x: 23, y: -15}
+        - {x: 26, y: -14}
+        - {x: 27, y: -10}
+        - {x: 24, y: -8}
+        - {x: 21, y: -11}
+      - - {x: 12, y: -8}
+        - {x: 12, y: -11}
+        - {x: 13, y: -14}
+        - {x: 20, y: -14}
+        - {x: 21, y: -12}
+        - {x: 20, y: -9}
+        - {x: 14, y: -7}
+      - - {x: -2, y: -12}
+        - {x: 1, y: -11}
+        - {x: 1, y: -8}
+        - {x: -2, y: -7}
+        - {x: -4, y: -9}
+      - - {x: -21, y: -11}
+        - {x: -18, y: -10}
+        - {x: -18, y: -7}
+        - {x: -21, y: -6}
+        - {x: -23, y: -8}
+      - - {x: 30, y: 4}
+        - {x: 26, y: -2}
+        - {x: 26, y: -4}
+        - {x: 27, y: -6}
+        - {x: 38, y: -7}
+        - {x: 44, y: -7}
+        - {x: 45, y: -6}
+        - {x: 45, y: 1}
+        - {x: 44, y: 4}
+      - - {x: 8, y: 3}
+        - {x: 11, y: 4}
+        - {x: 11, y: 7}
+        - {x: 8, y: 8}
+        - {x: 6, y: 6}
+      - - {x: -25, y: 7}
+        - {x: -24, y: 4}
+        - {x: -21, y: 4}
+        - {x: -19, y: 6}
+        - {x: -20, y: 9}
+        - {x: -23, y: 9}
+      - - {x: -7, y: 7}
+        - {x: -6, y: 4}
+        - {x: -3, y: 4}
+        - {x: -1, y: 6}
+        - {x: -2, y: 9}
+        - {x: -5, y: 9}
+      - - {x: 29, y: 8}
+        - {x: 30, y: 5}
+        - {x: 33, y: 5}
+        - {x: 37, y: 8}
+        - {x: 36, y: 11}
+        - {x: 33, y: 11}
+      - - {x: 8, y: 13}
+        - {x: 8, y: 12}
+        - {x: 11, y: 9}
+        - {x: 14, y: 10}
+        - {x: 14, y: 13}
+        - {x: 12, y: 15}
+        - {x: 10, y: 15}
+      - - {x: 25, y: 14}
+        - {x: 27, y: 12}
+        - {x: 30, y: 13}
+        - {x: 30, y: 16}
+        - {x: 28, y: 18}
+        - {x: 25, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b641c5fc4ce440829090d3774520e777
+      internalID: 21300010
+      vertices:
+      - {x: -45, y: 40}
+      - {x: 45, y: 40}
+      - {x: -45, y: 0}
+      - {x: 45, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesLaserAnticipation90x40_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 90
+        height: 40
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 20, y: 13, z: 16, w: 18}
+      outline:
+      - - {x: -45, y: -20}
+        - {x: -45, y: 20}
+        - {x: 45, y: 20}
+        - {x: 45, y: -20}
+      physicsShape:
+      - - {x: 38, y: 5}
+        - {x: 34, y: 1}
+        - {x: 34, y: -3}
+        - {x: 38, y: -7}
+        - {x: 42, y: -7}
+        - {x: 45, y: -4}
+        - {x: 45, y: 2}
+        - {x: 42, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1e29e99382417088ac66ef3ca390c1
+      internalID: 21300012
+      vertices:
+      - {x: -45, y: 40}
+      - {x: 45, y: 40}
+      - {x: -45, y: 0}
+      - {x: 45, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

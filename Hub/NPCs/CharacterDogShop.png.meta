@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: c468e6d53923c1e45af8c96d42689da3
+timeCreated: 1706119813
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CharacterDogShop_6
+  - first:
+      213: 21300002
+    second: CharacterDogShop_7
+  - first:
+      213: 21300004
+    second: CharacterDogShop_4
+  - first:
+      213: 21300006
+    second: CharacterDogShop_3
+  - first:
+      213: 21300008
+    second: CharacterDogShop_1
+  - first:
+      213: 21300010
+    second: CharacterDogShop_0
+  - first:
+      213: 21300012
+    second: CharacterDogShop_2
+  - first:
+      213: 21300014
+    second: CharacterDogShop_5
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharacterDogShop_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 11}
+        - {x: -12, y: 8}
+        - {x: -12, y: -8}
+        - {x: -10, y: -10}
+        - {x: 8, y: -10}
+        - {x: 9, y: 1}
+        - {x: 9, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5e2c3b4f6a4f8e99d347ef71a40d19
+      internalID: 21300000
+      vertices:
+      - {x: 1, y: 32}
+      - {x: 25, y: 32}
+      - {x: 1, y: 8}
+      - {x: 25, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDogShop_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 12}
+        - {x: -12, y: -10}
+        - {x: 7, y: -10}
+        - {x: 9, y: -9}
+        - {x: 9, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6b2ad59f3b4e79bf80cbf2a1699a08
+      internalID: 21300002
+      vertices:
+      - {x: 1, y: 32}
+      - {x: 25, y: 32}
+      - {x: 1, y: 8}
+      - {x: 25, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDogShop_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -11, y: 10}
+        - {x: -11, y: -6}
+        - {x: -9, y: -10}
+        - {x: 4, y: -10}
+        - {x: 8, y: -2}
+        - {x: 8, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6100b27af4de405fb3d8584271b22383
+      internalID: 21300004
+      vertices:
+      - {x: 1, y: 32}
+      - {x: 25, y: 32}
+      - {x: 1, y: 8}
+      - {x: 25, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDogShop_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -12, y: 11}
+        - {x: -12, y: -10}
+        - {x: 5, y: -10}
+        - {x: 8, y: -9}
+        - {x: 9, y: -2}
+        - {x: 9, y: 6}
+        - {x: 3, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd175dbab32444b99c4b672df3e2540
+      internalID: 21300006
+      vertices:
+      - {x: 1, y: 32}
+      - {x: 25, y: 32}
+      - {x: 1, y: 8}
+      - {x: 25, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDogShop_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 6, y: 8}
+        - {x: 1, y: 10}
+        - {x: -3, y: 10}
+        - {x: -9, y: 9}
+        - {x: -11, y: 5}
+        - {x: -11, y: -6}
+        - {x: -7, y: -10}
+        - {x: 3, y: -10}
+        - {x: 5, y: -9}
+        - {x: 8, y: 3}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911b3dd301cf49b78e0e4807809121c9
+      internalID: 21300008
+      vertices:
+      - {x: 1, y: 32}
+      - {x: 25, y: 32}
+      - {x: 1, y: 8}
+      - {x: 25, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDogShop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -3, y: 12}
+        - {x: -11, y: 9}
+        - {x: -11, y: -8}
+        - {x: -10, y: -10}
+        - {x: 2, y: -10}
+        - {x: 7, y: -8}
+        - {x: 8, y: 1}
+        - {x: 8, y: 9}
+        - {x: 4, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f87c69b20c4f7a970fcb5b60f05ffe
+      internalID: 21300010
+      vertices:
+      - {x: 1, y: 32}
+      - {x: 25, y: 32}
+      - {x: 1, y: 8}
+      - {x: 25, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDogShop_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 9, y: 8}
+        - {x: 4, y: 12}
+        - {x: -10, y: 12}
+        - {x: -12, y: 9}
+        - {x: -12, y: -9}
+        - {x: -11, y: -10}
+        - {x: 4, y: -10}
+        - {x: 6, y: -7}
+        - {x: 9, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70c4d38200d4ef4875cc2cede74bd5e
+      internalID: 21300012
+      vertices:
+      - {x: 1, y: 32}
+      - {x: 25, y: 32}
+      - {x: 1, y: 8}
+      - {x: 25, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDogShop_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 3, y: 12}
+        - {x: -3, y: 12}
+        - {x: -11, y: 9}
+        - {x: -11, y: -7}
+        - {x: -9, y: -10}
+        - {x: 4, y: -10}
+        - {x: 8, y: -2}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4085811ba15467b8fef4d11b598ccb2
+      internalID: 21300014
+      vertices:
+      - {x: 1, y: 32}
+      - {x: 25, y: 32}
+      - {x: 1, y: 8}
+      - {x: 25, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 1f0e03801170aa975b541c4c7d517a45.bundle
+  assetBundleVariant:

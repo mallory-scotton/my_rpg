@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: fb772cb5533690340b0c62ab97d41b46
+timeCreated: 1706119847
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BulletEnemyScythe_0
+  - first:
+      213: 21300002
+    second: BulletScythe_2
+  - first:
+      213: 21300004
+    second: BulletEnemyScythe_3
+  - first:
+      213: 21300006
+    second: BulletScythe_0
+  - first:
+      213: 21300008
+    second: BulletScythe_1
+  - first:
+      213: 21300010
+    second: BulletScythe_3
+  - first:
+      213: 21300012
+    second: BulletEnemyScythe_2
+  - first:
+      213: 21300014
+    second: BulletEnemyScythe_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BulletEnemyScythe_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -11}
+        - {x: -11, y: 11}
+        - {x: 11, y: 11}
+        - {x: 11, y: -11}
+      physicsShape:
+      - - {x: -10, y: 11}
+        - {x: -11, y: 10}
+        - {x: -11, y: -3}
+        - {x: 4, y: -5}
+        - {x: 10, y: -5}
+        - {x: 11, y: -4}
+        - {x: 11, y: 9}
+        - {x: 10, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2158ec0d945c410b8bc1b270e49df3f5
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 22, y: 22}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletScythe_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 25
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -11}
+        - {x: -11, y: 11}
+        - {x: 11, y: 11}
+        - {x: 11, y: -11}
+      physicsShape:
+      - - {x: -7, y: 5}
+        - {x: -11, y: 5}
+        - {x: -11, y: -9}
+        - {x: -10, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: 1}
+        - {x: 8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086b2811d0f44c1b829b46a4a7a40cbe
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 22, y: 22}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletEnemyScythe_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 21
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -11}
+        - {x: -10.5, y: 11}
+        - {x: 10.5, y: 11}
+        - {x: 10.5, y: -11}
+      physicsShape:
+      - - {x: 5.5, y: 11}
+        - {x: -10.5, y: 11}
+        - {x: -10.5, y: -10}
+        - {x: -9.5, y: -11}
+        - {x: 1.5, y: -11}
+        - {x: 0.5, y: -8}
+        - {x: 5.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fb2cde681f485a84ffe19954a6d763
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 21, y: 22}
+      - {x: 0, y: 0}
+      - {x: 21, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletScythe_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 25
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -11}
+        - {x: -11, y: 11}
+        - {x: 11, y: 11}
+        - {x: 11, y: -11}
+      physicsShape:
+      - - {x: -10, y: 11}
+        - {x: -11, y: 10}
+        - {x: -11, y: -3}
+        - {x: 4, y: -5}
+        - {x: 10, y: -5}
+        - {x: 11, y: -4}
+        - {x: 11, y: 9}
+        - {x: 10, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d38bd4a5d54ebcbd6ab0a2a3f29fcb
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 22, y: 22}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletScythe_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -11}
+        - {x: -11, y: 11}
+        - {x: 11, y: 11}
+        - {x: 11, y: -11}
+      physicsShape:
+      - - {x: -2, y: 11}
+        - {x: -5, y: -5}
+        - {x: -5, y: -10}
+        - {x: -4, y: -11}
+        - {x: 8, y: -11}
+        - {x: 11, y: -9}
+        - {x: 11, y: 9}
+        - {x: 8, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484d196779684566b4b92dcf1662ea15
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 22, y: 22}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletScythe_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 25
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -11}
+        - {x: -11, y: 11}
+        - {x: 11, y: 11}
+        - {x: 11, y: -11}
+      physicsShape:
+      - - {x: -11, y: 11}
+        - {x: -11, y: -9}
+        - {x: -7, y: -11}
+        - {x: 2, y: -11}
+        - {x: 3, y: -7}
+        - {x: 6, y: 6}
+        - {x: 6, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1181a264a91f4dcf9f283231bcc66641
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 22, y: 22}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletEnemyScythe_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -11}
+        - {x: -11, y: 11}
+        - {x: 11, y: 11}
+        - {x: 11, y: -11}
+      physicsShape:
+      - - {x: -7, y: 5}
+        - {x: -11, y: 5}
+        - {x: -11, y: -9}
+        - {x: -10, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: 1}
+        - {x: 8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8692496b184e7e97f1e1b326e5049b
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 22, y: 22}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletEnemyScythe_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -11}
+        - {x: -11, y: 11}
+        - {x: 11, y: 11}
+        - {x: 11, y: -11}
+      physicsShape:
+      - - {x: -2, y: 11}
+        - {x: -5, y: -5}
+        - {x: -5, y: -10}
+        - {x: -4, y: -11}
+        - {x: 8, y: -11}
+        - {x: 11, y: -9}
+        - {x: 11, y: 9}
+        - {x: 8, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab18a2e091649a991f91992c9c096e7
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 22, y: 22}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

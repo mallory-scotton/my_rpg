@@ -1,0 +1,665 @@
+fileFormatVersion: 2
+guid: 44bba7302f2c083458dfcb7a694dffe0
+timeCreated: 1706119810
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: AcidPuddles1_30x74_10
+  - first:
+      213: 21300002
+    second: AcidPuddles1_30x74_8
+  - first:
+      213: 21300004
+    second: AcidPuddles1_30x74_1
+  - first:
+      213: 21300006
+    second: AcidPuddles1_30x74_2
+  - first:
+      213: 21300008
+    second: AcidPuddles1_30x74_5
+  - first:
+      213: 21300010
+    second: AcidPuddles1_30x74_7
+  - first:
+      213: 21300012
+    second: AcidPuddles1_30x74_6
+  - first:
+      213: 21300014
+    second: AcidPuddles1_30x74_9
+  - first:
+      213: 21300016
+    second: AcidPuddles1_30x74_3
+  - first:
+      213: 21300018
+    second: AcidPuddles1_30x74_4
+  - first:
+      213: 21300020
+    second: AcidPuddles1_30x74_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AcidPuddles1_30x74_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -15.5}
+        - {x: -26.5, y: 15.5}
+        - {x: 26.5, y: 15.5}
+        - {x: 26.5, y: -15.5}
+      physicsShape:
+      - - {x: 23.5, y: 11.5}
+        - {x: 10.5, y: 15.5}
+        - {x: -10.5, y: 15.5}
+        - {x: -23.5, y: 11.5}
+        - {x: -21.5, y: 4.5}
+        - {x: -26.5, y: 2.5}
+        - {x: -26.5, y: -8.5}
+        - {x: -21.5, y: -15.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 26.5, y: -11.5}
+        - {x: 26.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cde6935e9b94ce5a31dc6a922d36d31
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 46.5}
+      - {x: 53, y: 46.5}
+      - {x: 0, y: 15.5}
+      - {x: 53, y: 15.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidPuddles1_30x74_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 37
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -15.5}
+        - {x: -26.5, y: 15.5}
+        - {x: 26.5, y: 15.5}
+        - {x: 26.5, y: -15.5}
+      physicsShape:
+      - - {x: 23.5, y: 11.5}
+        - {x: 10.5, y: 15.5}
+        - {x: -10.5, y: 15.5}
+        - {x: -23.5, y: 11.5}
+        - {x: -21.5, y: 4.5}
+        - {x: -26.5, y: 2.5}
+        - {x: -26.5, y: -8.5}
+        - {x: -21.5, y: -15.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 26.5, y: -11.5}
+        - {x: 26.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c2b8cafbd74e56b08640ebb441c25d
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 46.5}
+      - {x: 53, y: 46.5}
+      - {x: 0, y: 15.5}
+      - {x: 53, y: 15.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidPuddles1_30x74_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 105
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -15.5}
+        - {x: -26.5, y: 15.5}
+        - {x: 26.5, y: 15.5}
+        - {x: 26.5, y: -15.5}
+      physicsShape:
+      - - {x: 23.5, y: 11.5}
+        - {x: 10.5, y: 15.5}
+        - {x: -10.5, y: 15.5}
+        - {x: -23.5, y: 11.5}
+        - {x: -21.5, y: 4.5}
+        - {x: -26.5, y: 2.5}
+        - {x: -26.5, y: -8.5}
+        - {x: -21.5, y: -15.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 26.5, y: -11.5}
+        - {x: 26.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838f5ed1cc24491187d3b9698e2c479e
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 46.5}
+      - {x: 53, y: 46.5}
+      - {x: 0, y: 15.5}
+      - {x: 53, y: 15.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidPuddles1_30x74_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 105
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -15.5}
+        - {x: -26.5, y: 15.5}
+        - {x: 26.5, y: 15.5}
+        - {x: 26.5, y: -15.5}
+      physicsShape:
+      - - {x: 23.5, y: 11.5}
+        - {x: 10.5, y: 15.5}
+        - {x: -10.5, y: 15.5}
+        - {x: -23.5, y: 11.5}
+        - {x: -21.5, y: 4.5}
+        - {x: -26.5, y: 2.5}
+        - {x: -26.5, y: -8.5}
+        - {x: -21.5, y: -15.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 26.5, y: -11.5}
+        - {x: 26.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ddd021f3c1492297c22dbeb34b6522
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 46.5}
+      - {x: 53, y: 46.5}
+      - {x: 0, y: 15.5}
+      - {x: 53, y: 15.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidPuddles1_30x74_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 71
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -15.5}
+        - {x: -26.5, y: 15.5}
+        - {x: 26.5, y: 15.5}
+        - {x: 26.5, y: -15.5}
+      physicsShape:
+      - - {x: 23.5, y: 11.5}
+        - {x: 10.5, y: 15.5}
+        - {x: -10.5, y: 15.5}
+        - {x: -23.5, y: 11.5}
+        - {x: -21.5, y: 4.5}
+        - {x: -26.5, y: 2.5}
+        - {x: -26.5, y: -8.5}
+        - {x: -21.5, y: -15.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 26.5, y: -11.5}
+        - {x: 26.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bbc959bc714d929eca086b2eb78d84
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 46.5}
+      - {x: 53, y: 46.5}
+      - {x: 0, y: 15.5}
+      - {x: 53, y: 15.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidPuddles1_30x74_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 37
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -15.5}
+        - {x: -26.5, y: 15.5}
+        - {x: 26.5, y: 15.5}
+        - {x: 26.5, y: -15.5}
+      physicsShape:
+      - - {x: 23.5, y: 11.5}
+        - {x: 10.5, y: 15.5}
+        - {x: -10.5, y: 15.5}
+        - {x: -23.5, y: 11.5}
+        - {x: -21.5, y: 4.5}
+        - {x: -26.5, y: 2.5}
+        - {x: -26.5, y: -8.5}
+        - {x: -21.5, y: -15.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 26.5, y: -11.5}
+        - {x: 26.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0376603757c74e6fa083cb43bf608413
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 46.5}
+      - {x: 53, y: 46.5}
+      - {x: 0, y: 15.5}
+      - {x: 53, y: 15.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidPuddles1_30x74_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 37
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -15.5}
+        - {x: -26.5, y: 15.5}
+        - {x: 26.5, y: 15.5}
+        - {x: 26.5, y: -15.5}
+      physicsShape:
+      - - {x: 23.5, y: 11.5}
+        - {x: 10.5, y: 15.5}
+        - {x: -10.5, y: 15.5}
+        - {x: -23.5, y: 11.5}
+        - {x: -21.5, y: 4.5}
+        - {x: -26.5, y: 2.5}
+        - {x: -26.5, y: -8.5}
+        - {x: -21.5, y: -15.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 26.5, y: -11.5}
+        - {x: 26.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32bb0b7239245d8a6ad248515dd6012
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 46.5}
+      - {x: 53, y: 46.5}
+      - {x: 0, y: 15.5}
+      - {x: 53, y: 15.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidPuddles1_30x74_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -15.5}
+        - {x: -26.5, y: 15.5}
+        - {x: 26.5, y: 15.5}
+        - {x: 26.5, y: -15.5}
+      physicsShape:
+      - - {x: 23.5, y: 11.5}
+        - {x: 10.5, y: 15.5}
+        - {x: -10.5, y: 15.5}
+        - {x: -23.5, y: 11.5}
+        - {x: -21.5, y: 4.5}
+        - {x: -26.5, y: 2.5}
+        - {x: -26.5, y: -8.5}
+        - {x: -21.5, y: -15.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 26.5, y: -11.5}
+        - {x: 26.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcef2ac38604ecd970abb07909ae54d
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 46.5}
+      - {x: 53, y: 46.5}
+      - {x: 0, y: 15.5}
+      - {x: 53, y: 15.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidPuddles1_30x74_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 71
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -15.5}
+        - {x: -26.5, y: 15.5}
+        - {x: 26.5, y: 15.5}
+        - {x: 26.5, y: -15.5}
+      physicsShape:
+      - - {x: 23.5, y: 11.5}
+        - {x: 10.5, y: 15.5}
+        - {x: -10.5, y: 15.5}
+        - {x: -23.5, y: 11.5}
+        - {x: -21.5, y: 4.5}
+        - {x: -26.5, y: 2.5}
+        - {x: -26.5, y: -8.5}
+        - {x: -21.5, y: -15.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 26.5, y: -11.5}
+        - {x: 26.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ca4690272049f6b87eb6e164383437
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 46.5}
+      - {x: 53, y: 46.5}
+      - {x: 0, y: 15.5}
+      - {x: 53, y: 15.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidPuddles1_30x74_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 71
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -15.5}
+        - {x: -26.5, y: 15.5}
+        - {x: 26.5, y: 15.5}
+        - {x: 26.5, y: -15.5}
+      physicsShape:
+      - - {x: 23.5, y: 11.5}
+        - {x: 10.5, y: 15.5}
+        - {x: -10.5, y: 15.5}
+        - {x: -23.5, y: 11.5}
+        - {x: -21.5, y: 4.5}
+        - {x: -26.5, y: 2.5}
+        - {x: -26.5, y: -8.5}
+        - {x: -21.5, y: -15.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 26.5, y: -11.5}
+        - {x: 26.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1ed3669cb84838ab042c24993e2dbe
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 46.5}
+      - {x: 53, y: 46.5}
+      - {x: 0, y: 15.5}
+      - {x: 53, y: 15.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidPuddles1_30x74_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 105
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -15.5}
+        - {x: -26.5, y: 15.5}
+        - {x: 26.5, y: 15.5}
+        - {x: 26.5, y: -15.5}
+      physicsShape:
+      - - {x: 23.5, y: 11.5}
+        - {x: 10.5, y: 15.5}
+        - {x: -10.5, y: 15.5}
+        - {x: -23.5, y: 11.5}
+        - {x: -21.5, y: 4.5}
+        - {x: -26.5, y: 2.5}
+        - {x: -26.5, y: -8.5}
+        - {x: -21.5, y: -15.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 26.5, y: -11.5}
+        - {x: 26.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1b66d16b9c4ca6a8c6d093510a30f7
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 46.5}
+      - {x: 53, y: 46.5}
+      - {x: 0, y: 15.5}
+      - {x: 53, y: 15.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 4cccb9c8fa36edf1f03dae7baaef6041.bundle
+  assetBundleVariant:

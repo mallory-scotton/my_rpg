@@ -1,0 +1,805 @@
+fileFormatVersion: 2
+guid: 4997de066539653498936d612f054e5b
+timeCreated: 1706119845
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ExplosiveBarrel88x60_3
+  - first:
+      213: 21300002
+    second: ExplosiveBarrel88x60_0
+  - first:
+      213: 21300004
+    second: ExplosiveBarrel88x60_5
+  - first:
+      213: 21300006
+    second: ExplosiveBarrel88x60_6
+  - first:
+      213: 21300008
+    second: ExplosiveBarrel88x60_2
+  - first:
+      213: 21300010
+    second: ExplosiveBarrel88x60_1
+  - first:
+      213: 21300012
+    second: ExplosiveBarrel88x60_7
+  - first:
+      213: 21300014
+    second: ExplosiveBarrel88x60_4
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ExplosiveBarrel88x60_3
+      rect:
+        serializedVersion: 2
+        x: 295.02676
+        y: 60
+        width: 28.897127
+        height: 29.97325
+      alignment: 9
+      pivot: {x: 0.44894552, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5246725, y: -14.986625}
+        - {x: -14.4753275, y: -14.986625}
+        - {x: -14.4753275, y: 5.0133753}
+        - {x: -12.4753275, y: 9.013375}
+        - {x: -8.4753275, y: 14.013375}
+        - {x: -5.4753275, y: 15.013375}
+        - {x: 7.5246725, y: 15.013375}
+        - {x: 14.5246725, y: 11.013375}
+      physicsShape:
+      - - {x: -5.4753275, y: 15.013375}
+        - {x: -8.4753275, y: 14.013375}
+        - {x: -12.4753275, y: 9.013375}
+        - {x: -14.4753275, y: 5.0133753}
+        - {x: -14.4753275, y: -14.986625}
+        - {x: 14.5246725, y: -14.986625}
+        - {x: 14.5246725, y: 11.013375}
+        - {x: 7.5246725, y: 15.013375}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18edaef0c75b476381812e9b8eb46cc9
+      internalID: 21300000
+      vertices:
+      - {x: 23.448563, y: 44.986626}
+      - {x: 30.448563, y: 14.986625}
+      - {x: 30.448563, y: 40.986626}
+      - {x: 10.448564, y: 44.986626}
+      - {x: 7.4485636, y: 43.986626}
+      - {x: 3.4485636, y: 38.986626}
+      - {x: 1.4485636, y: 34.986626}
+      - {x: 1.4485636, y: 14.986625}
+      indices:
+      - 7
+      - 6
+      - 1
+      - 5
+      - 1
+      - 6
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosiveBarrel88x60_0
+      rect:
+        serializedVersion: 2
+        x: 32.07612
+        y: 60
+        width: 26.84776
+        height: 27.97325
+      alignment: 9
+      pivot: {x: 0.5372471, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.500002, y: -13.986625}
+        - {x: -13.499998, y: -13.986625}
+        - {x: -13.499998, y: 4.0133753}
+        - {x: -9.499998, y: 14.013375}
+        - {x: 5.500002, y: 14.013375}
+        - {x: 13.500002, y: 9.013375}
+      physicsShape:
+      - - {x: 5.500002, y: 14.013375}
+        - {x: -9.499998, y: 14.013375}
+        - {x: -13.499998, y: 4.0133753}
+        - {x: -13.499998, y: -13.986625}
+        - {x: 13.500002, y: -13.986625}
+        - {x: 13.500002, y: 9.013375}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758e1f87b29940c7ad76e768b26a3992
+      internalID: 21300002
+      vertices:
+      - {x: 17.92388, y: 41.986626}
+      - {x: 25.92388, y: 13.986625}
+      - {x: 25.92388, y: 36.986626}
+      - {x: 2.9238796, y: 41.986626}
+      - {x: -1.0761204, y: 31.986626}
+      - {x: -1.0761204, y: 13.986625}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosiveBarrel88x60_5
+      rect:
+        serializedVersion: 2
+        x: 97.07612
+        y: 0
+        width: 72.84776
+        height: 52.923878
+      alignment: 9
+      pivot: {x: 0.47940913, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -26.461939}
+        - {x: -36.5, y: -12.461939}
+        - {x: -36.5, y: -2.4619389}
+        - {x: 5.5, y: 26.538061}
+        - {x: 22.5, y: 26.538061}
+        - {x: 36.5, y: -5.461939}
+        - {x: 36.5, y: -26.461939}
+      physicsShape:
+      - - {x: 14.5, y: 8.538061}
+        - {x: 16.5, y: 19.538061}
+        - {x: 14.5, y: 26.538061}
+        - {x: 7.5, y: 26.538061}
+        - {x: -17.5, y: -4.461939}
+        - {x: -35.5, y: -5.461939}
+        - {x: -36.5, y: -8.461939}
+        - {x: -36.5, y: -11.461939}
+        - {x: -34.5, y: -12.461939}
+        - {x: -13.5, y: -21.461939}
+        - {x: -10.5, y: -26.461939}
+        - {x: 29.5, y: -26.461939}
+        - {x: 36.5, y: -24.461939}
+        - {x: 36.5, y: -19.461939}
+        - {x: 17.5, y: -8.461939}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6b7d3e035b42308d96f3388dcc238b
+      internalID: 21300004
+      vertices:
+      - {x: 60.42388, y: 79.46194}
+      - {x: 74.42388, y: 26.461939}
+      - {x: 74.42388, y: 47.461937}
+      - {x: 43.42388, y: 79.46194}
+      - {x: 20.423882, y: 26.461939}
+      - {x: 1.4238815, y: 50.461937}
+      - {x: 1.4238815, y: 40.461937}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosiveBarrel88x60_6
+      rect:
+        serializedVersion: 2
+        x: 176.07613
+        y: 0
+        width: 87.92388
+        height: 58.923878
+      alignment: 9
+      pivot: {x: 0.49956706, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.961933, y: -25.461939}
+        - {x: 18.961933, y: -23.461939}
+        - {x: 18.961933, y: -18.461939}
+        - {x: 31.961933, y: -18.461939}
+        - {x: 43.961933, y: -20.461939}
+        - {x: 43.961933, y: -29.461939}
+        - {x: 32.961933, y: -29.461939}
+      - - {x: -21.038067, y: -29.461939}
+        - {x: -44.038067, y: -22.461939}
+        - {x: -44.038067, y: -6.461939}
+        - {x: 6.961933, y: 23.538061}
+        - {x: 11.961933, y: 29.538061}
+        - {x: 15.961933, y: 29.538061}
+        - {x: 17.961933, y: 28.538061}
+        - {x: 17.961933, y: -29.461939}
+      physicsShape:
+      - - {x: 17.961933, y: 28.538061}
+        - {x: 15.961933, y: 29.538061}
+        - {x: 11.961933, y: 29.538061}
+        - {x: 6.961933, y: 23.538061}
+        - {x: 3.9619331, y: 0.53806114}
+        - {x: -4.038067, y: 0.53806114}
+        - {x: -22.038067, y: -5.461939}
+        - {x: -44.038067, y: -8.461939}
+        - {x: -44.038067, y: -12.461939}
+        - {x: -41.038067, y: -15.461939}
+        - {x: -15.038067, y: -29.461939}
+        - {x: 14.961933, y: -29.461939}
+        - {x: 17.961933, y: -21.461939}
+        - {x: 14.961933, y: -4.461939}
+        - {x: 17.961933, y: 17.538061}
+      - - {x: 18.961933, y: -18.461939}
+        - {x: 18.961933, y: -23.461939}
+        - {x: 19.961933, y: -25.461939}
+        - {x: 32.961933, y: -29.461939}
+        - {x: 43.961933, y: -29.461939}
+        - {x: 43.961933, y: -20.461939}
+        - {x: 31.961933, y: -18.461939}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b80603a8f548dfb139896d6a1481f0
+      internalID: 21300006
+      vertices:
+      - {x: 59.96194, y: 88.46194}
+      - {x: 61.96194, y: 29.461939}
+      - {x: 61.96194, y: 87.46194}
+      - {x: 55.96194, y: 88.46194}
+      - {x: 50.96194, y: 82.46194}
+      - {x: 22.96194, y: 29.461939}
+      - {x: -0.038059235, y: 52.461937}
+      - {x: -0.038059235, y: 36.461937}
+      - {x: 87.961945, y: 38.461937}
+      - {x: 76.961945, y: 29.461939}
+      - {x: 87.961945, y: 29.461939}
+      - {x: 75.961945, y: 40.461937}
+      - {x: 63.96194, y: 33.461937}
+      - {x: 62.96194, y: 40.461937}
+      - {x: 62.96194, y: 35.461937}
+      indices:
+      - 14
+      - 13
+      - 12
+      - 11
+      - 12
+      - 13
+      - 9
+      - 12
+      - 11
+      - 8
+      - 9
+      - 11
+      - 10
+      - 9
+      - 8
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosiveBarrel88x60_2
+      rect:
+        serializedVersion: 2
+        x: 207.02675
+        y: 60
+        width: 28.897127
+        height: 29.97325
+      alignment: 9
+      pivot: {x: 0.44894606, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.524688, y: -14.986625}
+        - {x: -14.475312, y: -14.986625}
+        - {x: -14.475312, y: 5.0133753}
+        - {x: -12.475312, y: 9.013375}
+        - {x: -8.475312, y: 14.013375}
+        - {x: -5.475312, y: 15.013375}
+        - {x: 7.524688, y: 15.013375}
+        - {x: 14.524688, y: 11.013375}
+      physicsShape:
+      - - {x: -5.475312, y: 15.013375}
+        - {x: -8.475312, y: 14.013375}
+        - {x: -12.475312, y: 9.013375}
+        - {x: -14.475312, y: 5.0133753}
+        - {x: -14.475312, y: -14.986625}
+        - {x: 14.524688, y: -14.986625}
+        - {x: 14.524688, y: 11.013375}
+        - {x: 7.524688, y: 15.013375}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18beb18a7df7476a8b1919209b63a067
+      internalID: 21300008
+      vertices:
+      - {x: 23.448563, y: 44.986626}
+      - {x: 30.448563, y: 14.986625}
+      - {x: 30.448563, y: 40.986626}
+      - {x: 10.448564, y: 44.986626}
+      - {x: 7.4485636, y: 43.986626}
+      - {x: 3.4485636, y: 38.986626}
+      - {x: 1.4485636, y: 34.986626}
+      - {x: 1.4485636, y: 14.986625}
+      indices:
+      - 7
+      - 6
+      - 1
+      - 5
+      - 1
+      - 6
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosiveBarrel88x60_1
+      rect:
+        serializedVersion: 2
+        x: 120.076126
+        y: 60
+        width: 26.847755
+        height: 27.97325
+      alignment: 9
+      pivot: {x: 0.44412926, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.499996, y: -13.986625}
+        - {x: -13.500004, y: -13.986625}
+        - {x: -13.500004, y: 0.013375282}
+        - {x: -11.500004, y: 9.013375}
+        - {x: -8.500004, y: 14.013375}
+        - {x: 6.499996, y: 14.013375}
+        - {x: 13.499996, y: 12.013375}
+      physicsShape:
+      - - {x: -8.500004, y: 14.013375}
+        - {x: -11.500004, y: 9.013375}
+        - {x: -13.500004, y: 0.013375282}
+        - {x: -13.500004, y: -13.986625}
+        - {x: 13.499996, y: -13.986625}
+        - {x: 13.499996, y: 12.013375}
+        - {x: 6.499996, y: 14.013375}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdb376059e942ccbcf9f6b4b3ef3a72
+      internalID: 21300010
+      vertices:
+      - {x: 21.423878, y: 41.986626}
+      - {x: 28.423878, y: 13.986625}
+      - {x: 28.423878, y: 39.986626}
+      - {x: 6.4238777, y: 41.986626}
+      - {x: 3.4238777, y: 36.986626}
+      - {x: 1.4238777, y: 27.986626}
+      - {x: 1.4238777, y: 13.986625}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosiveBarrel88x60_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 88
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 20}
+        - {x: 11, y: 21}
+        - {x: 11, y: 27}
+        - {x: 14, y: 30}
+        - {x: 19, y: 30}
+        - {x: 19, y: 25}
+        - {x: 15, y: 20}
+      - - {x: -39, y: -15}
+        - {x: -44, y: -15}
+        - {x: -44, y: -9}
+        - {x: -39, y: -9}
+        - {x: -37, y: -11}
+        - {x: -37, y: -13}
+      - - {x: -19, y: -14}
+        - {x: -20, y: -11}
+        - {x: -20, y: 8}
+        - {x: 0, y: 19}
+        - {x: 10, y: 19}
+        - {x: 13, y: 17}
+        - {x: 22, y: 3}
+        - {x: 22, y: -13}
+        - {x: 19, y: -20}
+        - {x: 12, y: -30}
+        - {x: -9, y: -30}
+      - - {x: 39, y: -30}
+        - {x: 36, y: -27}
+        - {x: 36, y: -25}
+        - {x: 38, y: -24}
+        - {x: 43, y: -24}
+        - {x: 44, y: -25}
+        - {x: 44, y: -30}
+      physicsShape:
+      - - {x: 20, y: -4}
+        - {x: 17, y: 10}
+        - {x: 14, y: 12}
+        - {x: 8, y: 19}
+        - {x: 0, y: 19}
+        - {x: -20, y: 8}
+        - {x: -20, y: -11}
+        - {x: -19, y: -14}
+        - {x: -9, y: -30}
+        - {x: 12, y: -30}
+        - {x: 19, y: -20}
+        - {x: 22, y: -13}
+        - {x: 22, y: -7}
+      - - {x: 38, y: -24}
+        - {x: 36, y: -25}
+        - {x: 36, y: -27}
+        - {x: 39, y: -30}
+        - {x: 44, y: -30}
+        - {x: 44, y: -25}
+        - {x: 43, y: -24}
+      - - {x: -44, y: -9}
+        - {x: -44, y: -15}
+        - {x: -39, y: -15}
+        - {x: -37, y: -13}
+        - {x: -37, y: -11}
+        - {x: -39, y: -9}
+      - - {x: 14, y: 30}
+        - {x: 11, y: 27}
+        - {x: 11, y: 21}
+        - {x: 12, y: 20}
+        - {x: 15, y: 20}
+        - {x: 19, y: 25}
+        - {x: 19, y: 30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7100b9cc0704f018555cf8b9044f567
+      internalID: 21300012
+      vertices:
+      - {x: 87, y: 36}
+      - {x: 88, y: 30}
+      - {x: 88, y: 35}
+      - {x: 83, y: 30}
+      - {x: 82, y: 36}
+      - {x: 80, y: 35}
+      - {x: 80, y: 33}
+      - {x: 66, y: 63}
+      - {x: 63, y: 40}
+      - {x: 66, y: 47}
+      - {x: 57, y: 77}
+      - {x: 56, y: 30}
+      - {x: 54, y: 79}
+      - {x: 44, y: 79}
+      - {x: 35, y: 30}
+      - {x: 25, y: 46}
+      - {x: 24, y: 68}
+      - {x: 24, y: 49}
+      - {x: 5, y: 51}
+      - {x: 7, y: 47}
+      - {x: 7, y: 49}
+      - {x: 5, y: 45}
+      - {x: 0, y: 51}
+      - {x: 0, y: 45}
+      - {x: 63, y: 90}
+      - {x: 59, y: 80}
+      - {x: 63, y: 85}
+      - {x: 58, y: 90}
+      - {x: 56, y: 80}
+      - {x: 55, y: 87}
+      - {x: 55, y: 81}
+      indices:
+      - 30
+      - 29
+      - 28
+      - 27
+      - 28
+      - 29
+      - 25
+      - 28
+      - 27
+      - 24
+      - 25
+      - 27
+      - 26
+      - 25
+      - 24
+      - 23
+      - 22
+      - 21
+      - 18
+      - 21
+      - 22
+      - 19
+      - 21
+      - 18
+      - 20
+      - 19
+      - 18
+      - 17
+      - 16
+      - 15
+      - 13
+      - 15
+      - 16
+      - 14
+      - 15
+      - 13
+      - 11
+      - 14
+      - 13
+      - 12
+      - 11
+      - 13
+      - 10
+      - 11
+      - 12
+      - 8
+      - 11
+      - 10
+      - 7
+      - 8
+      - 10
+      - 9
+      - 8
+      - 7
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosiveBarrel88x60_4
+      rect:
+        serializedVersion: 2
+        x: 25.02675
+        y: 0
+        width: 37.897125
+        height: 35.973248
+      alignment: 9
+      pivot: {x: 0.5006514, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.975313, y: -17.986624}
+        - {x: -18.975313, y: -9.986624}
+        - {x: -18.975313, y: 4.013376}
+        - {x: -5.975313, y: 18.013376}
+        - {x: 18.024687, y: 18.013376}
+        - {x: 19.024687, y: 13.013376}
+        - {x: 19.024687, y: -12.986624}
+        - {x: 14.024687, y: -17.986624}
+      physicsShape:
+      - - {x: 11.024687, y: 18.013376}
+        - {x: 2.0246868, y: 18.013376}
+        - {x: -0.9753132, y: 17.013376}
+        - {x: -18.975313, y: 3.0133762}
+        - {x: -18.975313, y: -9.986624}
+        - {x: -13.975313, y: -17.986624}
+        - {x: 14.024687, y: -17.986624}
+        - {x: 19.024687, y: -12.986624}
+        - {x: 19.024687, y: 0.013376236}
+        - {x: 15.024687, y: 16.013376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4f755a536d4dc1a42ef26ae5bd68e4
+      internalID: 21300014
+      vertices:
+      - {x: 36.948563, y: 53.986626}
+      - {x: 37.948563, y: 22.986624}
+      - {x: 37.948563, y: 48.986626}
+      - {x: 32.948563, y: 17.986624}
+      - {x: 12.948563, y: 53.986626}
+      - {x: 4.9485626, y: 17.986624}
+      - {x: -0.051437378, y: 39.986626}
+      - {x: -0.051437378, y: 25.986624}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

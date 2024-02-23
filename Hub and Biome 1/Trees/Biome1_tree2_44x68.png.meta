@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 8b2fb8f6b4077684d93e2d29958a87d9
+timeCreated: 1706119813
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Biome1_tree2_44x68_5
+  - first:
+      213: 21300002
+    second: Biome1_tree2_44x68_10
+  - first:
+      213: 21300004
+    second: Biome1_tree2_44x68_11
+  - first:
+      213: 21300006
+    second: Biome1_tree2_44x68_9
+  - first:
+      213: 21300008
+    second: Biome1_tree2_44x68_3
+  - first:
+      213: 21300010
+    second: Biome1_tree2_44x68_4
+  - first:
+      213: 21300012
+    second: Biome1_tree2_44x68_0
+  - first:
+      213: 21300014
+    second: Biome1_tree2_44x68_7
+  - first:
+      213: 21300016
+    second: Biome1_tree2_44x68_6
+  - first:
+      213: 21300018
+    second: Biome1_tree2_44x68_1
+  - first:
+      213: 21300020
+    second: Biome1_tree2_44x68_8
+  - first:
+      213: 21300022
+    second: Biome1_tree2_44x68_2
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Biome1_tree2_44x68_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.117647104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -34}
+        - {x: -22, y: 34}
+        - {x: 22, y: 34}
+        - {x: 22, y: -34}
+      physicsShape:
+      - - {x: 11, y: 34}
+        - {x: -6, y: 34}
+        - {x: -13, y: 32}
+        - {x: -22, y: 25}
+        - {x: -22, y: -17}
+        - {x: -21, y: -26}
+        - {x: -15, y: -33}
+        - {x: -14, y: -34}
+        - {x: 16, y: -34}
+        - {x: 21, y: -27}
+        - {x: 22, y: -20}
+        - {x: 22, y: 25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1497c51a7344dba378774b8463d82d
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 94}
+      - {x: 44, y: 94}
+      - {x: 0, y: 25.999996}
+      - {x: 44, y: 25.999996}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1_tree2_44x68_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.117647104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -34}
+        - {x: -22, y: 34}
+        - {x: 22, y: 34}
+        - {x: 22, y: -34}
+      physicsShape:
+      - - {x: 21, y: 26}
+        - {x: 13, y: 34}
+        - {x: -15, y: 34}
+        - {x: -22, y: 24}
+        - {x: -22, y: -22}
+        - {x: -20, y: -29}
+        - {x: -14, y: -34}
+        - {x: 15, y: -34}
+        - {x: 21, y: -27}
+        - {x: 22, y: -19}
+        - {x: 22, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c610ee3d83a54ddd9f5800b5e9ca9b1e
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 94}
+      - {x: 44, y: 94}
+      - {x: 0, y: 25.999996}
+      - {x: 44, y: 25.999996}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1_tree2_44x68_11
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.117647104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -34}
+        - {x: -22, y: 34}
+        - {x: 22, y: 34}
+        - {x: 22, y: -34}
+      physicsShape:
+      - - {x: 21, y: 26}
+        - {x: 15, y: 34}
+        - {x: -16, y: 34}
+        - {x: -22, y: 24}
+        - {x: -22, y: -22}
+        - {x: -20, y: -29}
+        - {x: -14, y: -34}
+        - {x: 15, y: -34}
+        - {x: 21, y: -27}
+        - {x: 22, y: -21}
+        - {x: 22, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75e94181729424d951f79b1307ae35f
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 94}
+      - {x: 44, y: 94}
+      - {x: 0, y: 25.999996}
+      - {x: 44, y: 25.999996}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1_tree2_44x68_9
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.117647104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -34}
+        - {x: -22, y: 34}
+        - {x: 22, y: 34}
+        - {x: 22, y: -34}
+      physicsShape:
+      - - {x: 22, y: 26}
+        - {x: 9, y: 34}
+        - {x: -9, y: 34}
+        - {x: -15, y: 32}
+        - {x: -22, y: 23}
+        - {x: -22, y: -17}
+        - {x: -20, y: -30}
+        - {x: -14, y: -34}
+        - {x: 15, y: -34}
+        - {x: 21, y: -27}
+        - {x: 22, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5a3d5dc0c74165ad1cfe12632bee58
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 94}
+      - {x: 44, y: 94}
+      - {x: 0, y: 25.999996}
+      - {x: 44, y: 25.999996}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1_tree2_44x68_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.117647104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -34}
+        - {x: -22, y: 34}
+        - {x: 22, y: 34}
+        - {x: 22, y: -34}
+      physicsShape:
+      - - {x: 21, y: 26}
+        - {x: 13, y: 34}
+        - {x: -10, y: 34}
+        - {x: -19, y: 33}
+        - {x: -22, y: 25}
+        - {x: -22, y: -18}
+        - {x: -21, y: -26}
+        - {x: -15, y: -33}
+        - {x: -14, y: -34}
+        - {x: 16, y: -34}
+        - {x: 20, y: -27}
+        - {x: 22, y: -21}
+        - {x: 22, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0245d39ec9945dbb4bbb0595910381c
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 94}
+      - {x: 44, y: 94}
+      - {x: 0, y: 25.999996}
+      - {x: 44, y: 25.999996}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1_tree2_44x68_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.117647104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -34}
+        - {x: -22, y: 34}
+        - {x: 22, y: 34}
+        - {x: 22, y: -34}
+      physicsShape:
+      - - {x: 22, y: 26}
+        - {x: 10, y: 34}
+        - {x: -5, y: 34}
+        - {x: -12, y: 32}
+        - {x: -22, y: 25}
+        - {x: -22, y: -27}
+        - {x: -14, y: -34}
+        - {x: 16, y: -34}
+        - {x: 21, y: -27}
+        - {x: 22, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131add3b752f48e39432f4567c78410b
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 94}
+      - {x: 44, y: 94}
+      - {x: 0, y: 25.999996}
+      - {x: 44, y: 25.999996}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1_tree2_44x68_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.117647104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -34}
+        - {x: -22, y: 34}
+        - {x: 22, y: 34}
+        - {x: 22, y: -34}
+      physicsShape:
+      - - {x: 21, y: 27}
+        - {x: 11, y: 34}
+        - {x: -6, y: 34}
+        - {x: -17, y: 29}
+        - {x: -22, y: 23}
+        - {x: -22, y: -16}
+        - {x: -21, y: -26}
+        - {x: -15, y: -33}
+        - {x: -14, y: -34}
+        - {x: 16, y: -34}
+        - {x: 21, y: -27}
+        - {x: 22, y: -21}
+        - {x: 22, y: 23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bd685acd1342a7bf0b9403150cc426
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 94}
+      - {x: 44, y: 94}
+      - {x: 0, y: 25.999996}
+      - {x: 44, y: 25.999996}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1_tree2_44x68_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.117647104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -34}
+        - {x: -22, y: 34}
+        - {x: 22, y: 34}
+        - {x: 22, y: -34}
+      physicsShape:
+      - - {x: 21, y: 26}
+        - {x: 15, y: 34}
+        - {x: -16, y: 34}
+        - {x: -22, y: 24}
+        - {x: -22, y: -22}
+        - {x: -20, y: -29}
+        - {x: -14, y: -34}
+        - {x: 15, y: -34}
+        - {x: 21, y: -27}
+        - {x: 22, y: -21}
+        - {x: 22, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1dce5722ec4c85a8f1ff0433da873e
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 94}
+      - {x: 44, y: 94}
+      - {x: 0, y: 25.999996}
+      - {x: 44, y: 25.999996}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1_tree2_44x68_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.117647104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -34}
+        - {x: -22, y: 34}
+        - {x: 22, y: 34}
+        - {x: 22, y: -34}
+      physicsShape:
+      - - {x: 12, y: 34}
+        - {x: -6, y: 34}
+        - {x: -17, y: 29}
+        - {x: -22, y: 23}
+        - {x: -22, y: -27}
+        - {x: -14, y: -34}
+        - {x: 16, y: -34}
+        - {x: 21, y: -27}
+        - {x: 22, y: -21}
+        - {x: 22, y: 25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e34036a0024b1e88a84c08606607d0
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 94}
+      - {x: 44, y: 94}
+      - {x: 0, y: 25.999996}
+      - {x: 44, y: 25.999996}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1_tree2_44x68_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.117647104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -34}
+        - {x: -22, y: 34}
+        - {x: 22, y: 34}
+        - {x: 22, y: -34}
+      physicsShape:
+      - - {x: 11, y: 34}
+        - {x: -6, y: 34}
+        - {x: -13, y: 32}
+        - {x: -22, y: 25}
+        - {x: -22, y: -17}
+        - {x: -21, y: -26}
+        - {x: -15, y: -33}
+        - {x: -14, y: -34}
+        - {x: 16, y: -34}
+        - {x: 21, y: -27}
+        - {x: 22, y: -20}
+        - {x: 22, y: 25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11953b313b494faebf8e984ba3b170a1
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 94}
+      - {x: 44, y: 94}
+      - {x: 0, y: 25.999996}
+      - {x: 44, y: 25.999996}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1_tree2_44x68_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.117647104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -34}
+        - {x: -22, y: 34}
+        - {x: 22, y: 34}
+        - {x: 22, y: -34}
+      physicsShape:
+      - - {x: 21, y: 26}
+        - {x: 13, y: 34}
+        - {x: -15, y: 34}
+        - {x: -22, y: 24}
+        - {x: -22, y: -22}
+        - {x: -20, y: -29}
+        - {x: -14, y: -34}
+        - {x: 15, y: -34}
+        - {x: 21, y: -27}
+        - {x: 22, y: -19}
+        - {x: 22, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36f7f13841048b295ddbb7a713137e7
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 94}
+      - {x: 44, y: 94}
+      - {x: 0, y: 25.999996}
+      - {x: 44, y: 25.999996}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biome1_tree2_44x68_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.117647104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -34}
+        - {x: -22, y: 34}
+        - {x: 22, y: 34}
+        - {x: 22, y: -34}
+      physicsShape:
+      - - {x: 22, y: 26}
+        - {x: 10, y: 34}
+        - {x: -5, y: 34}
+        - {x: -12, y: 32}
+        - {x: -22, y: 25}
+        - {x: -22, y: -27}
+        - {x: -14, y: -34}
+        - {x: 16, y: -34}
+        - {x: 21, y: -27}
+        - {x: 22, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441b6ebdcc5a4c6c86cf657262fa3d4d
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 94}
+      - {x: 44, y: 94}
+      - {x: 0, y: 25.999996}
+      - {x: 44, y: 25.999996}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: d56c6be660daaa82a18e3bccb9b133a9.bundle
+  assetBundleVariant:

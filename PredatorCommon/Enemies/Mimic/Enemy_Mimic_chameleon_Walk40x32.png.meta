@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: 9bd2c5876254c444abbaa4a051dfdb87
+timeCreated: 1706119828
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Enemy_Mimic_chameleon_Walk40x32_5
+  - first:
+      213: 21300002
+    second: Enemy_Mimic_chameleon_Walk40x32_1
+  - first:
+      213: 21300004
+    second: Enemy_Mimic_chameleon_Walk40x32_3
+  - first:
+      213: 21300006
+    second: Enemy_Mimic_chameleon_Walk40x32_0
+  - first:
+      213: 21300008
+    second: Enemy_Mimic_chameleon_Walk40x32_2
+  - first:
+      213: 21300010
+    second: Enemy_Mimic_chameleon_Walk40x32_4
+  - first:
+      213: 21300012
+    second: Enemy_Mimic_chameleon_Walk40x32_6
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Mimic_chameleon_Walk40x32_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 38.923878
+        height: 30.97325
+      alignment: 9
+      pivot: {x: 0.51382345, y: 0.5165748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.461937, y: -15.486625}
+        - {x: -19.461937, y: -6.4866247}
+        - {x: -19.461937, y: 3.5133753}
+        - {x: 2.538063, y: 15.513375}
+        - {x: 8.538063, y: 15.513375}
+        - {x: 18.538063, y: 10.513375}
+        - {x: 19.538063, y: 8.513375}
+        - {x: 19.538063, y: -8.486625}
+        - {x: 14.538063, y: -15.486625}
+      physicsShape:
+      - - {x: 8.538063, y: 15.513375}
+        - {x: 2.538063, y: 15.513375}
+        - {x: -19.461937, y: 3.5133753}
+        - {x: -19.461937, y: -6.4866247}
+        - {x: -6.461937, y: -15.486625}
+        - {x: 14.538063, y: -15.486625}
+        - {x: 19.538063, y: -8.486625}
+        - {x: 19.538063, y: 8.513375}
+        - {x: 18.538063, y: 10.513375}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db75aa4deca4014823ea9282fad8675
+      internalID: 21300000
+      vertices:
+      - {x: 37.461937, y: 25.486626}
+      - {x: 38.461937, y: 6.4866247}
+      - {x: 38.461937, y: 23.486626}
+      - {x: 33.461937, y: -0.5133753}
+      - {x: 27.461939, y: 30.486626}
+      - {x: 21.461939, y: 30.486626}
+      - {x: 12.461939, y: -0.5133753}
+      - {x: -0.53806114, y: 18.486626}
+      - {x: -0.53806114, y: 8.486625}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_chameleon_Walk40x32_1
+      rect:
+        serializedVersion: 2
+        x: 41.076122
+        y: 0
+        width: 38.923878
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48617658, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.538061, y: -16}
+        - {x: -19.538061, y: -7}
+        - {x: -19.538061, y: 4}
+        - {x: -0.53806114, y: 16}
+        - {x: 13.461939, y: 16}
+        - {x: 19.461939, y: 13}
+        - {x: 19.461939, y: 0}
+        - {x: 14.461939, y: -6}
+        - {x: 16.461939, y: -9}
+        - {x: 16.461939, y: -12}
+        - {x: 12.461939, y: -16}
+      physicsShape:
+      - - {x: 19.461939, y: 0}
+        - {x: 19.461939, y: 13}
+        - {x: 13.461939, y: 16}
+        - {x: -0.53806114, y: 16}
+        - {x: -19.538061, y: 4}
+        - {x: -19.538061, y: -7}
+        - {x: -10.538061, y: -16}
+        - {x: 12.461939, y: -16}
+        - {x: 16.461939, y: -12}
+        - {x: 16.461939, y: -9}
+        - {x: 14.461939, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e7c0bf231548bc97e265f4e0e30ef6
+      internalID: 21300002
+      vertices:
+      - {x: 39.461937, y: 29}
+      - {x: 34.461937, y: 10}
+      - {x: 39.461937, y: 16}
+      - {x: 33.461937, y: 32}
+      - {x: 36.461937, y: 4}
+      - {x: 36.461937, y: 7}
+      - {x: 32.461937, y: 0}
+      - {x: 19.461939, y: 32}
+      - {x: 9.461939, y: 0}
+      - {x: 0.46193886, y: 20}
+      - {x: 0.46193886, y: 9}
+      indices:
+      - 10
+      - 9
+      - 8
+      - 7
+      - 8
+      - 9
+      - 6
+      - 8
+      - 7
+      - 3
+      - 6
+      - 7
+      - 1
+      - 6
+      - 3
+      - 4
+      - 6
+      - 1
+      - 5
+      - 4
+      - 1
+      - 3
+      - 0
+      - 1
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_chameleon_Walk40x32_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 39.923878
+        height: 30.994028
+      alignment: 9
+      pivot: {x: 0.5009533, y: 0.5162285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.961941, y: -15.497014}
+        - {x: -19.96194, y: -5.497014}
+        - {x: -19.96194, y: 5.502986}
+        - {x: -16.96194, y: 9.502986}
+        - {x: -2.9619408, y: 15.502986}
+        - {x: 11.038059, y: 15.502986}
+        - {x: 20.03806, y: 10.502986}
+        - {x: 20.03806, y: 1.502986}
+        - {x: 11.038059, y: -15.497014}
+      physicsShape:
+      - - {x: 11.038059, y: 15.502986}
+        - {x: -2.9619408, y: 15.502986}
+        - {x: -16.96194, y: 9.502986}
+        - {x: -19.96194, y: 5.502986}
+        - {x: -19.96194, y: -5.497014}
+        - {x: -8.961941, y: -15.497014}
+        - {x: 11.038059, y: -15.497014}
+        - {x: 20.03806, y: 1.502986}
+        - {x: 20.03806, y: 10.502986}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8598f431e2334375a08ded422c142928
+      internalID: 21300004
+      vertices:
+      - {x: 30.961939, y: 30.497013}
+      - {x: 39.961937, y: 16.497013}
+      - {x: 39.961937, y: 25.497013}
+      - {x: 30.961939, y: -0.50298595}
+      - {x: 16.961939, y: 30.497013}
+      - {x: 10.961939, y: -0.50298595}
+      - {x: 2.9619389, y: 24.497013}
+      - {x: -0.038061142, y: 20.497013}
+      - {x: -0.038061142, y: 9.497014}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_chameleon_Walk40x32_0
+      rect:
+        serializedVersion: 2
+        x: 1.0761205
+        y: 0
+        width: 38.923878
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48617664, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.538059, y: -16}
+        - {x: -19.53806, y: -10}
+        - {x: -19.53806, y: 12}
+        - {x: -6.538059, y: 16}
+        - {x: 18.46194, y: 16}
+        - {x: 19.46194, y: 13}
+        - {x: 19.46194, y: -8}
+        - {x: 14.461941, y: -16}
+      physicsShape:
+      - - {x: 0.46194077, y: 16}
+        - {x: -16.53806, y: 6}
+        - {x: -19.53806, y: 0}
+        - {x: -19.53806, y: -10}
+        - {x: -10.538059, y: -16}
+        - {x: 14.461941, y: -16}
+        - {x: 19.46194, y: -8}
+        - {x: 19.46194, y: 10}
+        - {x: 11.461941, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77c0b8608834454a5e078770b8e6e33
+      internalID: 21300006
+      vertices:
+      - {x: 38.461937, y: 32}
+      - {x: 39.461937, y: 8}
+      - {x: 39.461937, y: 29}
+      - {x: 34.461937, y: 0}
+      - {x: 13.461939, y: 32}
+      - {x: 9.461939, y: 0}
+      - {x: 0.46193886, y: 28}
+      - {x: 0.46193886, y: 6}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_chameleon_Walk40x32_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 40
+        height: 31.994028
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50009334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -15.997014}
+        - {x: -11, y: -5.997014}
+        - {x: -12, y: -9.997014}
+        - {x: -20, y: -6.997014}
+        - {x: -20, y: 15.002986}
+        - {x: -14, y: 16.002987}
+        - {x: 19, y: 16.002987}
+        - {x: 20, y: 14.002986}
+        - {x: 20, y: -1.997014}
+        - {x: 14, y: -15.997014}
+      physicsShape:
+      - - {x: 19, y: 16.002987}
+        - {x: -14, y: 16.002987}
+        - {x: -20, y: 15.002986}
+        - {x: -20, y: -6.997014}
+        - {x: -12, y: -9.997014}
+        - {x: -11, y: -5.997014}
+        - {x: -11, y: -2.997014}
+        - {x: -11, y: -5.997014}
+        - {x: -7, y: -15.997014}
+        - {x: 14, y: -15.997014}
+        - {x: 20, y: -1.997014}
+        - {x: 20, y: 14.002986}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd61d6b1a7f945b8ad29dbf97bb8365a
+      internalID: 21300008
+      vertices:
+      - {x: 39, y: 31.997013}
+      - {x: 40, y: 13.997014}
+      - {x: 40, y: 29.997013}
+      - {x: 34, y: -0.0029859543}
+      - {x: 13, y: -0.0029859543}
+      - {x: 9, y: 12.997014}
+      - {x: 8, y: 5.997014}
+      - {x: 9, y: 9.997014}
+      - {x: 6, y: 31.997013}
+      - {x: 0, y: 30.997013}
+      - {x: 0, y: 8.997014}
+      indices:
+      - 7
+      - 5
+      - 4
+      - 10
+      - 9
+      - 6
+      - 8
+      - 6
+      - 9
+      - 5
+      - 6
+      - 8
+      - 0
+      - 5
+      - 8
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 0
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_chameleon_Walk40x32_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 38.923878
+        height: 30.994028
+      alignment: 9
+      pivot: {x: 0.51382345, y: 0.5162285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.461937, y: -9.497014}
+        - {x: -19.461937, y: -5.497014}
+        - {x: -19.461937, y: 7.502986}
+        - {x: -2.461937, y: 15.502986}
+        - {x: 10.538063, y: 15.502986}
+        - {x: 19.538063, y: 8.502986}
+        - {x: 19.538063, y: 0.50298595}
+        - {x: 10.538063, y: -15.497014}
+        - {x: -4.461937, y: -15.497014}
+      physicsShape:
+      - - {x: -2.461937, y: 15.502986}
+        - {x: -19.461937, y: 7.502986}
+        - {x: -19.461937, y: -5.497014}
+        - {x: -16.461937, y: -9.497014}
+        - {x: -4.461937, y: -15.497014}
+        - {x: 10.538063, y: -15.497014}
+        - {x: 19.538063, y: 0.50298595}
+        - {x: 19.538063, y: 8.502986}
+        - {x: 10.538063, y: 15.502986}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e0b3e93f9744a3bf44a02d77c2daa5
+      internalID: 21300010
+      vertices:
+      - {x: 29.461939, y: 30.497013}
+      - {x: 38.461937, y: 15.497014}
+      - {x: 38.461937, y: 23.497013}
+      - {x: 29.461939, y: -0.50298595}
+      - {x: 16.461939, y: 30.497013}
+      - {x: 14.461939, y: -0.50298595}
+      - {x: 2.4619389, y: 5.497014}
+      - {x: -0.53806114, y: 22.497013}
+      - {x: -0.53806114, y: 9.497014}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 4
+      - 6
+      - 7
+      - 5
+      - 6
+      - 4
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_chameleon_Walk40x32_6
+      rect:
+        serializedVersion: 2
+        x: 240.07613
+        y: 0
+        width: 39.847755
+        height: 31.97325
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.5004183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.000004, y: -15.986626}
+        - {x: -20.000004, y: -14.986626}
+        - {x: -20.000004, y: 2.0133743}
+        - {x: 1.9999962, y: 16.013374}
+        - {x: 6.999996, y: 16.013374}
+        - {x: 10.999996, y: 15.013374}
+        - {x: 19.999996, y: 9.013374}
+        - {x: 19.999996, y: -7.9866257}
+        - {x: 18.999996, y: -14.986626}
+        - {x: 18.999996, y: -15.986626}
+      physicsShape:
+      - - {x: 10.999996, y: 15.013374}
+        - {x: 6.999996, y: 16.013374}
+        - {x: 1.9999962, y: 16.013374}
+        - {x: -20.000004, y: 2.0133743}
+        - {x: -20.000004, y: -14.986626}
+        - {x: -17.000004, y: -15.986626}
+        - {x: 18.999996, y: -15.986626}
+        - {x: 18.999996, y: -14.986626}
+        - {x: 19.999996, y: -7.9866257}
+        - {x: 19.999996, y: 9.013374}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e568aef50ff4ceb8977192d1abe5fa6
+      internalID: 21300012
+      vertices:
+      - {x: 39.923878, y: 24.986626}
+      - {x: 38.923878, y: 0.9866247}
+      - {x: 39.923878, y: 7.9866247}
+      - {x: 30.923878, y: 30.986626}
+      - {x: 38.923878, y: -0.013375282}
+      - {x: 26.923878, y: 31.986626}
+      - {x: 21.923878, y: 31.986626}
+      - {x: 2.9238777, y: -0.013375282}
+      - {x: -0.076122284, y: 17.986626}
+      - {x: -0.076122284, y: 0.9866247}
+      indices:
+      - 9
+      - 8
+      - 7
+      - 6
+      - 7
+      - 8
+      - 4
+      - 7
+      - 6
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

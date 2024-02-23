@@ -1,0 +1,781 @@
+fileFormatVersion: 2
+guid: 65701a9cb4a84234d8f85732650f2e44
+timeCreated: 1706119846
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Weapons_Melee_Beheader_HUD
+  - first:
+      213: 21300002
+    second: Weapons_Melee_Katana
+  - first:
+      213: 21300004
+    second: Weapons_Melee_Scythe_HUD
+  - first:
+      213: 21300006
+    second: Weapons_Melee_Axelotl
+  - first:
+      213: 21300008
+    second: Weapons_Melee_Beheader
+  - first:
+      213: 21300010
+    second: Weapons_Melee_Katana_HUD
+  - first:
+      213: 21300012
+    second: Weapons_Melee_Motorblade
+  - first:
+      213: 21300014
+    second: Weapons_Melee_Scythe_Drop
+  - first:
+      213: 21300016
+    second: Weapons_Melee_Axelotl_Drop
+  - first:
+      213: 21300018
+    second: Weapons_Melee_Scythe
+  - first:
+      213: 21300020
+    second: Weapons_Melee_Motorblade_Drop
+  - first:
+      213: 21300022
+    second: Weapons_Melee_Katana_Drop
+  - first:
+      213: 21300024
+    second: Weapons_Melee_Beheader_Drop
+  - first:
+      213: 21300026
+    second: Weapons_Melee_Axelotl_HUD
+  - first:
+      213: 21300028
+    second: Weapons_Melee_Motorblade_HUD
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapons_Melee_Beheader_HUD
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 17
+        width: 26
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -5.5}
+        - {x: -13, y: 5.5}
+        - {x: 13, y: 5.5}
+        - {x: 13, y: -5.5}
+      physicsShape:
+      - - {x: -13, y: 5.5}
+        - {x: -13, y: -5.5}
+        - {x: 13, y: -5.5}
+        - {x: 13, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd614a9cfee487387a8b5c3ca750a8f
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 11}
+      - {x: 26, y: 11}
+      - {x: 0, y: 0}
+      - {x: 26, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Melee_Katana
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 32
+        height: 7
+      alignment: 9
+      pivot: {x: 0.1431024, y: 0.52645653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -3.5000002}
+        - {x: -16, y: 3.4999998}
+        - {x: 16, y: 3.4999998}
+        - {x: 16, y: -3.5000002}
+      physicsShape:
+      - - {x: -16, y: 3.4999998}
+        - {x: -16, y: -3.5000002}
+        - {x: 16, y: -3.5000002}
+        - {x: 16, y: 3.4999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56528fa4c41a416f9383a5756ff08fea
+      internalID: 21300002
+      vertices:
+      - {x: 11.420723, y: 6.814804}
+      - {x: 43.420723, y: 6.814804}
+      - {x: 11.420723, y: -0.18519592}
+      - {x: 43.420723, y: -0.18519592}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Melee_Scythe_HUD
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 27
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -8.5}
+        - {x: -13.5, y: 8.5}
+        - {x: 13.5, y: 8.5}
+        - {x: 13.5, y: -8.5}
+      physicsShape:
+      - - {x: -13.5, y: 8.5}
+        - {x: -13.5, y: -8.5}
+        - {x: 10.5, y: -8.5}
+        - {x: 13.5, y: -5.5}
+        - {x: 13.5, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0147f73df3cb4c609d5a05839863fb43
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 17}
+      - {x: 27, y: 17}
+      - {x: 0, y: 0}
+      - {x: 27, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Melee_Axelotl
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 29
+        height: 19
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.500004, y: -9.5}
+        - {x: -14.500004, y: 9.5}
+        - {x: 14.499996, y: 9.5}
+        - {x: 14.499996, y: -9.5}
+      physicsShape:
+      - - {x: -6.500004, y: 9.5}
+        - {x: -13.500004, y: 4.5}
+        - {x: -14.500004, y: 3.5}
+        - {x: -14.500004, y: -4.5}
+        - {x: -7.500004, y: -9.5}
+        - {x: 14.499996, y: -9.5}
+        - {x: 14.499996, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3ad90c36694899b0e9e82142cf352d
+      internalID: 21300006
+      vertices:
+      - {x: 1.449997, y: 19}
+      - {x: 30.449997, y: 19}
+      - {x: 1.449997, y: 0}
+      - {x: 30.449997, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Melee_Beheader
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 24
+        height: 9
+      alignment: 9
+      pivot: {x: 0.44999996, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -4.5}
+        - {x: -12, y: 4.5}
+        - {x: 12, y: 4.5}
+        - {x: 12, y: -4.5}
+      physicsShape:
+      - - {x: -12, y: -4.5}
+        - {x: 12, y: -4.5}
+        - {x: 12, y: 4.5}
+        - {x: -12, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: df26ce84bd7444d2985960b7a220e1f0
+      internalID: 21300008
+      vertices:
+      - {x: 1.2000008, y: 9}
+      - {x: 25.2, y: 9}
+      - {x: 1.2000008, y: 0}
+      - {x: 25.2, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Melee_Katana_HUD
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 34
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -4.5}
+        - {x: -17, y: 4.5}
+        - {x: 17, y: 4.5}
+        - {x: 17, y: -4.5}
+      physicsShape:
+      - - {x: -17, y: 4.5}
+        - {x: -17, y: -4.5}
+        - {x: 16, y: -4.5}
+        - {x: 17, y: -3.5}
+        - {x: 17, y: 3.5}
+        - {x: 14, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873075045f054894b3b295c776c23104
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 9}
+      - {x: 34, y: 9}
+      - {x: 0, y: 0}
+      - {x: 34, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Melee_Motorblade
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 33
+        height: 11
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.500008, y: -5.5}
+        - {x: -16.500008, y: 5.5}
+        - {x: 16.499992, y: 5.5}
+        - {x: 16.499992, y: -5.5}
+      physicsShape:
+      - - {x: 6.4999933, y: 5.5}
+        - {x: -12.500007, y: 5.5}
+        - {x: -16.500008, y: 3.5}
+        - {x: -16.500008, y: -5.5}
+        - {x: 16.499992, y: -5.5}
+        - {x: 16.499992, y: 3.5}
+        - {x: 14.499993, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510af67468b24b419e5f775927935490
+      internalID: 21300012
+      vertices:
+      - {x: 1.6499939, y: 11}
+      - {x: 34.649994, y: 11}
+      - {x: 1.6499939, y: 0}
+      - {x: 34.649994, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Melee_Scythe_Drop
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 62
+        width: 27
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -9}
+        - {x: -13.5, y: 9}
+        - {x: 13.5, y: 9}
+        - {x: 13.5, y: -9}
+      physicsShape:
+      - - {x: -9.5, y: 9}
+        - {x: -13.5, y: 8}
+        - {x: -13.5, y: -6}
+        - {x: -2.5, y: -9}
+        - {x: 10.5, y: -9}
+        - {x: 13.5, y: -5}
+        - {x: 13.5, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea239a215f6462bb49d2d1790ccac3c
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 27}
+      - {x: 27, y: 27}
+      - {x: 0, y: 9}
+      - {x: 27, y: 9}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Melee_Axelotl_Drop
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 62
+        width: 31
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -11}
+        - {x: -15.5, y: 11}
+        - {x: 15.5, y: 11}
+        - {x: 15.5, y: -11}
+      physicsShape:
+      - - {x: -1.5, y: 11}
+        - {x: -14.5, y: 6}
+        - {x: -15.5, y: 5}
+        - {x: -15.5, y: -4}
+        - {x: -14.5, y: -6}
+        - {x: 0.5, y: -11}
+        - {x: 12.5, y: -11}
+        - {x: 15.5, y: -9}
+        - {x: 15.5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e0e66f1d12491eaa163b65f710b79d
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 33}
+      - {x: 31, y: 33}
+      - {x: 0, y: 11}
+      - {x: 31, y: 11}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Melee_Scythe
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 25
+        height: 15
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -7.5}
+        - {x: -12.5, y: 7.5}
+        - {x: 12.5, y: 7.5}
+        - {x: 12.5, y: -7.5}
+      physicsShape:
+      - - {x: -9.5, y: 7.5}
+        - {x: -12.5, y: 6.5}
+        - {x: -12.5, y: -7.5}
+        - {x: 10.5, y: -7.5}
+        - {x: 12.5, y: -5.5}
+        - {x: 12.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb19bd5a982d4d04b1f114bc1dad5756
+      internalID: 21300018
+      vertices:
+      - {x: 1.25, y: 15}
+      - {x: 26.25, y: 15}
+      - {x: 1.25, y: 0}
+      - {x: 26.25, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Melee_Motorblade_Drop
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 62
+        width: 35
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -7}
+        - {x: -17.5, y: 7}
+        - {x: 17.5, y: 7}
+        - {x: 17.5, y: -7}
+      physicsShape:
+      - - {x: -17.5, y: 7}
+        - {x: -17.5, y: -7}
+        - {x: 16.5, y: -7}
+        - {x: 17.5, y: -5}
+        - {x: 17.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b807528f0c4c7289501881f04a08e8
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 35, y: 21}
+      - {x: 0, y: 7}
+      - {x: 35, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Melee_Katana_Drop
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 62
+        width: 34
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -5}
+        - {x: -17, y: 5}
+        - {x: 17, y: 5}
+        - {x: 17, y: -5}
+      physicsShape:
+      - - {x: -17, y: 5}
+        - {x: -17, y: -4}
+        - {x: -14, y: -5}
+        - {x: 15, y: -5}
+        - {x: 17, y: 0}
+        - {x: 17, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7512f4cdaae64c90817fbe1ddcc72010
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 15}
+      - {x: 34, y: 15}
+      - {x: 0, y: 5}
+      - {x: 34, y: 5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Melee_Beheader_Drop
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 62
+        width: 26
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -6}
+        - {x: -13, y: 6}
+        - {x: 13, y: 6}
+        - {x: 13, y: -6}
+      physicsShape:
+      - - {x: -13, y: 6}
+        - {x: -13, y: -6}
+        - {x: 13, y: -6}
+        - {x: 13, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07defdddae0e4ddfbfe69a6521bd6916
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 26, y: 18}
+      - {x: 0, y: 6}
+      - {x: 26, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Melee_Axelotl_HUD
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 31
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -10.5}
+        - {x: -15.5, y: 10.5}
+        - {x: 15.5, y: 10.5}
+        - {x: 15.5, y: -10.5}
+      physicsShape:
+      - - {x: -9.5, y: 10.5}
+        - {x: -15.5, y: 7.5}
+        - {x: -15.5, y: -7.5}
+        - {x: -8.5, y: -10.5}
+        - {x: 15.5, y: -10.5}
+        - {x: 15.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ed386c0591402da973a43e6ccb5c1b
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 31, y: 21}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Melee_Motorblade_HUD
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 35
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -6.5}
+        - {x: -17.5, y: 6.5}
+        - {x: 17.5, y: 6.5}
+        - {x: 17.5, y: -6.5}
+      physicsShape:
+      - - {x: -13.5, y: 6.5}
+        - {x: -17.5, y: 3.5}
+        - {x: -17.5, y: -6.5}
+        - {x: 17.5, y: -6.5}
+        - {x: 17.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a705059e277c4e4e9f9b9b5cf9f045bf
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 13}
+      - {x: 35, y: 13}
+      - {x: 0, y: 0}
+      - {x: 35, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

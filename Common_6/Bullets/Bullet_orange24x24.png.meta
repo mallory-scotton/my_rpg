@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: dde119249b7b89043b607ee97cf362f7
+timeCreated: 1706119811
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Bullet_orange24x24_3
+  - first:
+      213: 21300002
+    second: Bullet_orange24x24_1
+  - first:
+      213: 21300004
+    second: Bullet_orange24x24_0
+  - first:
+      213: 21300006
+    second: Bullet_orange24x24_4
+  - first:
+      213: 21300008
+    second: Bullet_orange24x24_2
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bullet_orange24x24_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: 7, y: 6}
+        - {x: 5, y: 6}
+        - {x: 4, y: 3}
+        - {x: -6, y: -6}
+        - {x: -6, y: -11}
+        - {x: -3, y: -12}
+        - {x: 5, y: -12}
+        - {x: 11, y: -5}
+        - {x: 11, y: 2}
+      - - {x: -2, y: 10}
+        - {x: -9, y: 4}
+        - {x: -11, y: 1}
+        - {x: -11, y: -3}
+        - {x: -8, y: -6}
+        - {x: -5, y: -4}
+        - {x: 5, y: 5}
+        - {x: 5, y: 7}
+        - {x: 2, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894a8015fe9f4661955fab33d89ba36d
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 24, y: 24}
+      - {x: 0, y: 0}
+      - {x: 24, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_orange24x24_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -9, y: 5}
+        - {x: -9, y: -4}
+        - {x: -6, y: -10}
+        - {x: 3, y: -10}
+        - {x: 9, y: -4}
+        - {x: 9, y: 2}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab519b483a4244d2a957814861ac974c
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 24, y: 24}
+      - {x: 0, y: 0}
+      - {x: 24, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_orange24x24_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -2, y: 7}
+        - {x: -8, y: 1}
+        - {x: -8, y: -3}
+        - {x: -2, y: -9}
+        - {x: 2, y: -9}
+        - {x: 8, y: -3}
+        - {x: 8, y: 1}
+        - {x: 2, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4ea185b1bc46528c13ca87af12e2c4
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 24, y: 24}
+      - {x: 0, y: 0}
+      - {x: 24, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_orange24x24_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -3, y: -10}
+        - {x: -2, y: -12}
+        - {x: 2, y: -12}
+        - {x: 3, y: -11}
+        - {x: 2, y: -8}
+        - {x: -1, y: -8}
+      - - {x: -12, y: -2}
+        - {x: -10, y: -4}
+        - {x: -7, y: -3}
+        - {x: -7, y: 0}
+        - {x: -9, y: 2}
+        - {x: -12, y: 1}
+      - - {x: 7, y: -2}
+        - {x: 9, y: -4}
+        - {x: 12, y: -3}
+        - {x: 12, y: 0}
+        - {x: 10, y: 2}
+        - {x: 7, y: 1}
+      - - {x: -3, y: 9}
+        - {x: -2, y: 6}
+        - {x: 1, y: 6}
+        - {x: 3, y: 8}
+        - {x: 2, y: 11}
+        - {x: -1, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d0e8e141a2473c9fcc80573ad34b8e
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 24, y: 24}
+      - {x: 0, y: 0}
+      - {x: 24, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_orange24x24_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape:
+      - - {x: -5, y: 9}
+        - {x: -10, y: 5}
+        - {x: -10, y: -5}
+        - {x: -7, y: -11}
+        - {x: 4, y: -11}
+        - {x: 10, y: -5}
+        - {x: 10, y: 3}
+        - {x: 4, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7833fe274c4efab30cfe75d3f2cb2a
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 24, y: 24}
+      - {x: 0, y: 0}
+      - {x: 24, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 9f23ea1fa7a66eee1e1c5100444a3da7.bundle
+  assetBundleVariant:

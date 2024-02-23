@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 15a3bc741639bcb4b8035904d52fa4d2
+timeCreated: 1706119846
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UICombo_Bar
+  - first:
+      213: 21300002
+    second: UICombo_1
+  - first:
+      213: 21300004
+    second: UICombo_Eyes1
+  - first:
+      213: 21300006
+    second: UICombo_Skull1
+  - first:
+      213: 21300008
+    second: UICombo_Skull2
+  - first:
+      213: 21300010
+    second: UICombo_3
+  - first:
+      213: 21300012
+    second: UICombo_Skull3
+  - first:
+      213: 21300014
+    second: UICombo_Skull4
+  - first:
+      213: 21300016
+    second: UICombo_2
+  - first:
+      213: 21300018
+    second: UICombo_Eyes2
+  - first:
+      213: 21300020
+    second: UICombo_4
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UICombo_Bar
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 154
+        width: 26
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -4.5}
+        - {x: -13, y: 4.5}
+        - {x: 13, y: 4.5}
+        - {x: 13, y: -4.5}
+      physicsShape:
+      - - {x: -11, y: 4.5}
+        - {x: -13, y: 2.5}
+        - {x: -13, y: -2.5}
+        - {x: -10, y: -4.5}
+        - {x: 13, y: -4.5}
+        - {x: 13, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d810667c10a249f8b3b47d5806cc3042
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 9}
+      - {x: 26, y: 9}
+      - {x: 0, y: 0}
+      - {x: 26, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICombo_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 152
+        width: 38
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -7}
+        - {x: -19, y: 7}
+        - {x: 19, y: 7}
+        - {x: 19, y: -7}
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -16, y: 5}
+        - {x: -19, y: 2}
+        - {x: -19, y: -3}
+        - {x: -15, y: -7}
+        - {x: 19, y: -7}
+        - {x: 19, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ecd2c3ec2d45eea715559692064f81
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 38, y: 14}
+      - {x: 0, y: 0}
+      - {x: 38, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICombo_Eyes1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 128
+        width: 9
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -3}
+        - {x: -4.5, y: 3}
+        - {x: 4.5, y: 3}
+        - {x: 4.5, y: -3}
+      physicsShape:
+      - - {x: 4.5, y: 3}
+        - {x: -4.5, y: 3}
+        - {x: -4.5, y: -3}
+        - {x: 4.5, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4649678f7bf4101b15a8bd1e08782b6
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 6}
+      - {x: 9, y: 6}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICombo_Skull1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 152
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -7}
+        - {x: -7, y: 7}
+        - {x: 7, y: 7}
+        - {x: 7, y: -7}
+      physicsShape:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31544a576bb84ab79f3489fa338ed309
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 14, y: 14}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICombo_Skull2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 120
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -7}
+        - {x: -7, y: 7}
+        - {x: 7, y: 7}
+        - {x: 7, y: -7}
+      physicsShape:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3badc0f70f3e413eb3abbde9a00005af
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 14, y: 14}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICombo_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 86
+        width: 38
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -8.5}
+        - {x: -19, y: 8.5}
+        - {x: 19, y: 8.5}
+        - {x: 19, y: -8.5}
+      physicsShape:
+      - - {x: 0, y: 8.5}
+        - {x: -12, y: 6.5}
+        - {x: -19, y: 3.5}
+        - {x: -19, y: -2.5}
+        - {x: -14, y: -7.5}
+        - {x: -6, y: -8.5}
+        - {x: 19, y: -8.5}
+        - {x: 19, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de4b0afbae1428181be879209572a65
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 17}
+      - {x: 38, y: 17}
+      - {x: 0, y: 0}
+      - {x: 38, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICombo_Skull3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 86
+        width: 14
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8.5}
+        - {x: -7, y: 8.5}
+        - {x: 7, y: 8.5}
+        - {x: 7, y: -8.5}
+      physicsShape:
+      - - {x: -7, y: 8.5}
+        - {x: -7, y: -7.5}
+        - {x: -6, y: -8.5}
+        - {x: 5, y: -8.5}
+        - {x: 7, y: -6.5}
+        - {x: 7, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc11f8cc484497b8a9d0459b9556f16
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 17}
+      - {x: 14, y: 17}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICombo_Skull4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 53
+        width: 22
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -10.5}
+        - {x: -11, y: 10.5}
+        - {x: 11, y: 10.5}
+        - {x: 11, y: -10.5}
+      physicsShape:
+      - - {x: -9, y: 10.5}
+        - {x: -11, y: 8.5}
+        - {x: -11, y: -10.5}
+        - {x: 7, y: -10.5}
+        - {x: 11, y: -6.5}
+        - {x: 11, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45a1abb428a49e89b79fe8405f64ba2
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 22, y: 21}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICombo_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 120
+        width: 38
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -7}
+        - {x: -19, y: 7}
+        - {x: 19, y: 7}
+        - {x: 19, y: -7}
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -16, y: 5}
+        - {x: -19, y: 2}
+        - {x: -19, y: -3}
+        - {x: -15, y: -7}
+        - {x: 19, y: -7}
+        - {x: 19, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc204ed0469040d598c21a871a021740
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 38, y: 14}
+      - {x: 0, y: 0}
+      - {x: 38, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICombo_Eyes2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 141
+        width: 13
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -4}
+        - {x: -6.5, y: 4}
+        - {x: 6.5, y: 4}
+        - {x: 6.5, y: -4}
+      physicsShape:
+      - - {x: -6.5, y: 4}
+        - {x: -6.5, y: -4}
+        - {x: 6.5, y: -4}
+        - {x: 6.5, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7c1ae8e54d41688609702df32f22ea
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 13, y: 8}
+      - {x: 0, y: 0}
+      - {x: 13, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICombo_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 53
+        width: 47
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -10.5}
+        - {x: -23.5, y: 10.5}
+        - {x: 23.5, y: 10.5}
+        - {x: 23.5, y: -10.5}
+      physicsShape:
+      - - {x: 1.5, y: 10.5}
+        - {x: -20.5, y: 5.5}
+        - {x: -23.5, y: 1.5}
+        - {x: -23.5, y: -8.5}
+        - {x: -16.5, y: -10.5}
+        - {x: 23.5, y: -10.5}
+        - {x: 23.5, y: 6.5}
+        - {x: 20.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3f125a64cf4d11b87498ac0060cb58
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 47, y: 21}
+      - {x: 0, y: 0}
+      - {x: 47, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: cce91b20643118143a118effbe056fd7
+timeCreated: 1706119809
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Enemy_Saber_Walk26x42_3
+  - first:
+      213: 21300002
+    second: Enemy_Saber_Walk26x42_2
+  - first:
+      213: 21300004
+    second: Enemy_Saber_Walk26x42_6
+  - first:
+      213: 21300006
+    second: Enemy_Saber_Walk26x42_4
+  - first:
+      213: 21300008
+    second: Enemy_Saber_Walk26x42_0
+  - first:
+      213: 21300010
+    second: Enemy_Saber_Walk26x42_1
+  - first:
+      213: 21300012
+    second: Enemy_Saber_Walk26x42_5
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Saber_Walk26x42_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -21}
+        - {x: -13, y: 21}
+        - {x: 13, y: 21}
+        - {x: 13, y: -21}
+      physicsShape:
+      - - {x: 13, y: 17}
+        - {x: -7, y: 17}
+        - {x: -10, y: 15}
+        - {x: -12, y: 4}
+        - {x: -12, y: -7}
+        - {x: -11, y: -10}
+        - {x: -3, y: -20}
+        - {x: 9, y: -20}
+        - {x: 13, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450567bb0ed747d28cbb28e954516dc9
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 63}
+      - {x: 26, y: 63}
+      - {x: 0, y: 21}
+      - {x: 26, y: 21}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Saber_Walk26x42_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -21}
+        - {x: -13, y: 21}
+        - {x: 13, y: 21}
+        - {x: 13, y: -21}
+      physicsShape:
+      - - {x: -7, y: 18}
+        - {x: -10, y: 16}
+        - {x: -12, y: 5}
+        - {x: -12, y: -9}
+        - {x: -8, y: -20}
+        - {x: 13, y: -20}
+        - {x: 13, y: 16}
+        - {x: 12, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562319df655d461ab45e363accc3b346
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 63}
+      - {x: 26, y: 63}
+      - {x: 0, y: 21}
+      - {x: 26, y: 21}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Saber_Walk26x42_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -21}
+        - {x: -13, y: 21}
+        - {x: 13, y: 21}
+        - {x: 13, y: -21}
+      physicsShape:
+      - - {x: 9, y: 17}
+        - {x: -10, y: 17}
+        - {x: -12, y: 15}
+        - {x: -13, y: 9}
+        - {x: -13, y: -11}
+        - {x: -11, y: -17}
+        - {x: -5, y: -20}
+        - {x: 6, y: -20}
+        - {x: 12, y: -7}
+        - {x: 12, y: 12}
+        - {x: 11, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fb79e5f3f648f3b3e2f8a0587cfac0
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 63}
+      - {x: 26, y: 63}
+      - {x: 0, y: 21}
+      - {x: 26, y: 21}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Saber_Walk26x42_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -21}
+        - {x: -13, y: 21}
+        - {x: 13, y: 21}
+        - {x: 13, y: -21}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 8}
+        - {x: -12, y: -6}
+        - {x: -10, y: -11}
+        - {x: -2, y: -20}
+        - {x: 5, y: -20}
+        - {x: 10, y: -18}
+        - {x: 13, y: -5}
+        - {x: 13, y: 15}
+        - {x: 12, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41195fd0b42a4a58bdc555c4919ab9f8
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 63}
+      - {x: 26, y: 63}
+      - {x: 0, y: 21}
+      - {x: 26, y: 21}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Saber_Walk26x42_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -21}
+        - {x: -13, y: 21}
+        - {x: 13, y: 21}
+        - {x: 13, y: -21}
+      physicsShape:
+      - - {x: 10, y: 18}
+        - {x: -9, y: 18}
+        - {x: -11, y: 16}
+        - {x: -13, y: 8}
+        - {x: -13, y: -11}
+        - {x: -9, y: -20}
+        - {x: 8, y: -20}
+        - {x: 13, y: -8}
+        - {x: 13, y: 13}
+        - {x: 12, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4180e006684ab6aa03178ba72d45ba
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 63}
+      - {x: 26, y: 63}
+      - {x: 0, y: 21}
+      - {x: 26, y: 21}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Saber_Walk26x42_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -21}
+        - {x: -13, y: 21}
+        - {x: 13, y: 21}
+        - {x: 13, y: -21}
+      physicsShape:
+      - - {x: 13, y: -1}
+        - {x: 13, y: 17}
+        - {x: 11, y: 19}
+        - {x: -8, y: 19}
+        - {x: -9, y: 17}
+        - {x: -13, y: 3}
+        - {x: -13, y: -9}
+        - {x: -12, y: -19}
+        - {x: -11, y: -20}
+        - {x: -2, y: -20}
+        - {x: 11, y: -18}
+        - {x: 13, y: -13}
+        - {x: 13, y: -12}
+        - {x: 10, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d05edab5df4a9094d13a263f7d447f
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 63}
+      - {x: 26, y: 63}
+      - {x: 0, y: 21}
+      - {x: 26, y: 21}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Saber_Walk26x42_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -21}
+        - {x: -13, y: 21}
+        - {x: 13, y: 21}
+        - {x: 13, y: -21}
+      physicsShape:
+      - - {x: 11, y: 16}
+        - {x: -10, y: 16}
+        - {x: -13, y: 1}
+        - {x: -13, y: -7}
+        - {x: -12, y: -11}
+        - {x: -4, y: -19}
+        - {x: 6, y: -19}
+        - {x: 7, y: -16}
+        - {x: 13, y: -5}
+        - {x: 13, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59acb53b4330466489bfbfab45de7115
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 63}
+      - {x: 26, y: 63}
+      - {x: 0, y: 21}
+      - {x: 26, y: 21}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 18979b6ea7ccdc86004681d90bf9ac05.bundle
+  assetBundleVariant:

@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 49350842d3797df4fb3c53893e90faa1
+timeCreated: 1706119847
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ParticlesKatana-52x28_0
+  - first:
+      213: 21300002
+    second: ParticlesKatana-52x28_3
+  - first:
+      213: 21300004
+    second: ParticlesKatana-52x28_2
+  - first:
+      213: 21300006
+    second: ParticlesKatana-52x28_4
+  - first:
+      213: 21300008
+    second: ParticlesKatana-52x28_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParticlesKatana-52x28_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 52
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -14}
+        - {x: -26, y: 14}
+        - {x: 26, y: 14}
+        - {x: 26, y: -14}
+      physicsShape:
+      - - {x: 13, y: 14}
+        - {x: -24, y: 14}
+        - {x: -24, y: 13}
+        - {x: -23, y: 10}
+        - {x: -24, y: -12}
+        - {x: -24, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -6}
+        - {x: 24, y: 8}
+        - {x: 19, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d5cf9932f5482387315de666e27cf5
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 28}
+      - {x: 52, y: 28}
+      - {x: 0, y: 0}
+      - {x: 52, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesKatana-52x28_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 52
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -14}
+        - {x: -26, y: 14}
+        - {x: 26, y: 14}
+        - {x: 26, y: -14}
+      physicsShape:
+      - - {x: 8, y: 13}
+        - {x: 6, y: 12}
+        - {x: 6, y: 6}
+        - {x: 7, y: -13}
+        - {x: 13, y: -13}
+        - {x: 24, y: -7}
+        - {x: 24, y: 4}
+        - {x: 18, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463ccba5d60e4361a1397253cd6a1920
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 28}
+      - {x: 52, y: 28}
+      - {x: 0, y: 0}
+      - {x: 52, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesKatana-52x28_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 52
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -14}
+        - {x: -26, y: 14}
+        - {x: 26, y: 14}
+        - {x: 26, y: -14}
+      physicsShape:
+      - - {x: 3, y: 13}
+        - {x: 1, y: 11}
+        - {x: 1, y: -13}
+        - {x: 13, y: -13}
+        - {x: 16, y: -12}
+        - {x: 24, y: -7}
+        - {x: 24, y: 6}
+        - {x: 12, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4083a8eb7741d5b0378e9995402d74
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 28}
+      - {x: 52, y: 28}
+      - {x: 0, y: 0}
+      - {x: 52, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesKatana-52x28_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 52
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -14}
+        - {x: -26, y: 14}
+        - {x: 26, y: 14}
+        - {x: 26, y: -14}
+      physicsShape:
+      - - {x: 17, y: 8}
+        - {x: 16, y: 5}
+        - {x: 16, y: -6}
+        - {x: 18, y: -8}
+        - {x: 21, y: -7}
+        - {x: 24, y: -3}
+        - {x: 24, y: 1}
+        - {x: 21, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471e697140b04707a82939742443bf19
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 28}
+      - {x: 52, y: 28}
+      - {x: 0, y: 0}
+      - {x: 52, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesKatana-52x28_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 52
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -14}
+        - {x: -26, y: 14}
+        - {x: 26, y: 14}
+        - {x: 26, y: -14}
+      physicsShape:
+      - - {x: -11, y: 14}
+        - {x: -11, y: -14}
+        - {x: 15, y: -14}
+        - {x: 20, y: -13}
+        - {x: 24, y: -7}
+        - {x: 24, y: 7}
+        - {x: 11, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b1bbb9299d49d7bed0af27761d320b
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 28}
+      - {x: 52, y: 28}
+      - {x: 0, y: 0}
+      - {x: 52, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

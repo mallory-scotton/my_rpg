@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: f280edfdce760d3449ce205066d0b11d
+timeCreated: 1706119842
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Boss_TeaRex_BulletDisappear30x30_5
+  - first:
+      213: 21300002
+    second: Boss_TeaRex_BulletDisappear30x30_4
+  - first:
+      213: 21300004
+    second: Boss_TeaRex_BulletDisappear30x30_8
+  - first:
+      213: 21300006
+    second: Boss_TeaRex_BulletDisappear30x30_3
+  - first:
+      213: 21300008
+    second: Boss_TeaRex_BulletDisappear30x30_7
+  - first:
+      213: 21300010
+    second: Boss_TeaRex_BulletDisappear30x30_2
+  - first:
+      213: 21300012
+    second: Boss_TeaRex_BulletDisappear30x30_0
+  - first:
+      213: 21300014
+    second: Boss_TeaRex_BulletDisappear30x30_1
+  - first:
+      213: 21300016
+    second: Boss_TeaRex_BulletDisappear30x30_6
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_TeaRex_BulletDisappear30x30_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -10, y: -12}
+        - {x: -7, y: -11}
+        - {x: -7, y: -8}
+        - {x: -10, y: -7}
+        - {x: -12, y: -9}
+      - - {x: 11, y: -3}
+        - {x: 14, y: -2}
+        - {x: 14, y: 1}
+        - {x: 11, y: 2}
+        - {x: 9, y: 0}
+      - - {x: -9, y: 10}
+        - {x: -13, y: 10}
+        - {x: -14, y: 8}
+        - {x: -14, y: 3}
+        - {x: -11, y: 2}
+        - {x: -9, y: 2}
+        - {x: -6, y: 5}
+        - {x: -6, y: 8}
+      - - {x: 8, y: 11}
+        - {x: 6, y: 9}
+        - {x: 6, y: 7}
+        - {x: 8, y: 5}
+        - {x: 10, y: 5}
+        - {x: 12, y: 7}
+        - {x: 12, y: 9}
+        - {x: 10, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f941750ed6724a89b1a7ca0920023e72
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 30, y: 30}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TeaRex_BulletDisappear30x30_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -11, y: -7}
+        - {x: -11, y: -10}
+        - {x: -9, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -10}
+        - {x: -5, y: -7}
+        - {x: -6, y: -6}
+      - - {x: 7, y: 0}
+        - {x: 7, y: -1}
+        - {x: 10, y: -4}
+        - {x: 13, y: -3}
+        - {x: 13, y: 0}
+        - {x: 11, y: 2}
+        - {x: 9, y: 2}
+      - - {x: -12, y: 10}
+        - {x: -14, y: 6}
+        - {x: -14, y: 1}
+        - {x: -10, y: -1}
+        - {x: -7, y: -1}
+        - {x: -3, y: 3}
+        - {x: -3, y: 6}
+        - {x: -7, y: 10}
+      - - {x: 7, y: 10}
+        - {x: 4, y: 7}
+        - {x: 4, y: 5}
+        - {x: 7, y: 2}
+        - {x: 9, y: 2}
+        - {x: 12, y: 5}
+        - {x: 12, y: 7}
+        - {x: 9, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ae7c44778d4f439ef455aa476a3b2a
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 30, y: 30}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TeaRex_BulletDisappear30x30_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -15, y: 8}
+        - {x: -14, y: 7}
+        - {x: -11, y: 8}
+        - {x: -11, y: 11}
+        - {x: -14, y: 12}
+        - {x: -15, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7ef5e53f0d4c1ab5c953dcbc294d14
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 30, y: 30}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TeaRex_BulletDisappear30x30_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -3, y: -15}
+        - {x: 5, y: -15}
+        - {x: 5, y: -11}
+        - {x: 3, y: -8}
+        - {x: -2, y: -8}
+        - {x: -3, y: -10}
+      - - {x: -8, y: -5}
+        - {x: -10, y: -6}
+        - {x: -10, y: -9}
+        - {x: -8, y: -11}
+        - {x: -5, y: -11}
+        - {x: -4, y: -10}
+        - {x: -4, y: -5}
+      - - {x: 3, y: 9}
+        - {x: 2, y: 7}
+        - {x: 2, y: -1}
+        - {x: 5, y: -4}
+        - {x: 8, y: -5}
+        - {x: 11, y: -5}
+        - {x: 12, y: -3}
+        - {x: 12, y: 7}
+        - {x: 8, y: 9}
+      - - {x: -9, y: 9}
+        - {x: -13, y: 5}
+        - {x: -13, y: -2}
+        - {x: -10, y: -3}
+        - {x: -1, y: -3}
+        - {x: -1, y: 5}
+        - {x: -3, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be3f3517bee4d2ca4def2702ab31e2c
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 30, y: 30}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TeaRex_BulletDisappear30x30_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -15, y: 9}
+        - {x: -15, y: 7}
+        - {x: -13, y: 5}
+        - {x: -12, y: 5}
+        - {x: -9, y: 8}
+        - {x: -10, y: 11}
+        - {x: -13, y: 11}
+      - - {x: 12, y: 7}
+        - {x: 15, y: 8}
+        - {x: 15, y: 11}
+        - {x: 12, y: 12}
+        - {x: 10, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ae6f5327054bb1bbd890ad2f027911
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 30, y: 30}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TeaRex_BulletDisappear30x30_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: 9, y: -7}
+        - {x: 12, y: -5}
+        - {x: 12, y: 1}
+        - {x: 11, y: 5}
+        - {x: 8, y: 8}
+        - {x: -9, y: 8}
+        - {x: -12, y: 3}
+        - {x: -12, y: -1}
+        - {x: -11, y: -9}
+        - {x: -6, y: -14}
+        - {x: 2, y: -14}
+        - {x: 6, y: -12}
+        - {x: 5, y: -7}
+        - {x: 2, y: -4}
+        - {x: 7, y: -7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751096fb48f24464ae291ddf7c1b16d0
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 30, y: 30}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TeaRex_BulletDisappear30x30_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -5, y: 6}
+        - {x: -9, y: 2}
+        - {x: -9, y: -9}
+        - {x: -5, y: -12}
+        - {x: 8, y: -12}
+        - {x: 9, y: -10}
+        - {x: 9, y: 3}
+        - {x: 3, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9be52b75cfc4f4ca60e6c9162b6a1e5
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 30, y: 30}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TeaRex_BulletDisappear30x30_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -4, y: 7}
+        - {x: -10, y: 4}
+        - {x: -10, y: -8}
+        - {x: -4, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -7}
+        - {x: 10, y: 4}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaea5d00840487094b68f5e8624287e
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 30, y: 30}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_TeaRex_BulletDisappear30x30_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape:
+      - - {x: -13, y: 10}
+        - {x: -14, y: 8}
+        - {x: -14, y: 6}
+        - {x: -12, y: 4}
+        - {x: -9, y: 4}
+        - {x: -8, y: 5}
+        - {x: -8, y: 10}
+      - - {x: 8, y: 9}
+        - {x: 8, y: 8}
+        - {x: 11, y: 5}
+        - {x: 14, y: 6}
+        - {x: 14, y: 9}
+        - {x: 12, y: 11}
+        - {x: 10, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8e316d4590409bb3ac31ab4803e80c
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 30, y: 30}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: aaebf9ae97352d82639d9e1fe8346bc0.bundle
+  assetBundleVariant:

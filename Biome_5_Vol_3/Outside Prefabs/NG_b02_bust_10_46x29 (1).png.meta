@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: 34bb3fa0fc24e8d40acd2b7041c2bdba
+timeCreated: 1706119811
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: NG_b02_bust_10_46x29 (1)_4
+  - first:
+      213: 21300002
+    second: NG_b02_bust_10_46x29 (1)_3
+  - first:
+      213: 21300004
+    second: NG_b02_bust_10_46x29 (1)_5
+  - first:
+      213: 21300006
+    second: NG_b02_bust_10_46x29 (1)_1
+  - first:
+      213: 21300008
+    second: NG_b02_bust_10_46x29 (1)_0
+  - first:
+      213: 21300010
+    second: NG_b02_bust_10_46x29 (1)_6
+  - first:
+      213: 21300012
+    second: NG_b02_bust_10_46x29 (1)_7
+  - first:
+      213: 21300014
+    second: NG_b02_bust_10_46x29 (1)_2
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NG_b02_bust_10_46x29 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 46
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -14.5}
+        - {x: -23, y: 14.5}
+        - {x: 23, y: 14.5}
+        - {x: 23, y: -14.5}
+      physicsShape:
+      - - {x: -19, y: 14.5}
+        - {x: -23, y: 10.5}
+        - {x: -23, y: -14.5}
+        - {x: 23, y: -14.5}
+        - {x: 23, y: 0.5}
+        - {x: 13, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e7c08f4e27480d906b7e0c3d31dfc0
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 43.5}
+      - {x: 46, y: 43.5}
+      - {x: 0, y: 14.5}
+      - {x: 46, y: 14.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_bust_10_46x29 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 58
+        width: 46
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -14.5}
+        - {x: -23, y: 14.5}
+        - {x: 23, y: 14.5}
+        - {x: 23, y: -14.5}
+      physicsShape:
+      - - {x: -19, y: 14.5}
+        - {x: -23, y: 10.5}
+        - {x: -23, y: -14.5}
+        - {x: 23, y: -14.5}
+        - {x: 23, y: 0.5}
+        - {x: 13, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54720abc3e374c98ae25882140874f6a
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 43.5}
+      - {x: 46, y: 43.5}
+      - {x: 0, y: 14.5}
+      - {x: 46, y: 14.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_bust_10_46x29 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 29
+        width: 46
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -14.5}
+        - {x: -23, y: 14.5}
+        - {x: 23, y: 14.5}
+        - {x: 23, y: -14.5}
+      physicsShape:
+      - - {x: -19, y: 14.5}
+        - {x: -23, y: 10.5}
+        - {x: -23, y: -14.5}
+        - {x: 23, y: -14.5}
+        - {x: 23, y: 0.5}
+        - {x: 13, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc5b957a3e8492f8b173f5c0ab6d612
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 43.5}
+      - {x: 46, y: 43.5}
+      - {x: 0, y: 14.5}
+      - {x: 46, y: 14.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_bust_10_46x29 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 87
+        width: 46
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -14.5}
+        - {x: -23, y: 14.5}
+        - {x: 23, y: 14.5}
+        - {x: 23, y: -14.5}
+      physicsShape:
+      - - {x: -19, y: 14.5}
+        - {x: -23, y: 10.5}
+        - {x: -23, y: -14.5}
+        - {x: 23, y: -14.5}
+        - {x: 23, y: 0.5}
+        - {x: 13, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023e49b66d094c5e91dc465110c79a59
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 43.5}
+      - {x: 46, y: 43.5}
+      - {x: 0, y: 14.5}
+      - {x: 46, y: 14.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_bust_10_46x29 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 46
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -14.5}
+        - {x: -23, y: 14.5}
+        - {x: 23, y: 14.5}
+        - {x: 23, y: -14.5}
+      physicsShape:
+      - - {x: -19, y: 14.5}
+        - {x: -23, y: 10.5}
+        - {x: -23, y: -14.5}
+        - {x: 23, y: -14.5}
+        - {x: 23, y: 0.5}
+        - {x: 13, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c64fb66ab424b629a7a000573a1de69
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 43.5}
+      - {x: 46, y: 43.5}
+      - {x: 0, y: 14.5}
+      - {x: 46, y: 14.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_bust_10_46x29 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 46
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -14.5}
+        - {x: -23, y: 14.5}
+        - {x: 23, y: 14.5}
+        - {x: 23, y: -14.5}
+      physicsShape:
+      - - {x: -19, y: 14.5}
+        - {x: -23, y: 10.5}
+        - {x: -23, y: -14.5}
+        - {x: 23, y: -14.5}
+        - {x: 23, y: 0.5}
+        - {x: 13, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49219000853e4a0daf03ec3d09054a7b
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 43.5}
+      - {x: 46, y: 43.5}
+      - {x: 0, y: 14.5}
+      - {x: 46, y: 14.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_bust_10_46x29 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 46
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -14.5}
+        - {x: -23, y: 14.5}
+        - {x: 23, y: 14.5}
+        - {x: 23, y: -14.5}
+      physicsShape:
+      - - {x: -19, y: 14.5}
+        - {x: -23, y: 10.5}
+        - {x: -23, y: -14.5}
+        - {x: 23, y: -14.5}
+        - {x: 23, y: 0.5}
+        - {x: 13, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf60b92f81be4e85b9593a7cf77f6393
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 43.5}
+      - {x: 46, y: 43.5}
+      - {x: 0, y: 14.5}
+      - {x: 46, y: 14.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NG_b02_bust_10_46x29 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 46
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -14.5}
+        - {x: -23, y: 14.5}
+        - {x: 23, y: 14.5}
+        - {x: 23, y: -14.5}
+      physicsShape:
+      - - {x: -19, y: 14.5}
+        - {x: -23, y: 10.5}
+        - {x: -23, y: -14.5}
+        - {x: 23, y: -14.5}
+        - {x: 23, y: 0.5}
+        - {x: 13, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab35998ecbd64c85837e9b6e401fbde0
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 43.5}
+      - {x: 46, y: 43.5}
+      - {x: 0, y: 14.5}
+      - {x: 46, y: 14.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 1bd78e7865cfd6c82f217ad62c9df2f6.bundle
+  assetBundleVariant:

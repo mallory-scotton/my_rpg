@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: b517946a165fa804380a7530ba35d3ae
+timeCreated: 1706119846
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ParticlesPoisonPool_43x43_1
+  - first:
+      213: 21300002
+    second: ParticlesPoisonPool_43x43_2
+  - first:
+      213: 21300004
+    second: ParticlesPoisonPool_43x43_0
+  - first:
+      213: 21300006
+    second: ParticlesPoisonPool_43x43_3
+  - first:
+      213: 21300008
+    second: ParticlesPoisonPool_43x43_5
+  - first:
+      213: 21300010
+    second: ParticlesPoisonPool_43x43_4
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParticlesPoisonPool_43x43_1
+      rect:
+        serializedVersion: 2
+        x: 52.02675
+        y: 53.02675
+        width: 26.946497
+        height: 18.946499
+      alignment: 9
+      pivot: {x: 0.46288952, y: 0.6055605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.499997, y: -9.499998}
+        - {x: -13.499997, y: -3.499998}
+        - {x: -13.499997, y: 4.500002}
+        - {x: -12.499997, y: 9.500002}
+        - {x: 13.500003, y: 9.500002}
+        - {x: 13.500003, y: -9.499998}
+      physicsShape:
+      - - {x: -12.499997, y: 9.500002}
+        - {x: -13.499997, y: 4.500002}
+        - {x: -13.499997, y: -3.499998}
+        - {x: -7.499997, y: -9.499998}
+        - {x: 13.500003, y: -9.499998}
+        - {x: 13.500003, y: 9.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9319fb09804a84981a46c2edc3335c
+      internalID: 21300000
+      vertices:
+      - {x: 27.973248, y: 16.97325}
+      - {x: 6.9732485, y: -2.0267506}
+      - {x: 27.973248, y: -2.0267506}
+      - {x: 1.9732485, y: 16.97325}
+      - {x: 0.9732485, y: 11.973249}
+      - {x: 0.9732485, y: 3.9732494}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesPoisonPool_43x43_2
+      rect:
+        serializedVersion: 2
+        x: 88.051315
+        y: 48.026752
+        width: 39.921932
+        height: 28.897127
+      alignment: 9
+      pivot: {x: 0.48716792, y: 0.57006526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.012281, y: -14.475316}
+        - {x: -20.012281, y: -8.475316}
+        - {x: -20.012281, y: 7.524684}
+        - {x: -10.012281, y: 14.524684}
+        - {x: 8.987719, y: 14.524684}
+        - {x: 11.987719, y: 13.524684}
+        - {x: 19.987719, y: 6.524684}
+        - {x: 19.987719, y: -3.475316}
+        - {x: 14.987719, y: -14.475316}
+      physicsShape:
+      - - {x: 8.987719, y: 14.524684}
+        - {x: -10.012281, y: 14.524684}
+        - {x: -20.012281, y: 7.524684}
+        - {x: -20.012281, y: -8.475316}
+        - {x: -18.012281, y: -14.475316}
+        - {x: 14.987719, y: -14.475316}
+        - {x: 19.987719, y: -3.475316}
+        - {x: 19.987719, y: 6.524684}
+        - {x: 11.987719, y: 13.524684}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec0e61a0f1946b091778888a089e4f2
+      internalID: 21300002
+      vertices:
+      - {x: 40.460968, y: 18.948563}
+      - {x: 35.460968, y: -2.0514364}
+      - {x: 40.460968, y: 8.948564}
+      - {x: 32.460968, y: 25.948563}
+      - {x: 29.460966, y: 26.948563}
+      - {x: 10.460966, y: 26.948563}
+      - {x: 2.460966, y: -2.0514364}
+      - {x: 0.4609661, y: 19.948563}
+      - {x: 0.4609661, y: 3.9485636}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 1
+      - 6
+      - 5
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesPoisonPool_43x43_0
+      rect:
+        serializedVersion: 2
+        x: 11.07612
+        y: 55.02675
+        width: 22.897127
+        height: 15.916878
+      alignment: 9
+      pivot: {x: 0.45524836, y: 0.5951702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.524684, y: -7.9851875}
+        - {x: -11.524684, y: -2.9851875}
+        - {x: -11.524684, y: 5.0148125}
+        - {x: -8.524684, y: 8.014812}
+        - {x: 11.475316, y: 8.014812}
+        - {x: 11.475316, y: -5.9851875}
+        - {x: 7.475316, y: -7.9851875}
+      physicsShape:
+      - - {x: -8.524684, y: 8.014812}
+        - {x: -11.524684, y: 5.0148125}
+        - {x: -11.524684, y: -2.9851875}
+        - {x: -10.524684, y: -7.9851875}
+        - {x: 7.475316, y: -7.9851875}
+        - {x: 11.475316, y: -5.9851875}
+        - {x: 11.475316, y: 8.014812}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34ac310fe704219b9c0a2e1c120682c
+      internalID: 21300004
+      vertices:
+      - {x: 23.948563, y: 14.458439}
+      - {x: 19.948563, y: -1.5415611}
+      - {x: 23.948563, y: 0.45843887}
+      - {x: 3.9485636, y: 14.458439}
+      - {x: 1.9485636, y: -1.5415611}
+      - {x: 0.9485636, y: 11.458439}
+      - {x: 0.9485636, y: 3.4584389}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesPoisonPool_43x43_3
+      rect:
+        serializedVersion: 2
+        x: 129.02675
+        y: 44.076122
+        width: 42.897125
+        height: 39.90562
+      alignment: 9
+      pivot: {x: 0.50057554, y: 0.5118045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.475311, y: -20.028933}
+        - {x: -21.475311, y: -12.028933}
+        - {x: -21.475311, y: 13.971067}
+        - {x: -12.475311, y: 19.971067}
+        - {x: 6.5246887, y: 19.971067}
+        - {x: 21.524689, y: 13.971067}
+        - {x: 21.524689, y: -19.028933}
+        - {x: 19.524689, y: -20.028933}
+      physicsShape:
+      - - {x: -12.475311, y: 19.971067}
+        - {x: -21.475311, y: 13.971067}
+        - {x: -21.475311, y: -11.028933}
+        - {x: -20.475311, y: -16.028933}
+        - {x: -15.475311, y: -20.028933}
+        - {x: 15.524689, y: -20.028933}
+        - {x: 21.524689, y: -12.028933}
+        - {x: 21.524689, y: 13.971067}
+        - {x: 6.5246887, y: 19.971067}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e30e898d8dc41b9a97b4910d7785a8e
+      internalID: 21300006
+      vertices:
+      - {x: 42.948563, y: 33.452812}
+      - {x: 40.948563, y: -0.5471897}
+      - {x: 42.948563, y: 0.4528103}
+      - {x: 27.948563, y: 39.452812}
+      - {x: 8.948563, y: 39.452812}
+      - {x: 1.9485626, y: -0.5471897}
+      - {x: -0.051437378, y: 33.452812}
+      - {x: -0.051437378, y: 7.4528103}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesPoisonPool_43x43_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -21.5}
+        - {x: -21.5, y: -17.5}
+        - {x: -21.5, y: 20.5}
+        - {x: -18.5, y: 21.5}
+        - {x: 11.5, y: 21.5}
+        - {x: 21.5, y: 12.5}
+        - {x: 21.5, y: -17.5}
+        - {x: 13.5, y: -21.5}
+      physicsShape:
+      - - {x: -18.5, y: 21.5}
+        - {x: -21.5, y: 20.5}
+        - {x: -21.5, y: -17.5}
+        - {x: -17.5, y: -21.5}
+        - {x: 13.5, y: -21.5}
+        - {x: 21.5, y: -17.5}
+        - {x: 21.5, y: 12.5}
+        - {x: 11.5, y: 21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a17d19245842d488b95f6634d384fc
+      internalID: 21300008
+      vertices:
+      - {x: 43, y: 34}
+      - {x: 35, y: 0}
+      - {x: 43, y: 4}
+      - {x: 33, y: 43}
+      - {x: 4, y: 0}
+      - {x: 3, y: 43}
+      - {x: 0, y: 42}
+      - {x: 0, y: 4}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesPoisonPool_43x43_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -21.5}
+        - {x: -21.5, y: -10.5}
+        - {x: -21.5, y: 21.5}
+        - {x: 16.5, y: 21.5}
+        - {x: 21.5, y: 17.5}
+        - {x: 21.5, y: -11.5}
+        - {x: 12.5, y: -20.5}
+        - {x: 9.5, y: -21.5}
+      physicsShape:
+      - - {x: 21.5, y: 17.5}
+        - {x: 16.5, y: 21.5}
+        - {x: -21.5, y: 21.5}
+        - {x: -21.5, y: -10.5}
+        - {x: -16.5, y: -21.5}
+        - {x: 9.5, y: -21.5}
+        - {x: 12.5, y: -20.5}
+        - {x: 21.5, y: -11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fe62c8ce9946dda776245f8926f6cf
+      internalID: 21300010
+      vertices:
+      - {x: 38, y: 43}
+      - {x: 43, y: 10}
+      - {x: 43, y: 39}
+      - {x: 34, y: 1}
+      - {x: 31, y: 0}
+      - {x: 5, y: 0}
+      - {x: 0, y: 43}
+      - {x: 0, y: 11}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 0
+      - 5
+      - 6
+      - 4
+      - 5
+      - 0
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

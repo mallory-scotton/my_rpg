@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 6c15c02eca6a6f546bb2efbdc892aa93
+timeCreated: 1706119835
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: AK_boss3_FireBullet28x36_0
+  - first:
+      213: 21300002
+    second: AK_boss3_FireBullet28x36_3
+  - first:
+      213: 21300004
+    second: AK_boss3_FireBullet28x36_6
+  - first:
+      213: 21300006
+    second: AK_boss3_FireBullet28x36_4
+  - first:
+      213: 21300008
+    second: AK_boss3_FireBullet28x36_5
+  - first:
+      213: 21300010
+    second: AK_boss3_FireBullet28x36_2
+  - first:
+      213: 21300012
+    second: AK_boss3_FireBullet28x36_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AK_boss3_FireBullet28x36_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.55, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -18}
+        - {x: -14, y: 18}
+        - {x: 14, y: 18}
+        - {x: 14, y: -18}
+      physicsShape:
+      - - {x: 4, y: 12.000001}
+        - {x: -13, y: 12.000001}
+        - {x: -13, y: -8}
+        - {x: -8, y: -18}
+        - {x: 8, y: -18}
+        - {x: 14, y: -13}
+        - {x: 14, y: 0}
+        - {x: 12, y: 9.000001}
+      - - {x: 5, y: 18}
+        - {x: 4, y: 16}
+        - {x: 4, y: 15.000001}
+        - {x: 7, y: 12.000001}
+        - {x: 8, y: 12.000001}
+        - {x: 11, y: 15.000001}
+        - {x: 11, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e723e8062abc4d2e9a5540625f3d3ee4
+      internalID: 21300000
+      vertices:
+      - {x: -1.4000006, y: 43.2}
+      - {x: 26.599998, y: 43.2}
+      - {x: -1.4000006, y: 7.2}
+      - {x: 26.599998, y: 7.2}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss3_FireBullet28x36_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.55, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.000001, y: -18}
+        - {x: -14.000001, y: 18}
+        - {x: 13.999999, y: 18}
+        - {x: 13.999999, y: -18}
+      physicsShape:
+      - - {x: 5.999999, y: 13.000001}
+        - {x: -1.000001, y: 13.000001}
+        - {x: -10.000001, y: 1}
+        - {x: -11.000001, y: -4}
+        - {x: -11.000001, y: -12}
+        - {x: -5.000001, y: -18}
+        - {x: 8.999999, y: -18}
+        - {x: 13.999999, y: -13}
+        - {x: 13.999999, y: 8}
+      - - {x: -2.000001, y: 18}
+        - {x: -3.000001, y: 16}
+        - {x: -9.536743E-07, y: 13.000001}
+        - {x: 0.99999905, y: 13.000001}
+        - {x: 3.999999, y: 16}
+        - {x: 2.999999, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b64029a4e545cc855e528577ec56a6
+      internalID: 21300002
+      vertices:
+      - {x: -1.4000015, y: 43.2}
+      - {x: 26.599998, y: 43.2}
+      - {x: -1.4000015, y: 7.2}
+      - {x: 26.599998, y: 7.2}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss3_FireBullet28x36_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.55, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.999993, y: -18}
+        - {x: -13.999993, y: 18}
+        - {x: 14.000007, y: 18}
+        - {x: 14.000007, y: -18}
+      physicsShape:
+      - - {x: 2.0000067, y: 17}
+        - {x: -0.9999933, y: 14.000001}
+        - {x: -9.999993, y: 9.000001}
+        - {x: -10.999993, y: 5}
+        - {x: -10.999993, y: -15}
+        - {x: -8.999993, y: -18}
+        - {x: 14.000007, y: -18}
+        - {x: 14.000007, y: 16}
+        - {x: 10.000007, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec289e64118c412f8cbde6b3f3a702f8
+      internalID: 21300004
+      vertices:
+      - {x: -1.3999939, y: 43.2}
+      - {x: 26.600006, y: 43.2}
+      - {x: -1.3999939, y: 7.2}
+      - {x: 26.600006, y: 7.2}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss3_FireBullet28x36_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.55, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.000001, y: -18}
+        - {x: -14.000001, y: 18}
+        - {x: 13.999999, y: 18}
+        - {x: 13.999999, y: -18}
+      physicsShape:
+      - - {x: -11.000001, y: -12}
+        - {x: -7.000001, y: -18}
+        - {x: 8.999999, y: -18}
+        - {x: 13.999999, y: -13}
+        - {x: 13.999999, y: 12.000001}
+        - {x: -8.000001, y: 12.000001}
+        - {x: -11.000001, y: 11.000001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7738b38a8da4db38b2bf23d09ab2247
+      internalID: 21300006
+      vertices:
+      - {x: -1.4000015, y: 43.2}
+      - {x: 26.599998, y: 43.2}
+      - {x: -1.4000015, y: 7.2}
+      - {x: 26.599998, y: 7.2}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss3_FireBullet28x36_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.55, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.999993, y: -18}
+        - {x: -13.999993, y: 18}
+        - {x: 14.000007, y: 18}
+        - {x: 14.000007, y: -18}
+      physicsShape:
+      - - {x: 4.0000067, y: 15.000001}
+        - {x: 2.0000067, y: 14.000001}
+        - {x: -10.999993, y: 6}
+        - {x: -10.999993, y: -14}
+        - {x: -4.9999933, y: -18}
+        - {x: 9.000007, y: -18}
+        - {x: 14.000007, y: -15}
+        - {x: 14.000007, y: 8}
+        - {x: 11.000007, y: 15.000001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4642e408240e47c9bf7919069648da59
+      internalID: 21300008
+      vertices:
+      - {x: -1.3999939, y: 43.2}
+      - {x: 26.600006, y: 43.2}
+      - {x: -1.3999939, y: 7.2}
+      - {x: 26.600006, y: 7.2}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss3_FireBullet28x36_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.55, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.000001, y: -18}
+        - {x: -14.000001, y: 18}
+        - {x: 13.999999, y: 18}
+        - {x: 13.999999, y: -18}
+      physicsShape:
+      - - {x: -6.000001, y: 13.000001}
+        - {x: -11.000001, y: 0}
+        - {x: -11.000001, y: -18}
+        - {x: 12.999999, y: -18}
+        - {x: 13.999999, y: -16}
+        - {x: 13.999999, y: 1}
+        - {x: 10.999999, y: 13.000001}
+      - - {x: -10.000001, y: 17}
+        - {x: -13.000001, y: 14.000001}
+        - {x: -13.000001, y: 13.000001}
+        - {x: -10.000001, y: 10.000001}
+        - {x: -9.000001, y: 10.000001}
+        - {x: -6.000001, y: 13.000001}
+        - {x: -6.000001, y: 14.000001}
+        - {x: -9.000001, y: 17}
+      - - {x: -3.000001, y: 18}
+        - {x: -3.000001, y: 14.000001}
+        - {x: -1.000001, y: 11.000001}
+        - {x: 0.99999905, y: 11.000001}
+        - {x: 3.999999, y: 14.000001}
+        - {x: 3.999999, y: 16}
+        - {x: 2.999999, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cd6e054d204ae9b05cf5cf1614c84b
+      internalID: 21300010
+      vertices:
+      - {x: -1.4000015, y: 43.2}
+      - {x: 26.599998, y: 43.2}
+      - {x: -1.4000015, y: 7.2}
+      - {x: 26.599998, y: 7.2}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_boss3_FireBullet28x36_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.55, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.000001, y: -18}
+        - {x: -14.000001, y: 18}
+        - {x: 13.999999, y: 18}
+        - {x: 13.999999, y: -18}
+      physicsShape:
+      - - {x: -14.000001, y: 16}
+        - {x: -14.000001, y: -5}
+        - {x: -9.000001, y: -18}
+        - {x: 9.999999, y: -18}
+        - {x: 13.999999, y: -12}
+        - {x: 13.999999, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6102debe35f94b3285b868c55146ac86
+      internalID: 21300012
+      vertices:
+      - {x: -1.4000015, y: 43.2}
+      - {x: 26.599998, y: 43.2}
+      - {x: -1.4000015, y: 7.2}
+      - {x: 26.599998, y: 7.2}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 30e948be952094fb8f652ba8ab91d1fb.bundle
+  assetBundleVariant:

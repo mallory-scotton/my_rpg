@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: 1b5a197327b8b48428d8a554df310cf3
+timeCreated: 1706119849
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ingredients_Mushroomsalchi20x14_2
+  - first:
+      213: 21300002
+    second: Ingredients_Mushroomsalchi20x14_5
+  - first:
+      213: 21300004
+    second: Ingredients_Mushroomsalchi20x14_3
+  - first:
+      213: 21300006
+    second: Ingredients_Mushroomsalchi20x14_6
+  - first:
+      213: 21300008
+    second: Ingredients_Mushroomsalchi20x14_7
+  - first:
+      213: 21300010
+    second: Ingredients_Mushroomsalchi20x14_0
+  - first:
+      213: 21300012
+    second: Ingredients_Mushroomsalchi20x14_4
+  - first:
+      213: 21300014
+    second: Ingredients_Mushroomsalchi20x14_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ingredients_Mushroomsalchi20x14_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 18
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -8}
+        - {x: -9, y: 8}
+        - {x: 9, y: 8}
+        - {x: 9, y: -8}
+      physicsShape:
+      - - {x: 6, y: 8}
+        - {x: -7, y: 8}
+        - {x: -9, y: 6}
+        - {x: -9, y: -3}
+        - {x: -7, y: -8}
+        - {x: 5, y: -8}
+        - {x: 9, y: -5}
+        - {x: 9, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aacf1bb621e41f9a7f74bdad8d4bf07
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 18, y: 24}
+      - {x: 0, y: 8}
+      - {x: 18, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingredients_Mushroomsalchi20x14_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 18
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -8}
+        - {x: -9, y: 8}
+        - {x: 9, y: 8}
+        - {x: 9, y: -8}
+      physicsShape:
+      - - {x: -9, y: 8}
+        - {x: -9, y: -8}
+        - {x: 7, y: -8}
+        - {x: 8, y: -7}
+        - {x: 8, y: 5}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a395f20b01ba47d886ed5ffe58dc8ee4
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 18, y: 24}
+      - {x: 0, y: 8}
+      - {x: 18, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingredients_Mushroomsalchi20x14_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 18
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -8}
+        - {x: -9, y: 8}
+        - {x: 9, y: 8}
+        - {x: 9, y: -8}
+      physicsShape:
+      - - {x: 6, y: 8}
+        - {x: -6, y: 8}
+        - {x: -9, y: 5}
+        - {x: -9, y: -8}
+        - {x: 7, y: -8}
+        - {x: 9, y: -5}
+        - {x: 9, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843b307c8a8544d4a2ec27d2669876c4
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 18, y: 24}
+      - {x: 0, y: 8}
+      - {x: 18, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingredients_Mushroomsalchi20x14_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 18
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -8}
+        - {x: -9, y: 8}
+        - {x: 9, y: 8}
+        - {x: 9, y: -8}
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -9, y: 6}
+        - {x: -9, y: -6}
+        - {x: -7, y: -8}
+        - {x: 5, y: -8}
+        - {x: 9, y: -3}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9066ea8ecd4c98b82a52e45fdc1ef8
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 18, y: 24}
+      - {x: 0, y: 8}
+      - {x: 18, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingredients_Mushroomsalchi20x14_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 18
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -8}
+        - {x: -9, y: 8}
+        - {x: 9, y: 8}
+        - {x: 9, y: -8}
+      physicsShape:
+      - - {x: -9, y: 8}
+        - {x: -9, y: -6}
+        - {x: -6, y: -8}
+        - {x: 4, y: -8}
+        - {x: 9, y: -3}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80067fdff324242a847d820368b8195
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 18, y: 24}
+      - {x: 0, y: 8}
+      - {x: 18, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingredients_Mushroomsalchi20x14_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -8}
+        - {x: -9, y: 8}
+        - {x: 9, y: 8}
+        - {x: 9, y: -8}
+      physicsShape:
+      - - {x: -9, y: 8}
+        - {x: -9, y: -3}
+        - {x: -5, y: -8}
+        - {x: 5, y: -8}
+        - {x: 9, y: -6}
+        - {x: 9, y: 5}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31995aa734934e428cfe3da2e268b86f
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 18, y: 24}
+      - {x: 0, y: 8}
+      - {x: 18, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingredients_Mushroomsalchi20x14_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 18
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -8}
+        - {x: -9, y: 8}
+        - {x: 9, y: 8}
+        - {x: 9, y: -8}
+      physicsShape:
+      - - {x: -9, y: 8}
+        - {x: -9, y: -5}
+        - {x: -7, y: -8}
+        - {x: 6, y: -8}
+        - {x: 9, y: -3}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e78154e81d4f118117ceefd0224556
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 18, y: 24}
+      - {x: 0, y: 8}
+      - {x: 18, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingredients_Mushroomsalchi20x14_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 18
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -8}
+        - {x: -9, y: 8}
+        - {x: 9, y: 8}
+        - {x: 9, y: -8}
+      physicsShape:
+      - - {x: -9, y: 8}
+        - {x: -9, y: -5}
+        - {x: -8, y: -8}
+        - {x: 6, y: -8}
+        - {x: 9, y: -7}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7deceabf1b3144e786a7313e1eeb209e
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 18, y: 24}
+      - {x: 0, y: 8}
+      - {x: 18, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

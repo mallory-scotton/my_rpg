@@ -1,0 +1,1609 @@
+fileFormatVersion: 2
+guid: 91f2c2c6f0e42a341999bfc7205ae4e7
+timeCreated: 1706119846
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Particles_SnackAbility100x100_12
+  - first:
+      213: 21300002
+    second: Particles_SnackAbility100x100_15
+  - first:
+      213: 21300004
+    second: Particles_SnackAbility100x100_10
+  - first:
+      213: 21300006
+    second: Particles_SnackAbility100x100_4
+  - first:
+      213: 21300008
+    second: Particles_SnackAbility100x100_2
+  - first:
+      213: 21300010
+    second: Particles_SnackAbility100x100_1
+  - first:
+      213: 21300012
+    second: Particles_SnackAbility100x100_5
+  - first:
+      213: 21300014
+    second: Particles_SnackAbility100x100_3
+  - first:
+      213: 21300016
+    second: Particles_SnackAbility100x100_13
+  - first:
+      213: 21300018
+    second: Particles_SnackAbility100x100_7
+  - first:
+      213: 21300020
+    second: Particles_SnackAbility100x100_11
+  - first:
+      213: 21300022
+    second: Particles_SnackAbility100x100_8
+  - first:
+      213: 21300024
+    second: Particles_SnackAbility100x100_16
+  - first:
+      213: 21300026
+    second: Particles_SnackAbility100x100_14
+  - first:
+      213: 21300028
+    second: Particles_SnackAbility100x100_6
+  - first:
+      213: 21300030
+    second: Particles_SnackAbility100x100_9
+  - first:
+      213: 21300032
+    second: Particles_SnackAbility100x100_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Particles_SnackAbility100x100_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:
+      - - {x: -11, y: 18}
+        - {x: -22, y: 6}
+        - {x: -22, y: -23}
+        - {x: -8, y: -28}
+        - {x: 22, y: -28}
+        - {x: 24, y: -27}
+        - {x: 24, y: 9}
+        - {x: 21, y: 18}
+      - - {x: -5, y: -10}
+        - {x: -7, y: -7}
+        - {x: -7, y: -3}
+        - {x: -4, y: 1}
+        - {x: -1, y: 3}
+        - {x: 3, y: 3}
+        - {x: 7, y: 0}
+        - {x: 9, y: -3}
+        - {x: 9, y: -7}
+        - {x: 6, y: -11}
+        - {x: 3, y: -13}
+        - {x: -1, y: -13}
+        - {x: -1, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91106f92c2a6406f86e7822bda204a19
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 100}
+      - {x: 100, y: 100}
+      - {x: 0, y: 0}
+      - {x: 100, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particles_SnackAbility100x100_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:
+      - - {x: 0, y: -31}
+        - {x: -2, y: -32}
+        - {x: -2, y: -36}
+        - {x: -1, y: -38}
+        - {x: 1, y: -38}
+        - {x: 4, y: -37}
+        - {x: 4, y: -31}
+      - - {x: -20, y: -22}
+        - {x: -22, y: -24}
+        - {x: -22, y: -26}
+        - {x: -20, y: -28}
+        - {x: -17, y: -28}
+        - {x: -16, y: -26}
+        - {x: -16, y: -24}
+        - {x: -19, y: -22}
+      - - {x: 20, y: -22}
+        - {x: 18, y: -25}
+        - {x: 18, y: -26}
+        - {x: 19, y: -28}
+        - {x: 23, y: -28}
+        - {x: 24, y: -27}
+        - {x: 24, y: -23}
+        - {x: 22, y: -22}
+      - - {x: -31, y: -2}
+        - {x: -32, y: -5}
+        - {x: -29, y: -8}
+        - {x: -27, y: -8}
+        - {x: -25, y: -6}
+        - {x: -25, y: -5}
+        - {x: -28, y: -2}
+      - - {x: 28, y: -2}
+        - {x: 27, y: -5}
+        - {x: 30, y: -8}
+        - {x: 32, y: -8}
+        - {x: 34, y: -6}
+        - {x: 34, y: -5}
+        - {x: 31, y: -2}
+      - - {x: -22, y: 16}
+        - {x: -22, y: 14}
+        - {x: -20, y: 12}
+        - {x: -19, y: 12}
+        - {x: -16, y: 15}
+        - {x: -17, y: 18}
+        - {x: -20, y: 18}
+      - - {x: 18, y: 16}
+        - {x: 18, y: 15}
+        - {x: 21, y: 12}
+        - {x: 24, y: 13}
+        - {x: 24, y: 16}
+        - {x: 22, y: 18}
+        - {x: 20, y: 18}
+      - - {x: 0, y: 28}
+        - {x: -2, y: 25}
+        - {x: -2, y: 23}
+        - {x: 0, y: 21}
+        - {x: 3, y: 21}
+        - {x: 4, y: 23}
+        - {x: 4, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c4af818ada443b94efb62072a5e8f1
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 100}
+      - {x: 100, y: 100}
+      - {x: 0, y: 0}
+      - {x: 100, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particles_SnackAbility100x100_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:
+      - - {x: -29, y: -9}
+        - {x: -30, y: -11}
+        - {x: -30, y: -16}
+        - {x: -21, y: -32}
+        - {x: -13, y: -34}
+        - {x: 5, y: -34}
+        - {x: 17, y: -23}
+        - {x: 17, y: -17}
+        - {x: -23, y: -9}
+      - - {x: 6, y: 23}
+        - {x: -4, y: 19}
+        - {x: -10, y: 14}
+        - {x: -10, y: 12}
+        - {x: -9, y: 10}
+        - {x: 7, y: 4}
+        - {x: 17, y: -14}
+        - {x: 28, y: -14}
+        - {x: 28, y: 6}
+        - {x: 25, y: 13}
+        - {x: 18, y: 21}
+        - {x: 13, y: 23}
+      - - {x: -22, y: 8}
+        - {x: -23, y: 6}
+        - {x: -23, y: 1}
+        - {x: -21, y: 0}
+        - {x: -16, y: 0}
+        - {x: -15, y: 3}
+        - {x: -15, y: 7}
+        - {x: -17, y: 8}
+      - - {x: -30, y: 19}
+        - {x: -27, y: 20}
+        - {x: -27, y: 23}
+        - {x: -30, y: 24}
+        - {x: -32, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b0a312d5d54d7a9bcac468f3e89b28
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 100}
+      - {x: 100, y: 100}
+      - {x: 0, y: 0}
+      - {x: 100, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particles_SnackAbility100x100_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:
+      - - {x: 20, y: -16}
+        - {x: 6, y: -20}
+        - {x: -13, y: -19}
+        - {x: -23, y: -3}
+        - {x: -20, y: 12}
+        - {x: -24, y: 24}
+        - {x: -28, y: 24}
+        - {x: -37, y: 19}
+        - {x: -42, y: 3}
+        - {x: -42, y: -17}
+        - {x: -27, y: -35}
+        - {x: -20, y: -38}
+        - {x: -8, y: -38}
+        - {x: 10, y: -37}
+        - {x: 21, y: -29}
+        - {x: 21, y: -17}
+      - - {x: -8, y: -6}
+        - {x: -15, y: -6}
+        - {x: -15, y: -12}
+        - {x: -8, y: -21}
+        - {x: 9, y: -21}
+        - {x: 14, y: -20}
+        - {x: 14, y: -15}
+        - {x: 12, y: -13}
+        - {x: 10, y: -13}
+      - - {x: 38, y: 33}
+        - {x: 30, y: 41}
+        - {x: 5, y: 41}
+        - {x: 5, y: 35}
+        - {x: 6, y: 32}
+        - {x: 24, y: 23}
+        - {x: 37, y: 6}
+        - {x: 35, y: -20}
+        - {x: 36, y: -21}
+        - {x: 42, y: -21}
+        - {x: 47, y: -13}
+        - {x: 47, y: 15}
+      - - {x: -5, y: 16}
+        - {x: -2, y: 18}
+        - {x: -3, y: 21}
+        - {x: -8, y: 21}
+        - {x: -20, y: 11}
+        - {x: -20, y: 6}
+        - {x: -17, y: 2}
+        - {x: -15, y: 2}
+        - {x: -6, y: 9}
+        - {x: -1, y: 12}
+        - {x: -1, y: 14}
+        - {x: -2, y: 16}
+      - - {x: 7, y: 17}
+        - {x: 5, y: 15}
+        - {x: 6, y: 12}
+        - {x: 14, y: 7}
+        - {x: 17, y: 8}
+        - {x: 17, y: 12}
+        - {x: 11, y: 17}
+      - - {x: -19, y: 40}
+        - {x: -24, y: 39}
+        - {x: -32, y: 31}
+        - {x: -30, y: 28}
+        - {x: -25, y: 29}
+        - {x: -14, y: 36}
+        - {x: -14, y: 38}
+        - {x: -15, y: 40}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0e383180234a49a91ae49e9549e806
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 100}
+      - {x: 100, y: 100}
+      - {x: 0, y: 0}
+      - {x: 100, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particles_SnackAbility100x100_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:
+      - - {x: -6, y: -43}
+        - {x: 22, y: -43}
+        - {x: 39, y: -34}
+        - {x: 39, y: -21}
+        - {x: 36, y: -19}
+        - {x: -6, y: -37}
+      - - {x: 21, y: -15}
+        - {x: 12, y: -23}
+        - {x: 12, y: -26}
+        - {x: 14, y: -28}
+        - {x: 15, y: -28}
+        - {x: 22, y: -22}
+        - {x: 24, y: -19}
+        - {x: 24, y: -16}
+      - - {x: 33, y: -10}
+        - {x: 31, y: -10}
+        - {x: 25, y: -17}
+        - {x: 24, y: -21}
+        - {x: 24, y: -25}
+        - {x: 26, y: -26}
+        - {x: 29, y: -26}
+        - {x: 34, y: -20}
+        - {x: 35, y: -15}
+        - {x: 35, y: -11}
+      - - {x: -12, y: -14}
+        - {x: -14, y: -17}
+        - {x: -7, y: -24}
+        - {x: 0, y: -24}
+        - {x: 3, y: -23}
+        - {x: 3, y: -17}
+        - {x: -1, y: -15}
+      - - {x: 18, y: 8}
+        - {x: 15, y: 7}
+        - {x: 11, y: -16}
+        - {x: 13, y: -18}
+        - {x: 14, y: -18}
+        - {x: 20, y: -16}
+        - {x: 21, y: -11}
+        - {x: 21, y: 6}
+      - - {x: 30, y: 41}
+        - {x: 17, y: 44}
+        - {x: -20, y: 44}
+        - {x: -36, y: 28}
+        - {x: -36, y: 3}
+        - {x: -31, y: 0}
+        - {x: -16, y: 18}
+        - {x: -20, y: -6}
+        - {x: -14, y: -9}
+        - {x: 17, y: 7}
+        - {x: 16, y: 9}
+        - {x: 12, y: 14}
+        - {x: 6, y: 16}
+        - {x: 9, y: 15}
+        - {x: 13, y: 14}
+        - {x: 19, y: 10}
+        - {x: 21, y: -3}
+        - {x: 25, y: -12}
+        - {x: 30, y: -12}
+        - {x: 43, y: -4}
+        - {x: 43, y: 21}
+        - {x: 41, y: 30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78910865a80a4b1688376c629dd4d031
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 100}
+      - {x: 100, y: 100}
+      - {x: 0, y: 0}
+      - {x: 100, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particles_SnackAbility100x100_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:
+      - - {x: -28, y: -28}
+        - {x: -28, y: -32}
+        - {x: -16, y: -43}
+        - {x: 6, y: -43}
+        - {x: 7, y: -41}
+        - {x: 6, y: -38}
+        - {x: -24, y: -28}
+      - - {x: 16, y: 23}
+        - {x: 24, y: 13}
+        - {x: 23, y: 7}
+        - {x: 21, y: 5}
+        - {x: 22, y: 7}
+        - {x: 22, y: 13}
+        - {x: 18, y: 21}
+        - {x: 3, y: 17}
+        - {x: -7, y: 12}
+        - {x: -7, y: -11}
+        - {x: -4, y: -27}
+        - {x: 12, y: -40}
+        - {x: 19, y: -36}
+        - {x: 28, y: -28}
+        - {x: 30, y: -23}
+        - {x: 30, y: -21}
+        - {x: 32, y: -14}
+        - {x: 30, y: -26}
+        - {x: 24, y: -33}
+        - {x: 22, y: -38}
+        - {x: 22, y: -40}
+        - {x: 29, y: -40}
+        - {x: 49, y: -28}
+        - {x: 49, y: 18}
+        - {x: 41, y: 43}
+        - {x: 3, y: 43}
+        - {x: -1, y: 42}
+      - - {x: 19, y: -27}
+        - {x: 20, y: -23}
+        - {x: 18, y: -20}
+        - {x: 17, y: -22}
+        - {x: 20, y: -25}
+        - {x: 22, y: -25}
+        - {x: 26, y: -20}
+        - {x: 16, y: -29}
+        - {x: 16, y: -30}
+        - {x: 17, y: -30}
+      - - {x: -19, y: -5}
+        - {x: -21, y: -6}
+        - {x: -21, y: -16}
+        - {x: -17, y: -19}
+        - {x: -8, y: -19}
+        - {x: -8, y: -13}
+        - {x: -9, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c1a56aa1f14ccf9868070bef3543d5
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 100}
+      - {x: 100, y: 100}
+      - {x: 0, y: 0}
+      - {x: 100, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particles_SnackAbility100x100_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:
+      - - {x: 20, y: 13}
+        - {x: 19, y: 12}
+        - {x: 16, y: -15}
+        - {x: 16, y: -16}
+        - {x: 16, y: -13}
+        - {x: 13, y: -12}
+        - {x: -5, y: -15}
+        - {x: -7, y: -17}
+        - {x: -7, y: -18}
+        - {x: -3, y: -21}
+        - {x: 5, y: -22}
+        - {x: 7, y: -21}
+        - {x: 3, y: -23}
+        - {x: -21, y: -16}
+        - {x: -22, y: -20}
+        - {x: -15, y: -33}
+        - {x: -11, y: -36}
+        - {x: 26, y: -36}
+        - {x: 34, y: -18}
+        - {x: 34, y: 8}
+        - {x: 26, y: 13}
+      - - {x: -32, y: -9}
+        - {x: -29, y: -9}
+        - {x: -24, y: -7}
+        - {x: -24, y: 0}
+        - {x: -26, y: 8}
+        - {x: -37, y: 8}
+        - {x: -37, y: -5}
+      - - {x: -17, y: 12}
+        - {x: -21, y: 7}
+        - {x: -22, y: 4}
+        - {x: -22, y: 2}
+        - {x: -19, y: -3}
+        - {x: -14, y: -3}
+        - {x: -13, y: -1}
+        - {x: -13, y: 10}
+        - {x: -15, y: 12}
+      - - {x: -14, y: 33}
+        - {x: -13, y: 30}
+        - {x: 38, y: 3}
+        - {x: 43, y: 3}
+        - {x: 43, y: 25}
+        - {x: 17, y: 37}
+        - {x: -7, y: 37}
+      - - {x: -14, y: 14}
+        - {x: -12, y: 12}
+        - {x: -7, y: 15}
+        - {x: -8, y: 18}
+        - {x: -11, y: 18}
+        - {x: -14, y: 15}
+      - - {x: 1, y: 18}
+        - {x: 1, y: 14}
+        - {x: 4, y: 12}
+        - {x: 10, y: 12}
+        - {x: 11, y: 14}
+        - {x: 11, y: 17}
+        - {x: 8, y: 18}
+      - - {x: -25, y: 37}
+        - {x: -31, y: 34}
+        - {x: -37, y: 28}
+        - {x: -43, y: 18}
+        - {x: -43, y: 14}
+        - {x: -34, y: 14}
+        - {x: -21, y: 22}
+        - {x: -21, y: 37}
+      - - {x: 15, y: 47}
+        - {x: 13, y: 45}
+        - {x: 14, y: 42}
+        - {x: 31, y: 29}
+        - {x: 33, y: 29}
+        - {x: 35, y: 30}
+        - {x: 35, y: 33}
+        - {x: 27, y: 41}
+        - {x: 20, y: 46}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1880a49163b04f7383d46988b2e111c2
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 100}
+      - {x: 100, y: 100}
+      - {x: 0, y: 0}
+      - {x: 100, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particles_SnackAbility100x100_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:
+      - - {x: 43, y: 23}
+        - {x: 39, y: 25}
+        - {x: 36, y: 25}
+        - {x: 35, y: 22}
+        - {x: 16, y: -37}
+        - {x: 16, y: -40}
+        - {x: 21, y: -40}
+        - {x: 31, y: -37}
+        - {x: 48, y: -23}
+        - {x: 49, y: -17}
+        - {x: 49, y: 15}
+      - - {x: -22, y: -4}
+        - {x: -19, y: 12}
+        - {x: -3, y: 24}
+        - {x: 8, y: 20}
+        - {x: 22, y: 25}
+        - {x: 18, y: 30}
+        - {x: 27, y: 32}
+        - {x: 29, y: 34}
+        - {x: 28, y: 37}
+        - {x: 14, y: 44}
+        - {x: -4, y: 44}
+        - {x: -17, y: 42}
+        - {x: -26, y: 38}
+        - {x: -42, y: 15}
+        - {x: -42, y: -11}
+        - {x: -36, y: -25}
+        - {x: -30, y: -31}
+        - {x: 4, y: -31}
+        - {x: 7, y: -27}
+        - {x: 6, y: -24}
+        - {x: 0, y: -23}
+      - - {x: 6, y: -14}
+        - {x: -1, y: -17}
+        - {x: -2, y: -19}
+        - {x: -1, y: -22}
+        - {x: 8, y: -22}
+        - {x: 11, y: -21}
+        - {x: 11, y: -17}
+        - {x: 10, y: -14}
+      - - {x: 23, y: -12}
+        - {x: 18, y: -17}
+        - {x: 18, y: -19}
+        - {x: 20, y: -21}
+        - {x: 24, y: -20}
+        - {x: 26, y: -19}
+        - {x: 26, y: -14}
+        - {x: 25, y: -12}
+      - - {x: 10, y: 15}
+        - {x: 4, y: 22}
+        - {x: -7, y: 22}
+        - {x: -17, y: 13}
+        - {x: -17, y: -2}
+        - {x: -16, y: -12}
+        - {x: -8, y: -19}
+        - {x: -3, y: -19}
+        - {x: 1, y: -18}
+        - {x: -8, y: -5}
+        - {x: -4, y: 6}
+        - {x: 10, y: 10}
+      - - {x: 32, y: -2}
+        - {x: 31, y: -5}
+        - {x: 31, y: -15}
+        - {x: 36, y: -15}
+        - {x: 38, y: -13}
+        - {x: 38, y: -4}
+        - {x: 37, y: -2}
+      - - {x: 12, y: 15}
+        - {x: 11, y: 14}
+        - {x: 11, y: 8}
+        - {x: 16, y: -3}
+        - {x: 20, y: -3}
+        - {x: 21, y: -2}
+        - {x: 21, y: 8}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3125f668ab5c45bb98b15b613d84ce0a
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 100}
+      - {x: 100, y: 100}
+      - {x: 0, y: 0}
+      - {x: 100, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particles_SnackAbility100x100_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:
+      - - {x: -5, y: -21}
+        - {x: -5, y: -33}
+        - {x: 5, y: -33}
+        - {x: 7, y: -31}
+        - {x: 7, y: -23}
+        - {x: 6, y: -21}
+      - - {x: -18, y: -24}
+        - {x: -10, y: -24}
+        - {x: -10, y: -16}
+        - {x: -16, y: -16}
+        - {x: -18, y: -17}
+      - - {x: 14, y: -16}
+        - {x: 12, y: -17}
+        - {x: 12, y: -22}
+        - {x: 14, y: -24}
+        - {x: 18, y: -24}
+        - {x: 20, y: -22}
+        - {x: 20, y: -18}
+        - {x: 19, y: -16}
+      - - {x: -27, y: -11}
+        - {x: -15, y: -11}
+        - {x: -15, y: -1}
+        - {x: -16, y: 1}
+        - {x: -27, y: 1}
+      - - {x: 19, y: 1}
+        - {x: 17, y: -1}
+        - {x: 17, y: -9}
+        - {x: 19, y: -11}
+        - {x: 27, y: -11}
+        - {x: 29, y: -9}
+        - {x: 29, y: -1}
+        - {x: 27, y: 1}
+      - - {x: -16, y: 14}
+        - {x: -18, y: 12}
+        - {x: -18, y: 8}
+        - {x: -16, y: 6}
+        - {x: -12, y: 6}
+        - {x: -10, y: 8}
+        - {x: -10, y: 12}
+        - {x: -12, y: 14}
+      - - {x: 12, y: 14}
+        - {x: 12, y: 6}
+        - {x: 19, y: 6}
+        - {x: 20, y: 8}
+        - {x: 20, y: 14}
+      - - {x: -3, y: 23}
+        - {x: -5, y: 21}
+        - {x: -5, y: 13}
+        - {x: -3, y: 11}
+        - {x: 7, y: 11}
+        - {x: 7, y: 23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a64bb6cbe445ea85ddc1bef036a601
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 100}
+      - {x: 100, y: 100}
+      - {x: 0, y: 0}
+      - {x: 100, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particles_SnackAbility100x100_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:
+      - - {x: -47, y: 23}
+        - {x: -48, y: 21}
+        - {x: -48, y: -16}
+        - {x: -45, y: -17}
+        - {x: -36, y: -26}
+        - {x: -28, y: -26}
+        - {x: -28, y: -23}
+        - {x: -35, y: 18}
+        - {x: -37, y: 23}
+      - - {x: 3, y: 16}
+        - {x: 8, y: 24}
+        - {x: 8, y: 31}
+        - {x: -4, y: 35}
+        - {x: -18, y: 35}
+        - {x: -25, y: 32}
+        - {x: -31, y: 21}
+        - {x: -33, y: 14}
+        - {x: -33, y: -8}
+        - {x: -32, y: -15}
+        - {x: -23, y: -21}
+        - {x: -19, y: -21}
+        - {x: -16, y: -20}
+        - {x: -9, y: -20}
+        - {x: -12, y: 2}
+        - {x: -18, y: 9}
+      - - {x: 11, y: -15}
+        - {x: 11, y: -17}
+        - {x: 13, y: -18}
+        - {x: 15, y: -18}
+        - {x: 18, y: -14}
+        - {x: 18, y: -12}
+        - {x: 15, y: -11}
+      - - {x: -4, y: 16}
+        - {x: -3, y: 13}
+        - {x: 0, y: 13}
+        - {x: 2, y: 15}
+        - {x: 1, y: 18}
+        - {x: -2, y: 18}
+      - - {x: 5, y: 47}
+        - {x: 6, y: 44}
+        - {x: 9, y: 43}
+        - {x: 11, y: 43}
+        - {x: 13, y: 45}
+        - {x: 12, y: 48}
+        - {x: 7, y: 49}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8896cd2c180948ed9f24ffdcc307101c
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 100}
+      - {x: 100, y: 100}
+      - {x: 0, y: 0}
+      - {x: 100, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particles_SnackAbility100x100_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:
+      - - {x: 18, y: 2}
+        - {x: 14, y: 0}
+        - {x: -18, y: -19}
+        - {x: -20, y: -21}
+        - {x: -19, y: -24}
+        - {x: -14, y: -29}
+        - {x: 11, y: -29}
+        - {x: 25, y: -21}
+        - {x: 25, y: 1}
+        - {x: 24, y: 2}
+      - - {x: 14, y: 19}
+        - {x: -7, y: 19}
+        - {x: -23, y: 13}
+        - {x: -24, y: 7}
+        - {x: -24, y: -6}
+        - {x: -13, y: -6}
+        - {x: 20, y: 9}
+        - {x: 22, y: 11}
+        - {x: 21, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf38a0c57e4b4013999167474304499c
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 100}
+      - {x: 100, y: 100}
+      - {x: 0, y: 0}
+      - {x: 100, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particles_SnackAbility100x100_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:
+      - - {x: 18, y: -17}
+        - {x: 1, y: -20}
+        - {x: -4, y: -14}
+        - {x: -14, y: -3}
+        - {x: -21, y: 7}
+        - {x: -39, y: 7}
+        - {x: -44, y: 1}
+        - {x: -44, y: -10}
+        - {x: -37, y: -23}
+        - {x: -29, y: -32}
+        - {x: -15, y: -38}
+        - {x: 2, y: -38}
+        - {x: 4, y: -36}
+        - {x: 19, y: -26}
+        - {x: 19, y: -19}
+      - - {x: 13, y: -13}
+        - {x: 13, y: -15}
+        - {x: 15, y: -16}
+        - {x: 17, y: -16}
+        - {x: 19, y: -13}
+        - {x: 19, y: -11}
+        - {x: 16, y: -10}
+      - - {x: -17, y: 6}
+        - {x: -14, y: 7}
+        - {x: -14, y: 10}
+        - {x: -17, y: 11}
+        - {x: -19, y: 9}
+      - - {x: -3, y: 13}
+        - {x: 0, y: 14}
+        - {x: 0, y: 17}
+        - {x: -3, y: 18}
+        - {x: -5, y: 16}
+      - - {x: -30, y: 24}
+        - {x: -28, y: 21}
+        - {x: -24, y: 22}
+        - {x: -18, y: 27}
+        - {x: -18, y: 30}
+        - {x: -23, y: 30}
+        - {x: -28, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dead96e705ef490e8b1d96dc3ea1c70e
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 100}
+      - {x: 100, y: 100}
+      - {x: 0, y: 0}
+      - {x: 100, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particles_SnackAbility100x100_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:
+      - - {x: -2, y: -36}
+        - {x: -2, y: -37}
+        - {x: 0, y: -39}
+        - {x: 1, y: -39}
+        - {x: 4, y: -36}
+        - {x: 4, y: -34}
+        - {x: 1, y: -33}
+      - - {x: -21, y: -29}
+        - {x: -18, y: -28}
+        - {x: -18, y: -25}
+        - {x: -21, y: -24}
+        - {x: -23, y: -26}
+      - - {x: 22, y: -29}
+        - {x: 25, y: -28}
+        - {x: 25, y: -25}
+        - {x: 22, y: -24}
+        - {x: 20, y: -26}
+      - - {x: -33, y: -5}
+        - {x: -30, y: -8}
+        - {x: -27, y: -7}
+        - {x: -27, y: -5}
+        - {x: -30, y: -2}
+        - {x: -32, y: -2}
+      - - {x: 29, y: -5}
+        - {x: 32, y: -8}
+        - {x: 35, y: -7}
+        - {x: 35, y: -5}
+        - {x: 32, y: -2}
+        - {x: 30, y: -2}
+      - - {x: -21, y: 14}
+        - {x: -18, y: 15}
+        - {x: -18, y: 18}
+        - {x: -21, y: 19}
+        - {x: -23, y: 17}
+      - - {x: 22, y: 14}
+        - {x: 25, y: 15}
+        - {x: 25, y: 18}
+        - {x: 22, y: 19}
+        - {x: 20, y: 17}
+      - - {x: -2, y: 26}
+        - {x: -2, y: 25}
+        - {x: 0, y: 23}
+        - {x: 1, y: 23}
+        - {x: 4, y: 26}
+        - {x: 4, y: 28}
+        - {x: 1, y: 29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f176afbaaa44a4ae1db6571baea815
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 100}
+      - {x: 100, y: 100}
+      - {x: 0, y: 0}
+      - {x: 100, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particles_SnackAbility100x100_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:
+      - - {x: -4, y: -31}
+        - {x: -2, y: -36}
+        - {x: 1, y: -36}
+        - {x: 6, y: -34}
+        - {x: 6, y: -31}
+        - {x: 4, y: -26}
+        - {x: 1, y: -26}
+        - {x: -4, y: -28}
+      - - {x: -18, y: -18}
+        - {x: -20, y: -20}
+        - {x: -20, y: -24}
+        - {x: -18, y: -26}
+        - {x: -13, y: -26}
+        - {x: -12, y: -24}
+        - {x: -12, y: -20}
+        - {x: -16, y: -18}
+      - - {x: 17, y: -18}
+        - {x: 14, y: -19}
+        - {x: 14, y: -24}
+        - {x: 15, y: -26}
+        - {x: 20, y: -26}
+        - {x: 22, y: -25}
+        - {x: 22, y: -18}
+      - - {x: -25, y: 0}
+        - {x: -30, y: -3}
+        - {x: -30, y: -5}
+        - {x: -26, y: -10}
+        - {x: -25, y: -10}
+        - {x: -20, y: -8}
+        - {x: -20, y: -4}
+        - {x: -22, y: 0}
+      - - {x: 24, y: -10}
+        - {x: 28, y: -10}
+        - {x: 32, y: -8}
+        - {x: 32, y: -4}
+        - {x: 30, y: 0}
+        - {x: 27, y: 0}
+        - {x: 22, y: -3}
+        - {x: 22, y: -5}
+      - - {x: -18, y: 16}
+        - {x: -20, y: 14}
+        - {x: -20, y: 9}
+        - {x: -18, y: 8}
+        - {x: -14, y: 8}
+        - {x: -12, y: 12}
+        - {x: -12, y: 14}
+        - {x: -14, y: 16}
+      - - {x: 16, y: 16}
+        - {x: 14, y: 14}
+        - {x: 14, y: 10}
+        - {x: 18, y: 8}
+        - {x: 22, y: 8}
+        - {x: 22, y: 14}
+        - {x: 20, y: 16}
+      - - {x: 0, y: 26}
+        - {x: -4, y: 24}
+        - {x: -4, y: 21}
+        - {x: -1, y: 16}
+        - {x: 1, y: 16}
+        - {x: 6, y: 18}
+        - {x: 6, y: 22}
+        - {x: 4, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c88d89ad8443a0af316be22784d079
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 100}
+      - {x: 100, y: 100}
+      - {x: 0, y: 0}
+      - {x: 100, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particles_SnackAbility100x100_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:
+      - - {x: 13, y: -11}
+        - {x: 7, y: -14}
+        - {x: 6, y: -17}
+        - {x: 7, y: -20}
+        - {x: 13, y: -20}
+        - {x: 17, y: -15}
+        - {x: 17, y: -11}
+      - - {x: -13, y: 37}
+        - {x: -21, y: 34}
+        - {x: -21, y: 27}
+        - {x: -18, y: 26}
+        - {x: -15, y: 28}
+        - {x: -13, y: 28}
+        - {x: -15, y: 28}
+        - {x: -19, y: 23}
+        - {x: -20, y: 21}
+        - {x: 9, y: 13}
+        - {x: 25, y: -13}
+        - {x: 35, y: -13}
+        - {x: 35, y: 35}
+        - {x: 30, y: 37}
+      - - {x: -30, y: -1}
+        - {x: -35, y: -3}
+        - {x: -35, y: -7}
+        - {x: -31, y: -12}
+        - {x: -28, y: -11}
+        - {x: -24, y: -6}
+        - {x: -26, y: -1}
+      - - {x: -20, y: 8}
+        - {x: -23, y: 6}
+        - {x: -23, y: -3}
+        - {x: -22, y: -7}
+        - {x: -17, y: -10}
+        - {x: -14, y: -9}
+        - {x: -14, y: 3}
+        - {x: -16, y: 8}
+      - - {x: -32, y: 32}
+        - {x: -41, y: 27}
+        - {x: -47, y: 15}
+        - {x: -47, y: -2}
+        - {x: -38, y: -2}
+        - {x: -28, y: 24}
+        - {x: -28, y: 32}
+      - - {x: -13, y: 11}
+        - {x: -10, y: 12}
+        - {x: -10, y: 15}
+        - {x: -13, y: 16}
+        - {x: -15, y: 14}
+      - - {x: -3, y: 16}
+        - {x: -2, y: 13}
+        - {x: 3, y: 13}
+        - {x: 5, y: 15}
+        - {x: 4, y: 18}
+        - {x: -1, y: 18}
+      - - {x: 9, y: 48}
+        - {x: 7, y: 46}
+        - {x: 8, y: 43}
+        - {x: 15, y: 40}
+        - {x: 21, y: 40}
+        - {x: 22, y: 41}
+        - {x: 22, y: 44}
+        - {x: 16, y: 48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57db32a6bd784d51b617d1895252bec1
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 100}
+      - {x: 100, y: 100}
+      - {x: 0, y: 0}
+      - {x: 100, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particles_SnackAbility100x100_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:
+      - - {x: 26, y: 15}
+        - {x: 9, y: 15}
+        - {x: 8, y: 14}
+        - {x: 13, y: 2}
+        - {x: 13, y: -12}
+        - {x: 7, y: -12}
+        - {x: -12, y: -10}
+        - {x: -18, y: -12}
+        - {x: -29, y: -1}
+        - {x: -34, y: -3}
+        - {x: -34, y: -21}
+        - {x: -27, y: -29}
+        - {x: -14, y: -35}
+        - {x: -4, y: -35}
+        - {x: 0, y: -33}
+        - {x: 4, y: -28}
+        - {x: 18, y: -27}
+        - {x: 26, y: -15}
+      - - {x: -21, y: -7}
+        - {x: -18, y: -6}
+        - {x: -18, y: -3}
+        - {x: -21, y: -2}
+        - {x: -23, y: -4}
+      - - {x: -20, y: 10}
+        - {x: -21, y: 8}
+        - {x: -21, y: 5}
+        - {x: -20, y: 4}
+        - {x: -15, y: 4}
+        - {x: -15, y: 9}
+        - {x: -17, y: 10}
+      - - {x: -31, y: 23}
+        - {x: -31, y: 22}
+        - {x: -29, y: 20}
+        - {x: -28, y: 20}
+        - {x: -24, y: 24}
+        - {x: -24, y: 26}
+        - {x: -27, y: 27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a90594231dc4a72af08b94785c3e062
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 100}
+      - {x: 100, y: 100}
+      - {x: 0, y: 0}
+      - {x: 100, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particles_SnackAbility100x100_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:
+      - - {x: 49, y: 2}
+        - {x: 47, y: 5}
+        - {x: 45, y: 9}
+        - {x: 37, y: 15}
+        - {x: 33, y: 14}
+        - {x: 23, y: -4}
+        - {x: 24, y: 8}
+        - {x: 22, y: 11}
+        - {x: 4, y: 10}
+        - {x: 6, y: -11}
+        - {x: -6, y: -18}
+        - {x: -3, y: -25}
+        - {x: -5, y: -25}
+        - {x: -7, y: -29}
+        - {x: -7, y: -32}
+        - {x: -1, y: -35}
+        - {x: -5, y: -43}
+        - {x: 0, y: -47}
+        - {x: 18, y: -47}
+        - {x: 22, y: -46}
+        - {x: 29, y: -41}
+        - {x: 42, y: -27}
+        - {x: 49, y: -13}
+      - - {x: -34, y: -22}
+        - {x: -34, y: -26}
+        - {x: -27, y: -36}
+        - {x: -19, y: -36}
+        - {x: -19, y: -28}
+        - {x: -30, y: -22}
+      - - {x: -20, y: 5}
+        - {x: -22, y: 4}
+        - {x: -23, y: -4}
+        - {x: -23, y: -7}
+        - {x: -20, y: -10}
+        - {x: -15, y: -10}
+        - {x: -14, y: -7}
+        - {x: -14, y: 0}
+        - {x: -18, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7c692ca2d7483ea1a608a31ea62a67
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 100}
+      - {x: 100, y: 100}
+      - {x: 0, y: 0}
+      - {x: 100, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

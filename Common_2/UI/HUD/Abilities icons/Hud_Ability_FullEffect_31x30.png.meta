@@ -1,0 +1,943 @@
+fileFormatVersion: 2
+guid: 357b068e419bd944ba3e77d2c909e855
+timeCreated: 1706119814
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Hud_Ability_FullEffect_31x30_6
+  - first:
+      213: 21300002
+    second: Hud_Ability_FullEffect_31x30_15
+  - first:
+      213: 21300004
+    second: Hud_Ability_FullEffect_31x30_7
+  - first:
+      213: 21300006
+    second: Hud_Ability_FullEffect_31x30_12
+  - first:
+      213: 21300008
+    second: Hud_Ability_FullEffect_31x30_10
+  - first:
+      213: 21300010
+    second: Hud_Ability_FullEffect_31x30_3
+  - first:
+      213: 21300012
+    second: Hud_Ability_FullEffect_31x30_5
+  - first:
+      213: 21300014
+    second: Hud_Ability_FullEffect_31x30_4
+  - first:
+      213: 21300016
+    second: Hud_Ability_FullEffect_31x30_11
+  - first:
+      213: 21300018
+    second: Hud_Ability_FullEffect_31x30_9
+  - first:
+      213: 21300020
+    second: Hud_Ability_FullEffect_31x30_0
+  - first:
+      213: 21300022
+    second: Hud_Ability_FullEffect_31x30_14
+  - first:
+      213: 21300024
+    second: Hud_Ability_FullEffect_31x30_1
+  - first:
+      213: 21300026
+    second: Hud_Ability_FullEffect_31x30_8
+  - first:
+      213: 21300028
+    second: Hud_Ability_FullEffect_31x30_16
+  - first:
+      213: 21300030
+    second: Hud_Ability_FullEffect_31x30_13
+  - first:
+      213: 21300032
+    second: Hud_Ability_FullEffect_31x30_2
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hud_Ability_FullEffect_31x30_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -15}
+        - {x: -15.5, y: 15}
+        - {x: 15.5, y: 15}
+        - {x: 15.5, y: -15}
+      physicsShape:
+      - - {x: -13.5, y: -3}
+        - {x: -7.5, y: -3}
+        - {x: 6.5, y: 5}
+        - {x: 6.5, y: 12}
+        - {x: 5.5, y: 13}
+        - {x: -3.5, y: 13}
+        - {x: -10.5, y: 12}
+        - {x: -13.5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f3dcf039de45bbb3cbfe6aa2d4c980
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 31, y: 30}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_Ability_FullEffect_31x30_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -15}
+        - {x: -15.5, y: 15}
+        - {x: 15.5, y: 15}
+        - {x: 15.5, y: -15}
+      physicsShape:
+      - - {x: -7.5, y: -8}
+        - {x: -7.5, y: -11}
+        - {x: -3.5, y: -15}
+        - {x: 3.5, y: -15}
+        - {x: 7.5, y: -11}
+        - {x: 7.5, y: -8}
+      - - {x: -15.5, y: -3}
+        - {x: -11.5, y: -7}
+        - {x: -8.5, y: -5}
+        - {x: -8.5, y: 5}
+        - {x: -11.5, y: 7}
+        - {x: -15.5, y: 3}
+      - - {x: 8.5, y: 7}
+        - {x: 8.5, y: -7}
+        - {x: 11.5, y: -7}
+        - {x: 15.5, y: -3}
+        - {x: 15.5, y: 3}
+        - {x: 11.5, y: 7}
+      - - {x: -3.5, y: 15}
+        - {x: -7.5, y: 11}
+        - {x: -5.5, y: 8}
+        - {x: 5.5, y: 8}
+        - {x: 7.5, y: 11}
+        - {x: 3.5, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc86a5324b34b3d910f8325cf35e1e0
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 31, y: 30}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_Ability_FullEffect_31x30_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 90
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -15}
+        - {x: -15.5, y: 15}
+        - {x: 15.5, y: 15}
+        - {x: 15.5, y: -15}
+      physicsShape:
+      - - {x: -11.5, y: 9}
+        - {x: -13.5, y: 6}
+        - {x: -13.5, y: -2}
+        - {x: -12.5, y: -3}
+        - {x: -8.5, y: -3}
+        - {x: -3.5, y: 3}
+        - {x: -3.5, y: 8}
+        - {x: -5.5, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f96c09eb2b24ec9b23c8ea0ae360014
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 31, y: 30}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_Ability_FullEffect_31x30_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -15}
+        - {x: -15.5, y: 15}
+        - {x: 15.5, y: 15}
+        - {x: 15.5, y: -15}
+      physicsShape:
+      - - {x: 4.5, y: 14}
+        - {x: -7.5, y: 14}
+        - {x: -14.5, y: 5}
+        - {x: -14.5, y: -6}
+        - {x: -8.5, y: -14}
+        - {x: 11.5, y: -14}
+        - {x: 14.5, y: -4}
+        - {x: 14.5, y: 5}
+        - {x: 10.5, y: 12}
+      - - {x: 0.5, y: 0}
+        - {x: -0.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89f36a9a3c147d0a787c030c4071b28
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 31, y: 30}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_Ability_FullEffect_31x30_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 60
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -15}
+        - {x: -15.5, y: 15}
+        - {x: 15.5, y: 15}
+        - {x: 15.5, y: -15}
+      physicsShape:
+      - - {x: -1.5, y: 8}
+        - {x: -8.5, y: 1}
+        - {x: -8.5, y: -1}
+        - {x: -1.5, y: -8}
+        - {x: 1.5, y: -8}
+        - {x: 8.5, y: -1}
+        - {x: 8.5, y: 1}
+        - {x: 1.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7de775925445bf807f6f3819a29b64
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 31, y: 30}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_Ability_FullEffect_31x30_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -15}
+        - {x: -15.5, y: 15}
+        - {x: 15.5, y: 15}
+        - {x: 15.5, y: -15}
+      physicsShape:
+      - - {x: -10.5, y: -2}
+        - {x: -10.5, y: -11}
+        - {x: -7.5, y: -14}
+        - {x: 4.5, y: -14}
+        - {x: 7.5, y: -13}
+        - {x: 7.5, y: -4}
+        - {x: 4.5, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4b9f87fdd7411daf5785d8ddddfb09
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 31, y: 30}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_Ability_FullEffect_31x30_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 120
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -15}
+        - {x: -15.5, y: 15}
+        - {x: 15.5, y: 15}
+        - {x: 15.5, y: -15}
+      physicsShape:
+      - - {x: 8.5, y: 13}
+        - {x: -3.5, y: 13}
+        - {x: -5.5, y: 12}
+        - {x: -5.5, y: 3}
+        - {x: 4.5, y: -8}
+        - {x: 9.5, y: -8}
+        - {x: 13.5, y: -6}
+        - {x: 13.5, y: 4}
+        - {x: 12.5, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585556d4cef14ae88398475dea7740fb
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 31, y: 30}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_Ability_FullEffect_31x30_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 120
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -15}
+        - {x: -15.5, y: 15}
+        - {x: 15.5, y: 15}
+        - {x: 15.5, y: -15}
+      physicsShape:
+      - - {x: 4.5, y: 6}
+        - {x: -5.5, y: 0}
+        - {x: -5.5, y: -14}
+        - {x: 4.5, y: -14}
+        - {x: 10.5, y: -13}
+        - {x: 13.5, y: -9}
+        - {x: 13.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfe5e89a3254185b26d72aee01aaf89
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 31, y: 30}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_Ability_FullEffect_31x30_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 60
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -15}
+        - {x: -15.5, y: 15}
+        - {x: 15.5, y: 15}
+        - {x: 15.5, y: -15}
+      physicsShape:
+      - - {x: -1.5, y: 11}
+        - {x: -11.5, y: 1}
+        - {x: -11.5, y: -1}
+        - {x: -1.5, y: -11}
+        - {x: 1.5, y: -11}
+        - {x: 11.5, y: -1}
+        - {x: 11.5, y: 1}
+        - {x: 1.5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89f126ea9eb4bf2b12554b1517c61f0
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 31, y: 30}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_Ability_FullEffect_31x30_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -15}
+        - {x: -15.5, y: 15}
+        - {x: 15.5, y: 15}
+        - {x: 15.5, y: -15}
+      physicsShape:
+      - - {x: -2.5, y: 5}
+        - {x: -4.5, y: 2}
+        - {x: -4.5, y: -4}
+        - {x: -3.5, y: -5}
+        - {x: 0.5, y: -5}
+        - {x: 4.5, y: -3}
+        - {x: 4.5, y: 1}
+        - {x: 0.5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c23b0ece3fc4aa7be07c3e1f942ba12
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 31, y: 30}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_Ability_FullEffect_31x30_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -15}
+        - {x: -15.5, y: 15}
+        - {x: 15.5, y: 15}
+        - {x: 15.5, y: -15}
+      physicsShape:
+      - - {x: -11.5, y: 2}
+        - {x: -13.5, y: 1}
+        - {x: -13.5, y: -6}
+        - {x: -11.5, y: -7}
+        - {x: -6.5, y: -7}
+        - {x: -6.5, y: 1}
+        - {x: -7.5, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a94eb2bdbb4e8d888e21c9b5feb19c
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 31, y: 30}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_Ability_FullEffect_31x30_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 30
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -15}
+        - {x: -15.5, y: 15}
+        - {x: 15.5, y: 15}
+        - {x: 15.5, y: -15}
+      physicsShape:
+      - - {x: 6.5, y: 15}
+        - {x: -15.5, y: 15}
+        - {x: -15.5, y: -15}
+        - {x: 4.5, y: -15}
+        - {x: 12.5, y: -11}
+        - {x: 15.5, y: -6}
+        - {x: 15.5, y: 3}
+        - {x: 10.5, y: 12}
+      - - {x: -2.5, y: 0}
+        - {x: -0.5, y: 2}
+        - {x: 2.5, y: 0}
+        - {x: 0.5, y: -2}
+        - {x: -0.5, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290deeb0ff50406f857ee21efd41ebb3
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 31, y: 30}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_Ability_FullEffect_31x30_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 150
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -15}
+        - {x: -15.5, y: 15}
+        - {x: 15.5, y: 15}
+        - {x: 15.5, y: -15}
+      physicsShape:
+      - - {x: -11.5, y: 2}
+        - {x: -13.5, y: 1}
+        - {x: -13.5, y: -6}
+        - {x: -10.5, y: -8}
+        - {x: -6.5, y: -8}
+        - {x: -5.5, y: -5}
+        - {x: -5.5, y: 0}
+        - {x: -7.5, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a705f12f2c9b42338adc76cadb7b02c0
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 31, y: 30}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_Ability_FullEffect_31x30_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 90
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -15}
+        - {x: -15.5, y: 15}
+        - {x: 15.5, y: 15}
+        - {x: 15.5, y: -15}
+      physicsShape:
+      - - {x: -0.5, y: 4}
+        - {x: -3.5, y: 1}
+        - {x: -3.5, y: -3}
+        - {x: -0.5, y: -4}
+        - {x: 2.5, y: -4}
+        - {x: 3.5, y: -1}
+        - {x: 3.5, y: 1}
+        - {x: 0.5, y: 4}
+      - - {x: -11.5, y: 5}
+        - {x: -13.5, y: 4}
+        - {x: -13.5, y: -3}
+        - {x: -8.5, y: -3}
+        - {x: -6.5, y: 1}
+        - {x: -6.5, y: 4}
+        - {x: -8.5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8083f27f30b4c72ae8da688c5be52c6
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 31, y: 30}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_Ability_FullEffect_31x30_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -15}
+        - {x: -15.5, y: 15}
+        - {x: 15.5, y: 15}
+        - {x: 15.5, y: -15}
+      physicsShape:
+      - - {x: -4.5, y: 15}
+        - {x: -15.5, y: 5}
+        - {x: -15.5, y: -4}
+        - {x: -12.5, y: -11}
+        - {x: -6.5, y: -15}
+        - {x: 4.5, y: -15}
+        - {x: 12.5, y: -11}
+        - {x: 15.5, y: -5}
+        - {x: 15.5, y: 5}
+        - {x: 3.5, y: 15}
+      - - {x: -6.5, y: 0}
+        - {x: -0.5, y: 6}
+        - {x: 6.5, y: 0}
+        - {x: 0.5, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b49b6e49a9544ecbaaaee17effcedf1
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 31, y: 30}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_Ability_FullEffect_31x30_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 30
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -15}
+        - {x: -15.5, y: 15}
+        - {x: 15.5, y: 15}
+        - {x: 15.5, y: -15}
+      physicsShape:
+      - - {x: -5.5, y: 15}
+        - {x: -15.5, y: 1}
+        - {x: -15.5, y: -6}
+        - {x: -6.5, y: -15}
+        - {x: 2.5, y: -15}
+        - {x: 15.5, y: -6}
+        - {x: 15.5, y: 1}
+        - {x: 1.5, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bee53e44444713bdc212d40df45a01
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 31, y: 30}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_Ability_FullEffect_31x30_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 150
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -15}
+        - {x: -15.5, y: 15}
+        - {x: 15.5, y: 15}
+        - {x: 15.5, y: -15}
+      physicsShape:
+      - - {x: -10.5, y: 0}
+        - {x: -12.5, y: -2}
+        - {x: -12.5, y: -5}
+        - {x: -8.5, y: -10}
+        - {x: -6.5, y: -10}
+        - {x: -3.5, y: -7}
+        - {x: -3.5, y: -4}
+        - {x: -7.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361f453e1ce54fa3be916313cde3b7c3
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 30}
+      - {x: 31, y: 30}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: dd14d2ddaa07bc34756cc666fad2ee2c.bundle
+  assetBundleVariant:

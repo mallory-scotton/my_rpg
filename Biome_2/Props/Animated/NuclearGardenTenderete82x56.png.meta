@@ -1,0 +1,1145 @@
+fileFormatVersion: 2
+guid: 4edbea3bd11dc844cb452b6e327bbf9d
+timeCreated: 1706119810
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: NuclearGardenTenderete82x56_5
+  - first:
+      213: 21300002
+    second: NuclearGardenTenderete82x56_8
+  - first:
+      213: 21300004
+    second: NuclearGardenTenderete82x56_10
+  - first:
+      213: 21300006
+    second: NuclearGardenTenderete82x56_7
+  - first:
+      213: 21300008
+    second: NuclearGardenTenderete82x56_3
+  - first:
+      213: 21300010
+    second: NuclearGardenTenderete82x56_6
+  - first:
+      213: 21300012
+    second: NuclearGardenTenderete82x56_9
+  - first:
+      213: 21300014
+    second: NuclearGardenTenderete82x56_1
+  - first:
+      213: 21300016
+    second: NuclearGardenTenderete82x56_4
+  - first:
+      213: 21300018
+    second: NuclearGardenTenderete82x56_2
+  - first:
+      213: 21300020
+    second: NuclearGardenTenderete82x56_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NuclearGardenTenderete82x56_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 82
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -1}
+        - {x: -25, y: -1}
+        - {x: -26, y: 4}
+      physicsShape:
+      - - {x: -14, y: -14}
+        - {x: 14, y: -10}
+        - {x: 25, y: 2}
+        - {x: 23, y: -15}
+        - {x: 18, y: -25}
+        - {x: 19, y: -28}
+        - {x: 41, y: -28}
+        - {x: 41, y: -17}
+        - {x: 37, y: -5}
+        - {x: 36, y: 19}
+        - {x: 34, y: 24}
+        - {x: 24, y: 19}
+        - {x: 15, y: 7}
+        - {x: -12, y: 5}
+        - {x: -24, y: 12}
+        - {x: -25, y: 25}
+        - {x: -29, y: 28}
+        - {x: -37, y: 28}
+        - {x: -40, y: -19}
+        - {x: -41, y: -21}
+        - {x: -41, y: -28}
+        - {x: -21, y: -28}
+        - {x: -20, y: -26}
+        - {x: -19, y: -23}
+        - {x: -26, y: -10}
+      - - {x: -26, y: 4}
+        - {x: -25, y: -1}
+        - {x: -26, y: -2}
+        - {x: -25, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56dd466961749d7b1b01df8b11905b9
+      internalID: 21300000
+      vertices:
+      - {x: 16, y: 55}
+      - {x: 15, y: 60}
+      - {x: 15, y: 54}
+      - {x: 16, y: 55}
+      - {x: 16, y: 54}
+      - {x: 78, y: 84}
+      - {x: 4, y: 84}
+      - {x: 82, y: 28}
+      - {x: 82, y: 55}
+      - {x: 0, y: 55}
+      - {x: 0, y: 28}
+      indices:
+      - 2
+      - 0
+      - 4
+      - 10
+      - 9
+      - 7
+      - 2
+      - 7
+      - 9
+      - 6
+      - 2
+      - 9
+      - 4
+      - 7
+      - 2
+      - 3
+      - 7
+      - 4
+      - 5
+      - 7
+      - 3
+      - 8
+      - 7
+      - 5
+      - 5
+      - 1
+      - 6
+      - 2
+      - 6
+      - 1
+      - 3
+      - 1
+      - 5
+      - 4
+      - 0
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenTenderete82x56_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 82
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -28}
+        - {x: -41, y: -28}
+        - {x: -41, y: 2}
+        - {x: -37, y: 28}
+        - {x: 39, y: 28}
+        - {x: 41, y: 13}
+      physicsShape:
+      - - {x: -26, y: -4}
+        - {x: -22, y: -6}
+        - {x: -12, y: -14}
+        - {x: 16, y: -10}
+        - {x: 23, y: 1}
+        - {x: 24, y: -16}
+        - {x: 18, y: -25}
+        - {x: 19, y: -28}
+        - {x: 41, y: -28}
+        - {x: 41, y: -17}
+        - {x: 37, y: -5}
+        - {x: 36, y: 19}
+        - {x: 34, y: 24}
+        - {x: 24, y: 20}
+        - {x: 22, y: 7}
+        - {x: -6, y: 5}
+        - {x: -26, y: 24}
+        - {x: -30, y: 28}
+        - {x: -37, y: 28}
+        - {x: -40, y: -19}
+        - {x: -41, y: -21}
+        - {x: -41, y: -28}
+        - {x: -21, y: -28}
+        - {x: -20, y: -26}
+        - {x: -19, y: -23}
+        - {x: -26, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdb1c2b4d6f45cb8efa4be96f5ba28b
+      internalID: 21300002
+      vertices:
+      - {x: 80, y: 84}
+      - {x: 82, y: 28}
+      - {x: 82, y: 69}
+      - {x: 4, y: 84}
+      - {x: 0, y: 58}
+      - {x: 0, y: 28}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenTenderete82x56_10
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 0
+        width: 82
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -28}
+        - {x: -41, y: -28}
+        - {x: -41, y: -1}
+        - {x: -37, y: 28}
+        - {x: 39, y: 28}
+        - {x: 41, y: 9}
+        - {x: 41, y: -28}
+        - {x: 17, y: -28}
+        - {x: -24, y: -18}
+        - {x: -19, y: -23}
+        - {x: -20, y: -26}
+      physicsShape:
+      - - {x: -21, y: -5}
+        - {x: -11, y: -13}
+        - {x: 17, y: -8}
+        - {x: 23, y: 2}
+        - {x: 24, y: -16}
+        - {x: 18, y: -25}
+        - {x: 19, y: -28}
+        - {x: 41, y: -28}
+        - {x: 41, y: -17}
+        - {x: 37, y: -5}
+        - {x: 36, y: 19}
+        - {x: 34, y: 24}
+        - {x: 24, y: 19}
+        - {x: 26, y: 10}
+        - {x: 11, y: 6}
+        - {x: -19, y: 10}
+        - {x: -26, y: 24}
+        - {x: -30, y: 28}
+        - {x: -37, y: 28}
+        - {x: -40, y: -19}
+        - {x: -41, y: -21}
+        - {x: -41, y: -28}
+        - {x: -21, y: -28}
+        - {x: -20, y: -26}
+        - {x: -19, y: -23}
+        - {x: -24, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798bbbe3778c4824b30be5ed2cc52436
+      internalID: 21300004
+      vertices:
+      - {x: 80, y: 84}
+      - {x: 82, y: 28}
+      - {x: 82, y: 65}
+      - {x: 58, y: 28}
+      - {x: 17, y: 38}
+      - {x: 4, y: 84}
+      - {x: 22, y: 33}
+      - {x: 20, y: 28}
+      - {x: 21, y: 30}
+      - {x: 0, y: 55}
+      - {x: 0, y: 28}
+      indices:
+      - 10
+      - 9
+      - 7
+      - 4
+      - 7
+      - 9
+      - 5
+      - 4
+      - 9
+      - 6
+      - 7
+      - 4
+      - 8
+      - 7
+      - 6
+      - 5
+      - 0
+      - 4
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenTenderete82x56_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 82
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -28}
+        - {x: -41, y: -28}
+        - {x: -41, y: -1}
+        - {x: -37, y: 28}
+        - {x: -16, y: 28}
+        - {x: 26, y: 18}
+        - {x: 29, y: 24}
+        - {x: 38, y: 20}
+        - {x: 41, y: 0}
+      physicsShape:
+      - - {x: -2, y: -11}
+        - {x: 0, y: -8}
+        - {x: 0, y: -5}
+        - {x: 5, y: -10}
+        - {x: 17, y: -13}
+        - {x: 21, y: -8}
+        - {x: 17, y: -28}
+        - {x: 41, y: -28}
+        - {x: 41, y: -17}
+        - {x: 37, y: -5}
+        - {x: 38, y: 20}
+        - {x: 29, y: 24}
+        - {x: 26, y: 18}
+        - {x: 21, y: 7}
+        - {x: -6, y: 5}
+        - {x: -18, y: 10}
+        - {x: -28, y: 28}
+        - {x: -37, y: 28}
+        - {x: -40, y: -19}
+        - {x: -41, y: -21}
+        - {x: -41, y: -28}
+        - {x: -18, y: -28}
+        - {x: -17, y: -27}
+        - {x: -23, y: -9}
+        - {x: -13, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358cae1b328347e589fdbbf0186f6b23
+      internalID: 21300006
+      vertices:
+      - {x: 79, y: 76}
+      - {x: 82, y: 28}
+      - {x: 82, y: 56}
+      - {x: 70, y: 80}
+      - {x: 67, y: 74}
+      - {x: 25, y: 84}
+      - {x: 4, y: 84}
+      - {x: 0, y: 55}
+      - {x: 0, y: 28}
+      indices:
+      - 8
+      - 7
+      - 1
+      - 6
+      - 1
+      - 7
+      - 5
+      - 1
+      - 6
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenTenderete82x56_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 82
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -28}
+        - {x: -41, y: -28}
+        - {x: -41, y: 28}
+        - {x: 32, y: 28}
+        - {x: 35, y: 26}
+        - {x: 40, y: -4}
+        - {x: 41, y: -9}
+        - {x: 41, y: -28}
+        - {x: 15, y: -28}
+        - {x: -19, y: -23}
+        - {x: -20, y: -26}
+      physicsShape:
+      - - {x: -13, y: -13}
+        - {x: -5, y: -14}
+        - {x: 18, y: -8}
+        - {x: 25, y: 2}
+        - {x: 23, y: -15}
+        - {x: 18, y: -25}
+        - {x: 19, y: -28}
+        - {x: 41, y: -28}
+        - {x: 41, y: -17}
+        - {x: 37, y: -5}
+        - {x: 36, y: 19}
+        - {x: 34, y: 24}
+        - {x: 24, y: 19}
+        - {x: 21, y: 7}
+        - {x: -10, y: 4}
+        - {x: -20, y: 7}
+        - {x: -25, y: 25}
+        - {x: -29, y: 28}
+        - {x: -37, y: 28}
+        - {x: -38, y: -20}
+        - {x: -41, y: -22}
+        - {x: -41, y: -28}
+        - {x: -21, y: -28}
+        - {x: -20, y: -26}
+        - {x: -19, y: -23}
+        - {x: -26, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76ff7b895c3474898d0798e3b909ee9
+      internalID: 21300008
+      vertices:
+      - {x: 81, y: 52}
+      - {x: 82, y: 28}
+      - {x: 82, y: 47}
+      - {x: 76, y: 82}
+      - {x: 73, y: 84}
+      - {x: 56, y: 28}
+      - {x: 22, y: 33}
+      - {x: 20, y: 28}
+      - {x: 21, y: 30}
+      - {x: 0, y: 84}
+      - {x: 0, y: 28}
+      indices:
+      - 10
+      - 9
+      - 7
+      - 6
+      - 7
+      - 9
+      - 4
+      - 6
+      - 9
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 4
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenTenderete82x56_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 82
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -28}
+        - {x: -41, y: -28}
+        - {x: -41, y: -1}
+        - {x: -37, y: 28}
+        - {x: 4, y: 28}
+        - {x: 29, y: 24}
+        - {x: 38, y: 20}
+        - {x: 41, y: 0}
+      physicsShape:
+      - - {x: -20, y: -7}
+        - {x: -13, y: -15}
+        - {x: 15, y: -10}
+        - {x: 24, y: -3}
+        - {x: 24, y: -16}
+        - {x: 18, y: -25}
+        - {x: 19, y: -28}
+        - {x: 41, y: -28}
+        - {x: 41, y: -17}
+        - {x: 37, y: -5}
+        - {x: 38, y: 20}
+        - {x: 29, y: 24}
+        - {x: 22, y: 8}
+        - {x: -9, y: 5}
+        - {x: -24, y: 14}
+        - {x: -25, y: 25}
+        - {x: -29, y: 28}
+        - {x: -37, y: 28}
+        - {x: -38, y: -20}
+        - {x: -41, y: -22}
+        - {x: -41, y: -28}
+        - {x: -21, y: -28}
+        - {x: -20, y: -26}
+        - {x: -19, y: -23}
+        - {x: -26, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56526286bbc546d79fb5f821b60b51d5
+      internalID: 21300010
+      vertices:
+      - {x: 79, y: 76}
+      - {x: 82, y: 28}
+      - {x: 82, y: 56}
+      - {x: 70, y: 80}
+      - {x: 45, y: 84}
+      - {x: 4, y: 84}
+      - {x: 0, y: 55}
+      - {x: 0, y: 28}
+      indices:
+      - 7
+      - 6
+      - 1
+      - 5
+      - 1
+      - 6
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenTenderete82x56_9
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 82
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -28}
+        - {x: -41, y: -28}
+        - {x: -41, y: -1}
+        - {x: -37, y: 28}
+        - {x: 39, y: 28}
+        - {x: 41, y: 9}
+        - {x: 41, y: -28}
+        - {x: 17, y: -28}
+        - {x: -24, y: -18}
+        - {x: -19, y: -23}
+        - {x: -20, y: -26}
+      physicsShape:
+      - - {x: -21, y: -5}
+        - {x: -11, y: -13}
+        - {x: 17, y: -8}
+        - {x: 23, y: 2}
+        - {x: 24, y: -16}
+        - {x: 18, y: -25}
+        - {x: 19, y: -28}
+        - {x: 41, y: -28}
+        - {x: 41, y: -17}
+        - {x: 37, y: -5}
+        - {x: 36, y: 19}
+        - {x: 34, y: 24}
+        - {x: 24, y: 19}
+        - {x: 26, y: 10}
+        - {x: 11, y: 6}
+        - {x: -19, y: 10}
+        - {x: -26, y: 24}
+        - {x: -30, y: 28}
+        - {x: -37, y: 28}
+        - {x: -40, y: -19}
+        - {x: -41, y: -21}
+        - {x: -41, y: -28}
+        - {x: -21, y: -28}
+        - {x: -20, y: -26}
+        - {x: -19, y: -23}
+        - {x: -24, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583e7914a80043dfa8b63ce957c648c0
+      internalID: 21300012
+      vertices:
+      - {x: 80, y: 84}
+      - {x: 82, y: 28}
+      - {x: 82, y: 65}
+      - {x: 58, y: 28}
+      - {x: 17, y: 38}
+      - {x: 4, y: 84}
+      - {x: 22, y: 33}
+      - {x: 20, y: 28}
+      - {x: 21, y: 30}
+      - {x: 0, y: 55}
+      - {x: 0, y: 28}
+      indices:
+      - 10
+      - 9
+      - 7
+      - 4
+      - 7
+      - 9
+      - 5
+      - 4
+      - 9
+      - 6
+      - 7
+      - 4
+      - 8
+      - 7
+      - 6
+      - 5
+      - 0
+      - 4
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenTenderete82x56_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 82
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -28}
+        - {x: -41, y: -28}
+        - {x: -41, y: 28}
+        - {x: 2, y: 28}
+        - {x: 40, y: 22}
+        - {x: 41, y: 14}
+        - {x: 41, y: -28}
+        - {x: -10, y: -28}
+        - {x: -20, y: -26}
+      physicsShape:
+      - - {x: -21, y: -7}
+        - {x: -11, y: -15}
+        - {x: 7, y: -12}
+        - {x: 20, y: -8}
+        - {x: 25, y: -3}
+        - {x: 18, y: -25}
+        - {x: 19, y: -28}
+        - {x: 41, y: -28}
+        - {x: 41, y: -17}
+        - {x: 37, y: -5}
+        - {x: 38, y: 20}
+        - {x: 29, y: 24}
+        - {x: 26, y: 18}
+        - {x: 21, y: 7}
+        - {x: -5, y: 5}
+        - {x: -23, y: 12}
+        - {x: -26, y: 25}
+        - {x: -30, y: 28}
+        - {x: -37, y: 28}
+        - {x: -40, y: -19}
+        - {x: -41, y: -21}
+        - {x: -41, y: -28}
+        - {x: -21, y: -28}
+        - {x: -20, y: -26}
+        - {x: -19, y: -23}
+        - {x: -24, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec84eadd2224bd8ac77eef8d20ef33b
+      internalID: 21300014
+      vertices:
+      - {x: 81, y: 78}
+      - {x: 82, y: 28}
+      - {x: 82, y: 70}
+      - {x: 43, y: 84}
+      - {x: 31, y: 28}
+      - {x: 21, y: 30}
+      - {x: 20, y: 28}
+      - {x: 0, y: 84}
+      - {x: 0, y: 28}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 3
+      - 6
+      - 7
+      - 5
+      - 6
+      - 3
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenTenderete82x56_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 82
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -1}
+        - {x: -25, y: -1}
+        - {x: -26, y: 4}
+      physicsShape:
+      - - {x: -14, y: -14}
+        - {x: 14, y: -10}
+        - {x: 25, y: 2}
+        - {x: 23, y: -15}
+        - {x: 18, y: -25}
+        - {x: 19, y: -28}
+        - {x: 41, y: -28}
+        - {x: 41, y: -17}
+        - {x: 37, y: -5}
+        - {x: 36, y: 19}
+        - {x: 34, y: 24}
+        - {x: 24, y: 19}
+        - {x: 15, y: 7}
+        - {x: -12, y: 5}
+        - {x: -24, y: 12}
+        - {x: -25, y: 25}
+        - {x: -29, y: 28}
+        - {x: -37, y: 28}
+        - {x: -40, y: -19}
+        - {x: -41, y: -21}
+        - {x: -41, y: -28}
+        - {x: -21, y: -28}
+        - {x: -20, y: -26}
+        - {x: -19, y: -23}
+        - {x: -26, y: -10}
+      - - {x: -26, y: 4}
+        - {x: -25, y: -1}
+        - {x: -26, y: -2}
+        - {x: -25, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6c1af66ed248be98f642917855436c
+      internalID: 21300016
+      vertices:
+      - {x: 16, y: 55}
+      - {x: 15, y: 60}
+      - {x: 15, y: 54}
+      - {x: 16, y: 55}
+      - {x: 16, y: 54}
+      - {x: 78, y: 84}
+      - {x: 4, y: 84}
+      - {x: 82, y: 28}
+      - {x: 82, y: 55}
+      - {x: 0, y: 55}
+      - {x: 0, y: 28}
+      indices:
+      - 2
+      - 0
+      - 4
+      - 10
+      - 9
+      - 7
+      - 2
+      - 7
+      - 9
+      - 6
+      - 2
+      - 9
+      - 4
+      - 7
+      - 2
+      - 3
+      - 7
+      - 4
+      - 5
+      - 7
+      - 3
+      - 8
+      - 7
+      - 5
+      - 5
+      - 1
+      - 6
+      - 2
+      - 6
+      - 1
+      - 3
+      - 1
+      - 5
+      - 4
+      - 0
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenTenderete82x56_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 82
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -28}
+        - {x: -41, y: -28}
+        - {x: -41, y: -1}
+        - {x: -37, y: 28}
+        - {x: -1, y: 28}
+        - {x: 28, y: 25}
+        - {x: 38, y: 20}
+        - {x: 41, y: 0}
+      physicsShape:
+      - - {x: -12, y: -15}
+        - {x: 6, y: -12}
+        - {x: 19, y: -8}
+        - {x: 25, y: -3}
+        - {x: 24, y: -16}
+        - {x: 18, y: -25}
+        - {x: 19, y: -28}
+        - {x: 41, y: -28}
+        - {x: 41, y: -17}
+        - {x: 37, y: -5}
+        - {x: 38, y: 20}
+        - {x: 28, y: 25}
+        - {x: 22, y: 8}
+        - {x: 9, y: 4}
+        - {x: -17, y: 7}
+        - {x: -23, y: 18}
+        - {x: -28, y: 28}
+        - {x: -37, y: 28}
+        - {x: -38, y: -20}
+        - {x: -41, y: -22}
+        - {x: -41, y: -28}
+        - {x: -18, y: -28}
+        - {x: -17, y: -27}
+        - {x: -22, y: -16}
+        - {x: -22, y: -7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59596763d5134d4c9911994b2666cf65
+      internalID: 21300018
+      vertices:
+      - {x: 79, y: 76}
+      - {x: 82, y: 28}
+      - {x: 82, y: 56}
+      - {x: 69, y: 81}
+      - {x: 40, y: 84}
+      - {x: 4, y: 84}
+      - {x: 0, y: 55}
+      - {x: 0, y: 28}
+      indices:
+      - 7
+      - 6
+      - 1
+      - 5
+      - 1
+      - 6
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuclearGardenTenderete82x56_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -28}
+        - {x: -41, y: -28}
+        - {x: -41, y: 17}
+        - {x: -40, y: 28}
+        - {x: 27, y: 28}
+        - {x: 38, y: 20}
+        - {x: 41, y: 0}
+        - {x: 41, y: -28}
+        - {x: -8, y: -28}
+        - {x: -17, y: -27}
+      physicsShape:
+      - - {x: -22, y: -9}
+        - {x: -14, y: -5}
+        - {x: -10, y: -14}
+        - {x: 18, y: -9}
+        - {x: 25, y: -3}
+        - {x: 18, y: -25}
+        - {x: 19, y: -28}
+        - {x: 41, y: -28}
+        - {x: 41, y: -17}
+        - {x: 37, y: -5}
+        - {x: 38, y: 20}
+        - {x: 29, y: 24}
+        - {x: 21, y: 8}
+        - {x: -6, y: 5}
+        - {x: -23, y: 13}
+        - {x: -26, y: 24}
+        - {x: -30, y: 28}
+        - {x: -37, y: 28}
+        - {x: -38, y: -20}
+        - {x: -41, y: -22}
+        - {x: -41, y: -28}
+        - {x: -18, y: -28}
+        - {x: -17, y: -27}
+        - {x: -21, y: -17}
+        - {x: -25, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb769bbc8de40d4a4fe9c4327c179ea
+      internalID: 21300020
+      vertices:
+      - {x: 79, y: 76}
+      - {x: 82, y: 28}
+      - {x: 82, y: 56}
+      - {x: 68, y: 84}
+      - {x: 33, y: 28}
+      - {x: 24, y: 29}
+      - {x: 23, y: 28}
+      - {x: 1, y: 84}
+      - {x: 0, y: 73}
+      - {x: 0, y: 28}
+      indices:
+      - 9
+      - 8
+      - 6
+      - 7
+      - 6
+      - 8
+      - 3
+      - 6
+      - 7
+      - 5
+      - 6
+      - 3
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 4cccb9c8fa36edf1f03dae7baaef6041.bundle
+  assetBundleVariant:

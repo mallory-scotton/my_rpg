@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 5907c9e08adc76e4d9bd0656b21b339a
+timeCreated: 1706119846
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: EliteBigCaiman_Idle48x36_2
+  - first:
+      213: 21300002
+    second: EliteBigCaiman_Idle48x36_3
+  - first:
+      213: 21300004
+    second: EliteBigCaiman_Idle48x36_1
+  - first:
+      213: 21300006
+    second: EliteBigCaiman_Idle48x36_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EliteBigCaiman_Idle48x36_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 34.973248
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -17.486624}
+        - {x: -24, y: -12.486624}
+        - {x: -24, y: 11.513376}
+        - {x: -18, y: 17.513376}
+        - {x: 20, y: 17.513376}
+        - {x: 24, y: 10.513376}
+        - {x: 24, y: -9.486624}
+        - {x: 15, y: -17.486624}
+      physicsShape:
+      - - {x: 14, y: 17.513376}
+        - {x: -18, y: 17.513376}
+        - {x: -24, y: 7.513376}
+        - {x: -24, y: -11.486624}
+        - {x: -17, y: -17.486624}
+        - {x: 14, y: -17.486624}
+        - {x: 24, y: -6.486624}
+        - {x: 24, y: 8.513376}
+        - {x: 17, y: 15.513376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37324bf9bb0d491da71a2fac671d4a9c
+      internalID: 21300000
+      vertices:
+      - {x: 44, y: 52.486626}
+      - {x: 48, y: 25.486624}
+      - {x: 48, y: 45.486626}
+      - {x: 39, y: 17.486624}
+      - {x: 6, y: 52.486626}
+      - {x: 3, y: 17.486624}
+      - {x: 0, y: 46.486626}
+      - {x: 0, y: 22.486624}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteBigCaiman_Idle48x36_3
+      rect:
+        serializedVersion: 2
+        x: 144.02675
+        y: 0
+        width: 47.973248
+        height: 35.973248
+      alignment: 9
+      pivot: {x: 0.49972126, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.986628, y: -17.986624}
+        - {x: -24.013372, y: -17.986624}
+        - {x: -24.013372, y: 11.013376}
+        - {x: -22.013372, y: 18.013376}
+        - {x: 15.986628, y: 18.013376}
+        - {x: 23.986628, y: 14.013376}
+      physicsShape:
+      - - {x: 15.986628, y: 18.013376}
+        - {x: -7.0133724, y: 18.013376}
+        - {x: -16.013372, y: 17.013376}
+        - {x: -24.013372, y: 5.013376}
+        - {x: -24.013372, y: -9.986624}
+        - {x: -20.013372, y: -17.986624}
+        - {x: 17.986628, y: -17.986624}
+        - {x: 21.986628, y: -15.986624}
+        - {x: 23.986628, y: -9.986624}
+        - {x: 23.986628, y: 14.013376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1b1bd313294969a39a956dfbe165c5
+      internalID: 21300002
+      vertices:
+      - {x: 39.986626, y: 53.986626}
+      - {x: 47.986626, y: 17.986624}
+      - {x: 47.986626, y: 49.986626}
+      - {x: 1.9866238, y: 53.986626}
+      - {x: -0.013376236, y: 46.986626}
+      - {x: -0.013376236, y: 17.986624}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteBigCaiman_Idle48x36_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -18}
+        - {x: -17, y: -18}
+        - {x: -24, y: -14}
+        - {x: -24, y: 12}
+        - {x: -14, y: 17}
+        - {x: -13, y: 13}
+        - {x: -13, y: 9}
+        - {x: -14, y: 8}
+        - {x: -14, y: 7}
+        - {x: -6, y: 18}
+        - {x: 17, y: 18}
+        - {x: 24, y: 15}
+        - {x: 24, y: -6}
+      physicsShape:
+      - - {x: 17, y: 18}
+        - {x: -6, y: 18}
+        - {x: -14, y: 7}
+        - {x: -14, y: 5}
+        - {x: -14, y: 8}
+        - {x: -13, y: 9}
+        - {x: -13, y: 13}
+        - {x: -14, y: 17}
+        - {x: -24, y: 12}
+        - {x: -24, y: -14}
+        - {x: -17, y: -18}
+        - {x: 13, y: -18}
+        - {x: 24, y: -6}
+        - {x: 24, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848f1f71873e4b1c81ecbbf181f2c6cd
+      internalID: 21300004
+      vertices:
+      - {x: 10, y: 53}
+      - {x: 11, y: 45}
+      - {x: 11, y: 49}
+      - {x: 10, y: 44}
+      - {x: 10, y: 43}
+      - {x: 10, y: 41}
+      - {x: 7, y: 18}
+      - {x: 0, y: 48}
+      - {x: 0, y: 22}
+      - {x: 41, y: 54}
+      - {x: 48, y: 30}
+      - {x: 48, y: 51}
+      - {x: 37, y: 18}
+      - {x: 18, y: 54}
+      indices:
+      - 6
+      - 5
+      - 12
+      - 4
+      - 12
+      - 5
+      - 13
+      - 12
+      - 4
+      - 9
+      - 12
+      - 13
+      - 10
+      - 12
+      - 9
+      - 11
+      - 10
+      - 9
+      - 8
+      - 7
+      - 6
+      - 0
+      - 6
+      - 7
+      - 5
+      - 6
+      - 0
+      - 4
+      - 5
+      - 0
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteBigCaiman_Idle48x36_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -18}
+        - {x: -24, y: -12}
+        - {x: -24, y: 16}
+        - {x: -16, y: 18}
+        - {x: 21, y: 18}
+        - {x: 24, y: 16}
+        - {x: 24, y: -5}
+        - {x: 13, y: -18}
+      physicsShape:
+      - - {x: 19, y: 18}
+        - {x: -10, y: 18}
+        - {x: -24, y: 13}
+        - {x: -24, y: -12}
+        - {x: -19, y: -18}
+        - {x: 13, y: -18}
+        - {x: 24, y: -5}
+        - {x: 24, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bfb679f43a4d7b8d6d2efe6f9c4ff4
+      internalID: 21300006
+      vertices:
+      - {x: 45, y: 54}
+      - {x: 48, y: 31}
+      - {x: 48, y: 52}
+      - {x: 37, y: 18}
+      - {x: 8, y: 54}
+      - {x: 5, y: 18}
+      - {x: 0, y: 52}
+      - {x: 0, y: 24}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

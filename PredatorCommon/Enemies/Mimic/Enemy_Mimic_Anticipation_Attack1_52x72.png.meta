@@ -1,0 +1,1021 @@
+fileFormatVersion: 2
+guid: 634eca281d3028047a571fe0ac8119c2
+timeCreated: 1706119825
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Enemy_Mimic_Anticipation_Attack1_52x72_2
+  - first:
+      213: 21300002
+    second: Enemy_Mimic_Anticipation_Attack1_52x72_7
+  - first:
+      213: 21300004
+    second: Enemy_Mimic_Anticipation_Attack1_52x72_6
+  - first:
+      213: 21300006
+    second: Enemy_Mimic_Anticipation_Attack1_52x72_8
+  - first:
+      213: 21300008
+    second: Enemy_Mimic_Anticipation_Attack1_52x72_4
+  - first:
+      213: 21300010
+    second: Enemy_Mimic_Anticipation_Attack1_52x72_10
+  - first:
+      213: 21300012
+    second: Enemy_Mimic_Anticipation_Attack1_52x72_1
+  - first:
+      213: 21300014
+    second: Enemy_Mimic_Anticipation_Attack1_52x72_5
+  - first:
+      213: 21300016
+    second: Enemy_Mimic_Anticipation_Attack1_52x72_11
+  - first:
+      213: 21300018
+    second: Enemy_Mimic_Anticipation_Attack1_52x72_9
+  - first:
+      213: 21300020
+    second: Enemy_Mimic_Anticipation_Attack1_52x72_3
+  - first:
+      213: 21300022
+    second: Enemy_Mimic_Anticipation_Attack1_52x72_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Mimic_Anticipation_Attack1_52x72_2
+      rect:
+        serializedVersion: 2
+        x: 3.026751
+        y: 290.0761
+        width: 46.946495
+        height: 57.872566
+      alignment: 9
+      pivot: {x: 0.46804878, y: 0.5689032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.499998, y: -29.012394}
+        - {x: -23.499998, y: -19.012394}
+        - {x: -23.499998, y: 15.987606}
+        - {x: -14.499998, y: 28.987606}
+        - {x: 12.500002, y: 28.987606}
+        - {x: 19.500002, y: 27.987606}
+        - {x: 23.500002, y: 8.987606}
+        - {x: 23.500002, y: -19.012394}
+        - {x: 6.500002, y: -29.012394}
+      physicsShape:
+      - - {x: 19.500002, y: 27.987606}
+        - {x: 12.500002, y: 28.987606}
+        - {x: -13.499998, y: 28.987606}
+        - {x: -15.499998, y: 24.987606}
+        - {x: -15.499998, y: 6.987606}
+        - {x: -23.499998, y: -1.012394}
+        - {x: -23.499998, y: -11.012394}
+        - {x: -21.499998, y: -21.012394}
+        - {x: -7.499998, y: -29.012394}
+        - {x: 6.500002, y: -29.012394}
+        - {x: 23.500002, y: -19.012394}
+        - {x: 23.500002, y: 0.98760605}
+        - {x: 18.500002, y: 13.987606}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43129679b77d4c62bf4b297fc6489d40
+      internalID: 21300000
+      vertices:
+      - {x: 44.473248, y: 52.936283}
+      - {x: 48.473248, y: 5.936283}
+      - {x: 48.473248, y: 33.936283}
+      - {x: 37.473248, y: 53.936283}
+      - {x: 31.473248, y: -4.063717}
+      - {x: 10.473248, y: 53.936283}
+      - {x: 8.473248, y: -4.063717}
+      - {x: 1.4732475, y: 40.936283}
+      - {x: 1.4732475, y: 5.936283}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_Anticipation_Attack1_52x72_7
+      rect:
+        serializedVersion: 2
+        x: 53.026752
+        y: 144
+        width: 50.946495
+        height: 53.948685
+      alignment: 9
+      pivot: {x: 0.47055733, y: 0.64876467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -26.974342}
+        - {x: -25.5, y: -26.974342}
+        - {x: -25.5, y: 22.025658}
+        - {x: -17.5, y: 27.025658}
+        - {x: 22.5, y: 27.025658}
+        - {x: 25.5, y: 15.025658}
+        - {x: 25.5, y: -22.974342}
+      physicsShape:
+      - - {x: 13.5, y: 27.025658}
+        - {x: -10.5, y: 27.025658}
+        - {x: -19.5, y: 26.025658}
+        - {x: -25.5, y: 4.0256577}
+        - {x: -25.5, y: -14.974342}
+        - {x: -24.5, y: -16.974342}
+        - {x: -8.5, y: -26.974342}
+        - {x: 11.5, y: -26.974342}
+        - {x: 25.5, y: -16.974342}
+        - {x: 25.5, y: 3.0256577}
+        - {x: 15.5, y: 24.025658}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876ebc2bfe184ba9b358feaea0477027
+      internalID: 21300002
+      vertices:
+      - {x: 49.473248, y: 45.974342}
+      - {x: 52.473248, y: -4.0256577}
+      - {x: 52.473248, y: 33.974342}
+      - {x: 46.473248, y: -8.025658}
+      - {x: 9.473248, y: 45.974342}
+      - {x: 1.4732475, y: 40.974342}
+      - {x: 1.4732475, y: -8.025658}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_Anticipation_Attack1_52x72_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156.07613
+        width: 52
+        height: 59.92388
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.38254988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -30.038067}
+        - {x: -26, y: -30.038067}
+        - {x: -26, y: -5.038067}
+        - {x: -15, y: 29.961933}
+        - {x: 26, y: 29.961933}
+      physicsShape:
+      - - {x: 24, y: -30.038067}
+        - {x: 26, y: -21.038067}
+        - {x: 26, y: -7.038067}
+        - {x: 19, y: -2.0380669}
+        - {x: 19, y: 29.961933}
+        - {x: -15, y: 29.961933}
+        - {x: -19, y: 7.961933}
+        - {x: -24, y: -4.038067}
+        - {x: -26, y: -9.038067}
+        - {x: -26, y: -24.038067}
+        - {x: -22, y: -29.038067}
+        - {x: -19, y: -30.038067}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4d07b29f244e49830fb831bd609509
+      internalID: 21300004
+      vertices:
+      - {x: 12, y: 66.961945}
+      - {x: 53, y: 6.961941}
+      - {x: 53, y: 66.961945}
+      - {x: 1, y: 31.96194}
+      - {x: 1, y: 6.961941}
+      indices:
+      - 4
+      - 3
+      - 1
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_Anticipation_Attack1_52x72_8
+      rect:
+        serializedVersion: 2
+        x: 2.026751
+        y: 74.07612
+        width: 48.946495
+        height: 59.872566
+      alignment: 9
+      pivot: {x: 0.46935433, y: 0.5498993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.499998, y: -30.012402}
+        - {x: -24.499998, y: -29.012402}
+        - {x: -24.499998, y: 3.9875984}
+        - {x: -21.499998, y: 28.987598}
+        - {x: -16.499998, y: 29.987598}
+        - {x: 13.500002, y: 29.987598}
+        - {x: 21.500002, y: 14.987598}
+        - {x: 24.500002, y: 8.987598}
+        - {x: 24.500002, y: -19.012402}
+        - {x: 13.500002, y: -30.012402}
+      physicsShape:
+      - - {x: 18.500002, y: 13.987598}
+        - {x: 15.500002, y: 25.987598}
+        - {x: 10.500002, y: 29.987598}
+        - {x: -10.499998, y: 29.987598}
+        - {x: -15.499998, y: 25.987598}
+        - {x: -15.499998, y: 6.9875984}
+        - {x: -24.499998, y: -3.0124016}
+        - {x: -24.499998, y: -10.012402}
+        - {x: -22.499998, y: -23.012402}
+        - {x: -6.499998, y: -30.012402}
+        - {x: 9.500002, y: -30.012402}
+        - {x: 23.500002, y: -19.012402}
+        - {x: 24.500002, y: -18.012402}
+        - {x: 24.500002, y: -0.012401581}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed8c70d6d824ec3ac3334c4389710c8
+      internalID: 21300006
+      vertices:
+      - {x: 47.473248, y: 41.936283}
+      - {x: 50.473248, y: 7.936283}
+      - {x: 50.473248, y: 35.936283}
+      - {x: 39.473248, y: 56.936283}
+      - {x: 39.473248, y: -3.063717}
+      - {x: 9.473248, y: 56.936283}
+      - {x: 5.4732475, y: -3.063717}
+      - {x: 4.4732475, y: 55.936283}
+      - {x: 1.4732475, y: 30.936283}
+      - {x: 1.4732475, y: -2.063717}
+      indices:
+      - 9
+      - 8
+      - 6
+      - 7
+      - 6
+      - 8
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_Anticipation_Attack1_52x72_4
+      rect:
+        serializedVersion: 2
+        x: 1.0761205
+        y: 224.07613
+        width: 50.847755
+        height: 59.897133
+      alignment: 9
+      pivot: {x: 0.4705002, y: 0.44950187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.499998, y: -27.024693}
+        - {x: -25.499998, y: -19.024693}
+        - {x: -25.499998, y: -5.0246925}
+        - {x: -18.499998, y: 28.975307}
+        - {x: -12.499998, y: 29.975307}
+        - {x: 17.500002, y: 29.975307}
+        - {x: 19.500002, y: 27.975307}
+        - {x: 25.500002, y: 0.97530746}
+        - {x: 25.500002, y: -30.024693}
+        - {x: -16.499998, y: -30.024693}
+      physicsShape:
+      - - {x: 18.500002, y: 3.9753075}
+        - {x: 15.500002, y: 26.975307}
+        - {x: 11.500002, y: 29.975307}
+        - {x: -10.499998, y: 29.975307}
+        - {x: -15.499998, y: 25.975307}
+        - {x: -20.499998, y: 7.9753075}
+        - {x: -25.499998, y: -9.024693}
+        - {x: -25.499998, y: -19.024693}
+        - {x: -21.499998, y: -27.024693}
+        - {x: -7.499998, y: -30.024693}
+        - {x: 8.500002, y: -30.024693}
+        - {x: 24.500002, y: -26.024693}
+        - {x: 25.500002, y: -20.024693}
+        - {x: 25.500002, y: -5.0246925}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2a4190e14b46c4a8f60884cced0df1
+      internalID: 21300008
+      vertices:
+      - {x: 46.423878, y: 60.948566}
+      - {x: 52.423878, y: 2.9485664}
+      - {x: 52.423878, y: 33.948566}
+      - {x: 44.423878, y: 62.948566}
+      - {x: 14.423878, y: 62.948566}
+      - {x: 10.423878, y: 2.9485664}
+      - {x: 8.423878, y: 61.948566}
+      - {x: 5.4238777, y: 5.9485664}
+      - {x: 1.4238777, y: 27.948566}
+      - {x: 1.4238777, y: 13.948566}
+      indices:
+      - 9
+      - 8
+      - 7
+      - 6
+      - 7
+      - 8
+      - 5
+      - 7
+      - 6
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_Anticipation_Attack1_52x72_10
+      rect:
+        serializedVersion: 2
+        x: 3.026751
+        y: 2.0761204
+        width: 46.946495
+        height: 57.872566
+      alignment: 9
+      pivot: {x: 0.46804878, y: 0.5689031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.499998, y: -29.012402}
+        - {x: -23.499998, y: -19.012402}
+        - {x: -23.499998, y: 15.987598}
+        - {x: -14.499998, y: 28.987598}
+        - {x: 12.500002, y: 28.987598}
+        - {x: 19.500002, y: 27.987598}
+        - {x: 23.500002, y: 8.987598}
+        - {x: 23.500002, y: -19.012402}
+        - {x: 6.500002, y: -29.012402}
+      physicsShape:
+      - - {x: 19.500002, y: 27.987598}
+        - {x: 12.500002, y: 28.987598}
+        - {x: -13.499998, y: 28.987598}
+        - {x: -15.499998, y: 24.987598}
+        - {x: -15.499998, y: 6.9875984}
+        - {x: -23.499998, y: -1.0124016}
+        - {x: -23.499998, y: -11.012402}
+        - {x: -21.499998, y: -21.012402}
+        - {x: -7.499998, y: -29.012402}
+        - {x: 6.500002, y: -29.012402}
+        - {x: 23.500002, y: -19.012402}
+        - {x: 23.500002, y: 0.9875984}
+        - {x: 18.500002, y: 13.987598}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b3dc5da974e0eae704d0f198deeaf
+      internalID: 21300010
+      vertices:
+      - {x: 44.473248, y: 52.936283}
+      - {x: 48.473248, y: 5.936283}
+      - {x: 48.473248, y: 33.936283}
+      - {x: 37.473248, y: 53.936283}
+      - {x: 31.473248, y: -4.063717}
+      - {x: 10.473248, y: 53.936283}
+      - {x: 8.473248, y: -4.063717}
+      - {x: 1.4732475, y: 40.936283}
+      - {x: 1.4732475, y: 5.936283}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_Anticipation_Attack1_52x72_1
+      rect:
+        serializedVersion: 2
+        x: 55.026752
+        y: 362.0761
+        width: 46.946495
+        height: 57.872566
+      alignment: 9
+      pivot: {x: 0.46804872, y: 0.5689032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -29.012394}
+        - {x: -23.5, y: -19.012394}
+        - {x: -23.5, y: 15.987606}
+        - {x: -14.5, y: 28.987606}
+        - {x: 12.5, y: 28.987606}
+        - {x: 19.5, y: 27.987606}
+        - {x: 23.5, y: 8.987606}
+        - {x: 23.5, y: -19.012394}
+        - {x: 6.5, y: -29.012394}
+      physicsShape:
+      - - {x: 19.5, y: 27.987606}
+        - {x: 12.5, y: 28.987606}
+        - {x: -13.5, y: 28.987606}
+        - {x: -15.5, y: 24.987606}
+        - {x: -15.5, y: 6.987606}
+        - {x: -23.5, y: -1.012394}
+        - {x: -23.5, y: -11.012394}
+        - {x: -21.5, y: -21.012394}
+        - {x: -7.5, y: -29.012394}
+        - {x: 6.5, y: -29.012394}
+        - {x: 23.5, y: -19.012394}
+        - {x: 23.5, y: 0.98760605}
+        - {x: 18.5, y: 13.987606}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ada9132b104e6b9535f80b9a815b08
+      internalID: 21300012
+      vertices:
+      - {x: 44.473248, y: 52.936283}
+      - {x: 48.473248, y: 5.936283}
+      - {x: 48.473248, y: 33.936283}
+      - {x: 37.473248, y: 53.936283}
+      - {x: 31.473248, y: -4.063717}
+      - {x: 10.473248, y: 53.936283}
+      - {x: 8.473248, y: -4.063717}
+      - {x: 1.4732475, y: 40.936283}
+      - {x: 1.4732475, y: 5.936283}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_Anticipation_Attack1_52x72_5
+      rect:
+        serializedVersion: 2
+        x: 52.026752
+        y: 227.07613
+        width: 51.973248
+        height: 60.897133
+      alignment: 9
+      pivot: {x: 0.48050195, y: 0.39285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.013376, y: -30.524693}
+        - {x: -26.013376, y: -17.524693}
+        - {x: -26.013376, y: -4.5246925}
+        - {x: -18.013376, y: 29.475307}
+        - {x: -10.013376, y: 30.475307}
+        - {x: 13.986624, y: 30.475307}
+        - {x: 15.986624, y: 27.475307}
+        - {x: 20.986624, y: -5.5246925}
+        - {x: 25.986624, y: -9.524693}
+        - {x: 25.986624, y: -27.524693}
+        - {x: 24.986624, y: -30.524693}
+      physicsShape:
+      - - {x: 15.986624, y: 27.475307}
+        - {x: 11.986624, y: 30.475307}
+        - {x: -10.013376, y: 30.475307}
+        - {x: -16.013376, y: 27.475307}
+        - {x: -18.013376, y: 7.4753075}
+        - {x: -26.013376, y: -8.524693}
+        - {x: -26.013376, y: -17.524693}
+        - {x: -22.013376, y: -30.524693}
+        - {x: 24.986624, y: -30.524693}
+        - {x: 25.986624, y: -27.524693}
+        - {x: 25.986624, y: -9.524693}
+        - {x: 20.986624, y: -5.5246925}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c365955becb46fdbe062c38690f11a4
+      internalID: 21300014
+      vertices:
+      - {x: 52.986626, y: 27.448566}
+      - {x: 51.986626, y: 6.4485664}
+      - {x: 52.986626, y: 9.448566}
+      - {x: 47.986626, y: 31.448566}
+      - {x: 40.986626, y: 67.44856}
+      - {x: 42.986626, y: 64.44856}
+      - {x: 16.986624, y: 67.44856}
+      - {x: 8.986624, y: 66.44856}
+      - {x: 4.986624, y: 6.4485664}
+      - {x: 0.98662376, y: 32.448566}
+      - {x: 0.98662376, y: 19.448566}
+      indices:
+      - 10
+      - 9
+      - 8
+      - 7
+      - 8
+      - 9
+      - 1
+      - 8
+      - 7
+      - 6
+      - 1
+      - 7
+      - 4
+      - 1
+      - 6
+      - 3
+      - 1
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_Anticipation_Attack1_52x72_11
+      rect:
+        serializedVersion: 2
+        x: 55.026752
+        y: 2.0761204
+        width: 46.946495
+        height: 57.872566
+      alignment: 9
+      pivot: {x: 0.46804872, y: 0.5689031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -29.012402}
+        - {x: -23.5, y: -19.012402}
+        - {x: -23.5, y: 15.987598}
+        - {x: -14.5, y: 28.987598}
+        - {x: 12.5, y: 28.987598}
+        - {x: 19.5, y: 27.987598}
+        - {x: 23.5, y: 8.987598}
+        - {x: 23.5, y: -19.012402}
+        - {x: 6.5, y: -29.012402}
+      physicsShape:
+      - - {x: 19.5, y: 27.987598}
+        - {x: 12.5, y: 28.987598}
+        - {x: -13.5, y: 28.987598}
+        - {x: -15.5, y: 24.987598}
+        - {x: -15.5, y: 6.9875984}
+        - {x: -23.5, y: -1.0124016}
+        - {x: -23.5, y: -11.012402}
+        - {x: -21.5, y: -21.012402}
+        - {x: -7.5, y: -29.012402}
+        - {x: 6.5, y: -29.012402}
+        - {x: 23.5, y: -19.012402}
+        - {x: 23.5, y: 0.9875984}
+        - {x: 18.5, y: 13.987598}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3118e814ad643319b1299c04d6b0959
+      internalID: 21300016
+      vertices:
+      - {x: 44.473248, y: 52.936283}
+      - {x: 48.473248, y: 5.936283}
+      - {x: 48.473248, y: 33.936283}
+      - {x: 37.473248, y: 53.936283}
+      - {x: 31.473248, y: -4.063717}
+      - {x: 10.473248, y: 53.936283}
+      - {x: 8.473248, y: -4.063717}
+      - {x: 1.4732475, y: 40.936283}
+      - {x: 1.4732475, y: 5.936283}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_Anticipation_Attack1_52x72_9
+      rect:
+        serializedVersion: 2
+        x: 55.026752
+        y: 74.07612
+        width: 46.946495
+        height: 57.872566
+      alignment: 9
+      pivot: {x: 0.46804872, y: 0.5689031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -29.012402}
+        - {x: -23.5, y: -19.012402}
+        - {x: -23.5, y: 15.987598}
+        - {x: -14.5, y: 28.987598}
+        - {x: 12.5, y: 28.987598}
+        - {x: 19.5, y: 27.987598}
+        - {x: 23.5, y: 8.987598}
+        - {x: 23.5, y: -19.012402}
+        - {x: 6.5, y: -29.012402}
+      physicsShape:
+      - - {x: 19.5, y: 27.987598}
+        - {x: 12.5, y: 28.987598}
+        - {x: -13.5, y: 28.987598}
+        - {x: -15.5, y: 24.987598}
+        - {x: -15.5, y: 6.9875984}
+        - {x: -23.5, y: -1.0124016}
+        - {x: -23.5, y: -11.012402}
+        - {x: -21.5, y: -21.012402}
+        - {x: -7.5, y: -29.012402}
+        - {x: 6.5, y: -29.012402}
+        - {x: 23.5, y: -19.012402}
+        - {x: 23.5, y: 0.9875984}
+        - {x: 18.5, y: 13.987598}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5740007314504a97a4ad3c77b610a601
+      internalID: 21300018
+      vertices:
+      - {x: 44.473248, y: 52.936283}
+      - {x: 48.473248, y: 5.936283}
+      - {x: 48.473248, y: 33.936283}
+      - {x: 37.473248, y: 53.936283}
+      - {x: 31.473248, y: -4.063717}
+      - {x: 10.473248, y: 53.936283}
+      - {x: 8.473248, y: -4.063717}
+      - {x: 1.4732475, y: 40.936283}
+      - {x: 1.4732475, y: 5.936283}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_Anticipation_Attack1_52x72_3
+      rect:
+        serializedVersion: 2
+        x: 54.026752
+        y: 292.0761
+        width: 48.946495
+        height: 58.872566
+      alignment: 9
+      pivot: {x: 0.4693543, y: 0.52526826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -29.512392}
+        - {x: -24.5, y: -25.512392}
+        - {x: -24.5, y: 8.487608}
+        - {x: -21.5, y: 27.487608}
+        - {x: -18.5, y: 29.487608}
+        - {x: 24.5, y: 29.487608}
+        - {x: 24.5, y: -27.512392}
+        - {x: 15.5, y: -29.512392}
+      physicsShape:
+      - - {x: 15.5, y: 6.487608}
+        - {x: 15.5, y: 25.487608}
+        - {x: 10.5, y: 29.487608}
+        - {x: -10.5, y: 29.487608}
+        - {x: -15.5, y: 25.487608}
+        - {x: -15.5, y: 8.487608}
+        - {x: -24.5, y: -3.512392}
+        - {x: -24.5, y: -16.512392}
+        - {x: -23.5, y: -20.512392}
+        - {x: -7.5, y: -29.512392}
+        - {x: 10.5, y: -29.512392}
+        - {x: 24.5, y: -21.512392}
+        - {x: 24.5, y: -3.512392}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1faabb087c4d9382362cce62606163
+      internalID: 21300020
+      vertices:
+      - {x: 50.473248, y: 57.436283}
+      - {x: 41.473248, y: -1.5637169}
+      - {x: 50.473248, y: 0.4362831}
+      - {x: 11.473248, y: -1.5637169}
+      - {x: 7.4732475, y: 57.436283}
+      - {x: 4.4732475, y: 55.436283}
+      - {x: 1.4732475, y: 36.436283}
+      - {x: 1.4732475, y: 2.436283}
+      indices:
+      - 7
+      - 6
+      - 3
+      - 5
+      - 3
+      - 6
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic_Anticipation_Attack1_52x72_0
+      rect:
+        serializedVersion: 2
+        x: 3.026751
+        y: 362.0761
+        width: 46.946495
+        height: 57.872566
+      alignment: 9
+      pivot: {x: 0.46804878, y: 0.5689032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.499998, y: -29.012394}
+        - {x: -23.499998, y: -19.012394}
+        - {x: -23.499998, y: 15.987606}
+        - {x: -14.499998, y: 28.987606}
+        - {x: 12.500002, y: 28.987606}
+        - {x: 19.500002, y: 27.987606}
+        - {x: 23.500002, y: 8.987606}
+        - {x: 23.500002, y: -19.012394}
+        - {x: 6.500002, y: -29.012394}
+      physicsShape:
+      - - {x: 19.500002, y: 27.987606}
+        - {x: 12.500002, y: 28.987606}
+        - {x: -13.499998, y: 28.987606}
+        - {x: -15.499998, y: 24.987606}
+        - {x: -15.499998, y: 6.987606}
+        - {x: -23.499998, y: -1.012394}
+        - {x: -23.499998, y: -11.012394}
+        - {x: -21.499998, y: -21.012394}
+        - {x: -7.499998, y: -29.012394}
+        - {x: 6.500002, y: -29.012394}
+        - {x: 23.500002, y: -19.012394}
+        - {x: 23.500002, y: 0.98760605}
+        - {x: 18.500002, y: 13.987606}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975a79e0fe5c400fb47137420e0a9d59
+      internalID: 21300022
+      vertices:
+      - {x: 44.473248, y: 52.936283}
+      - {x: 48.473248, y: 5.936283}
+      - {x: 48.473248, y: 33.936283}
+      - {x: 37.473248, y: 53.936283}
+      - {x: 31.473248, y: -4.063717}
+      - {x: 10.473248, y: 53.936283}
+      - {x: 8.473248, y: -4.063717}
+      - {x: 1.4732475, y: 40.936283}
+      - {x: 1.4732475, y: 5.936283}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

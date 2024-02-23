@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: e03d84b775586f045acc5d5e2a886417
+timeCreated: 1706119827
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Boss_Idle_MiddleEye32x34_5
+  - first:
+      213: 21300002
+    second: Boss_Idle_MiddleEye32x34_1
+  - first:
+      213: 21300004
+    second: Boss_Idle_MiddleEye32x34_4
+  - first:
+      213: 21300006
+    second: Boss_Idle_MiddleEye32x34_2
+  - first:
+      213: 21300008
+    second: Boss_Idle_MiddleEye32x34_0
+  - first:
+      213: 21300010
+    second: Boss_Idle_MiddleEye32x34_3
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Idle_MiddleEye32x34_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0.026750982
+        width: 31.97325
+        height: 32.946495
+      alignment: 9
+      pivot: {x: 0.5004183, y: 0.5151762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.986626, y: -16.499998}
+        - {x: -15.986626, y: -8.499998}
+        - {x: -15.986626, y: 10.500002}
+        - {x: -11.986626, y: 16.500002}
+        - {x: 7.0133743, y: 16.500002}
+        - {x: 16.013374, y: 11.500002}
+        - {x: 16.013374, y: -12.499998}
+        - {x: 6.0133743, y: -16.499998}
+      physicsShape:
+      - - {x: -11.986626, y: 16.500002}
+        - {x: -15.986626, y: 10.500002}
+        - {x: -15.986626, y: -8.499998}
+        - {x: -9.986626, y: -16.499998}
+        - {x: 6.0133743, y: -16.499998}
+        - {x: 16.013374, y: -12.499998}
+        - {x: 16.013374, y: 11.500002}
+        - {x: 7.0133743, y: 16.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce34a98888634354be4fb83e4e5f89d5
+      internalID: 21300000
+      vertices:
+      - {x: 22.986626, y: 32.473248}
+      - {x: 31.986626, y: 3.4732475}
+      - {x: 31.986626, y: 27.473248}
+      - {x: 21.986626, y: -0.5267525}
+      - {x: 5.9866247, y: -0.5267525}
+      - {x: 3.9866247, y: 32.473248}
+      - {x: -0.013375282, y: 26.473248}
+      - {x: -0.013375282, y: 7.4732475}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Idle_MiddleEye32x34_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0.026750982
+        width: 31.97325
+        height: 32.946495
+      alignment: 9
+      pivot: {x: 0.5004183, y: 0.5151762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.986626, y: -16.499998}
+        - {x: -15.986626, y: -8.499998}
+        - {x: -15.986626, y: 10.500002}
+        - {x: -11.986626, y: 16.500002}
+        - {x: 7.0133743, y: 16.500002}
+        - {x: 16.013374, y: 11.500002}
+        - {x: 16.013374, y: -12.499998}
+        - {x: 6.0133743, y: -16.499998}
+      physicsShape:
+      - - {x: -11.986626, y: 16.500002}
+        - {x: -15.986626, y: 10.500002}
+        - {x: -15.986626, y: -8.499998}
+        - {x: -9.986626, y: -16.499998}
+        - {x: 6.0133743, y: -16.499998}
+        - {x: 16.013374, y: -12.499998}
+        - {x: 16.013374, y: 11.500002}
+        - {x: 7.0133743, y: 16.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc16a86af8642b5b371bef2d8c422f1
+      internalID: 21300002
+      vertices:
+      - {x: 22.986626, y: 32.473248}
+      - {x: 31.986626, y: 3.4732475}
+      - {x: 31.986626, y: 27.473248}
+      - {x: 21.986626, y: -0.5267525}
+      - {x: 5.9866247, y: -0.5267525}
+      - {x: 3.9866247, y: 32.473248}
+      - {x: -0.013375282, y: 26.473248}
+      - {x: -0.013375282, y: 7.4732475}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Idle_MiddleEye32x34_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0.026750982
+        width: 31.97325
+        height: 32.946495
+      alignment: 9
+      pivot: {x: 0.5004183, y: 0.5151762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.986626, y: -16.499998}
+        - {x: -15.986626, y: -8.499998}
+        - {x: -15.986626, y: 10.500002}
+        - {x: -11.986626, y: 16.500002}
+        - {x: 7.0133743, y: 16.500002}
+        - {x: 16.013374, y: 11.500002}
+        - {x: 16.013374, y: -12.499998}
+        - {x: 6.0133743, y: -16.499998}
+      physicsShape:
+      - - {x: -11.986626, y: 16.500002}
+        - {x: -15.986626, y: 10.500002}
+        - {x: -15.986626, y: -8.499998}
+        - {x: -9.986626, y: -16.499998}
+        - {x: 6.0133743, y: -16.499998}
+        - {x: 16.013374, y: -12.499998}
+        - {x: 16.013374, y: 11.500002}
+        - {x: 7.0133743, y: 16.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74a24831f064194b57525f46af8f609
+      internalID: 21300004
+      vertices:
+      - {x: 22.986626, y: 32.473248}
+      - {x: 31.986626, y: 3.4732475}
+      - {x: 31.986626, y: 27.473248}
+      - {x: 21.986626, y: -0.5267525}
+      - {x: 5.9866247, y: -0.5267525}
+      - {x: 3.9866247, y: 32.473248}
+      - {x: -0.013375282, y: 26.473248}
+      - {x: -0.013375282, y: 7.4732475}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Idle_MiddleEye32x34_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0.026750982
+        width: 31.97325
+        height: 32.946495
+      alignment: 9
+      pivot: {x: 0.5004183, y: 0.5151762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.986626, y: -16.499998}
+        - {x: -15.986626, y: -8.499998}
+        - {x: -15.986626, y: 10.500002}
+        - {x: -11.986626, y: 16.500002}
+        - {x: 7.0133743, y: 16.500002}
+        - {x: 16.013374, y: 11.500002}
+        - {x: 16.013374, y: -12.499998}
+        - {x: 6.0133743, y: -16.499998}
+      physicsShape:
+      - - {x: -11.986626, y: 16.500002}
+        - {x: -15.986626, y: 10.500002}
+        - {x: -15.986626, y: -8.499998}
+        - {x: -9.986626, y: -16.499998}
+        - {x: 6.0133743, y: -16.499998}
+        - {x: 16.013374, y: -12.499998}
+        - {x: 16.013374, y: 11.500002}
+        - {x: 7.0133743, y: 16.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4c7f49e7514b1a89c52880687e1251
+      internalID: 21300006
+      vertices:
+      - {x: 22.986626, y: 32.473248}
+      - {x: 31.986626, y: 3.4732475}
+      - {x: 31.986626, y: 27.473248}
+      - {x: 21.986626, y: -0.5267525}
+      - {x: 5.9866247, y: -0.5267525}
+      - {x: 3.9866247, y: 32.473248}
+      - {x: -0.013375282, y: 26.473248}
+      - {x: -0.013375282, y: 7.4732475}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Idle_MiddleEye32x34_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.026750982
+        width: 31.97325
+        height: 32.946495
+      alignment: 9
+      pivot: {x: 0.5004183, y: 0.5151762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.986626, y: -16.499998}
+        - {x: -15.986626, y: -8.499998}
+        - {x: -15.986626, y: 10.500002}
+        - {x: -11.986626, y: 16.500002}
+        - {x: 7.0133743, y: 16.500002}
+        - {x: 16.013374, y: 11.500002}
+        - {x: 16.013374, y: -12.499998}
+        - {x: 6.0133743, y: -16.499998}
+      physicsShape:
+      - - {x: -11.986626, y: 16.500002}
+        - {x: -15.986626, y: 10.500002}
+        - {x: -15.986626, y: -8.499998}
+        - {x: -9.986626, y: -16.499998}
+        - {x: 6.0133743, y: -16.499998}
+        - {x: 16.013374, y: -12.499998}
+        - {x: 16.013374, y: 11.500002}
+        - {x: 7.0133743, y: 16.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7106b4809d47728c6ca55bf60f4dad
+      internalID: 21300008
+      vertices:
+      - {x: 22.986626, y: 32.473248}
+      - {x: 31.986626, y: 3.4732475}
+      - {x: 31.986626, y: 27.473248}
+      - {x: 21.986626, y: -0.5267525}
+      - {x: 5.9866247, y: -0.5267525}
+      - {x: 3.9866247, y: 32.473248}
+      - {x: -0.013375282, y: 26.473248}
+      - {x: -0.013375282, y: 7.4732475}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Idle_MiddleEye32x34_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0.026750982
+        width: 31.97325
+        height: 32.946495
+      alignment: 9
+      pivot: {x: 0.5004183, y: 0.5151762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.986626, y: -16.499998}
+        - {x: -15.986626, y: -8.499998}
+        - {x: -15.986626, y: 10.500002}
+        - {x: -11.986626, y: 16.500002}
+        - {x: 7.0133743, y: 16.500002}
+        - {x: 16.013374, y: 11.500002}
+        - {x: 16.013374, y: -12.499998}
+        - {x: 6.0133743, y: -16.499998}
+      physicsShape:
+      - - {x: -11.986626, y: 16.500002}
+        - {x: -15.986626, y: 10.500002}
+        - {x: -15.986626, y: -8.499998}
+        - {x: -9.986626, y: -16.499998}
+        - {x: 6.0133743, y: -16.499998}
+        - {x: 16.013374, y: -12.499998}
+        - {x: 16.013374, y: 11.500002}
+        - {x: 7.0133743, y: 16.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3afc6547f934171a432c07aa0e1d513
+      internalID: 21300010
+      vertices:
+      - {x: 22.986626, y: 32.473248}
+      - {x: 31.986626, y: 3.4732475}
+      - {x: 31.986626, y: 27.473248}
+      - {x: 21.986626, y: -0.5267525}
+      - {x: 5.9866247, y: -0.5267525}
+      - {x: 3.9866247, y: 32.473248}
+      - {x: -0.013375282, y: 26.473248}
+      - {x: -0.013375282, y: 7.4732475}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: 9535ae3411b24574dbc3362d214268c3
+timeCreated: 1706119830
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TrapSpikeNew38x34_1
+  - first:
+      213: 21300002
+    second: TrapSpikeNew38x34_2
+  - first:
+      213: 21300004
+    second: TrapSpikeNew38x34_6
+  - first:
+      213: 21300006
+    second: TrapSpikeNew38x34_0
+  - first:
+      213: 21300008
+    second: TrapSpikeNew38x34_3
+  - first:
+      213: 21300010
+    second: TrapSpikeNew38x34_5
+  - first:
+      213: 21300012
+    second: TrapSpikeNew38x34_4
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TrapSpikeNew38x34_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 38
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -17}
+        - {x: -19, y: -12}
+        - {x: -19, y: 9}
+        - {x: -7, y: 17}
+        - {x: 14, y: 17}
+        - {x: 19, y: 12}
+        - {x: 19, y: -4}
+        - {x: 18, y: -16}
+        - {x: 15, y: -17}
+      physicsShape:
+      - - {x: 14, y: 17}
+        - {x: 9, y: 17}
+        - {x: 8, y: 15}
+        - {x: 3, y: 12}
+        - {x: 2, y: 17}
+        - {x: -6, y: 17}
+        - {x: -19, y: 4}
+        - {x: -19, y: -5}
+        - {x: -9, y: -17}
+        - {x: 10, y: -17}
+        - {x: 14, y: -14}
+        - {x: 19, y: 2}
+        - {x: 19, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e864d812eb4661a2fc88acbdf8ebfa
+      internalID: 21300000
+      vertices:
+      - {x: 38, y: 29}
+      - {x: 37, y: 1}
+      - {x: 38, y: 13}
+      - {x: 34, y: 0}
+      - {x: 33, y: 34}
+      - {x: 12, y: 34}
+      - {x: 3, y: 0}
+      - {x: 0, y: 26}
+      - {x: 0, y: 5}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSpikeNew38x34_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 37.963715
+        height: 30.92388
+      alignment: 9
+      pivot: {x: 0.5004779, y: 0.549737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.9818573, y: 13.53806}
+        - {x: -5.9818573, y: 13.53806}
+        - {x: -3.9818573, y: 15.53806}
+        - {x: 2.0181427, y: 15.53806}
+        - {x: 2.0181427, y: 14.53806}
+        - {x: 19.018143, y: 13.53806}
+        - {x: 14.018143, y: 3.5380602}
+        - {x: 13.018143, y: 2.5380602}
+        - {x: 15.018143, y: 3.5380602}
+        - {x: 17.018143, y: 3.5380602}
+        - {x: 19.018143, y: 2.5380602}
+        - {x: 19.018143, y: -0.4619398}
+        - {x: 14.018143, y: -12.46194}
+        - {x: 13.018143, y: -15.46194}
+        - {x: -15.981857, y: -15.46194}
+        - {x: -18.981857, y: -14.46194}
+        - {x: -18.981857, y: 1.5380602}
+      physicsShape:
+      - - {x: 17.018143, y: 3.5380602}
+        - {x: 15.018143, y: 3.5380602}
+        - {x: 13.018143, y: 2.5380602}
+        - {x: 14.018143, y: 3.5380602}
+        - {x: 19.018143, y: 13.53806}
+        - {x: -7.9818573, y: 13.53806}
+        - {x: -18.981857, y: 1.5380602}
+        - {x: -18.981857, y: -14.46194}
+        - {x: -15.981857, y: -15.46194}
+        - {x: 13.018143, y: -15.46194}
+        - {x: 14.018143, y: -12.46194}
+        - {x: 19.018143, y: -0.4619398}
+        - {x: 19.018143, y: 2.5380602}
+      - - {x: -5.9818573, y: 13.53806}
+        - {x: -5.9818573, y: 11.53806}
+        - {x: -3.9818573, y: 9.53806}
+        - {x: -0.9818573, y: 9.53806}
+        - {x: 3.0181427, y: 12.53806}
+        - {x: 2.0181427, y: 15.53806}
+        - {x: -3.9818573, y: 15.53806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecf3b57f512447aba996980d699caff
+      internalID: 21300002
+      vertices:
+      - {x: 20.981857, y: 28.46194}
+      - {x: 20.981857, y: 29.46194}
+      - {x: 14.981857, y: 29.46194}
+      - {x: 37.981857, y: 27.46194}
+      - {x: 31.981857, y: 16.46194}
+      - {x: 32.981857, y: 17.46194}
+      - {x: 21.981857, y: 26.46194}
+      - {x: 31.981857, y: -1.5380602}
+      - {x: 35.981857, y: 17.46194}
+      - {x: 37.981857, y: 13.46194}
+      - {x: 37.981857, y: 16.46194}
+      - {x: 33.981857, y: 17.46194}
+      - {x: 32.981857, y: 1.4619398}
+      - {x: 17.981857, y: 23.46194}
+      - {x: 14.981857, y: 23.46194}
+      - {x: 12.981857, y: 25.46194}
+      - {x: 10.981857, y: 27.46194}
+      - {x: 2.9818573, y: -1.5380602}
+      - {x: -0.0181427, y: 15.46194}
+      - {x: -0.0181427, y: -0.5380602}
+      - {x: 12.981857, y: 27.46194}
+      indices:
+      - 15
+      - 16
+      - 20
+      - 15
+      - 20
+      - 14
+      - 2
+      - 14
+      - 20
+      - 13
+      - 14
+      - 2
+      - 0
+      - 13
+      - 2
+      - 6
+      - 13
+      - 0
+      - 19
+      - 18
+      - 17
+      - 16
+      - 17
+      - 18
+      - 7
+      - 17
+      - 16
+      - 15
+      - 7
+      - 16
+      - 14
+      - 7
+      - 15
+      - 13
+      - 7
+      - 14
+      - 6
+      - 7
+      - 13
+      - 7
+      - 4
+      - 12
+      - 11
+      - 12
+      - 4
+      - 9
+      - 12
+      - 11
+      - 8
+      - 9
+      - 11
+      - 10
+      - 9
+      - 8
+      - 0
+      - 3
+      - 6
+      - 4
+      - 6
+      - 3
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSpikeNew38x34_6
+      rect:
+        serializedVersion: 2
+        x: 233.05132
+        y: 0
+        width: 27.890478
+        height: 25.92388
+      alignment: 9
+      pivot: {x: 0.50012356, y: 0.65576607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.996553, y: -12.96194}
+        - {x: -13.996553, y: -7.96194}
+        - {x: -13.996553, y: 8.03806}
+        - {x: -8.996553, y: 13.03806}
+        - {x: 14.003447, y: 13.03806}
+        - {x: 14.003447, y: -10.96194}
+        - {x: 10.003447, y: -12.96194}
+      physicsShape:
+      - - {x: -8.996553, y: 13.03806}
+        - {x: -13.996553, y: 8.03806}
+        - {x: -13.996553, y: -7.96194}
+        - {x: -10.996553, y: -12.96194}
+        - {x: 10.003447, y: -12.96194}
+        - {x: 14.003447, y: -10.96194}
+        - {x: 14.003447, y: 13.03806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048beee0f27b4460afe6fee21b148bb4
+      internalID: 21300004
+      vertices:
+      - {x: 27.94524, y: 21.96194}
+      - {x: 23.94524, y: -4.03806}
+      - {x: 27.94524, y: -2.0380602}
+      - {x: 4.945239, y: 21.96194}
+      - {x: 2.945239, y: -4.03806}
+      - {x: -0.054760933, y: 16.96194}
+      - {x: -0.054760933, y: 0.9619398}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSpikeNew38x34_0
+      rect:
+        serializedVersion: 2
+        x: 5.026751
+        y: 0
+        width: 27.897127
+        height: 22.92388
+      alignment: 9
+      pivot: {x: 0.5008849, y: 0.7415848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.024686, y: -11.46194}
+        - {x: -13.975314, y: -11.46194}
+        - {x: -13.975314, y: 7.53806}
+        - {x: -12.975314, y: 11.53806}
+        - {x: 10.024686, y: 11.53806}
+        - {x: 14.024686, y: 7.53806}
+      physicsShape:
+      - - {x: -12.975314, y: 11.53806}
+        - {x: -13.975314, y: 7.53806}
+        - {x: -13.975314, y: -11.46194}
+        - {x: 14.024686, y: -11.46194}
+        - {x: 14.024686, y: 7.53806}
+        - {x: 10.024686, y: 11.53806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d680854b890b49f99eb9a919ce0d24c8
+      internalID: 21300006
+      vertices:
+      - {x: 23.948563, y: 17.46194}
+      - {x: 27.948563, y: -5.53806}
+      - {x: 27.948563, y: 13.46194}
+      - {x: 0.9485636, y: 17.46194}
+      - {x: -0.051436424, y: 13.46194}
+      - {x: -0.051436424, y: -5.53806}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSpikeNew38x34_3
+      rect:
+        serializedVersion: 2
+        x: 114.01291
+        y: 0
+        width: 37.974174
+        height: 29.97325
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.5671724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.999996, y: -3.9866247}
+        - {x: -18.999996, y: -0.9866247}
+        - {x: -16.999996, y: 1.0133753}
+        - {x: -13.999996, y: 0.013375282}
+        - {x: -13.999996, y: 5.0133753}
+        - {x: -5.999996, y: 15.013375}
+        - {x: 7.000004, y: 15.013375}
+        - {x: 19.000004, y: 12.013375}
+        - {x: 19.000004, y: -6.9866247}
+        - {x: 10.000004, y: -14.986625}
+        - {x: -9.999996, y: -14.986625}
+        - {x: -13.999996, y: -9.986625}
+        - {x: -13.999996, y: -2.9866247}
+      physicsShape:
+      - - {x: 19.000004, y: 11.013375}
+        - {x: 9.000004, y: 13.013375}
+        - {x: 4.000004, y: 12.013375}
+        - {x: -0.9999962, y: 15.013375}
+        - {x: -3.9999962, y: 15.013375}
+        - {x: -5.999996, y: 14.013375}
+        - {x: -13.999996, y: 5.0133753}
+        - {x: -13.999996, y: -9.986625}
+        - {x: -9.999996, y: -14.986625}
+        - {x: 10.000004, y: -14.986625}
+        - {x: 19.000004, y: -6.9866247}
+        - {x: 19.000004, y: 0.013375282}
+        - {x: 16.000004, y: 3.0133753}
+      - - {x: -16.999996, y: -3.9866247}
+        - {x: -13.999996, y: -2.9866247}
+        - {x: -13.999996, y: 0.013375282}
+        - {x: -16.999996, y: 1.0133753}
+        - {x: -18.999996, y: -0.9866247}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9175e1d16d3643a39a95d0836a5f65e1
+      internalID: 21300008
+      vertices:
+      - {x: 37.987087, y: 24.986626}
+      - {x: 28.987087, y: -2.0133753}
+      - {x: 37.987087, y: 5.9866247}
+      - {x: 25.987087, y: 27.986626}
+      - {x: 12.987087, y: 27.986626}
+      - {x: 8.987087, y: -2.0133753}
+      - {x: 4.9870872, y: 17.986626}
+      - {x: 4.9870872, y: 12.986625}
+      - {x: 4.9870872, y: 9.986625}
+      - {x: 4.9870872, y: 2.9866247}
+      - {x: 1.9870872, y: 13.986625}
+      - {x: 1.9870872, y: 8.986625}
+      - {x: -0.01291275, y: 11.986625}
+      indices:
+      - 12
+      - 10
+      - 11
+      - 8
+      - 11
+      - 10
+      - 7
+      - 8
+      - 10
+      - 9
+      - 8
+      - 5
+      - 7
+      - 5
+      - 8
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSpikeNew38x34_5
+      rect:
+        serializedVersion: 2
+        x: 195.05132
+        y: 0
+        width: 32.948685
+        height: 25.97325
+      alignment: 9
+      pivot: {x: 0.4233457, y: 0.65451956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.474342, y: -4.9866247}
+        - {x: 12.474342, y: -1.9866247}
+        - {x: 14.474342, y: 0.013375282}
+        - {x: 16.474342, y: -0.9866247}
+        - {x: 16.474342, y: -3.9866247}
+      - - {x: -12.525658, y: -12.986625}
+        - {x: -16.525658, y: -8.986625}
+        - {x: -16.525658, y: 8.013375}
+        - {x: -8.525658, y: 13.013375}
+        - {x: 11.474342, y: 13.013375}
+        - {x: 11.474342, y: -8.986625}
+        - {x: 7.4743423, y: -12.986625}
+      physicsShape:
+      - - {x: -8.525658, y: 13.013375}
+        - {x: -16.525658, y: 8.013375}
+        - {x: -16.525658, y: -8.986625}
+        - {x: -12.525658, y: -12.986625}
+        - {x: 7.4743423, y: -12.986625}
+        - {x: 11.474342, y: -8.986625}
+        - {x: 11.474342, y: 13.013375}
+      - - {x: 12.474342, y: -1.9866247}
+        - {x: 14.474342, y: -4.9866247}
+        - {x: 16.474342, y: -3.9866247}
+        - {x: 16.474342, y: -0.9866247}
+        - {x: 14.474342, y: 0.013375282}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9755db5f2094ee18ccf1cbf0a797d07
+      internalID: 21300010
+      vertices:
+      - {x: 30.474342, y: 21.986626}
+      - {x: 26.474342, y: -4.0133753}
+      - {x: 30.474342, y: -0.013375282}
+      - {x: 10.474342, y: 21.986626}
+      - {x: 6.4743423, y: -4.0133753}
+      - {x: 2.4743423, y: 16.986626}
+      - {x: 2.4743423, y: -0.013375282}
+      - {x: 33.474342, y: 8.986625}
+      - {x: 35.474342, y: 4.9866247}
+      - {x: 35.474342, y: 7.9866247}
+      - {x: 33.474342, y: 3.9866247}
+      - {x: 31.474342, y: 6.9866247}
+      indices:
+      - 11
+      - 7
+      - 10
+      - 8
+      - 10
+      - 7
+      - 9
+      - 8
+      - 7
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSpikeNew38x34_4
+      rect:
+        serializedVersion: 2
+        x: 152.01291
+        y: 0
+        width: 37.837738
+        height: 27.92388
+      alignment: 9
+      pivot: {x: 0.50180304, y: 0.6087979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.931778, y: -3.9619398}
+        - {x: -18.931778, y: -0.9619398}
+        - {x: -16.931778, y: 1.0380602}
+        - {x: -13.931778, y: 0.03806019}
+        - {x: -13.931778, y: 8.03806}
+        - {x: -6.931778, y: 14.03806}
+        - {x: 18.068222, y: 14.03806}
+        - {x: 18.068222, y: -0.9619398}
+        - {x: 19.068222, y: -0.9619398}
+        - {x: 19.068222, y: -3.9619398}
+        - {x: 17.068222, y: -4.96194}
+        - {x: 15.068222, y: -10.96194}
+        - {x: 10.068222, y: -13.96194}
+        - {x: -11.931778, y: -13.96194}
+        - {x: -13.931778, y: -10.96194}
+        - {x: -13.931778, y: -2.9619398}
+      physicsShape:
+      - - {x: 9.068222, y: 13.03806}
+        - {x: 6.068222, y: 14.03806}
+        - {x: -5.931778, y: 14.03806}
+        - {x: -7.931778, y: 13.03806}
+        - {x: -13.931778, y: 4.03806}
+        - {x: -13.931778, y: -8.96194}
+        - {x: -8.931778, y: -13.96194}
+        - {x: 10.068222, y: -13.96194}
+        - {x: 15.068222, y: -10.96194}
+        - {x: 18.068222, y: 2.0380602}
+        - {x: 18.068222, y: 12.03806}
+      - - {x: 16.068222, y: -4.96194}
+        - {x: 19.068222, y: -3.9619398}
+        - {x: 19.068222, y: -0.9619398}
+        - {x: 16.068222, y: 0.03806019}
+        - {x: 14.068222, y: -1.9619398}
+      - - {x: -16.931778, y: -3.9619398}
+        - {x: -13.931778, y: -2.9619398}
+        - {x: -13.931778, y: 0.03806019}
+        - {x: -16.931778, y: 1.0380602}
+        - {x: -18.931778, y: -0.9619398}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504cc7981ec042059c89bd4a4455f023
+      internalID: 21300012
+      vertices:
+      - {x: 34.91887, y: 5.96194}
+      - {x: 33.91887, y: -0.03806019}
+      - {x: 35.91887, y: 5.96194}
+      - {x: 32.91887, y: 8.96194}
+      - {x: 28.918869, y: -3.0380602}
+      - {x: 36.91887, y: 9.96194}
+      - {x: 36.91887, y: 9.96194}
+      - {x: 34.91887, y: 10.96194}
+      - {x: 36.91887, y: 24.96194}
+      - {x: 11.918869, y: 24.96194}
+      - {x: 6.918869, y: -3.0380602}
+      - {x: 4.918869, y: 18.96194}
+      - {x: 4.918869, y: 10.96194}
+      - {x: 4.918869, y: 7.96194}
+      - {x: 4.918869, y: -0.03806019}
+      - {x: 37.91887, y: 6.96194}
+      - {x: 37.91887, y: 9.96194}
+      - {x: 1.918869, y: 11.96194}
+      - {x: 1.918869, y: 6.96194}
+      - {x: -0.08113098, y: 9.96194}
+      indices:
+      - 19
+      - 17
+      - 18
+      - 13
+      - 18
+      - 17
+      - 12
+      - 13
+      - 17
+      - 2
+      - 6
+      - 15
+      - 5
+      - 15
+      - 6
+      - 16
+      - 15
+      - 5
+      - 14
+      - 13
+      - 10
+      - 12
+      - 10
+      - 13
+      - 11
+      - 10
+      - 12
+      - 9
+      - 10
+      - 11
+      - 4
+      - 10
+      - 9
+      - 8
+      - 4
+      - 9
+      - 3
+      - 4
+      - 8
+      - 7
+      - 3
+      - 8
+      - 5
+      - 7
+      - 8
+      - 3
+      - 7
+      - 0
+      - 2
+      - 0
+      - 7
+      - 5
+      - 2
+      - 7
+      - 6
+      - 2
+      - 5
+      - 4
+      - 3
+      - 1
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: e02c6a3a283b4c9a5ed896340cede9f6.bundle
+  assetBundleVariant:

@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 231bc253e7603fb4497fe1eead1b54a7
+timeCreated: 1706119835
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Enemy_ChameleonSign_Idle40x44_3
+  - first:
+      213: 21300002
+    second: Enemy_ChameleonSign_Idle40x44_2
+  - first:
+      213: 21300004
+    second: Enemy_ChameleonSign_Idle40x44_0
+  - first:
+      213: 21300006
+    second: Enemy_ChameleonSign_Idle40x44_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_ChameleonSign_Idle40x44_3
+      rect:
+        serializedVersion: 2
+        x: 129.07613
+        y: 1.0761205
+        width: 26.847757
+        height: 23.84776
+      alignment: 9
+      pivot: {x: 0.40688217, y: -0.045124594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.500005, y: -12}
+        - {x: -13.500005, y: -9}
+        - {x: -13.500005, y: 8}
+        - {x: -12.500005, y: 12}
+        - {x: 7.499995, y: 12}
+        - {x: 13.499995, y: 8}
+        - {x: 13.499995, y: -10}
+        - {x: 7.499995, y: -12}
+      physicsShape:
+      - - {x: -12.500005, y: 12}
+        - {x: -13.500005, y: 8}
+        - {x: -13.500005, y: -9}
+        - {x: -10.500005, y: -12}
+        - {x: 7.499995, y: -12}
+        - {x: 13.499995, y: -10}
+        - {x: 13.499995, y: 8}
+        - {x: 7.499995, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbd1a9175f94bd7887da31415ace254
+      internalID: 21300000
+      vertices:
+      - {x: 23.423878, y: 36.92388}
+      - {x: 29.423878, y: 14.92388}
+      - {x: 29.423878, y: 32.92388}
+      - {x: 23.423878, y: 12.92388}
+      - {x: 5.4238787, y: 12.92388}
+      - {x: 3.4238787, y: 36.92388}
+      - {x: 2.4238787, y: 32.92388}
+      - {x: 2.4238787, y: 15.92388}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_ChameleonSign_Idle40x44_2
+      rect:
+        serializedVersion: 2
+        x: 89.07612
+        y: 1.0761205
+        width: 26.847757
+        height: 22.84776
+      alignment: 9
+      pivot: {x: 0.40688246, y: -0.04709961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.499997, y: -11.5}
+        - {x: -13.499997, y: -8.5}
+        - {x: -13.499997, y: 11.5}
+        - {x: 13.500003, y: 11.5}
+        - {x: 13.500003, y: -8.5}
+        - {x: 7.500003, y: -11.5}
+      physicsShape:
+      - - {x: -10.499997, y: -11.5}
+        - {x: 7.500003, y: -11.5}
+        - {x: 13.500003, y: -8.5}
+        - {x: 13.500003, y: 11.5}
+        - {x: -13.499997, y: 11.5}
+        - {x: -13.499997, y: -8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea88e2e880c741a9a3a2f0f5267d752e
+      internalID: 21300002
+      vertices:
+      - {x: 29.423878, y: 35.42388}
+      - {x: 23.423878, y: 12.42388}
+      - {x: 29.423878, y: 15.42388}
+      - {x: 5.4238787, y: 12.42388}
+      - {x: 2.4238787, y: 35.42388}
+      - {x: 2.4238787, y: 15.42388}
+      indices:
+      - 5
+      - 4
+      - 3
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_ChameleonSign_Idle40x44_0
+      rect:
+        serializedVersion: 2
+        x: 9.07612
+        y: 1.0761205
+        width: 26.847757
+        height: 24.84776
+      alignment: 9
+      pivot: {x: 0.40688238, y: -0.043308552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.499999, y: -12.5}
+        - {x: -13.499999, y: -8.5}
+        - {x: -13.499999, y: 11.5}
+        - {x: -10.499999, y: 12.5}
+        - {x: 11.500001, y: 12.5}
+        - {x: 13.500001, y: 10.5}
+        - {x: 13.500001, y: -5.5}
+        - {x: 12.500001, y: -10.5}
+        - {x: 7.500001, y: -12.5}
+      physicsShape:
+      - - {x: -10.499999, y: 12.5}
+        - {x: -13.499999, y: 11.5}
+        - {x: -13.499999, y: -8.5}
+        - {x: -9.499999, y: -12.5}
+        - {x: 7.500001, y: -12.5}
+        - {x: 12.500001, y: -10.5}
+        - {x: 13.500001, y: -5.5}
+        - {x: 13.500001, y: 10.5}
+        - {x: 11.500001, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f87fb6b7ce4771b204ba7c96525ebe
+      internalID: 21300004
+      vertices:
+      - {x: 29.423878, y: 36.42388}
+      - {x: 28.423878, y: 15.42388}
+      - {x: 29.423878, y: 20.42388}
+      - {x: 27.423878, y: 38.42388}
+      - {x: 23.423878, y: 13.42388}
+      - {x: 6.4238787, y: 13.42388}
+      - {x: 5.4238787, y: 38.42388}
+      - {x: 2.4238787, y: 37.42388}
+      - {x: 2.4238787, y: 17.42388}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 3
+      - 5
+      - 6
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_ChameleonSign_Idle40x44_1
+      rect:
+        serializedVersion: 2
+        x: 49.07612
+        y: 1.0761205
+        width: 26.847757
+        height: 23.84776
+      alignment: 9
+      pivot: {x: 0.40688246, y: -0.045124594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.499997, y: -12}
+        - {x: -13.499997, y: -9}
+        - {x: -13.499997, y: 8}
+        - {x: -12.499997, y: 12}
+        - {x: 7.500003, y: 12}
+        - {x: 13.500003, y: 8}
+        - {x: 13.500003, y: -10}
+        - {x: 7.500003, y: -12}
+      physicsShape:
+      - - {x: -12.499997, y: 12}
+        - {x: -13.499997, y: 8}
+        - {x: -13.499997, y: -9}
+        - {x: -10.499997, y: -12}
+        - {x: 7.500003, y: -12}
+        - {x: 13.500003, y: -10}
+        - {x: 13.500003, y: 8}
+        - {x: 7.500003, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3fa1ccb82344faaa354cc990c12984
+      internalID: 21300006
+      vertices:
+      - {x: 23.423878, y: 36.92388}
+      - {x: 29.423878, y: 14.92388}
+      - {x: 29.423878, y: 32.92388}
+      - {x: 23.423878, y: 12.92388}
+      - {x: 5.4238787, y: 12.92388}
+      - {x: 3.4238787, y: 36.92388}
+      - {x: 2.4238787, y: 32.92388}
+      - {x: 2.4238787, y: 15.92388}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 92e93950253a5ac0bd683582de1675e3.bundle
+  assetBundleVariant:

@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 83e423c9def68c949816f587a1725f99
+timeCreated: 1706119846
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: sprites_explosionsmoke_1
+  - first:
+      213: 21300002
+    second: sprites_explosionsmoke_2
+  - first:
+      213: 21300004
+    second: sprites_explosionsmoke_0
+  - first:
+      213: 21300006
+    second: sprites_explosionsmoke_3
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprites_explosionsmoke_1
+      rect:
+        serializedVersion: 2
+        x: 66.05637
+        y: 0.076120496
+        width: 59.867508
+        height: 62.897125
+      alignment: 9
+      pivot: {x: 0.5001649, y: 0.50755703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.990126, y: -31.524685}
+        - {x: -29.990126, y: -19.524685}
+        - {x: -29.990126, y: 29.475315}
+        - {x: -27.990126, y: 31.475315}
+        - {x: 30.009874, y: 31.475315}
+        - {x: 30.009874, y: -25.524685}
+        - {x: 26.009874, y: -31.524685}
+      physicsShape:
+      - - {x: 28.009874, y: 17.475315}
+        - {x: 24.009874, y: 25.475315}
+        - {x: 16.009874, y: 31.475315}
+        - {x: -6.9901257, y: 31.475315}
+        - {x: -16.990126, y: 28.475315}
+        - {x: -28.990126, y: 18.475315}
+        - {x: -29.990126, y: 12.475315}
+        - {x: -29.990126, y: -11.524685}
+        - {x: -24.990126, y: -21.524685}
+        - {x: -17.990126, y: -28.524685}
+        - {x: -4.9901257, y: -31.524685}
+        - {x: 10.009874, y: -31.524685}
+        - {x: 22.009874, y: -27.524685}
+        - {x: 30.009874, y: -19.524685}
+        - {x: 30.009874, y: -1.5246849}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa0786abc6b471aa504429204a7f9fe
+      internalID: 21300000
+      vertices:
+      - {x: 59.933754, y: 62.448563}
+      - {x: 55.933754, y: -0.5514374}
+      - {x: 59.933754, y: 5.4485626}
+      - {x: 6.933754, y: -0.5514374}
+      - {x: 1.933754, y: 62.448563}
+      - {x: -0.06624603, y: 60.448563}
+      - {x: -0.06624603, y: 11.448563}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_explosionsmoke_2
+      rect:
+        serializedVersion: 2
+        x: 143.07613
+        y: 16.07612
+        width: 32.847755
+        height: 31.847757
+      alignment: 9
+      pivot: {x: 0.5152216, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.500004, y: -15.999998}
+        - {x: -16.500004, y: -7.999998}
+        - {x: -16.500004, y: 9.000002}
+        - {x: -7.500004, y: 16.000002}
+        - {x: 13.499996, y: 16.000002}
+        - {x: 16.499996, y: 10.000002}
+        - {x: 16.499996, y: -10.999998}
+        - {x: 8.499996, y: -15.999998}
+      physicsShape:
+      - - {x: -7.500004, y: 16.000002}
+        - {x: -16.500004, y: 9.000002}
+        - {x: -16.500004, y: -7.999998}
+        - {x: -4.500004, y: -15.999998}
+        - {x: 8.499996, y: -15.999998}
+        - {x: 16.499996, y: -10.999998}
+        - {x: 16.499996, y: 10.000002}
+        - {x: 13.499996, y: 16.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfd040080804acab5c19eedde895dde
+      internalID: 21300002
+      vertices:
+      - {x: 29.423878, y: 31.923878}
+      - {x: 32.423878, y: 4.9238787}
+      - {x: 32.423878, y: 25.923878}
+      - {x: 24.423878, y: -0.07612133}
+      - {x: 11.423878, y: -0.07612133}
+      - {x: 8.423878, y: 31.923878}
+      - {x: -0.5761223, y: 24.923878}
+      - {x: -0.5761223, y: 7.9238787}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_explosionsmoke_0
+      rect:
+        serializedVersion: 2
+        x: 5.0761204
+        y: 4.026751
+        width: 54.847755
+        height: 54.897125
+      alignment: 9
+      pivot: {x: 0.4908839, y: 0.50955766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.499998, y: -27.475311}
+        - {x: -27.499998, y: -15.475311}
+        - {x: -27.499998, y: 22.524689}
+        - {x: -16.499998, y: 27.524689}
+        - {x: 25.500002, y: 27.524689}
+        - {x: 27.500002, y: 25.524689}
+        - {x: 27.500002, y: -19.475311}
+        - {x: 25.500002, y: -27.475311}
+      physicsShape:
+      - - {x: 18.500002, y: 21.524689}
+        - {x: 11.500002, y: 27.524689}
+        - {x: -12.499998, y: 27.524689}
+        - {x: -26.499998, y: 11.524689}
+        - {x: -27.499998, y: -1.4753113}
+        - {x: -27.499998, y: -11.475311}
+        - {x: -25.499998, y: -18.475311}
+        - {x: -11.499998, y: -27.475311}
+        - {x: 4.500002, y: -27.475311}
+        - {x: 18.500002, y: -23.475311}
+        - {x: 27.500002, y: -12.475311}
+        - {x: 27.500002, y: 12.524689}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30db44bc89bc45e1aa216ef6cde8ec1a
+      internalID: 21300004
+      vertices:
+      - {x: 53.423878, y: 54.448563}
+      - {x: 55.423878, y: 7.4485626}
+      - {x: 55.423878, y: 52.448563}
+      - {x: 53.423878, y: -0.5514374}
+      - {x: 11.423878, y: 54.448563}
+      - {x: 9.423878, y: -0.5514374}
+      - {x: 0.42387772, y: 49.448563}
+      - {x: 0.42387772, y: 11.448563}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_explosionsmoke_3
+      rect:
+        serializedVersion: 2
+        x: 216.07613
+        y: 23.02675
+        width: 16.847757
+        height: 16.925547
+      alignment: 9
+      pivot: {x: 0.47032216, y: 0.53016007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5000052, y: -8.489524}
+        - {x: -8.500006, y: -4.489524}
+        - {x: -8.500006, y: 2.510476}
+        - {x: -4.5000052, y: 8.510476}
+        - {x: 4.4999948, y: 8.510476}
+        - {x: 8.499994, y: 1.5104761}
+        - {x: 8.499994, y: -4.489524}
+        - {x: 4.4999948, y: -8.489524}
+      physicsShape:
+      - - {x: -4.5000052, y: 8.510476}
+        - {x: -8.500006, y: 2.510476}
+        - {x: -8.500006, y: -4.489524}
+        - {x: -1.5000052, y: -8.489524}
+        - {x: 4.4999948, y: -8.489524}
+        - {x: 8.499994, y: -4.489524}
+        - {x: 8.499994, y: 1.5104761}
+        - {x: 4.4999948, y: 8.510476}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30a6fee758440dfaea310565b60fcbe
+      internalID: 21300006
+      vertices:
+      - {x: 13.423879, y: 16.462772}
+      - {x: 17.423878, y: 3.4627733}
+      - {x: 17.423878, y: 9.462773}
+      - {x: 13.423879, y: -0.5372267}
+      - {x: 7.4238787, y: -0.5372267}
+      - {x: 4.4238787, y: 16.462772}
+      - {x: 0.42387867, y: 10.462773}
+      - {x: 0.42387867, y: 3.4627733}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

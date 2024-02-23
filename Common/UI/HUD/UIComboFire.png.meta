@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: d97e5f1232aa55a44a20dd0eb885097f
+timeCreated: 1706119847
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UIComboFire_2
+  - first:
+      213: 21300002
+    second: UIComboFire_0
+  - first:
+      213: 21300004
+    second: UIComboFire_3
+  - first:
+      213: 21300006
+    second: UIComboFire_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UIComboFire_2
+      rect:
+        serializedVersion: 2
+        x: 64.04771
+        y: 1.0563717
+        width: 27.925545
+        height: 30.885996
+      alignment: 9
+      pivot: {x: 0.57124376, y: 0.48383185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.010479, y: -15.49937}
+        - {x: -14.010479, y: -7.4993696}
+        - {x: -14.010479, y: 9.50063}
+        - {x: -9.010479, y: 15.50063}
+        - {x: 12.989521, y: 15.50063}
+        - {x: 13.989521, y: 5.5006304}
+        - {x: 13.989521, y: -9.49937}
+        - {x: 12.989521, y: -12.49937}
+        - {x: 5.989521, y: -15.49937}
+      physicsShape:
+      - - {x: -9.010479, y: 15.50063}
+        - {x: -14.010479, y: 9.50063}
+        - {x: -14.010479, y: -7.4993696}
+        - {x: -11.010479, y: -15.49937}
+        - {x: 5.989521, y: -15.49937}
+        - {x: 12.989521, y: -12.49937}
+        - {x: 13.989521, y: -9.49937}
+        - {x: 13.989521, y: 5.5006304}
+        - {x: 12.989521, y: 15.50063}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83174040a7f441948fa4c9b131098fac
+      internalID: 21300000
+      vertices:
+      - {x: 24.962772, y: 31.442997}
+      - {x: 25.962772, y: 6.442998}
+      - {x: 25.962772, y: 21.442997}
+      - {x: 24.962772, y: 3.442998}
+      - {x: 17.962772, y: 0.44299793}
+      - {x: 2.9627724, y: 31.442997}
+      - {x: 0.96277237, y: 0.44299793}
+      - {x: -2.0372276, y: 25.442997}
+      - {x: -2.0372276, y: 8.442998}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIComboFire_0
+      rect:
+        serializedVersion: 2
+        x: 0.012912571
+        y: 1.0761205
+        width: 27.950802
+        height: 30.92388
+      alignment: 9
+      pivot: {x: 0.5719724, y: 0.4826005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.988313, y: -15.53806}
+        - {x: -13.988313, y: -11.53806}
+        - {x: -13.988313, y: 4.46194}
+        - {x: -8.988313, y: 15.46194}
+        - {x: 8.011687, y: 15.46194}
+        - {x: 14.011687, y: 5.46194}
+        - {x: 14.011687, y: -10.53806}
+        - {x: 13.011687, y: -11.53806}
+        - {x: 5.0116873, y: -15.53806}
+      physicsShape:
+      - - {x: -8.988313, y: 15.46194}
+        - {x: -13.988313, y: 4.46194}
+        - {x: -13.988313, y: -11.53806}
+        - {x: -8.988313, y: -15.53806}
+        - {x: 5.0116873, y: -15.53806}
+        - {x: 13.011687, y: -11.53806}
+        - {x: 14.011687, y: -10.53806}
+        - {x: 14.011687, y: 5.46194}
+        - {x: 8.011687, y: 15.46194}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcc254195df40daa0721c2dae31be0e
+      internalID: 21300002
+      vertices:
+      - {x: 25.9754, y: 21.46194}
+      - {x: 24.9754, y: 4.46194}
+      - {x: 25.9754, y: 5.46194}
+      - {x: 19.9754, y: 31.46194}
+      - {x: 16.9754, y: 0.4619398}
+      - {x: 2.975401, y: 31.46194}
+      - {x: 2.975401, y: 0.4619398}
+      - {x: -2.024599, y: 20.46194}
+      - {x: -2.024599, y: 4.46194}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIComboFire_3
+      rect:
+        serializedVersion: 2
+        x: 96.01291
+        y: 1.042908
+        width: 26.960337
+        height: 29.880972
+      alignment: 9
+      pivot: {x: 0.5929856, y: 0.50055575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.4930773, y: -13.983394}
+        - {x: -13.493077, y: -8.983394}
+        - {x: -13.493077, y: 5.0166063}
+        - {x: -11.493077, y: 13.016606}
+        - {x: -5.4930773, y: 15.016606}
+        - {x: 8.506923, y: 15.016606}
+        - {x: 13.506923, y: 2.0166063}
+        - {x: 13.506923, y: -6.9833937}
+        - {x: 5.5069227, y: -14.983394}
+        - {x: -3.4930773, y: -14.983394}
+      physicsShape:
+      - - {x: 8.506923, y: 15.016606}
+        - {x: -5.4930773, y: 15.016606}
+        - {x: -11.493077, y: 13.016606}
+        - {x: -13.493077, y: 5.0166063}
+        - {x: -13.493077, y: -8.983394}
+        - {x: -6.4930773, y: -13.983394}
+        - {x: -3.4930773, y: -14.983394}
+        - {x: 5.5069227, y: -14.983394}
+        - {x: 13.506923, y: -6.9833937}
+        - {x: 13.506923, y: 2.0166063}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635e033e92264bcf858086fabb3ddbf6
+      internalID: 21300004
+      vertices:
+      - {x: 19.480167, y: 29.940487}
+      - {x: 24.480167, y: 7.940486}
+      - {x: 24.480167, y: 16.940487}
+      - {x: 16.480167, y: -0.059514046}
+      - {x: 7.4801683, y: -0.059514046}
+      - {x: 5.4801683, y: 29.940487}
+      - {x: 4.4801683, y: 0.94048595}
+      - {x: -0.51983166, y: 27.940487}
+      - {x: -2.5198317, y: 19.940487}
+      - {x: -2.5198317, y: 5.940486}
+      indices:
+      - 9
+      - 8
+      - 6
+      - 7
+      - 6
+      - 8
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIComboFire_1
+      rect:
+        serializedVersion: 2
+        x: 32.042908
+        y: 1.0477045
+        width: 27.928625
+        height: 29.91601
+      alignment: 9
+      pivot: {x: 0.5713526, y: 0.49980915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.0072203, y: -14.00571}
+        - {x: -14.00722, y: -9.00571}
+        - {x: -14.00722, y: 5.9942904}
+        - {x: -12.00722, y: 12.99429}
+        - {x: -9.00722, y: 14.99429}
+        - {x: 4.9927797, y: 14.99429}
+        - {x: 13.99278, y: 6.9942904}
+        - {x: 13.99278, y: -5.0057096}
+        - {x: 12.99278, y: -6.0057096}
+        - {x: 6.9927797, y: -15.00571}
+        - {x: -1.0072203, y: -15.00571}
+      physicsShape:
+      - - {x: 4.9927797, y: 14.99429}
+        - {x: -9.00722, y: 14.99429}
+        - {x: -12.00722, y: 12.99429}
+        - {x: -14.00722, y: 5.9942904}
+        - {x: -14.00722, y: -9.00571}
+        - {x: -7.0072203, y: -14.00571}
+        - {x: -1.0072203, y: -15.00571}
+        - {x: 6.9927797, y: -15.00571}
+        - {x: 12.99278, y: -6.0057096}
+        - {x: 13.99278, y: -5.0057096}
+        - {x: 13.99278, y: 6.9942904}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f95349295447f6b1ca16e62ce450c5
+      internalID: 21300006
+      vertices:
+      - {x: 25.964314, y: 21.958004}
+      - {x: 24.964314, y: 8.958005}
+      - {x: 25.964314, y: 9.958005}
+      - {x: 18.964314, y: -0.04199505}
+      - {x: 16.964314, y: 29.958004}
+      - {x: 10.964313, y: -0.04199505}
+      - {x: 4.9643126, y: 0.95800495}
+      - {x: 2.9643126, y: 29.958004}
+      - {x: -0.035687447, y: 27.958004}
+      - {x: -2.0356874, y: 20.958004}
+      - {x: -2.0356874, y: 5.958005}
+      indices:
+      - 10
+      - 9
+      - 6
+      - 8
+      - 6
+      - 9
+      - 7
+      - 6
+      - 8
+      - 4
+      - 6
+      - 7
+      - 5
+      - 6
+      - 4
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

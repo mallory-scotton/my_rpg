@@ -1,0 +1,761 @@
+fileFormatVersion: 2
+guid: b3b39da96cf56024ebc7642aa82ce7ce
+timeCreated: 1706119825
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Boss_Summon28x22_3
+  - first:
+      213: 21300002
+    second: Boss_Summon28x22_8
+  - first:
+      213: 21300004
+    second: Boss_Summon28x22_1
+  - first:
+      213: 21300006
+    second: Boss_Summon28x22_6
+  - first:
+      213: 21300008
+    second: Boss_Summon28x22_9
+  - first:
+      213: 21300010
+    second: Boss_Summon28x22_0
+  - first:
+      213: 21300012
+    second: Boss_Summon28x22_11
+  - first:
+      213: 21300014
+    second: Boss_Summon28x22_12
+  - first:
+      213: 21300016
+    second: Boss_Summon28x22_5
+  - first:
+      213: 21300018
+    second: Boss_Summon28x22_4
+  - first:
+      213: 21300020
+    second: Boss_Summon28x22_10
+  - first:
+      213: 21300022
+    second: Boss_Summon28x22_13
+  - first:
+      213: 21300024
+    second: Boss_Summon28x22_7
+  - first:
+      213: 21300026
+    second: Boss_Summon28x22_2
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Summon28x22_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 110
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -11}
+        - {x: -14, y: 11}
+        - {x: 14, y: 11}
+        - {x: 14, y: -11}
+      physicsShape:
+      - - {x: -14, y: -8}
+        - {x: -12, y: -11}
+        - {x: 8, y: -11}
+        - {x: 8, y: 2}
+        - {x: 7, y: 4}
+        - {x: 3, y: 5}
+        - {x: -11, y: 5}
+        - {x: -14, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eb21d54f61470e8d0d7a5e7d468187
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 33}
+      - {x: 28, y: 33}
+      - {x: 0, y: 11}
+      - {x: 28, y: 11}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Summon28x22_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -11}
+        - {x: -14, y: 11}
+        - {x: 14, y: 11}
+        - {x: 14, y: -11}
+      physicsShape:
+      - - {x: -2, y: 9}
+        - {x: -6, y: 7}
+        - {x: -6, y: -11}
+        - {x: 9, y: -11}
+        - {x: 11, y: -3}
+        - {x: 11, y: 6}
+        - {x: 6, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0584ee5dacc24bb7bec4ceccbc892194
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 33}
+      - {x: 28, y: 33}
+      - {x: 0, y: 11}
+      - {x: 28, y: 11}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Summon28x22_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 132
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -11}
+        - {x: -14, y: 11}
+        - {x: 14, y: 11}
+        - {x: 14, y: -11}
+      physicsShape:
+      - - {x: 2, y: 11}
+        - {x: -11, y: 11}
+        - {x: -13, y: 8}
+        - {x: -14, y: 5}
+        - {x: -14, y: 0}
+        - {x: -6, y: -11}
+        - {x: 7, y: -11}
+        - {x: 9, y: -9}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b893414a52a48b491ff1c5c89d2aa39
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 33}
+      - {x: 28, y: 33}
+      - {x: 0, y: 11}
+      - {x: 28, y: 11}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Summon28x22_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -11}
+        - {x: -14, y: 11}
+        - {x: 14, y: 11}
+        - {x: 14, y: -11}
+      physicsShape:
+      - - {x: 1, y: 9}
+        - {x: -4, y: 6}
+        - {x: -4, y: -11}
+        - {x: 10, y: -11}
+        - {x: 14, y: -3}
+        - {x: 14, y: 7}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebfaf6756f44e558b5e5917e5c374b6
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 33}
+      - {x: 28, y: 33}
+      - {x: 0, y: 11}
+      - {x: 28, y: 11}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Summon28x22_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 44
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -11}
+        - {x: -14, y: 11}
+        - {x: 14, y: 11}
+        - {x: 14, y: -11}
+      physicsShape:
+      - - {x: 0, y: 9}
+        - {x: -5, y: 8}
+        - {x: -5, y: -11}
+        - {x: 10, y: -11}
+        - {x: 13, y: -3}
+        - {x: 13, y: 8}
+        - {x: 11, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dcd5deb3584850bfdf32eece5b5518
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 33}
+      - {x: 28, y: 33}
+      - {x: 0, y: 11}
+      - {x: 28, y: 11}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Summon28x22_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -11}
+        - {x: -14, y: 11}
+        - {x: 14, y: 11}
+        - {x: 14, y: -11}
+      physicsShape:
+      - - {x: -3, y: -4}
+        - {x: -6, y: -7}
+        - {x: -7, y: -11}
+        - {x: 10, y: -11}
+        - {x: 10, y: -7}
+        - {x: 5, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986350ba756e42adb4d7d1ef513a085b
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 33}
+      - {x: 28, y: 33}
+      - {x: 0, y: 11}
+      - {x: 28, y: 11}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Summon28x22_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 22
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -11}
+        - {x: -14, y: 11}
+        - {x: 14, y: 11}
+        - {x: 14, y: -11}
+      physicsShape:
+      - - {x: 0, y: 9}
+        - {x: -5, y: 8}
+        - {x: -5, y: -11}
+        - {x: 10, y: -11}
+        - {x: 13, y: -3}
+        - {x: 13, y: 8}
+        - {x: 11, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a7ca42919b4ad9b593bb8e5a4685a1
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 33}
+      - {x: 28, y: 33}
+      - {x: 0, y: 11}
+      - {x: 28, y: 11}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Summon28x22_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -11}
+        - {x: -14, y: 11}
+        - {x: 14, y: 11}
+        - {x: 14, y: -11}
+      physicsShape:
+      - - {x: 0, y: 9}
+        - {x: -5, y: 8}
+        - {x: -5, y: -11}
+        - {x: 10, y: -11}
+        - {x: 13, y: -3}
+        - {x: 13, y: 8}
+        - {x: 11, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b029f864af344e6ca1af0901ad516377
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 33}
+      - {x: 28, y: 33}
+      - {x: 0, y: 11}
+      - {x: 28, y: 11}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Summon28x22_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 88
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -11}
+        - {x: -14, y: 11}
+        - {x: 14, y: 11}
+        - {x: 14, y: -11}
+      physicsShape:
+      - - {x: 4, y: 9}
+        - {x: -7, y: 9}
+        - {x: -9, y: 4}
+        - {x: -9, y: -4}
+        - {x: -5, y: -11}
+        - {x: 7, y: -11}
+        - {x: 8, y: -10}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0403b5964d4f7f900f987b116cde60
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 33}
+      - {x: 28, y: 33}
+      - {x: 0, y: 11}
+      - {x: 28, y: 11}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Summon28x22_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -11}
+        - {x: -14, y: 11}
+        - {x: 14, y: 11}
+        - {x: 14, y: -11}
+      physicsShape:
+      - - {x: -13, y: -4}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 8, y: -1}
+        - {x: 6, y: 6}
+        - {x: 4, y: 8}
+        - {x: -8, y: 8}
+        - {x: -13, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21e6450610d4183af43c96f8b15943a
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 33}
+      - {x: 28, y: 33}
+      - {x: 0, y: 11}
+      - {x: 28, y: 11}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Summon28x22_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -11}
+        - {x: -14, y: 11}
+        - {x: 14, y: 11}
+        - {x: 14, y: -11}
+      physicsShape:
+      - - {x: 0, y: 9}
+        - {x: -5, y: 8}
+        - {x: -5, y: -11}
+        - {x: 10, y: -11}
+        - {x: 13, y: -3}
+        - {x: 13, y: 8}
+        - {x: 11, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532582fdc2914561985379a1dd85c133
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 33}
+      - {x: 28, y: 33}
+      - {x: 0, y: 11}
+      - {x: 28, y: 11}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Summon28x22_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -11}
+        - {x: -14, y: 11}
+        - {x: 14, y: 11}
+        - {x: 14, y: -11}
+      physicsShape:
+      - - {x: 0, y: 9}
+        - {x: -5, y: 8}
+        - {x: -5, y: -11}
+        - {x: 10, y: -11}
+        - {x: 13, y: -3}
+        - {x: 13, y: 8}
+        - {x: 11, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffaed024d7545588fb080bb1b26682f
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 33}
+      - {x: 28, y: 33}
+      - {x: 0, y: 11}
+      - {x: 28, y: 11}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Summon28x22_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 66
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -11}
+        - {x: -14, y: 11}
+        - {x: 14, y: 11}
+        - {x: 14, y: -11}
+      physicsShape:
+      - - {x: 2, y: 9}
+        - {x: -3, y: 6}
+        - {x: -4, y: -7}
+        - {x: -4, y: -11}
+        - {x: 11, y: -11}
+        - {x: 14, y: -5}
+        - {x: 14, y: 7}
+        - {x: 10, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4b28bd13fa470f8d109bee2c04e826
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 33}
+      - {x: 28, y: 33}
+      - {x: 0, y: 11}
+      - {x: 28, y: 11}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Summon28x22_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -11}
+        - {x: -14, y: 11}
+        - {x: 14, y: 11}
+        - {x: 14, y: -11}
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -14, y: 3}
+        - {x: -14, y: -6}
+        - {x: -7, y: -11}
+        - {x: 8, y: -11}
+        - {x: 8, y: 4}
+        - {x: 4, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c045467dc04b4bb3b0ad526e85f6a797
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 33}
+      - {x: 28, y: 33}
+      - {x: 0, y: 11}
+      - {x: 28, y: 11}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

@@ -1,0 +1,1086 @@
+fileFormatVersion: 2
+guid: e1bc96a8c6b3b1e4d8f53846a9ff4693
+timeCreated: 1706119846
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Minigames_SpoonIdle150x46_8
+  - first:
+      213: 21300002
+    second: Minigames_SpoonIdle150x46_4
+  - first:
+      213: 21300004
+    second: Minigames_SpoonIdle150x46_7
+  - first:
+      213: 21300006
+    second: Minigames_SpoonIdle150x46_0
+  - first:
+      213: 21300008
+    second: Minigames_SpoonIdle150x46_2
+  - first:
+      213: 21300010
+    second: Minigames_SpoonIdle150x46_11
+  - first:
+      213: 21300012
+    second: Minigames_SpoonIdle150x46_5
+  - first:
+      213: 21300014
+    second: Minigames_SpoonIdle150x46_9
+  - first:
+      213: 21300016
+    second: Minigames_SpoonIdle150x46_10
+  - first:
+      213: 21300018
+    second: Minigames_SpoonIdle150x46_1
+  - first:
+      213: 21300020
+    second: Minigames_SpoonIdle150x46_3
+  - first:
+      213: 21300022
+    second: Minigames_SpoonIdle150x46_6
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minigames_SpoonIdle150x46_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -23}
+        - {x: -75, y: -14}
+        - {x: -75, y: 19}
+        - {x: -74, y: 20}
+        - {x: -36, y: 23}
+        - {x: 75, y: 23}
+        - {x: 75, y: 0}
+        - {x: 74, y: -5}
+        - {x: -11, y: -23}
+      physicsShape:
+      - - {x: 75, y: 3}
+        - {x: 75, y: 21}
+        - {x: 73, y: 23}
+        - {x: 45, y: 23}
+        - {x: -19, y: 12}
+        - {x: -29, y: 18}
+        - {x: -37, y: 19}
+        - {x: -51, y: 20}
+        - {x: -71, y: 14}
+        - {x: -75, y: 10}
+        - {x: -75, y: -14}
+        - {x: -68, y: -20}
+        - {x: -62, y: -23}
+        - {x: -27, y: -23}
+        - {x: -16, y: -13}
+        - {x: 60, y: -3}
+        - {x: 72, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421569cf50294572ab806b5c994828cc
+      internalID: 21300000
+      vertices:
+      - {x: 150, y: 46}
+      - {x: 149, y: 18}
+      - {x: 150, y: 23}
+      - {x: 64, y: 0}
+      - {x: 39, y: 46}
+      - {x: 4, y: 0}
+      - {x: 1, y: 43}
+      - {x: 0, y: 42}
+      - {x: 0, y: 9}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigames_SpoonIdle150x46_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 150
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -23}
+        - {x: -75, y: -14}
+        - {x: -75, y: 19}
+        - {x: -74, y: 20}
+        - {x: -36, y: 23}
+        - {x: 75, y: 23}
+        - {x: 75, y: 0}
+        - {x: 74, y: -5}
+        - {x: -11, y: -23}
+      physicsShape:
+      - - {x: 75, y: 3}
+        - {x: 75, y: 21}
+        - {x: 73, y: 23}
+        - {x: 45, y: 23}
+        - {x: -19, y: 12}
+        - {x: -29, y: 18}
+        - {x: -37, y: 19}
+        - {x: -51, y: 20}
+        - {x: -71, y: 14}
+        - {x: -75, y: 10}
+        - {x: -75, y: -14}
+        - {x: -68, y: -20}
+        - {x: -62, y: -23}
+        - {x: -27, y: -23}
+        - {x: -16, y: -13}
+        - {x: 60, y: -3}
+        - {x: 72, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d276456e6d24258976889838101a6c8
+      internalID: 21300002
+      vertices:
+      - {x: 150, y: 46}
+      - {x: 149, y: 18}
+      - {x: 150, y: 23}
+      - {x: 64, y: 0}
+      - {x: 39, y: 46}
+      - {x: 4, y: 0}
+      - {x: 1, y: 43}
+      - {x: 0, y: 42}
+      - {x: 0, y: 9}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigames_SpoonIdle150x46_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 46
+        width: 150
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -23}
+        - {x: -75, y: -14}
+        - {x: -75, y: 19}
+        - {x: -74, y: 20}
+        - {x: -36, y: 23}
+        - {x: 75, y: 23}
+        - {x: 75, y: 0}
+        - {x: 74, y: -5}
+        - {x: -11, y: -23}
+      physicsShape:
+      - - {x: 75, y: 3}
+        - {x: 75, y: 21}
+        - {x: 73, y: 23}
+        - {x: 45, y: 23}
+        - {x: -19, y: 12}
+        - {x: -29, y: 18}
+        - {x: -37, y: 19}
+        - {x: -51, y: 20}
+        - {x: -71, y: 14}
+        - {x: -75, y: 10}
+        - {x: -75, y: -14}
+        - {x: -68, y: -20}
+        - {x: -62, y: -23}
+        - {x: -27, y: -23}
+        - {x: -16, y: -13}
+        - {x: 60, y: -3}
+        - {x: 72, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb9311812d24264b8c12433c0581a2e
+      internalID: 21300004
+      vertices:
+      - {x: 150, y: 46}
+      - {x: 149, y: 18}
+      - {x: 150, y: 23}
+      - {x: 64, y: 0}
+      - {x: 39, y: 46}
+      - {x: 4, y: 0}
+      - {x: 1, y: 43}
+      - {x: 0, y: 42}
+      - {x: 0, y: 9}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigames_SpoonIdle150x46_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 150
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -23}
+        - {x: -75, y: -14}
+        - {x: -75, y: 19}
+        - {x: -74, y: 20}
+        - {x: -36, y: 23}
+        - {x: 75, y: 23}
+        - {x: 75, y: 0}
+        - {x: 74, y: -5}
+        - {x: -11, y: -23}
+      physicsShape:
+      - - {x: 75, y: 3}
+        - {x: 75, y: 21}
+        - {x: 73, y: 23}
+        - {x: 45, y: 23}
+        - {x: -19, y: 12}
+        - {x: -29, y: 18}
+        - {x: -37, y: 19}
+        - {x: -51, y: 20}
+        - {x: -71, y: 14}
+        - {x: -75, y: 10}
+        - {x: -75, y: -14}
+        - {x: -68, y: -20}
+        - {x: -62, y: -23}
+        - {x: -27, y: -23}
+        - {x: -16, y: -13}
+        - {x: 60, y: -3}
+        - {x: 72, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd513b22e93f42eb93a26c9dc4fe98cd
+      internalID: 21300006
+      vertices:
+      - {x: 150, y: 46}
+      - {x: 149, y: 18}
+      - {x: 150, y: 23}
+      - {x: 64, y: 0}
+      - {x: 39, y: 46}
+      - {x: 4, y: 0}
+      - {x: 1, y: 43}
+      - {x: 0, y: 42}
+      - {x: 0, y: 9}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigames_SpoonIdle150x46_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 92
+        width: 150
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -23}
+        - {x: -75, y: -14}
+        - {x: -75, y: 19}
+        - {x: -74, y: 20}
+        - {x: -36, y: 23}
+        - {x: 75, y: 23}
+        - {x: 75, y: 0}
+        - {x: 74, y: -5}
+        - {x: -11, y: -23}
+      physicsShape:
+      - - {x: 75, y: 3}
+        - {x: 75, y: 21}
+        - {x: 73, y: 23}
+        - {x: 45, y: 23}
+        - {x: -19, y: 12}
+        - {x: -29, y: 18}
+        - {x: -37, y: 19}
+        - {x: -51, y: 20}
+        - {x: -71, y: 14}
+        - {x: -75, y: 10}
+        - {x: -75, y: -14}
+        - {x: -68, y: -20}
+        - {x: -62, y: -23}
+        - {x: -27, y: -23}
+        - {x: -16, y: -13}
+        - {x: 60, y: -3}
+        - {x: 72, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d804510258914831ae58a632a5ef0b41
+      internalID: 21300008
+      vertices:
+      - {x: 150, y: 46}
+      - {x: 149, y: 18}
+      - {x: 150, y: 23}
+      - {x: 64, y: 0}
+      - {x: 39, y: 46}
+      - {x: 4, y: 0}
+      - {x: 1, y: 43}
+      - {x: 0, y: 42}
+      - {x: 0, y: 9}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigames_SpoonIdle150x46_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 150
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -23}
+        - {x: -75, y: -14}
+        - {x: -75, y: 19}
+        - {x: -74, y: 20}
+        - {x: -36, y: 23}
+        - {x: 75, y: 23}
+        - {x: 75, y: 0}
+        - {x: 74, y: -5}
+        - {x: -11, y: -23}
+      physicsShape:
+      - - {x: 75, y: 3}
+        - {x: 75, y: 21}
+        - {x: 73, y: 23}
+        - {x: 45, y: 23}
+        - {x: -19, y: 12}
+        - {x: -29, y: 18}
+        - {x: -37, y: 19}
+        - {x: -51, y: 20}
+        - {x: -71, y: 14}
+        - {x: -75, y: 10}
+        - {x: -75, y: -14}
+        - {x: -68, y: -20}
+        - {x: -62, y: -23}
+        - {x: -27, y: -23}
+        - {x: -16, y: -13}
+        - {x: 60, y: -3}
+        - {x: 72, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffdb12ebf0d4cc591c8c415ed831345
+      internalID: 21300010
+      vertices:
+      - {x: 150, y: 46}
+      - {x: 149, y: 18}
+      - {x: 150, y: 23}
+      - {x: 64, y: 0}
+      - {x: 39, y: 46}
+      - {x: 4, y: 0}
+      - {x: 1, y: 43}
+      - {x: 0, y: 42}
+      - {x: 0, y: 9}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigames_SpoonIdle150x46_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 46
+        width: 150
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -23}
+        - {x: -75, y: -14}
+        - {x: -75, y: 19}
+        - {x: -74, y: 20}
+        - {x: -36, y: 23}
+        - {x: 75, y: 23}
+        - {x: 75, y: 0}
+        - {x: 74, y: -5}
+        - {x: -11, y: -23}
+      physicsShape:
+      - - {x: 75, y: 3}
+        - {x: 75, y: 21}
+        - {x: 73, y: 23}
+        - {x: 45, y: 23}
+        - {x: -19, y: 12}
+        - {x: -29, y: 18}
+        - {x: -37, y: 19}
+        - {x: -51, y: 20}
+        - {x: -71, y: 14}
+        - {x: -75, y: 10}
+        - {x: -75, y: -14}
+        - {x: -68, y: -20}
+        - {x: -62, y: -23}
+        - {x: -27, y: -23}
+        - {x: -16, y: -13}
+        - {x: 60, y: -3}
+        - {x: 72, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe455521704d42dd946fb5d730e2eace
+      internalID: 21300012
+      vertices:
+      - {x: 150, y: 46}
+      - {x: 149, y: 18}
+      - {x: 150, y: 23}
+      - {x: 64, y: 0}
+      - {x: 39, y: 46}
+      - {x: 4, y: 0}
+      - {x: 1, y: 43}
+      - {x: 0, y: 42}
+      - {x: 0, y: 9}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigames_SpoonIdle150x46_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -23}
+        - {x: -75, y: -14}
+        - {x: -75, y: 19}
+        - {x: -74, y: 20}
+        - {x: -36, y: 23}
+        - {x: 75, y: 23}
+        - {x: 75, y: 0}
+        - {x: 74, y: -5}
+        - {x: -11, y: -23}
+      physicsShape:
+      - - {x: 75, y: 3}
+        - {x: 75, y: 21}
+        - {x: 73, y: 23}
+        - {x: 45, y: 23}
+        - {x: -19, y: 12}
+        - {x: -29, y: 18}
+        - {x: -37, y: 19}
+        - {x: -51, y: 20}
+        - {x: -71, y: 14}
+        - {x: -75, y: 10}
+        - {x: -75, y: -14}
+        - {x: -68, y: -20}
+        - {x: -62, y: -23}
+        - {x: -27, y: -23}
+        - {x: -16, y: -13}
+        - {x: 60, y: -3}
+        - {x: 72, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61ff6df874d46558e79e8cab4c8cd60
+      internalID: 21300014
+      vertices:
+      - {x: 150, y: 46}
+      - {x: 149, y: 18}
+      - {x: 150, y: 23}
+      - {x: 64, y: 0}
+      - {x: 39, y: 46}
+      - {x: 4, y: 0}
+      - {x: 1, y: 43}
+      - {x: 0, y: 42}
+      - {x: 0, y: 9}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigames_SpoonIdle150x46_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -23}
+        - {x: -75, y: -14}
+        - {x: -75, y: 19}
+        - {x: -74, y: 20}
+        - {x: -36, y: 23}
+        - {x: 75, y: 23}
+        - {x: 75, y: 0}
+        - {x: 74, y: -5}
+        - {x: -11, y: -23}
+      physicsShape:
+      - - {x: 75, y: 3}
+        - {x: 75, y: 21}
+        - {x: 73, y: 23}
+        - {x: 45, y: 23}
+        - {x: -19, y: 12}
+        - {x: -29, y: 18}
+        - {x: -37, y: 19}
+        - {x: -51, y: 20}
+        - {x: -71, y: 14}
+        - {x: -75, y: 10}
+        - {x: -75, y: -14}
+        - {x: -68, y: -20}
+        - {x: -62, y: -23}
+        - {x: -27, y: -23}
+        - {x: -16, y: -13}
+        - {x: 60, y: -3}
+        - {x: 72, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eee0757802243648ede6d77b539eeaa
+      internalID: 21300016
+      vertices:
+      - {x: 150, y: 46}
+      - {x: 149, y: 18}
+      - {x: 150, y: 23}
+      - {x: 64, y: 0}
+      - {x: 39, y: 46}
+      - {x: 4, y: 0}
+      - {x: 1, y: 43}
+      - {x: 0, y: 42}
+      - {x: 0, y: 9}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigames_SpoonIdle150x46_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 92
+        width: 150
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -23}
+        - {x: -75, y: -14}
+        - {x: -75, y: 19}
+        - {x: -74, y: 20}
+        - {x: -36, y: 23}
+        - {x: 75, y: 23}
+        - {x: 75, y: 0}
+        - {x: 74, y: -5}
+        - {x: -11, y: -23}
+      physicsShape:
+      - - {x: 75, y: 3}
+        - {x: 75, y: 21}
+        - {x: 73, y: 23}
+        - {x: 45, y: 23}
+        - {x: -19, y: 12}
+        - {x: -29, y: 18}
+        - {x: -37, y: 19}
+        - {x: -51, y: 20}
+        - {x: -71, y: 14}
+        - {x: -75, y: 10}
+        - {x: -75, y: -14}
+        - {x: -68, y: -20}
+        - {x: -62, y: -23}
+        - {x: -27, y: -23}
+        - {x: -16, y: -13}
+        - {x: 60, y: -3}
+        - {x: 72, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1be41f94ef74902b7b7458fbc69d6a3
+      internalID: 21300018
+      vertices:
+      - {x: 150, y: 46}
+      - {x: 149, y: 18}
+      - {x: 150, y: 23}
+      - {x: 64, y: 0}
+      - {x: 39, y: 46}
+      - {x: 4, y: 0}
+      - {x: 1, y: 43}
+      - {x: 0, y: 42}
+      - {x: 0, y: 9}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigames_SpoonIdle150x46_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 92
+        width: 150
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -23}
+        - {x: -75, y: -14}
+        - {x: -75, y: 19}
+        - {x: -74, y: 20}
+        - {x: -36, y: 23}
+        - {x: 75, y: 23}
+        - {x: 75, y: 0}
+        - {x: 74, y: -5}
+        - {x: -11, y: -23}
+      physicsShape:
+      - - {x: 75, y: 3}
+        - {x: 75, y: 21}
+        - {x: 73, y: 23}
+        - {x: 45, y: 23}
+        - {x: -19, y: 12}
+        - {x: -29, y: 18}
+        - {x: -37, y: 19}
+        - {x: -51, y: 20}
+        - {x: -71, y: 14}
+        - {x: -75, y: 10}
+        - {x: -75, y: -14}
+        - {x: -68, y: -20}
+        - {x: -62, y: -23}
+        - {x: -27, y: -23}
+        - {x: -16, y: -13}
+        - {x: 60, y: -3}
+        - {x: 72, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b0382c400841f9b5377064d2b0c45a
+      internalID: 21300020
+      vertices:
+      - {x: 150, y: 46}
+      - {x: 149, y: 18}
+      - {x: 150, y: 23}
+      - {x: 64, y: 0}
+      - {x: 39, y: 46}
+      - {x: 4, y: 0}
+      - {x: 1, y: 43}
+      - {x: 0, y: 42}
+      - {x: 0, y: 9}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigames_SpoonIdle150x46_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 46
+        width: 150
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -23}
+        - {x: -75, y: -14}
+        - {x: -75, y: 19}
+        - {x: -74, y: 20}
+        - {x: -36, y: 23}
+        - {x: 75, y: 23}
+        - {x: 75, y: 0}
+        - {x: 74, y: -5}
+        - {x: -11, y: -23}
+      physicsShape:
+      - - {x: 75, y: 3}
+        - {x: 75, y: 21}
+        - {x: 73, y: 23}
+        - {x: 45, y: 23}
+        - {x: -19, y: 12}
+        - {x: -29, y: 18}
+        - {x: -37, y: 19}
+        - {x: -51, y: 20}
+        - {x: -71, y: 14}
+        - {x: -75, y: 10}
+        - {x: -75, y: -14}
+        - {x: -68, y: -20}
+        - {x: -62, y: -23}
+        - {x: -27, y: -23}
+        - {x: -16, y: -13}
+        - {x: 60, y: -3}
+        - {x: 72, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9d96d6e7af4619b425b73d1df0ddab
+      internalID: 21300022
+      vertices:
+      - {x: 150, y: 46}
+      - {x: 149, y: 18}
+      - {x: 150, y: 23}
+      - {x: 64, y: 0}
+      - {x: 39, y: 46}
+      - {x: 4, y: 0}
+      - {x: 1, y: 43}
+      - {x: 0, y: 42}
+      - {x: 0, y: 9}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

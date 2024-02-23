@@ -1,0 +1,1022 @@
+fileFormatVersion: 2
+guid: fdb0f467ef3eaca4ba6f46b152187629
+timeCreated: 1706119826
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: EnemySeagull58x40_PopAttack4
+  - first:
+      213: 21300002
+    second: EnemySeagull58x40_PopAttack3
+  - first:
+      213: 21300004
+    second: EnemySeagull58x40_Hurt1
+  - first:
+      213: 21300006
+    second: EnemySeagull58x40_PopAttack1
+  - first:
+      213: 21300008
+    second: EnemySeagull58x40_IdleFly2
+  - first:
+      213: 21300010
+    second: EnemySeagull58x40_Dead
+  - first:
+      213: 21300012
+    second: EnemySeagull58x40_PopAttack2
+  - first:
+      213: 21300014
+    second: EnemySeagull58x40_PopAttack0
+  - first:
+      213: 21300016
+    second: EnemySeagull58x40_IdleFly1
+  - first:
+      213: 21300018
+    second: EnemySeagull58x40_Hurt0
+  - first:
+      213: 21300020
+    second: EnemySeagull58x40_IdleFly0
+  - first:
+      213: 21300022
+    second: EnemySeagull58x40_IdleFly4
+  - first:
+      213: 21300024
+    second: EnemySeagull58x40_IdleFly3
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemySeagull58x40_PopAttack4
+      rect:
+        serializedVersion: 2
+        x: 696.05133
+        y: 6.0541267
+        width: 50.921932
+        height: 23.902966
+      alignment: 9
+      pivot: {x: 0.56849116, y: -0.25327933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.512299, y: -6.0056095}
+        - {x: -25.512299, y: -3.0056095}
+        - {x: -18.512299, y: 11.9943905}
+        - {x: 25.487701, y: 11.9943905}
+        - {x: 25.487701, y: -9.0056095}
+        - {x: 13.487701, y: -12.0056095}
+        - {x: -20.512299, y: -12.0056095}
+      physicsShape:
+      - - {x: 4.4877014, y: 11.9943905}
+        - {x: -8.512299, y: 7.9943905}
+        - {x: -14.512299, y: 11.9943905}
+        - {x: -16.512299, y: 11.9943905}
+        - {x: -25.512299, y: -3.0056095}
+        - {x: -24.512299, y: -6.0056095}
+        - {x: -20.512299, y: -12.0056095}
+        - {x: 13.487701, y: -12.0056095}
+        - {x: 25.487701, y: -9.0056095}
+        - {x: 25.487701, y: 5.9943905}
+        - {x: 23.487701, y: 11.9943905}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194917ff18a24723825b1cfab076ace9
+      internalID: 21300000
+      vertices:
+      - {x: 47.460968, y: 41.951485}
+      - {x: 35.460968, y: 17.951483}
+      - {x: 47.460968, y: 20.951483}
+      - {x: 3.460966, y: 41.951485}
+      - {x: 1.4609661, y: 17.951483}
+      - {x: -2.539034, y: 23.951483}
+      - {x: -3.539034, y: 26.951483}
+      indices:
+      - 6
+      - 3
+      - 5
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySeagull58x40_PopAttack3
+      rect:
+        serializedVersion: 2
+        x: 645.02673
+        y: 8.07612
+        width: 41.897125
+        height: 23.89713
+      alignment: 9
+      pivot: {x: 0.52445763, y: -0.3379536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.975296, y: -12.024685}
+        - {x: -20.975296, y: -8.024685}
+        - {x: -20.975296, y: 11.975315}
+        - {x: 16.024704, y: 11.975315}
+        - {x: 20.024704, y: 5.975315}
+        - {x: 21.024704, y: -0.024684906}
+        - {x: 21.024704, y: -5.024685}
+        - {x: 13.024704, y: -12.024685}
+      physicsShape:
+      - - {x: 16.024704, y: 11.975315}
+        - {x: -20.975296, y: 11.975315}
+        - {x: -20.975296, y: -8.024685}
+        - {x: -13.975296, y: -12.024685}
+        - {x: 13.024704, y: -12.024685}
+        - {x: 21.024704, y: -5.024685}
+        - {x: 21.024704, y: -0.024684906}
+        - {x: 20.024704, y: 5.975315}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e6f1e84413436ab36f2626673475f4
+      internalID: 21300002
+      vertices:
+      - {x: 39.948563, y: 37.948563}
+      - {x: 40.948563, y: 26.948565}
+      - {x: 40.948563, y: 31.948565}
+      - {x: 35.948563, y: 43.948563}
+      - {x: 32.948563, y: 19.948565}
+      - {x: 5.9485626, y: 19.948565}
+      - {x: -1.0514374, y: 43.948563}
+      - {x: -1.0514374, y: 23.948565}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 3
+      - 5
+      - 6
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySeagull58x40_Hurt1
+      rect:
+        serializedVersion: 2
+        x: 353.0129
+        y: 1.019787
+        width: 51.910965
+        height: 38.937305
+      alignment: 9
+      pivot: {x: 0.4620814, y: -0.026190486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.031609, y: -19.48844}
+        - {x: -25.968391, y: -19.48844}
+        - {x: -25.968391, y: 14.51156}
+        - {x: -22.968391, y: 19.51156}
+        - {x: 26.031609, y: 19.51156}
+        - {x: 26.031609, y: -13.48844}
+      physicsShape:
+      - - {x: 26.031609, y: 19.51156}
+        - {x: 18.031609, y: 19.51156}
+        - {x: 14.031609, y: 18.51156}
+        - {x: -3.9683914, y: 8.51156}
+        - {x: -9.968391, y: 19.51156}
+        - {x: -16.968391, y: 19.51156}
+        - {x: -25.968391, y: 12.51156}
+        - {x: -25.968391, y: 3.5115604}
+        - {x: -24.968391, y: 0.51156044}
+        - {x: -19.968391, y: -15.48844}
+        - {x: -16.968391, y: -19.48844}
+        - {x: -8.968391, y: -19.48844}
+        - {x: 7.0316086, y: -14.48844}
+        - {x: 15.031609, y: -17.48844}
+        - {x: 22.031609, y: -7.4884396}
+        - {x: 26.031609, y: 9.51156}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74293e20ec68437ab1cb0b984b2929ff
+      internalID: 21300004
+      vertices:
+      - {x: 53.955482, y: 59.46865}
+      - {x: 39.955482, y: 20.468653}
+      - {x: 53.955482, y: 26.468653}
+      - {x: 4.9554825, y: 59.46865}
+      - {x: 1.9554825, y: 54.46865}
+      - {x: 1.9554825, y: 20.468653}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySeagull58x40_PopAttack1
+      rect:
+        serializedVersion: 2
+        x: 528.0761
+        y: 8.026751
+        width: 43.847755
+        height: 28.897127
+      alignment: 9
+      pivot: {x: 0.52280647, y: -0.27776983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.999989, y: -13.475315}
+        - {x: -21.999989, y: -2.475315}
+        - {x: -21.999989, y: 6.524685}
+        - {x: -17.999989, y: 13.524685}
+        - {x: -16.999989, y: 14.524685}
+        - {x: 22.000011, y: 14.524685}
+        - {x: 22.000011, y: -11.475315}
+        - {x: 15.000011, y: -14.475315}
+        - {x: -9.999989, y: -14.475315}
+      physicsShape:
+      - - {x: 11.000011, y: 11.524685}
+        - {x: -3.9999886, y: 14.524685}
+        - {x: -15.999989, y: 14.524685}
+        - {x: -17.999989, y: 13.524685}
+        - {x: -21.999989, y: 6.524685}
+        - {x: -21.999989, y: -2.475315}
+        - {x: -13.999989, y: -13.475315}
+        - {x: -9.999989, y: -14.475315}
+        - {x: 15.000011, y: -14.475315}
+        - {x: 22.000011, y: -11.475315}
+        - {x: 22.000011, y: 9.524685}
+        - {x: 21.000011, y: 13.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea944cfb84624767bda142c902bd33bb
+      internalID: 21300006
+      vertices:
+      - {x: 42.923878, y: 51.448563}
+      - {x: 35.923878, y: 22.448563}
+      - {x: 42.923878, y: 25.448563}
+      - {x: 10.923878, y: 22.448563}
+      - {x: 6.9238777, y: 23.448563}
+      - {x: 3.9238777, y: 51.448563}
+      - {x: 2.9238777, y: 50.448563}
+      - {x: -1.0761223, y: 43.448563}
+      - {x: -1.0761223, y: 34.448563}
+      indices:
+      - 8
+      - 7
+      - 4
+      - 6
+      - 4
+      - 7
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySeagull58x40_IdleFly2
+      rect:
+        serializedVersion: 2
+        x: 122.07612
+        y: 4.0761204
+        width: 42.847755
+        height: 26.89713
+      alignment: 9
+      pivot: {x: 0.5350078, y: -0.15154481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.499996, y: -13.524685}
+        - {x: -21.499996, y: -7.524685}
+        - {x: -21.499996, y: 5.475315}
+        - {x: -17.499996, y: 9.475315}
+        - {x: 4.500004, y: 13.475315}
+        - {x: 18.500004, y: 13.475315}
+        - {x: 21.500004, y: 5.475315}
+        - {x: 21.500004, y: -10.524685}
+        - {x: 19.500004, y: -13.524685}
+      physicsShape:
+      - - {x: 4.500004, y: 13.475315}
+        - {x: -17.499996, y: 9.475315}
+        - {x: -21.499996, y: 5.475315}
+        - {x: -21.499996, y: -7.524685}
+        - {x: -14.499996, y: -13.524685}
+        - {x: 19.500004, y: -13.524685}
+        - {x: 21.500004, y: -10.524685}
+        - {x: 21.500004, y: 5.475315}
+        - {x: 18.500004, y: 13.475315}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7a405272dc49849bbee0fed6a9a211
+      internalID: 21300008
+      vertices:
+      - {x: 41.423878, y: 36.448563}
+      - {x: 39.423878, y: 17.448565}
+      - {x: 41.423878, y: 20.448565}
+      - {x: 38.423878, y: 44.448563}
+      - {x: 24.423878, y: 44.448563}
+      - {x: 5.4238777, y: 17.448565}
+      - {x: 2.4238777, y: 40.448563}
+      - {x: -1.5761223, y: 36.448563}
+      - {x: -1.5761223, y: 23.448565}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySeagull58x40_Dead
+      rect:
+        serializedVersion: 2
+        x: 416.0761
+        y: 0
+        width: 36.847755
+        height: 10.973249
+      alignment: 9
+      pivot: {x: 0.51356965, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.500011, y: -5.4866247}
+        - {x: -18.499989, y: -5.4866247}
+        - {x: -18.499989, y: -1.4866247}
+        - {x: -16.499989, y: 1.5133753}
+        - {x: -4.4999886, y: 4.5133753}
+        - {x: 4.5000114, y: 5.5133753}
+        - {x: 11.500011, y: 5.5133753}
+        - {x: 16.500011, y: 1.5133753}
+        - {x: 18.500011, y: -3.4866247}
+      physicsShape:
+      - - {x: 4.5000114, y: 5.5133753}
+        - {x: -4.4999886, y: 4.5133753}
+        - {x: -16.499989, y: 1.5133753}
+        - {x: -18.499989, y: -1.4866247}
+        - {x: -18.499989, y: -5.4866247}
+        - {x: 18.500011, y: -5.4866247}
+        - {x: 18.500011, y: -3.4866247}
+        - {x: 16.500011, y: 1.5133753}
+        - {x: 11.500011, y: 5.5133753}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52cd37a89794493a7a9b0ab8024fe5a
+      internalID: 21300010
+      vertices:
+      - {x: 34.423878, y: 12.486625}
+      - {x: 36.423878, y: 5.4866247}
+      - {x: 36.423878, y: 7.4866247}
+      - {x: 29.423878, y: 16.486626}
+      - {x: 22.423878, y: 16.486626}
+      - {x: 13.423878, y: 15.486625}
+      - {x: 1.4238777, y: 12.486625}
+      - {x: -0.5761223, y: 9.486625}
+      - {x: -0.5761223, y: 5.4866247}
+      indices:
+      - 8
+      - 7
+      - 1
+      - 6
+      - 1
+      - 7
+      - 5
+      - 1
+      - 6
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySeagull58x40_PopAttack2
+      rect:
+        serializedVersion: 2
+        x: 588.02673
+        y: 4.0761204
+        width: 40.897125
+        height: 26.89713
+      alignment: 9
+      pivot: {x: 0.51282984, y: -0.15154481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.524704, y: -13.524685}
+        - {x: -20.475296, y: -13.524685}
+        - {x: -20.475296, y: 7.475315}
+        - {x: -19.475296, y: 10.475315}
+        - {x: -1.475296, y: 13.475315}
+        - {x: 17.524704, y: 13.475315}
+        - {x: 20.524704, y: 5.475315}
+      physicsShape:
+      - - {x: -1.475296, y: 13.475315}
+        - {x: -19.475296, y: 10.475315}
+        - {x: -20.475296, y: 7.475315}
+        - {x: -20.475296, y: -1.5246849}
+        - {x: -17.475296, y: -12.524685}
+        - {x: -13.475296, y: -13.524685}
+        - {x: 18.524704, y: -13.524685}
+        - {x: 20.524704, y: -10.524685}
+        - {x: 20.524704, y: 5.475315}
+        - {x: 17.524704, y: 13.475315}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d215ae94bf4660a0bffc026b8375a0
+      internalID: 21300012
+      vertices:
+      - {x: 37.448563, y: 44.448563}
+      - {x: 40.448563, y: 17.448565}
+      - {x: 40.448563, y: 36.448563}
+      - {x: 18.448563, y: 44.448563}
+      - {x: 0.44856262, y: 41.448563}
+      - {x: -0.5514374, y: 38.448563}
+      - {x: -0.5514374, y: 17.448565}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySeagull58x40_PopAttack0
+      rect:
+        serializedVersion: 2
+        x: 470.0761
+        y: 6.0761204
+        width: 42.847755
+        height: 33.92388
+      alignment: 9
+      pivot: {x: 0.53500795, y: -0.17911041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.500011, y: -12.038061}
+        - {x: 13.500011, y: -17.038061}
+        - {x: 3.5000114, y: -17.038061}
+        - {x: -1.4999886, y: -15.038061}
+        - {x: -13.499989, y: -12.038061}
+        - {x: -21.499989, y: -6.038061}
+        - {x: -21.499989, y: 1.9619389}
+        - {x: -16.499989, y: 16.961939}
+        - {x: 19.500011, y: 16.961939}
+        - {x: 19.500011, y: -1.0380611}
+        - {x: 21.500011, y: -6.038061}
+      physicsShape:
+      - - {x: 19.500011, y: -1.0380611}
+        - {x: 19.500011, y: 16.961939}
+        - {x: -16.499989, y: 16.961939}
+        - {x: -21.499989, y: 1.9619389}
+        - {x: -21.499989, y: -6.038061}
+        - {x: -13.499989, y: -12.038061}
+        - {x: -1.4999886, y: -15.038061}
+        - {x: 3.5000114, y: -17.038061}
+        - {x: 13.500011, y: -17.038061}
+        - {x: 21.500011, y: -12.038061}
+        - {x: 21.500011, y: -6.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b6b66b986e49aeb0e4d83788dc9864
+      internalID: 21300014
+      vertices:
+      - {x: 39.423878, y: 56.96194}
+      - {x: 33.423878, y: 22.96194}
+      - {x: 39.423878, y: 38.96194}
+      - {x: 23.423878, y: 22.96194}
+      - {x: 18.423878, y: 24.96194}
+      - {x: 6.4238777, y: 27.96194}
+      - {x: 3.4238777, y: 56.96194}
+      - {x: -1.5761223, y: 41.96194}
+      - {x: -1.5761223, y: 33.96194}
+      - {x: 41.423878, y: 27.96194}
+      - {x: 41.423878, y: 33.96194}
+      indices:
+      - 1
+      - 2
+      - 9
+      - 10
+      - 9
+      - 2
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 0
+      - 5
+      - 6
+      - 4
+      - 5
+      - 0
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySeagull58x40_IdleFly1
+      rect:
+        serializedVersion: 2
+        x: 64.07612
+        y: 9.026751
+        width: 43.847755
+        height: 27.897127
+      alignment: 9
+      pivot: {x: 0.5228063, y: -0.32357275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.999996, y: -13.975315}
+        - {x: -21.999996, y: -6.975315}
+        - {x: -21.999996, y: 9.024685}
+        - {x: -16.999996, y: 14.024685}
+        - {x: 22.000004, y: 14.024685}
+        - {x: 22.000004, y: -11.975315}
+        - {x: 19.000004, y: -13.975315}
+      physicsShape:
+      - - {x: -16.999996, y: 14.024685}
+        - {x: -21.999996, y: 9.024685}
+        - {x: -21.999996, y: -5.975315}
+        - {x: -16.999996, y: -13.975315}
+        - {x: 19.000004, y: -13.975315}
+        - {x: 22.000004, y: -11.975315}
+        - {x: 22.000004, y: 14.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916d604a7b8a443580430eeedff5ba82
+      internalID: 21300016
+      vertices:
+      - {x: 42.923878, y: 50.948563}
+      - {x: 39.923878, y: 22.948563}
+      - {x: 42.923878, y: 24.948563}
+      - {x: 3.9238777, y: 50.948563}
+      - {x: 2.9238777, y: 22.948563}
+      - {x: -1.0761223, y: 45.948563}
+      - {x: -1.0761223, y: 29.948563}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySeagull58x40_Hurt0
+      rect:
+        serializedVersion: 2
+        x: 295.0129
+        y: 1.019787
+        width: 51.910965
+        height: 38.937305
+      alignment: 9
+      pivot: {x: 0.4620814, y: -0.026190486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.031609, y: -19.48844}
+        - {x: -25.968391, y: -19.48844}
+        - {x: -25.968391, y: 14.51156}
+        - {x: -22.968391, y: 19.51156}
+        - {x: 26.031609, y: 19.51156}
+        - {x: 26.031609, y: -13.48844}
+      physicsShape:
+      - - {x: 26.031609, y: 19.51156}
+        - {x: 18.031609, y: 19.51156}
+        - {x: 14.031609, y: 18.51156}
+        - {x: -3.9683914, y: 8.51156}
+        - {x: -9.968391, y: 19.51156}
+        - {x: -16.968391, y: 19.51156}
+        - {x: -25.968391, y: 12.51156}
+        - {x: -25.968391, y: 3.5115604}
+        - {x: -24.968391, y: 0.51156044}
+        - {x: -19.968391, y: -15.48844}
+        - {x: -16.968391, y: -19.48844}
+        - {x: -8.968391, y: -19.48844}
+        - {x: 7.0316086, y: -14.48844}
+        - {x: 15.031609, y: -17.48844}
+        - {x: 22.031609, y: -7.4884396}
+        - {x: 26.031609, y: 9.51156}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61659a8400b54a9d8b2553b12bde7599
+      internalID: 21300018
+      vertices:
+      - {x: 53.955482, y: 59.46865}
+      - {x: 39.955482, y: 20.468653}
+      - {x: 53.955482, y: 26.468653}
+      - {x: 4.9554825, y: 59.46865}
+      - {x: 1.9554825, y: 54.46865}
+      - {x: 1.9554825, y: 20.468653}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySeagull58x40_IdleFly0
+      rect:
+        serializedVersion: 2
+        x: 6.0761204
+        y: 8.026751
+        width: 42.847755
+        height: 31.97325
+      alignment: 9
+      pivot: {x: 0.5350077, y: -0.25104582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.499998, y: -16.013374}
+        - {x: -21.499998, y: -14.013374}
+        - {x: -21.499998, y: 10.986626}
+        - {x: -18.499998, y: 15.986626}
+        - {x: 20.500002, y: 15.986626}
+        - {x: 21.500002, y: 13.986626}
+        - {x: 21.500002, y: -16.013374}
+      physicsShape:
+      - - {x: -16.499998, y: 15.986626}
+        - {x: -21.499998, y: 3.9866257}
+        - {x: -21.499998, y: -6.0133743}
+        - {x: -7.499998, y: -16.013374}
+        - {x: 14.500002, y: -16.013374}
+        - {x: 18.500002, y: -15.013374}
+        - {x: 21.500002, y: -14.013374}
+        - {x: 21.500002, y: 13.986626}
+        - {x: 20.500002, y: 15.986626}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310ab25b58cd492c804bce20821086fb
+      internalID: 21300020
+      vertices:
+      - {x: 40.423878, y: 55.986626}
+      - {x: 41.423878, y: 23.986626}
+      - {x: 41.423878, y: 53.986626}
+      - {x: 3.4238777, y: 23.986626}
+      - {x: 1.4238777, y: 55.986626}
+      - {x: -1.5761223, y: 50.986626}
+      - {x: -1.5761223, y: 25.986626}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySeagull58x40_IdleFly4
+      rect:
+        serializedVersion: 2
+        x: 238.07613
+        y: 6.0761204
+        width: 44.897125
+        height: 23.880972
+      alignment: 9
+      pivot: {x: 0.5105867, y: -0.25443354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.524689, y: -12.016605}
+        - {x: -22.524689, y: -0.016605377}
+        - {x: -22.524689, y: 3.9833946}
+        - {x: -21.524689, y: 6.9833946}
+        - {x: -0.5246887, y: 11.983395}
+        - {x: 11.475311, y: 11.983395}
+        - {x: 17.475311, y: 10.983395}
+        - {x: 22.475311, y: 5.9833946}
+        - {x: 22.475311, y: -6.0166054}
+        - {x: 19.475311, y: -12.016605}
+      physicsShape:
+      - - {x: 11.475311, y: 11.983395}
+        - {x: -0.5246887, y: 11.983395}
+        - {x: -21.524689, y: 6.9833946}
+        - {x: -22.524689, y: 3.9833946}
+        - {x: -22.524689, y: -0.016605377}
+        - {x: -15.524689, y: -12.016605}
+        - {x: 19.475311, y: -12.016605}
+        - {x: 22.475311, y: -6.0166054}
+        - {x: 22.475311, y: 5.9833946}
+        - {x: 17.475311, y: 10.983395}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a77215397b4a7e8668f0c0fdccca32
+      internalID: 21300022
+      vertices:
+      - {x: 44.448563, y: 35.940487}
+      - {x: 41.448563, y: 17.940487}
+      - {x: 44.448563, y: 23.940487}
+      - {x: 39.448563, y: 40.940487}
+      - {x: 33.448563, y: 41.940487}
+      - {x: 21.448563, y: 41.940487}
+      - {x: 6.4485626, y: 17.940487}
+      - {x: 0.44856262, y: 36.940487}
+      - {x: -0.5514374, y: 33.940487}
+      - {x: -0.5514374, y: 29.940487}
+      indices:
+      - 9
+      - 8
+      - 6
+      - 7
+      - 6
+      - 8
+      - 5
+      - 6
+      - 7
+      - 1
+      - 6
+      - 5
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySeagull58x40_IdleFly3
+      rect:
+        serializedVersion: 2
+        x: 180.07613
+        y: 8.07612
+        width: 42.847755
+        height: 23.89713
+      alignment: 9
+      pivot: {x: 0.5350076, y: -0.3379536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.500004, y: -12.024685}
+        - {x: -21.500004, y: -4.024685}
+        - {x: -21.500004, y: 1.9753151}
+        - {x: -14.500004, y: 4.975315}
+        - {x: 5.499996, y: 11.975315}
+        - {x: 18.499996, y: 11.975315}
+        - {x: 21.499996, y: 3.975315}
+        - {x: 21.499996, y: -8.024685}
+        - {x: 15.499996, y: -12.024685}
+      physicsShape:
+      - - {x: 5.499996, y: 11.975315}
+        - {x: -14.500004, y: 4.975315}
+        - {x: -21.500004, y: 1.9753151}
+        - {x: -21.500004, y: -4.024685}
+        - {x: -7.500004, y: -12.024685}
+        - {x: 15.499996, y: -12.024685}
+        - {x: 21.499996, y: -8.024685}
+        - {x: 21.499996, y: 3.975315}
+        - {x: 18.499996, y: 11.975315}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a4dd408731454aa2db88c911c73f8a
+      internalID: 21300024
+      vertices:
+      - {x: 38.423878, y: 43.948563}
+      - {x: 41.423878, y: 23.948565}
+      - {x: 41.423878, y: 35.948563}
+      - {x: 35.423878, y: 19.948565}
+      - {x: 25.423878, y: 43.948563}
+      - {x: 12.423878, y: 19.948565}
+      - {x: 5.4238777, y: 36.948563}
+      - {x: -1.5761223, y: 33.948563}
+      - {x: -1.5761223, y: 27.948565}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

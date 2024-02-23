@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 525ca92ecf0d81e44b3d1a0d8d47883a
+timeCreated: 1706119823
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: AK_shop_babyhyenas_Idle46x34_1
+  - first:
+      213: 21300002
+    second: AK_shop_babyhyenas_Idle46x34_3
+  - first:
+      213: 21300004
+    second: AK_shop_babyhyenas_Idle46x34_2
+  - first:
+      213: 21300006
+    second: AK_shop_babyhyenas_Idle46x34_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AK_shop_babyhyenas_Idle46x34_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 41.923878
+        height: 33.923878
+      alignment: 9
+      pivot: {x: 0.54861337, y: 0.08843329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.961939, y: -16.961939}
+        - {x: -20.961939, y: -5.961939}
+        - {x: -20.961939, y: 6.038061}
+        - {x: -14.961939, y: 17.038061}
+        - {x: -1.9619389, y: 16.038061}
+        - {x: 0.038061142, y: 13.038061}
+        - {x: -0.96193886, y: 0.038061142}
+        - {x: 3.0380611, y: 0.038061142}
+        - {x: 0.038061142, y: 3.0380611}
+        - {x: 1.0380611, y: 8.038061}
+        - {x: 8.038061, y: 16.038061}
+        - {x: 10.038061, y: 17.038061}
+        - {x: 18.038061, y: 17.038061}
+        - {x: 21.038061, y: 11.038061}
+        - {x: 21.038061, y: 0.038061142}
+        - {x: 11.038061, y: -16.961939}
+      physicsShape:
+      - - {x: -2.9619389, y: 0.038061142}
+        - {x: -7.961939, y: -6.961939}
+        - {x: -7.961939, y: -13.961939}
+        - {x: -6.961939, y: -15.961939}
+        - {x: 6.038061, y: -15.961939}
+        - {x: 11.038061, y: -10.961939}
+        - {x: 11.038061, y: -2.9619389}
+        - {x: 9.038061, y: 0.038061142}
+      - - {x: -0.96193886, y: 15.038061}
+        - {x: -16.961939, y: 15.038061}
+        - {x: -18.961939, y: 13.038061}
+        - {x: -18.961939, y: -0.96193886}
+        - {x: -15.961939, y: -1.9619389}
+        - {x: -3.9619389, y: -1.9619389}
+        - {x: 0.038061142, y: 3.0380611}
+        - {x: 0.038061142, y: 12.038061}
+      - - {x: 4.038061, y: 17.038061}
+        - {x: 1.0380611, y: 11.038061}
+        - {x: 1.0380611, y: 4.038061}
+        - {x: 2.0380611, y: 1.0380611}
+        - {x: 18.038061, y: 1.0380611}
+        - {x: 21.038061, y: 5.038061}
+        - {x: 21.038061, y: 16.038061}
+        - {x: 19.038061, y: 17.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159c2d21115242bc8f2fb79b0d9384ee
+      internalID: 21300000
+      vertices:
+      - {x: 18.961939, y: 43.961937}
+      - {x: 16.961939, y: 46.961937}
+      - {x: 17.961939, y: 30.961939}
+      - {x: 19.961939, y: 38.961937}
+      - {x: 21.961939, y: 30.961939}
+      - {x: 26.961939, y: 46.961937}
+      - {x: 18.961939, y: 33.961937}
+      - {x: 36.961937, y: 47.961937}
+      - {x: 39.961937, y: 30.961939}
+      - {x: 39.961937, y: 41.961937}
+      - {x: 29.961939, y: 13.961939}
+      - {x: 28.961939, y: 47.961937}
+      - {x: 9.961939, y: 13.961939}
+      - {x: 3.9619389, y: 47.961937}
+      - {x: -2.0380611, y: 36.961937}
+      - {x: -2.0380611, y: 24.961939}
+      indices:
+      - 15
+      - 14
+      - 12
+      - 13
+      - 12
+      - 14
+      - 1
+      - 12
+      - 13
+      - 2
+      - 12
+      - 1
+      - 10
+      - 12
+      - 2
+      - 4
+      - 10
+      - 2
+      - 5
+      - 10
+      - 4
+      - 11
+      - 10
+      - 5
+      - 7
+      - 10
+      - 11
+      - 8
+      - 10
+      - 7
+      - 9
+      - 8
+      - 7
+      - 6
+      - 3
+      - 4
+      - 5
+      - 4
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_shop_babyhyenas_Idle46x34_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 41.923878
+        height: 33.923878
+      alignment: 9
+      pivot: {x: 0.54861337, y: 0.08843329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.961939, y: -16.961939}
+        - {x: -20.961939, y: -5.961939}
+        - {x: -20.961939, y: 6.038061}
+        - {x: -18.961939, y: 11.038061}
+        - {x: -13.961939, y: 16.038061}
+        - {x: -2.9619389, y: 16.038061}
+        - {x: 0.038061142, y: 12.038061}
+        - {x: -0.96193886, y: 0.038061142}
+        - {x: 3.0380611, y: 0.038061142}
+        - {x: 0.038061142, y: 3.0380611}
+        - {x: 1.0380611, y: 8.038061}
+        - {x: 5.038061, y: 17.038061}
+        - {x: 21.038061, y: 17.038061}
+        - {x: 21.038061, y: -3.9619389}
+        - {x: 9.038061, y: -16.961939}
+      physicsShape:
+      - - {x: -2.9619389, y: 0.038061142}
+        - {x: -7.961939, y: -7.961939}
+        - {x: -7.961939, y: -12.961939}
+        - {x: -4.961939, y: -15.961939}
+        - {x: 6.038061, y: -15.961939}
+        - {x: 11.038061, y: -10.961939}
+        - {x: 11.038061, y: -3.9619389}
+        - {x: 7.038061, y: 0.038061142}
+      - - {x: -14.961939, y: 15.038061}
+        - {x: -18.961939, y: 11.038061}
+        - {x: -18.961939, y: -0.96193886}
+        - {x: -16.961939, y: -1.9619389}
+        - {x: -0.96193886, y: -1.9619389}
+        - {x: 0.038061142, y: 4.038061}
+        - {x: 0.038061142, y: 13.038061}
+        - {x: -1.9619389, y: 15.038061}
+      - - {x: 4.038061, y: 17.038061}
+        - {x: 1.0380611, y: 11.038061}
+        - {x: 1.0380611, y: 4.038061}
+        - {x: 2.0380611, y: 1.0380611}
+        - {x: 18.038061, y: 1.0380611}
+        - {x: 21.038061, y: 5.038061}
+        - {x: 21.038061, y: 16.038061}
+        - {x: 19.038061, y: 17.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdcfeb6d62047fa9b32fdec29bebfe4
+      internalID: 21300002
+      vertices:
+      - {x: 18.961939, y: 42.961937}
+      - {x: 15.961939, y: 46.961937}
+      - {x: 17.961939, y: 30.961939}
+      - {x: 19.961939, y: 38.961937}
+      - {x: 21.961939, y: 30.961939}
+      - {x: 23.961939, y: 47.961937}
+      - {x: 18.961939, y: 33.961937}
+      - {x: 39.961937, y: 47.961937}
+      - {x: 27.961939, y: 13.961939}
+      - {x: 39.961937, y: 26.961939}
+      - {x: 9.961939, y: 13.961939}
+      - {x: 4.961939, y: 46.961937}
+      - {x: -0.038061142, y: 41.961937}
+      - {x: -2.0380611, y: 36.961937}
+      - {x: -2.0380611, y: 24.961939}
+      indices:
+      - 14
+      - 13
+      - 10
+      - 12
+      - 10
+      - 13
+      - 11
+      - 10
+      - 12
+      - 1
+      - 10
+      - 11
+      - 2
+      - 10
+      - 1
+      - 8
+      - 10
+      - 2
+      - 4
+      - 8
+      - 2
+      - 5
+      - 8
+      - 4
+      - 7
+      - 8
+      - 5
+      - 9
+      - 8
+      - 7
+      - 6
+      - 3
+      - 4
+      - 5
+      - 4
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_shop_babyhyenas_Idle46x34_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 41.923878
+        height: 34
+      alignment: 9
+      pivot: {x: 0.54861337, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.961939, y: -17}
+        - {x: -20.961939, y: -5}
+        - {x: -20.961939, y: 14}
+        - {x: 3.0380611, y: 14}
+        - {x: 3.0380611, y: 13}
+        - {x: 8.038061, y: 17}
+        - {x: 17.038061, y: 17}
+        - {x: 20.038061, y: 15}
+        - {x: 21.038061, y: 12}
+        - {x: 21.038061, y: 3}
+        - {x: 18.038061, y: -1}
+        - {x: 10.038061, y: -1}
+        - {x: 11.038061, y: -3}
+        - {x: 11.038061, y: -17}
+      physicsShape:
+      - - {x: -2.9619389, y: -1}
+        - {x: -7.961939, y: -9}
+        - {x: -7.961939, y: -16}
+        - {x: 10.038061, y: -16}
+        - {x: 11.038061, y: -12}
+        - {x: 11.038061, y: -5}
+        - {x: 7.038061, y: -1}
+      - - {x: -16.961939, y: 14}
+        - {x: -18.961939, y: 8}
+        - {x: -18.961939, y: -1}
+        - {x: -15.961939, y: -2}
+        - {x: -2.9619389, y: -2}
+        - {x: 0.038061142, y: 0}
+        - {x: 0.038061142, y: 14}
+      - - {x: 8.038061, y: 17}
+        - {x: 1.0380611, y: 10}
+        - {x: 1.0380611, y: 4}
+        - {x: 2.0380611, y: 1}
+        - {x: 19.038061, y: 1}
+        - {x: 21.038061, y: 7}
+        - {x: 21.038061, y: 16}
+        - {x: 19.038061, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3207297bcf67449d8d89b403c5f09f8b
+      internalID: 21300004
+      vertices:
+      - {x: 21.961939, y: 44}
+      - {x: 19.961939, y: 30}
+      - {x: 28.961939, y: 30}
+      - {x: 18.961939, y: 41}
+      - {x: 18.961939, y: 34}
+      - {x: 38.961937, y: 46}
+      - {x: 39.961937, y: 34}
+      - {x: 39.961937, y: 43}
+      - {x: 36.961937, y: 30}
+      - {x: 35.961937, y: 48}
+      - {x: 26.961939, y: 48}
+      - {x: 29.961939, y: 14}
+      - {x: 29.961939, y: 28}
+      - {x: 9.961939, y: 14}
+      - {x: 21.961939, y: 45}
+      - {x: -2.0380611, y: 45}
+      - {x: -2.0380611, y: 26}
+      indices:
+      - 16
+      - 15
+      - 13
+      - 3
+      - 13
+      - 15
+      - 14
+      - 3
+      - 15
+      - 4
+      - 13
+      - 3
+      - 0
+      - 3
+      - 14
+      - 4
+      - 1
+      - 13
+      - 11
+      - 13
+      - 1
+      - 2
+      - 11
+      - 1
+      - 12
+      - 11
+      - 2
+      - 0
+      - 10
+      - 2
+      - 9
+      - 2
+      - 10
+      - 8
+      - 2
+      - 9
+      - 5
+      - 8
+      - 9
+      - 6
+      - 8
+      - 5
+      - 7
+      - 6
+      - 5
+      - 4
+      - 3
+      - 1
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_shop_babyhyenas_Idle46x34_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 41.957092
+        height: 32.923878
+      alignment: 9
+      pivot: {x: 0.5481791, y: 0.09111928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.021454, y: -16.461939}
+        - {x: -14.978546, y: -16.461939}
+        - {x: -20.978546, y: -8.461939}
+        - {x: -20.978546, y: 12.538061}
+        - {x: -18.978546, y: 16.538061}
+        - {x: -0.97854614, y: 16.538061}
+        - {x: 1.0214539, y: 11.538061}
+        - {x: -0.97854614, y: 5.538061}
+        - {x: -2.9785461, y: 3.5380611}
+        - {x: 3.0214539, y: 0.53806114}
+        - {x: 0.021453857, y: 3.5380611}
+        - {x: 1.0214539, y: 8.538061}
+        - {x: 8.021454, y: 15.538061}
+        - {x: 13.021454, y: 16.538061}
+        - {x: 16.021454, y: 16.538061}
+        - {x: 19.021454, y: 12.538061}
+        - {x: 21.021454, y: 9.538061}
+        - {x: 21.021454, y: -6.461939}
+      physicsShape:
+      - - {x: -0.97854614, y: 16.538061}
+        - {x: -15.978546, y: 16.538061}
+        - {x: -18.978546, y: 13.538061}
+        - {x: -18.978546, y: -1.4619389}
+        - {x: -17.978546, y: -4.461939}
+        - {x: -10.978546, y: -14.461939}
+        - {x: -5.978546, y: -15.461939}
+        - {x: 9.021454, y: -15.461939}
+        - {x: 11.021454, y: -13.461939}
+        - {x: 11.021454, y: -1.4619389}
+        - {x: 10.021454, y: 4.538061}
+      - - {x: 17.021454, y: 16.538061}
+        - {x: 12.021454, y: 16.538061}
+        - {x: 8.021454, y: 15.538061}
+        - {x: 1.0214539, y: 7.538061}
+        - {x: 1.0214539, y: 4.538061}
+        - {x: 4.021454, y: 1.5380611}
+        - {x: 17.021454, y: 1.5380611}
+        - {x: 21.021454, y: 5.538061}
+        - {x: 20.021454, y: 10.538061}
+        - {x: 19.021454, y: 13.538061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a42925707c4ed4a5cd708fba0bb858
+      internalID: 21300006
+      vertices:
+      - {x: 17.978546, y: 46.461937}
+      - {x: 17.978546, y: 35.461937}
+      - {x: 19.978546, y: 41.461937}
+      - {x: 15.978546, y: 33.461937}
+      - {x: 3.9785461, y: 13.461939}
+      - {x: -0.021453857, y: 46.461937}
+      - {x: -2.0214539, y: 42.461937}
+      - {x: -2.0214539, y: 21.461939}
+      - {x: 19.978546, y: 38.461937}
+      - {x: 21.978546, y: 30.461939}
+      - {x: 26.978546, y: 45.461937}
+      - {x: 18.978546, y: 33.461937}
+      - {x: 37.978546, y: 42.461937}
+      - {x: 39.978546, y: 23.461939}
+      - {x: 39.978546, y: 39.461937}
+      - {x: 34.978546, y: 46.461937}
+      - {x: 31.978546, y: 46.461937}
+      - {x: 28.978546, y: 13.461939}
+      indices:
+      - 4
+      - 3
+      - 17
+      - 9
+      - 17
+      - 3
+      - 10
+      - 17
+      - 9
+      - 16
+      - 17
+      - 10
+      - 13
+      - 17
+      - 16
+      - 15
+      - 13
+      - 16
+      - 12
+      - 13
+      - 15
+      - 14
+      - 13
+      - 12
+      - 11
+      - 8
+      - 9
+      - 10
+      - 9
+      - 8
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 65827e5843426b7463705ba31aebab29.bundle
+  assetBundleVariant:

@@ -1,0 +1,869 @@
+fileFormatVersion: 2
+guid: 7e0dff780ada99844a8778ab38c36a3b
+timeCreated: 1706119814
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Weapons_Laserhands30x28_4
+  - first:
+      213: 21300002
+    second: Weapons_Laserhands30x28_0
+  - first:
+      213: 21300004
+    second: Weapons_Laserhands30x28_11
+  - first:
+      213: 21300006
+    second: Weapons_Laserhands30x28_8
+  - first:
+      213: 21300008
+    second: Weapons_Laserhands30x28_7
+  - first:
+      213: 21300010
+    second: Weapons_Laserhands30x28_1
+  - first:
+      213: 21300012
+    second: Weapons_Laserhands30x28_9
+  - first:
+      213: 21300014
+    second: Weapons_Laserhands30x28_3
+  - first:
+      213: 21300016
+    second: Weapons_Laserhands30x28_13
+  - first:
+      213: 21300018
+    second: Weapons_Laserhands30x28_14
+  - first:
+      213: 21300020
+    second: Weapons_Laserhands30x28_6
+  - first:
+      213: 21300022
+    second: Weapons_Laserhands30x28_2
+  - first:
+      213: 21300024
+    second: Weapons_Laserhands30x28_12
+  - first:
+      213: 21300026
+    second: Weapons_Laserhands30x28_15
+  - first:
+      213: 21300028
+    second: Weapons_Laserhands30x28_5
+  - first:
+      213: 21300030
+    second: Weapons_Laserhands30x28_10
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapons_Laserhands30x28_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6173334, y: 0.5535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.000002, y: -14}
+        - {x: -15.000002, y: 14}
+        - {x: 14.999998, y: 14}
+        - {x: 14.999998, y: -14}
+      physicsShape:
+      - - {x: 11.999998, y: 9}
+        - {x: -3.000002, y: 9}
+        - {x: -7.000002, y: 7}
+        - {x: -7.000002, y: 0}
+        - {x: -6.000002, y: -4}
+        - {x: -2.000002, y: -6}
+        - {x: 0.9999981, y: -13}
+        - {x: 2.999998, y: -14}
+        - {x: 13.999998, y: -14}
+        - {x: 13.999998, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdd6e126df24bd5a7c1a2b194d71cf9
+      internalID: 21300000
+      vertices:
+      - {x: -3.5200043, y: 26.499996}
+      - {x: 26.479996, y: 26.499996}
+      - {x: -3.5200043, y: -1.5000029}
+      - {x: 26.479996, y: -1.5000029}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Laserhands30x28_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6173334, y: 0.5535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -14}
+        - {x: -15, y: 14}
+        - {x: 15, y: 14}
+        - {x: 15, y: -14}
+      physicsShape:
+      - - {x: 12, y: 9}
+        - {x: -3, y: 9}
+        - {x: -7, y: 7}
+        - {x: -7, y: 0}
+        - {x: -6, y: -4}
+        - {x: -2, y: -6}
+        - {x: 11, y: -6}
+        - {x: 14, y: -2}
+        - {x: 14, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d1d7884dff46c9a3f4d1f6ee73451e
+      internalID: 21300002
+      vertices:
+      - {x: -3.5200024, y: 26.499996}
+      - {x: 26.479998, y: 26.499996}
+      - {x: -3.5200024, y: -1.5000029}
+      - {x: 26.479998, y: -1.5000029}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Laserhands30x28_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6173334, y: 0.5535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999987, y: -14}
+        - {x: -14.999987, y: 14}
+        - {x: 15.000013, y: 14}
+        - {x: 15.000013, y: -14}
+      physicsShape:
+      - - {x: -2.9999866, y: 14}
+        - {x: -5.9999866, y: 11}
+        - {x: -5.9999866, y: 0}
+        - {x: 4.0000134, y: -4}
+        - {x: 15.000013, y: -4}
+        - {x: 15.000013, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2777f196a6fc4ea6a2efffc747f9664e
+      internalID: 21300004
+      vertices:
+      - {x: -3.519989, y: 26.499996}
+      - {x: 26.480011, y: 26.499996}
+      - {x: -3.519989, y: -1.5000029}
+      - {x: 26.480011, y: -1.5000029}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Laserhands30x28_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6173334, y: 0.5535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999987, y: -14}
+        - {x: -14.999987, y: 14}
+        - {x: 15.000013, y: 14}
+        - {x: 15.000013, y: -14}
+      physicsShape:
+      - - {x: 12.000013, y: 9}
+        - {x: -2.9999866, y: 9}
+        - {x: -6.9999866, y: 7}
+        - {x: -6.9999866, y: 0}
+        - {x: -5.9999866, y: -4}
+        - {x: -1.9999866, y: -6}
+        - {x: 11.000013, y: -6}
+        - {x: 14.000013, y: -2}
+        - {x: 14.000013, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5db289b035c4c2cbc7e36454383781b
+      internalID: 21300006
+      vertices:
+      - {x: -3.519989, y: 26.499996}
+      - {x: 26.480011, y: 26.499996}
+      - {x: -3.519989, y: -1.5000029}
+      - {x: 26.480011, y: -1.5000029}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Laserhands30x28_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6173334, y: 0.5535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.000002, y: -14}
+        - {x: -15.000002, y: 14}
+        - {x: 14.999998, y: 14}
+        - {x: 14.999998, y: -14}
+      physicsShape:
+      - - {x: 11.999998, y: 9}
+        - {x: -3.000002, y: 9}
+        - {x: -7.000002, y: 7}
+        - {x: -7.000002, y: 0}
+        - {x: -6.000002, y: -4}
+        - {x: -2.000002, y: -6}
+        - {x: 10.999998, y: -6}
+        - {x: 13.999998, y: -2}
+        - {x: 13.999998, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90225a6c8646472082e19f68ca9edb43
+      internalID: 21300008
+      vertices:
+      - {x: -3.5200043, y: 26.499996}
+      - {x: 26.479996, y: 26.499996}
+      - {x: -3.5200043, y: -1.5000029}
+      - {x: 26.479996, y: -1.5000029}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Laserhands30x28_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6173334, y: 0.5535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.000002, y: -14}
+        - {x: -15.000002, y: 14}
+        - {x: 14.999998, y: 14}
+        - {x: 14.999998, y: -14}
+      physicsShape:
+      - - {x: 11.999998, y: 9}
+        - {x: -3.000002, y: 9}
+        - {x: -7.000002, y: 7}
+        - {x: -7.000002, y: 0}
+        - {x: -6.000002, y: -4}
+        - {x: -2.000002, y: -6}
+        - {x: 0.9999981, y: -13}
+        - {x: 2.999998, y: -14}
+        - {x: 13.999998, y: -14}
+        - {x: 13.999998, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90fbafcc24740bdb56befc31588f078
+      internalID: 21300010
+      vertices:
+      - {x: -3.5200043, y: 26.499996}
+      - {x: 26.479996, y: 26.499996}
+      - {x: -3.5200043, y: -1.5000029}
+      - {x: 26.479996, y: -1.5000029}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Laserhands30x28_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6173334, y: 0.5535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999987, y: -14}
+        - {x: -14.999987, y: 14}
+        - {x: 15.000013, y: 14}
+        - {x: 15.000013, y: -14}
+      physicsShape:
+      - - {x: -14.999987, y: 14}
+        - {x: -14.999987, y: 3}
+        - {x: 1.335144E-05, y: -4}
+        - {x: 12.000013, y: -4}
+        - {x: 14.000013, y: -2}
+        - {x: 14.000013, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7a34a4a71d40e796ca07eed6a17f2b
+      internalID: 21300012
+      vertices:
+      - {x: -3.519989, y: 26.499996}
+      - {x: 26.480011, y: 26.499996}
+      - {x: -3.519989, y: -1.5000029}
+      - {x: 26.480011, y: -1.5000029}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Laserhands30x28_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6173334, y: 0.5535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.000002, y: -14}
+        - {x: -15.000002, y: 14}
+        - {x: 14.999998, y: 14}
+        - {x: 14.999998, y: -14}
+      physicsShape:
+      - - {x: 11.999998, y: 9}
+        - {x: -3.000002, y: 9}
+        - {x: -7.000002, y: 7}
+        - {x: -7.000002, y: 0}
+        - {x: -6.000002, y: -4}
+        - {x: -2.000002, y: -6}
+        - {x: 0.9999981, y: -13}
+        - {x: 2.999998, y: -14}
+        - {x: 13.999998, y: -14}
+        - {x: 13.999998, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9adb4295d1d45e5b14bd69683b17df6
+      internalID: 21300014
+      vertices:
+      - {x: -3.5200043, y: 26.499996}
+      - {x: 26.479996, y: 26.499996}
+      - {x: -3.5200043, y: -1.5000029}
+      - {x: 26.479996, y: -1.5000029}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Laserhands30x28_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6173334, y: 0.5535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999987, y: -14}
+        - {x: -14.999987, y: 14}
+        - {x: 15.000013, y: 14}
+        - {x: 15.000013, y: -14}
+      physicsShape:
+      - - {x: 12.000013, y: 9}
+        - {x: -2.9999866, y: 9}
+        - {x: -6.9999866, y: 7}
+        - {x: -6.9999866, y: 0}
+        - {x: -5.9999866, y: -4}
+        - {x: -1.9999866, y: -6}
+        - {x: 11.000013, y: -6}
+        - {x: 14.000013, y: -2}
+        - {x: 14.000013, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d2078c524e40d6ba1850800aedc40b
+      internalID: 21300016
+      vertices:
+      - {x: -3.519989, y: 26.499996}
+      - {x: 26.480011, y: 26.499996}
+      - {x: -3.519989, y: -1.5000029}
+      - {x: 26.480011, y: -1.5000029}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Laserhands30x28_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6173334, y: 0.5535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999987, y: -14}
+        - {x: -14.999987, y: 14}
+        - {x: 15.000013, y: 14}
+        - {x: 15.000013, y: -14}
+      physicsShape:
+      - - {x: 12.000013, y: 9}
+        - {x: -2.9999866, y: 9}
+        - {x: -6.9999866, y: 7}
+        - {x: -6.9999866, y: 0}
+        - {x: -5.9999866, y: -4}
+        - {x: -1.9999866, y: -6}
+        - {x: 11.000013, y: -6}
+        - {x: 14.000013, y: -2}
+        - {x: 14.000013, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae0165b671f42e382ea0aba16900d29
+      internalID: 21300018
+      vertices:
+      - {x: -3.519989, y: 26.499996}
+      - {x: 26.480011, y: 26.499996}
+      - {x: -3.519989, y: -1.5000029}
+      - {x: 26.480011, y: -1.5000029}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Laserhands30x28_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6173334, y: 0.5535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.000002, y: -14}
+        - {x: -15.000002, y: 14}
+        - {x: 14.999998, y: 14}
+        - {x: 14.999998, y: -14}
+      physicsShape:
+      - - {x: -3.000002, y: 10}
+        - {x: -7.000002, y: 8}
+        - {x: -7.000002, y: -4}
+        - {x: -2.000002, y: -5}
+        - {x: 12.999998, y: -5}
+        - {x: 13.999998, y: -4}
+        - {x: 13.999998, y: 8}
+        - {x: 12.999998, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b0c3bcfabb4732b4c3e4dc8b6436f7
+      internalID: 21300020
+      vertices:
+      - {x: -3.5200043, y: 26.499996}
+      - {x: 26.479996, y: 26.499996}
+      - {x: -3.5200043, y: -1.5000029}
+      - {x: 26.479996, y: -1.5000029}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Laserhands30x28_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6173334, y: 0.5535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.000002, y: -14}
+        - {x: -15.000002, y: 14}
+        - {x: 14.999998, y: 14}
+        - {x: 14.999998, y: -14}
+      physicsShape:
+      - - {x: 11.999998, y: 9}
+        - {x: -3.000002, y: 9}
+        - {x: -7.000002, y: 7}
+        - {x: -7.000002, y: 0}
+        - {x: -6.000002, y: -4}
+        - {x: -2.000002, y: -6}
+        - {x: 0.9999981, y: -13}
+        - {x: 2.999998, y: -14}
+        - {x: 13.999998, y: -14}
+        - {x: 13.999998, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b03df20b1843f380094f4ead9e9165
+      internalID: 21300022
+      vertices:
+      - {x: -3.5200043, y: 26.499996}
+      - {x: 26.479996, y: 26.499996}
+      - {x: -3.5200043, y: -1.5000029}
+      - {x: 26.479996, y: -1.5000029}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Laserhands30x28_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6173334, y: 0.5535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999987, y: -14}
+        - {x: -14.999987, y: 14}
+        - {x: 15.000013, y: 14}
+        - {x: 15.000013, y: -14}
+      physicsShape:
+      - - {x: -4.9999866, y: 9}
+        - {x: -5.9999866, y: 7}
+        - {x: -5.9999866, y: -7}
+        - {x: 15.000013, y: -7}
+        - {x: 15.000013, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749cce1bf05a4403ae75b17f5ed4cf55
+      internalID: 21300024
+      vertices:
+      - {x: -3.519989, y: 26.499996}
+      - {x: 26.480011, y: 26.499996}
+      - {x: -3.519989, y: -1.5000029}
+      - {x: 26.480011, y: -1.5000029}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Laserhands30x28_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6173334, y: 0.5535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999987, y: -14}
+        - {x: -14.999987, y: 14}
+        - {x: 15.000013, y: 14}
+        - {x: 15.000013, y: -14}
+      physicsShape:
+      - - {x: 12.000013, y: 9}
+        - {x: -2.9999866, y: 9}
+        - {x: -6.9999866, y: 7}
+        - {x: -6.9999866, y: 0}
+        - {x: -5.9999866, y: -4}
+        - {x: -1.9999866, y: -6}
+        - {x: 11.000013, y: -6}
+        - {x: 14.000013, y: -2}
+        - {x: 14.000013, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d3403936d84a7d9ea567aed9d60c45
+      internalID: 21300026
+      vertices:
+      - {x: -3.519989, y: 26.499996}
+      - {x: 26.480011, y: 26.499996}
+      - {x: -3.519989, y: -1.5000029}
+      - {x: 26.480011, y: -1.5000029}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Laserhands30x28_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6173334, y: 0.5535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.000002, y: -14}
+        - {x: -15.000002, y: 14}
+        - {x: 14.999998, y: 14}
+        - {x: 14.999998, y: -14}
+      physicsShape:
+      - - {x: 11.999998, y: 9}
+        - {x: -3.000002, y: 9}
+        - {x: -7.000002, y: 7}
+        - {x: -7.000002, y: 0}
+        - {x: -6.000002, y: -4}
+        - {x: -2.000002, y: -6}
+        - {x: 0.9999981, y: -13}
+        - {x: 2.999998, y: -14}
+        - {x: 13.999998, y: -14}
+        - {x: 13.999998, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbdf646a7d249d994c6840cc5efedca
+      internalID: 21300028
+      vertices:
+      - {x: -3.5200043, y: 26.499996}
+      - {x: 26.479996, y: 26.499996}
+      - {x: -3.5200043, y: -1.5000029}
+      - {x: 26.479996, y: -1.5000029}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Laserhands30x28_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6173334, y: 0.5535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.999987, y: -14}
+        - {x: -14.999987, y: 14}
+        - {x: 15.000013, y: 14}
+        - {x: 15.000013, y: -14}
+      physicsShape:
+      - - {x: -14.999987, y: 14}
+        - {x: -14.999987, y: 3}
+        - {x: 1.335144E-05, y: -4}
+        - {x: 12.000013, y: -4}
+        - {x: 14.000013, y: -2}
+        - {x: 14.000013, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b58bb2958434ac7885ea02fdc989f79
+      internalID: 21300030
+      vertices:
+      - {x: -3.519989, y: 26.499996}
+      - {x: 26.480011, y: 26.499996}
+      - {x: -3.519989, y: -1.5000029}
+      - {x: 26.480011, y: -1.5000029}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: dd14d2ddaa07bc34756cc666fad2ee2c.bundle
+  assetBundleVariant:

@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 8717ff94befce2846bac03e660318dac
+timeCreated: 1706119845
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ParticlesBombAnticipation66x62_3
+  - first:
+      213: 21300002
+    second: ParticlesBombAnticipation66x62_4
+  - first:
+      213: 21300004
+    second: ParticlesBombAnticipation66x62_0
+  - first:
+      213: 21300006
+    second: ParticlesBombAnticipation66x62_2
+  - first:
+      213: 21300008
+    second: ParticlesBombAnticipation66x62_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParticlesBombAnticipation66x62_3
+      rect:
+        serializedVersion: 2
+        x: 220.02675
+        y: 23.051317
+        width: 22.946497
+        height: 22.90098
+      alignment: 9
+      pivot: {x: 0.4782103, y: 0.08509168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.499997, y: -11.501807}
+        - {x: -11.499997, y: -5.501807}
+        - {x: -11.499997, y: 7.498193}
+        - {x: -5.499997, y: 11.498193}
+        - {x: 5.500003, y: 11.498193}
+        - {x: 11.500003, y: 7.498193}
+        - {x: 11.500003, y: -5.501807}
+        - {x: 9.500003, y: -11.501807}
+      physicsShape:
+      - - {x: -5.499997, y: 11.498193}
+        - {x: -11.499997, y: 7.498193}
+        - {x: -11.499997, y: -5.501807}
+        - {x: -8.499997, y: -11.501807}
+        - {x: 9.500003, y: -11.501807}
+        - {x: 11.500003, y: -5.501807}
+        - {x: 11.500003, y: 7.498193}
+        - {x: 5.500003, y: 11.498193}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68b27c04871496c947f4b9ac7aec6e2
+      internalID: 21300000
+      vertices:
+      - {x: 23.473248, y: 28.450489}
+      - {x: 21.473248, y: 9.45049}
+      - {x: 23.473248, y: 15.45049}
+      - {x: 17.473248, y: 32.45049}
+      - {x: 6.4732485, y: 32.45049}
+      - {x: 3.4732485, y: 9.45049}
+      - {x: 0.47324848, y: 28.450489}
+      - {x: 0.47324848, y: 15.45049}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBombAnticipation66x62_4
+      rect:
+        serializedVersion: 2
+        x: 286.02676
+        y: 23.07612
+        width: 22.946497
+        height: 23.847757
+      alignment: 9
+      pivot: {x: 0.47820964, y: 0.0806734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5000124, y: -11.999999}
+        - {x: -11.500012, y: -9.999999}
+        - {x: -11.500012, y: 6.000001}
+        - {x: -5.5000124, y: 12.000001}
+        - {x: 5.4999876, y: 12.000001}
+        - {x: 11.499988, y: 6.000001}
+        - {x: 11.499988, y: -3.999999}
+        - {x: 10.499988, y: -6.999999}
+        - {x: 8.499988, y: -11.999999}
+      physicsShape:
+      - - {x: 5.4999876, y: 12.000001}
+        - {x: -5.5000124, y: 12.000001}
+        - {x: -11.500012, y: 6.000001}
+        - {x: -11.500012, y: -9.999999}
+        - {x: -5.5000124, y: -11.999999}
+        - {x: 8.499988, y: -11.999999}
+        - {x: 10.499988, y: -6.999999}
+        - {x: 11.499988, y: -3.999999}
+        - {x: 11.499988, y: 6.000001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedcc893e35f46848b97cb843f4ecacf
+      internalID: 21300002
+      vertices:
+      - {x: 23.473248, y: 27.923878}
+      - {x: 22.473248, y: 14.923879}
+      - {x: 23.473248, y: 17.923878}
+      - {x: 20.473248, y: 9.923879}
+      - {x: 17.473248, y: 33.923878}
+      - {x: 6.4732485, y: 33.923878}
+      - {x: 6.4732485, y: 9.923879}
+      - {x: 0.47324848, y: 27.923878}
+      - {x: 0.47324848, y: 11.923879}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBombAnticipation66x62_0
+      rect:
+        serializedVersion: 2
+        x: 24.02675
+        y: 23.047705
+        width: 18.946497
+        height: 17.925543
+      alignment: 9
+      pivot: {x: 0.42082974, y: 0.10891125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.500001, y: -9.010476}
+        - {x: -9.499999, y: -9.010476}
+        - {x: -9.499999, y: 4.989524}
+        - {x: -3.499999, y: 8.989524}
+        - {x: 6.500001, y: 8.989524}
+        - {x: 9.500001, y: 5.989524}
+        - {x: 9.500001, y: -5.010476}
+      physicsShape:
+      - - {x: -3.499999, y: 8.989524}
+        - {x: -9.499999, y: 4.989524}
+        - {x: -9.499999, y: -9.010476}
+        - {x: 8.500001, y: -9.010476}
+        - {x: 9.500001, y: -5.010476}
+        - {x: 9.500001, y: 5.989524}
+        - {x: 6.500001, y: 8.989524}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45e59d55f9d4b9b90dc7197e4c1302f
+      internalID: 21300004
+      vertices:
+      - {x: 20.473248, y: 21.962772}
+      - {x: 19.473248, y: 6.9627733}
+      - {x: 20.473248, y: 10.962773}
+      - {x: 17.473248, y: 24.962772}
+      - {x: 7.4732485, y: 24.962772}
+      - {x: 1.4732485, y: 20.962772}
+      - {x: 1.4732485, y: 6.9627733}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBombAnticipation66x62_2
+      rect:
+        serializedVersion: 2
+        x: 155.02675
+        y: 22.047705
+        width: 20.946497
+        height: 19.925543
+      alignment: 9
+      pivot: {x: 0.42838913, y: 0.14816637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.499997, y: -10.010476}
+        - {x: -10.499997, y: -8.010476}
+        - {x: -10.499997, y: 3.989524}
+        - {x: -5.499997, y: 9.989524}
+        - {x: 3.5000029, y: 9.989524}
+        - {x: 10.500003, y: 5.989524}
+        - {x: 10.500003, y: -10.010476}
+      physicsShape:
+      - - {x: -5.499997, y: 9.989524}
+        - {x: -10.499997, y: 3.989524}
+        - {x: -10.499997, y: -8.010476}
+        - {x: -5.499997, y: -10.010476}
+        - {x: 10.500003, y: -10.010476}
+        - {x: 10.500003, y: 5.989524}
+        - {x: 3.5000029, y: 9.989524}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601bf896b32643eab7ecd3a49905de63
+      internalID: 21300006
+      vertices:
+      - {x: 15.4732485, y: 26.962772}
+      - {x: 22.473248, y: 6.9627714}
+      - {x: 22.473248, y: 22.962772}
+      - {x: 6.4732485, y: 26.962772}
+      - {x: 6.4732485, y: 6.9627714}
+      - {x: 1.4732485, y: 20.962772}
+      - {x: 1.4732485, y: 8.962771}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesBombAnticipation66x62_1
+      rect:
+        serializedVersion: 2
+        x: 90.02675
+        y: 23.047705
+        width: 18.946497
+        height: 17.925543
+      alignment: 9
+      pivot: {x: 0.42082983, y: 0.10891125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.500003, y: -9.010476}
+        - {x: -9.499997, y: -9.010476}
+        - {x: -9.499997, y: 4.989524}
+        - {x: -3.4999971, y: 8.989524}
+        - {x: 6.500003, y: 8.989524}
+        - {x: 9.500003, y: 5.989524}
+        - {x: 9.500003, y: -5.010476}
+      physicsShape:
+      - - {x: -3.4999971, y: 8.989524}
+        - {x: -9.499997, y: 4.989524}
+        - {x: -9.499997, y: -9.010476}
+        - {x: 8.500003, y: -9.010476}
+        - {x: 9.500003, y: -5.010476}
+        - {x: 9.500003, y: 5.989524}
+        - {x: 6.500003, y: 8.989524}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be24792743942ed8089a768c41d2ed9
+      internalID: 21300008
+      vertices:
+      - {x: 20.473248, y: 21.962772}
+      - {x: 19.473248, y: 6.9627733}
+      - {x: 20.473248, y: 10.962773}
+      - {x: 17.473248, y: 24.962772}
+      - {x: 7.4732485, y: 24.962772}
+      - {x: 1.4732485, y: 20.962772}
+      - {x: 1.4732485, y: 6.9627733}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

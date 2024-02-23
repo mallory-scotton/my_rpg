@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 8b3af6a875e293e4aaff05b1e4f73bbf
+timeCreated: 1706119823
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Chest_Ingredients_Opening3
+  - first:
+      213: 21300002
+    second: Chest_Ingredients_Opening4
+  - first:
+      213: 21300004
+    second: Chest_Ingredients_Opening2
+  - first:
+      213: 21300006
+    second: Chest_Ingredients_Idle3
+  - first:
+      213: 21300008
+    second: Chest_Ingredients_Idle5
+  - first:
+      213: 21300010
+    second: Chest_Ingredients_Opening5
+  - first:
+      213: 21300012
+    second: Chest_Ingredients_Idle1
+  - first:
+      213: 21300014
+    second: Chest_Ingredients_Idle4
+  - first:
+      213: 21300016
+    second: Chest_Ingredients_Idle2
+  - first:
+      213: 21300018
+    second: Chest_Ingredients_Opening0
+  - first:
+      213: 21300020
+    second: Chest_Ingredients_Opening1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chest_Ingredients_Opening3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -15}
+        - {x: -20, y: 15}
+        - {x: 20, y: 15}
+        - {x: 20, y: -15}
+      physicsShape:
+      - - {x: -10, y: 12}
+        - {x: -14, y: 10}
+        - {x: -14, y: -6}
+        - {x: -9, y: -13}
+        - {x: 11, y: -13}
+        - {x: 15, y: -9}
+        - {x: 15, y: 6}
+        - {x: 13, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6a9e94058a4f12a4902f9b38a62207
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 40, y: 45}
+      - {x: 0, y: 15}
+      - {x: 40, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Ingredients_Opening4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -15}
+        - {x: -20, y: 15}
+        - {x: 20, y: 15}
+        - {x: 20, y: -15}
+      physicsShape:
+      - - {x: -12, y: 9}
+        - {x: -17, y: 6}
+        - {x: -17, y: -7}
+        - {x: -14, y: -15}
+        - {x: 15, y: -15}
+        - {x: 18, y: -13}
+        - {x: 18, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0df77c96f14eaf892f75dd9a4cdf49
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 40, y: 45}
+      - {x: 0, y: 15}
+      - {x: 40, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Ingredients_Opening2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -15}
+        - {x: -20, y: 15}
+        - {x: 20, y: 15}
+        - {x: 20, y: -15}
+      physicsShape:
+      - - {x: -10, y: 6}
+        - {x: -17, y: 0}
+        - {x: -17, y: -9}
+        - {x: -13, y: -15}
+        - {x: 16, y: -15}
+        - {x: 18, y: -14}
+        - {x: 18, y: 0}
+        - {x: 15, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e69e4f74cf49308a01e7d0ee753d63
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 40, y: 45}
+      - {x: 0, y: 15}
+      - {x: 40, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Ingredients_Idle3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -15}
+        - {x: -20, y: 15}
+        - {x: 20, y: 15}
+        - {x: 20, y: -15}
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -9}
+        - {x: -13, y: -15}
+        - {x: 14, y: -15}
+        - {x: 17, y: -13}
+        - {x: 17, y: 2}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c66e99f34e64e0c968dc5b29d2a9881
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 40, y: 45}
+      - {x: 0, y: 15}
+      - {x: 40, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Ingredients_Idle5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -15}
+        - {x: -20, y: 15}
+        - {x: 20, y: 15}
+        - {x: 20, y: -15}
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -9}
+        - {x: -13, y: -15}
+        - {x: 14, y: -15}
+        - {x: 17, y: -13}
+        - {x: 17, y: 2}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58df8f9506f47eebbceadeaad012463
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 40, y: 45}
+      - {x: 0, y: 15}
+      - {x: 40, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Ingredients_Opening5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -15}
+        - {x: -20, y: 15}
+        - {x: 20, y: 15}
+        - {x: 20, y: -15}
+      physicsShape:
+      - - {x: 7, y: 11}
+        - {x: -6, y: 11}
+        - {x: -15, y: 6}
+        - {x: -15, y: -5}
+        - {x: -14, y: -9}
+        - {x: -10, y: -15}
+        - {x: 14, y: -15}
+        - {x: 16, y: -9}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ae5cfc22924fd6b65f828c01db77ab
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 40, y: 45}
+      - {x: 0, y: 15}
+      - {x: 40, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Ingredients_Idle1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -15}
+        - {x: -20, y: 15}
+        - {x: 20, y: 15}
+        - {x: 20, y: -15}
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -9}
+        - {x: -13, y: -15}
+        - {x: 14, y: -15}
+        - {x: 17, y: -13}
+        - {x: 17, y: 2}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a595d4a8eef4385a71a2bc2ff11d38c
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 40, y: 45}
+      - {x: 0, y: 15}
+      - {x: 40, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Ingredients_Idle4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -15}
+        - {x: -20, y: 15}
+        - {x: 20, y: 15}
+        - {x: 20, y: -15}
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -9}
+        - {x: -13, y: -15}
+        - {x: 14, y: -15}
+        - {x: 17, y: -13}
+        - {x: 17, y: 2}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5141aac0302b40e49a662b7b499c6936
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 40, y: 45}
+      - {x: 0, y: 15}
+      - {x: 40, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Ingredients_Idle2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -15}
+        - {x: -20, y: 15}
+        - {x: 20, y: 15}
+        - {x: 20, y: -15}
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -9}
+        - {x: -13, y: -15}
+        - {x: 14, y: -15}
+        - {x: 17, y: -13}
+        - {x: 17, y: 2}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1489eecc5a5d4313b07c8f56d8d39755
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 40, y: 45}
+      - {x: 0, y: 15}
+      - {x: 40, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Ingredients_Opening0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -15}
+        - {x: -20, y: 15}
+        - {x: 20, y: 15}
+        - {x: 20, y: -15}
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -9}
+        - {x: -13, y: -15}
+        - {x: 14, y: -15}
+        - {x: 17, y: -13}
+        - {x: 17, y: 2}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037a5257b55d4863a778d4378c4bec8c
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 40, y: 45}
+      - {x: 0, y: 15}
+      - {x: 40, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Ingredients_Opening1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -15}
+        - {x: -20, y: 15}
+        - {x: 20, y: 15}
+        - {x: 20, y: -15}
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -9}
+        - {x: -13, y: -15}
+        - {x: 14, y: -15}
+        - {x: 17, y: -13}
+        - {x: 17, y: 2}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6253318df62a41f0b684864d0dec965f
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 45}
+      - {x: 40, y: 45}
+      - {x: 0, y: 15}
+      - {x: 40, y: 15}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 65827e5843426b7463705ba31aebab29.bundle
+  assetBundleVariant:

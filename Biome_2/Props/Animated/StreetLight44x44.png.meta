@@ -1,0 +1,735 @@
+fileFormatVersion: 2
+guid: 951a2b4e5771f594f81bd91202da4e00
+timeCreated: 1706119810
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: StreetLight44x44_4
+  - first:
+      213: 21300002
+    second: StreetLight44x44_5
+  - first:
+      213: 21300004
+    second: StreetLight44x44_3
+  - first:
+      213: 21300006
+    second: StreetLight44x44_1
+  - first:
+      213: 21300008
+    second: StreetLight44x44_0
+  - first:
+      213: 21300010
+    second: StreetLight44x44_2
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StreetLight44x44_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 14}
+        - {x: -16, y: 14}
+        - {x: -10, y: 22}
+        - {x: 22, y: 22}
+        - {x: 22, y: 6}
+        - {x: 5, y: -22}
+        - {x: -22, y: -22}
+        - {x: -22, y: 3}
+        - {x: -22, y: 5}
+        - {x: -22, y: 6}
+        - {x: -21, y: 7}
+        - {x: -21, y: 7}
+        - {x: -18, y: 11}
+        - {x: -18, y: 12}
+      physicsShape:
+      - - {x: 22, y: 8}
+        - {x: 22, y: 22}
+        - {x: 2, y: 22}
+        - {x: -10, y: 14}
+        - {x: -18, y: 4}
+        - {x: -16, y: -11}
+        - {x: -22, y: -16}
+        - {x: -22, y: -22}
+        - {x: 1, y: -22}
+        - {x: 5, y: -17}
+        - {x: -4, y: 1}
+        - {x: 21, y: 5}
+      - - {x: -22, y: 3}
+        - {x: -21, y: 2}
+        - {x: -18, y: 3}
+        - {x: -18, y: 6}
+        - {x: -21, y: 7}
+        - {x: -22, y: 6}
+      - - {x: -16, y: 9}
+        - {x: -13, y: 10}
+        - {x: -13, y: 13}
+        - {x: -16, y: 14}
+        - {x: -18, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653ad605d09c44c5a29e9cf382f82931
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 50}
+      - {x: 1, y: 51}
+      - {x: 1, y: 51}
+      - {x: 0, y: 49}
+      - {x: 4, y: 55}
+      - {x: 4, y: 50}
+      - {x: 4, y: 47}
+      - {x: 1, y: 46}
+      - {x: 0, y: 47}
+      - {x: 6, y: 58}
+      - {x: 6, y: 58}
+      - {x: 4, y: 56}
+      - {x: 12, y: 66}
+      - {x: 9, y: 57}
+      - {x: 44, y: 66}
+      - {x: 27, y: 22}
+      - {x: 44, y: 50}
+      - {x: 9, y: 54}
+      - {x: 6, y: 53}
+      - {x: 0, y: 22}
+      indices:
+      - 4
+      - 10
+      - 18
+      - 17
+      - 18
+      - 10
+      - 13
+      - 17
+      - 10
+      - 8
+      - 7
+      - 19
+      - 15
+      - 19
+      - 7
+      - 6
+      - 15
+      - 7
+      - 5
+      - 15
+      - 6
+      - 18
+      - 15
+      - 5
+      - 4
+      - 18
+      - 5
+      - 17
+      - 15
+      - 18
+      - 13
+      - 15
+      - 17
+      - 12
+      - 15
+      - 13
+      - 14
+      - 15
+      - 12
+      - 16
+      - 15
+      - 14
+      - 13
+      - 10
+      - 12
+      - 11
+      - 9
+      - 4
+      - 10
+      - 4
+      - 9
+      - 8
+      - 3
+      - 7
+      - 1
+      - 7
+      - 3
+      - 6
+      - 7
+      - 1
+      - 5
+      - 6
+      - 1
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetLight44x44_5
+      rect:
+        serializedVersion: 2
+        x: 220.07613
+        y: 0
+        width: 43.923878
+        height: 44
+      alignment: 9
+      pivot: {x: 0.49913338, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.038065, y: 10}
+        - {x: -19.038065, y: 13}
+        - {x: -17.038065, y: 15}
+        - {x: -14.038065, y: 14}
+        - {x: -14.038065, y: 11}
+      - - {x: 0.96193504, y: -22}
+        - {x: -22.038065, y: -22}
+        - {x: -22.038065, y: -11}
+        - {x: -20.038065, y: 4}
+        - {x: -0.038064957, y: 22}
+        - {x: 21.961935, y: 22}
+        - {x: 21.961935, y: 8}
+        - {x: 20.961935, y: 5}
+        - {x: 4.961935, y: -17}
+      physicsShape:
+      - - {x: 21.961935, y: 8}
+        - {x: 21.961935, y: 22}
+        - {x: 1.961935, y: 22}
+        - {x: -10.038065, y: 13}
+        - {x: -18.038065, y: 4}
+        - {x: -17.038065, y: -6}
+        - {x: -22.038065, y: -15}
+        - {x: -22.038065, y: -22}
+        - {x: 0.96193504, y: -22}
+        - {x: 4.961935, y: -17}
+        - {x: -4.038065, y: 1}
+        - {x: 20.961935, y: 5}
+      - - {x: -17.038065, y: 10}
+        - {x: -14.038065, y: 11}
+        - {x: -14.038065, y: 14}
+        - {x: -17.038065, y: 15}
+        - {x: -19.038065, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27a9ef1122348869f8cebee6cf0e2f9
+      internalID: 21300002
+      vertices:
+      - {x: 43.961937, y: 66}
+      - {x: 42.961937, y: 49}
+      - {x: 43.961937, y: 52}
+      - {x: 26.961939, y: 27}
+      - {x: 22.961939, y: 22}
+      - {x: 21.961939, y: 66}
+      - {x: 1.9619389, y: 48}
+      - {x: -0.038061142, y: 33}
+      - {x: -0.038061142, y: 22}
+      - {x: 4.961939, y: 59}
+      - {x: 7.961939, y: 55}
+      - {x: 7.961939, y: 58}
+      - {x: 4.961939, y: 54}
+      - {x: 2.9619389, y: 57}
+      indices:
+      - 13
+      - 9
+      - 12
+      - 10
+      - 12
+      - 9
+      - 11
+      - 10
+      - 9
+      - 8
+      - 7
+      - 4
+      - 6
+      - 4
+      - 7
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetLight44x44_3
+      rect:
+        serializedVersion: 2
+        x: 132.01291
+        y: 0
+        width: 43.987087
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4998533, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.006453, y: -13}
+        - {x: -18.006453, y: 4}
+        - {x: -20.006453, y: 3}
+        - {x: -22.006453, y: 6}
+        - {x: -20.006453, y: 8}
+        - {x: -17.006453, y: 7}
+        - {x: -17.006453, y: 10}
+        - {x: -16.006453, y: 13}
+        - {x: -13.006453, y: 14}
+        - {x: -0.0064525604, y: 22}
+        - {x: 21.993547, y: 22}
+        - {x: 21.993547, y: 7}
+        - {x: 8.993547, y: -16}
+        - {x: 1.9935474, y: -22}
+        - {x: -22.006453, y: -22}
+      physicsShape:
+      - - {x: 21.993547, y: 8}
+        - {x: 21.993547, y: 22}
+        - {x: -0.0064525604, y: 22}
+        - {x: -13.006453, y: 14}
+        - {x: -16.006453, y: 13}
+        - {x: -17.006453, y: 10}
+        - {x: -18.006453, y: 4}
+        - {x: -22.006453, y: -13}
+        - {x: -22.006453, y: -22}
+        - {x: 0.99354744, y: -22}
+        - {x: 4.9935474, y: -17}
+        - {x: -4.0064526, y: 1}
+        - {x: 20.993547, y: 5}
+      - - {x: -20.006453, y: 3}
+        - {x: -17.006453, y: 4}
+        - {x: -17.006453, y: 7}
+        - {x: -20.006453, y: 8}
+        - {x: -22.006453, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ef3f4e74e34ed6a5ed5caa97923b38
+      internalID: 21300004
+      vertices:
+      - {x: 4.9935436, y: 51}
+      - {x: 3.9935436, y: 48}
+      - {x: 3.9935436, y: 48}
+      - {x: 1.9935436, y: 52}
+      - {x: 1.9935436, y: 47}
+      - {x: -0.006456375, y: 50}
+      - {x: 4.9935436, y: 54}
+      - {x: 4.9935436, y: 51}
+      - {x: 43.993546, y: 66}
+      - {x: 30.993544, y: 28}
+      - {x: 43.993546, y: 51}
+      - {x: 23.993544, y: 22}
+      - {x: 21.993544, y: 66}
+      - {x: 8.993544, y: 58}
+      - {x: 5.9935436, y: 57}
+      - {x: 4.9935436, y: 48}
+      - {x: -0.006456375, y: 31}
+      - {x: -0.006456375, y: 22}
+      indices:
+      - 1
+      - 2
+      - 15
+      - 0
+      - 15
+      - 2
+      - 7
+      - 15
+      - 0
+      - 17
+      - 16
+      - 11
+      - 1
+      - 11
+      - 16
+      - 15
+      - 11
+      - 1
+      - 7
+      - 11
+      - 15
+      - 6
+      - 11
+      - 7
+      - 14
+      - 11
+      - 6
+      - 13
+      - 11
+      - 14
+      - 12
+      - 11
+      - 13
+      - 8
+      - 11
+      - 12
+      - 9
+      - 11
+      - 8
+      - 10
+      - 9
+      - 8
+      - 7
+      - 0
+      - 6
+      - 5
+      - 3
+      - 4
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetLight44x44_1
+      rect:
+        serializedVersion: 2
+        x: 44.076122
+        y: 0
+        width: 43.923878
+        height: 44
+      alignment: 9
+      pivot: {x: 0.49913347, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.9619389, y: -22}
+        - {x: -22.038061, y: -22}
+        - {x: -22.038061, y: 7}
+        - {x: -11.038061, y: 22}
+        - {x: 21.961939, y: 22}
+        - {x: 21.961939, y: 7}
+        - {x: 8.961939, y: -16}
+      physicsShape:
+      - - {x: 21.961939, y: 8}
+        - {x: 21.961939, y: 22}
+        - {x: 1.9619389, y: 22}
+        - {x: -17.038061, y: 9}
+        - {x: -18.038061, y: 6}
+        - {x: -15.038061, y: -12}
+        - {x: -22.038061, y: -16}
+        - {x: -22.038061, y: -22}
+        - {x: 0.96193886, y: -22}
+        - {x: 4.961939, y: -17}
+        - {x: -4.038061, y: 1}
+        - {x: 20.961939, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc6980e663f491c8dbe216cbbba27f2
+      internalID: 21300006
+      vertices:
+      - {x: 43.961937, y: 66}
+      - {x: 30.961939, y: 28}
+      - {x: 43.961937, y: 51}
+      - {x: 25.961939, y: 22}
+      - {x: 10.961939, y: 66}
+      - {x: -0.038061142, y: 51}
+      - {x: -0.038061142, y: 22}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetLight44x44_0
+      rect:
+        serializedVersion: 2
+        x: 0.076120496
+        y: 0
+        width: 43.923878
+        height: 44
+      alignment: 9
+      pivot: {x: 0.49913353, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.03806, y: 11}
+        - {x: -20.03806, y: 14}
+        - {x: -18.03806, y: 16}
+        - {x: -15.038059, y: 15}
+        - {x: -15.038059, y: 12}
+      - - {x: 1.9619408, y: -22}
+        - {x: -22.03806, y: -22}
+        - {x: -22.03806, y: -11}
+        - {x: -19.03806, y: 7}
+        - {x: -0.038059235, y: 22}
+        - {x: 21.96194, y: 22}
+        - {x: 21.96194, y: 7}
+        - {x: 8.961941, y: -16}
+      physicsShape:
+      - - {x: 21.96194, y: 8}
+        - {x: 21.96194, y: 22}
+        - {x: -0.038059235, y: 22}
+        - {x: -19.03806, y: 7}
+        - {x: -16.03806, y: -6}
+        - {x: -22.03806, y: -15}
+        - {x: -22.03806, y: -22}
+        - {x: 0.96194077, y: -22}
+        - {x: 4.961941, y: -17}
+        - {x: -4.038059, y: 1}
+        - {x: 20.96194, y: 5}
+      - - {x: -18.03806, y: 11}
+        - {x: -15.038059, y: 12}
+        - {x: -15.038059, y: 15}
+        - {x: -18.03806, y: 16}
+        - {x: -20.03806, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead1b8fa45bd4a6f95c738dbed42c640
+      internalID: 21300008
+      vertices:
+      - {x: 43.961937, y: 66}
+      - {x: 30.961939, y: 28}
+      - {x: 43.961937, y: 51}
+      - {x: 23.961939, y: 22}
+      - {x: 21.961939, y: 66}
+      - {x: 2.9619389, y: 51}
+      - {x: -0.038061142, y: 33}
+      - {x: -0.038061142, y: 22}
+      - {x: 3.9619389, y: 60}
+      - {x: 6.961939, y: 56}
+      - {x: 6.961939, y: 59}
+      - {x: 3.9619389, y: 55}
+      - {x: 1.9619389, y: 58}
+      indices:
+      - 12
+      - 8
+      - 11
+      - 9
+      - 11
+      - 8
+      - 10
+      - 9
+      - 8
+      - 7
+      - 6
+      - 3
+      - 5
+      - 3
+      - 6
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetLight44x44_2
+      rect:
+        serializedVersion: 2
+        x: 88.07612
+        y: 0
+        width: 43.923878
+        height: 44
+      alignment: 9
+      pivot: {x: 0.49913356, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.9619427, y: -22}
+        - {x: -22.038057, y: -22}
+        - {x: -22.038057, y: 8}
+        - {x: 0.9619427, y: 22}
+        - {x: 21.961943, y: 22}
+        - {x: 21.961943, y: 7}
+        - {x: 8.961943, y: -16}
+      physicsShape:
+      - - {x: 21.961943, y: 8}
+        - {x: 21.961943, y: 22}
+        - {x: 4.9619427, y: 22}
+        - {x: 1.9619427, y: 16}
+        - {x: -10.038057, y: 15}
+        - {x: -22.038057, y: 8}
+        - {x: -22.038057, y: 3}
+        - {x: -17.038057, y: -11}
+        - {x: -22.038057, y: -16}
+        - {x: -22.038057, y: -22}
+        - {x: 0.9619427, y: -22}
+        - {x: 4.9619427, y: -17}
+        - {x: -4.0380573, y: 1}
+        - {x: 20.961943, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d6926e2fd345ef8761b0dcfff9a647
+      internalID: 21300010
+      vertices:
+      - {x: 43.961937, y: 66}
+      - {x: 30.961939, y: 28}
+      - {x: 43.961937, y: 51}
+      - {x: 23.961939, y: 22}
+      - {x: 22.961939, y: 66}
+      - {x: -0.038061142, y: 52}
+      - {x: -0.038061142, y: 22}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 4cccb9c8fa36edf1f03dae7baaef6041.bundle
+  assetBundleVariant:

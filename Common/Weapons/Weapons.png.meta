@@ -1,0 +1,8959 @@
+fileFormatVersion: 2
+guid: 84c53d0a1a2d6d24da93bfc7e732f257
+timeCreated: 1706119843
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: DropTurboShotgun
+  - first:
+      213: 21300002
+    second: DropBoomerang
+  - first:
+      213: 21300004
+    second: Gatling
+  - first:
+      213: 21300006
+    second: Hand_Crown2
+  - first:
+      213: 21300008
+    second: DropAlteredPistol
+  - first:
+      213: 21300010
+    second: Pistol24k
+  - first:
+      213: 21300012
+    second: dropnewweapon2
+  - first:
+      213: 21300014
+    second: Hand_AKxolotl1
+  - first:
+      213: 21300016
+    second: Hand_Wooper2
+  - first:
+      213: 21300018
+    second: Grenade
+  - first:
+      213: 21300020
+    second: RPG
+  - first:
+      213: 21300022
+    second: Crossbow
+  - first:
+      213: 21300024
+    second: Hand_Croakker1
+  - first:
+      213: 21300026
+    second: Hand_Olm1
+  - first:
+      213: 21300028
+    second: Mouser
+  - first:
+      213: 21300030
+    second: DropHeavyMachine
+  - first:
+      213: 21300032
+    second: PondEagle24k
+  - first:
+      213: 21300034
+    second: DropScythe
+  - first:
+      213: 21300036
+    second: DropFlaregun
+  - first:
+      213: 21300038
+    second: RustyAK
+  - first:
+      213: 21300040
+    second: AdvancedRifle
+  - first:
+      213: 21300042
+    second: DualPistol
+  - first:
+      213: 21300044
+    second: Katana
+  - first:
+      213: 21300046
+    second: Hand_CrocoBig2
+  - first:
+      213: 21300048
+    second: Hand_Flamingo1
+  - first:
+      213: 21300050
+    second: DropCarbine
+  - first:
+      213: 21300052
+    second: Hand_Crown1
+  - first:
+      213: 21300054
+    second: Hand_Monkey1
+  - first:
+      213: 21300056
+    second: Hand_Foxy
+  - first:
+      213: 21300058
+    second: DropMachete
+  - first:
+      213: 21300060
+    second: Hand_Skeleton1
+  - first:
+      213: 21300062
+    second: Hand_CrocoLittle1
+  - first:
+      213: 21300064
+    second: Hand_BaldRat1
+  - first:
+      213: 21300066
+    second: DropAxe
+  - first:
+      213: 21300068
+    second: Butcher
+  - first:
+      213: 21300070
+    second: Hand_Monkey2
+  - first:
+      213: 21300072
+    second: Hand_Ratkuza1
+  - first:
+      213: 21300074
+    second: DropRustyAK
+  - first:
+      213: 21300076
+    second: Revolver
+  - first:
+      213: 21300078
+    second: DropPistol
+  - first:
+      213: 21300080
+    second: Carbine
+  - first:
+      213: 21300082
+    second: Blowgun
+  - first:
+      213: 21300084
+    second: DropCrossbow
+  - first:
+      213: 21300086
+    second: Hand_Goose2
+  - first:
+      213: 21300088
+    second: DropGrenadeLauncher
+  - first:
+      213: 21300090
+    second: Hand_Lavender1
+  - first:
+      213: 21300092
+    second: Bomb
+  - first:
+      213: 21300094
+    second: Doom
+  - first:
+      213: 21300096
+    second: DropSuppressedPIstol
+  - first:
+      213: 21300098
+    second: DropMjolnir
+  - first:
+      213: 21300100
+    second: CarbonPistol
+  - first:
+      213: 21300102
+    second: PipeGun24k
+  - first:
+      213: 21300104
+    second: AutoSniper
+  - first:
+      213: 21300106
+    second: Hand_LabRat2
+  - first:
+      213: 21300108
+    second: DropCOwpup
+  - first:
+      213: 21300110
+    second: MP5
+  - first:
+      213: 21300112
+    second: DropMouser
+  - first:
+      213: 21300114
+    second: dropnewweapon5
+  - first:
+      213: 21300116
+    second: Hand_Olm2
+  - first:
+      213: 21300118
+    second: Hand_Raccoon1
+  - first:
+      213: 21300120
+    second: Weapons_FishingBait
+  - first:
+      213: 21300122
+    second: Bow
+  - first:
+      213: 21300124
+    second: DropKnife
+  - first:
+      213: 21300126
+    second: Hand_Weird1
+  - first:
+      213: 21300128
+    second: SuppressedPistol
+  - first:
+      213: 21300130
+    second: DropKalas
+  - first:
+      213: 21300132
+    second: Hand_Croco1
+  - first:
+      213: 21300134
+    second: dropnewweapon1
+  - first:
+      213: 21300136
+    second: DropRustyRevolver
+  - first:
+      213: 21300138
+    second: DropBigSpikyStick
+  - first:
+      213: 21300140
+    second: DropUzi
+  - first:
+      213: 21300142
+    second: Flaregun
+  - first:
+      213: 21300144
+    second: Hand_Salagunner1
+  - first:
+      213: 21300146
+    second: DropDualPistol
+  - first:
+      213: 21300148
+    second: GrenadeLauncher
+  - first:
+      213: 21300150
+    second: Hand_Platypus1
+  - first:
+      213: 21300152
+    second: Machete
+  - first:
+      213: 21300154
+    second: Hand_Foxy1
+  - first:
+      213: 21300156
+    second: Hand_CinnamonRat1
+  - first:
+      213: 21300158
+    second: BigSpikyStick
+  - first:
+      213: 21300160
+    second: Hand_Raccoon2
+  - first:
+      213: 21300162
+    second: Hand_Shark2
+  - first:
+      213: 21300164
+    second: DropHeavyRevolver
+  - first:
+      213: 21300166
+    second: Hand_Skeleton2
+  - first:
+      213: 21300168
+    second: Hand_Shark1
+  - first:
+      213: 21300170
+    second: Hand_Frog2
+  - first:
+      213: 21300172
+    second: PewPewer
+  - first:
+      213: 21300174
+    second: Hand_Slime1
+  - first:
+      213: 21300176
+    second: DropAutoSniper
+  - first:
+      213: 21300178
+    second: Spas
+  - first:
+      213: 21300180
+    second: Hand_Draco1
+  - first:
+      213: 21300182
+    second: Hand_Squarrel1
+  - first:
+      213: 21300184
+    second: Scythe
+  - first:
+      213: 21300186
+    second: RustyRevolver
+  - first:
+      213: 21300188
+    second: Hand_Koi2
+  - first:
+      213: 21300190
+    second: dropnewweapon3
+  - first:
+      213: 21300192
+    second: Hand_Corgi1
+  - first:
+      213: 21300194
+    second: Motorblade
+  - first:
+      213: 21300196
+    second: Hand_CinnamonRat2
+  - first:
+      213: 21300198
+    second: Hand_BaldRat2
+  - first:
+      213: 21300200
+    second: Hand_Slime2
+  - first:
+      213: 21300202
+    second: Hand_Imp2
+  - first:
+      213: 21300204
+    second: MultiRPG
+  - first:
+      213: 21300206
+    second: Axe
+  - first:
+      213: 21300208
+    second: Hand_Platypus3
+  - first:
+      213: 21300210
+    second: Hand_Pengu1
+  - first:
+      213: 21300212
+    second: Hand_Goose1
+  - first:
+      213: 21300214
+    second: Hand_Trans2
+  - first:
+      213: 21300216
+    second: DropGatling
+  - first:
+      213: 21300218
+    second: DropQuakser
+  - first:
+      213: 21300220
+    second: PocketPistol
+  - first:
+      213: 21300222
+    second: DropGrenade
+  - first:
+      213: 21300224
+    second: AK
+  - first:
+      213: 21300226
+    second: Hand_Croco2
+  - first:
+      213: 21300228
+    second: Hand_Skull1
+  - first:
+      213: 21300230
+    second: Hand_Brat1
+  - first:
+      213: 21300232
+    second: Hand_Midas1
+  - first:
+      213: 21300234
+    second: Hand_Squarrel2
+  - first:
+      213: 21300236
+    second: DropSpas
+  - first:
+      213: 21300238
+    second: FlintRifle
+  - first:
+      213: 21300240
+    second: Hand_Robot2
+  - first:
+      213: 21300242
+    second: Hand_Salagunner2
+  - first:
+      213: 21300244
+    second: DropRatvolver
+  - first:
+      213: 21300246
+    second: AWP
+  - first:
+      213: 21300248
+    second: Mjolnir
+  - first:
+      213: 21300250
+    second: Knife24k
+  - first:
+      213: 21300252
+    second: Hand_Toad2
+  - first:
+      213: 21300254
+    second: DropPondEagle
+  - first:
+      213: 21300256
+    second: Knife
+  - first:
+      213: 21300258
+    second: Hand_Chupacabra1
+  - first:
+      213: 21300260
+    second: Ratvolver
+  - first:
+      213: 21300262
+    second: Hand_Robot1
+  - first:
+      213: 21300264
+    second: Mouser24k
+  - first:
+      213: 21300266
+    second: Quakser
+  - first:
+      213: 21300268
+    second: Hand_Albino2
+  - first:
+      213: 21300270
+    second: Hand_Chupacabra2
+  - first:
+      213: 21300272
+    second: Hand_Ratkuza2
+  - first:
+      213: 21300274
+    second: Hand_Fox1
+  - first:
+      213: 21300276
+    second: PipeGun
+  - first:
+      213: 21300278
+    second: TurboShotgun
+  - first:
+      213: 21300280
+    second: Hand_Frog1
+  - first:
+      213: 21300282
+    second: WaterGun
+  - first:
+      213: 21300284
+    second: Hand_Brat2
+  - first:
+      213: 21300286
+    second: Uzi
+  - first:
+      213: 21300288
+    second: DropMotorblade
+  - first:
+      213: 21300290
+    second: Hand_Trans1
+  - first:
+      213: 21300292
+    second: Hand_Flamingo2
+  - first:
+      213: 21300294
+    second: DropBoomstick
+  - first:
+      213: 21300296
+    second: DropRPG
+  - first:
+      213: 21300298
+    second: Hand_Imp1
+  - first:
+      213: 21300300
+    second: HeavyMachine
+  - first:
+      213: 21300302
+    second: Weapons_FishingBaitWater
+  - first:
+      213: 21300304
+    second: TacticalPistol
+  - first:
+      213: 21300306
+    second: GoldenAK
+  - first:
+      213: 21300308
+    second: DropMP5
+  - first:
+      213: 21300310
+    second: DropAK
+  - first:
+      213: 21300312
+    second: Hand_Skull2
+  - first:
+      213: 21300314
+    second: Boomerang
+  - first:
+      213: 21300316
+    second: DropButcher
+  - first:
+      213: 21300318
+    second: P90
+  - first:
+      213: 21300320
+    second: Weapons_FishingRoad
+  - first:
+      213: 21300322
+    second: DropGoldAK
+  - first:
+      213: 21300324
+    second: Hand_CrocoBig1
+  - first:
+      213: 21300326
+    second: DropRailgun
+  - first:
+      213: 21300328
+    second: DropAWP
+  - first:
+      213: 21300330
+    second: DropPewPewer
+  - first:
+      213: 21300332
+    second: DropPocketPistol
+  - first:
+      213: 21300334
+    second: Hand_Wooper1
+  - first:
+      213: 21300336
+    second: DropTacticalPistol
+  - first:
+      213: 21300338
+    second: Hand_Croakker2
+  - first:
+      213: 21300340
+    second: DropRevolver
+  - first:
+      213: 21300342
+    second: Hand_Weird2
+  - first:
+      213: 21300344
+    second: DropFlintGun
+  - first:
+      213: 21300346
+    second: Hand_Lavender2
+  - first:
+      213: 21300348
+    second: Hand_Draco2
+  - first:
+      213: 21300350
+    second: Hand_CrocoLittle2
+  - first:
+      213: 21300352
+    second: Hand_LabRat1
+  - first:
+      213: 21300354
+    second: DropShotgun
+  - first:
+      213: 21300356
+    second: Hand_Pengu2
+  - first:
+      213: 21300358
+    second: Kalas
+  - first:
+      213: 21300360
+    second: Hand_Fox2
+  - first:
+      213: 21300362
+    second: Hand_Robot
+  - first:
+      213: 21300364
+    second: Railgun
+  - first:
+      213: 21300366
+    second: Hand_Toad1
+  - first:
+      213: 21300368
+    second: BigStick
+  - first:
+      213: 21300370
+    second: Hand_Midas2
+  - first:
+      213: 21300372
+    second: Boomstick
+  - first:
+      213: 21300374
+    second: DropKatana
+  - first:
+      213: 21300376
+    second: Pistol
+  - first:
+      213: 21300378
+    second: DropDoom
+  - first:
+      213: 21300380
+    second: Hand_Robo
+  - first:
+      213: 21300382
+    second: DropRustyShotgun
+  - first:
+      213: 21300384
+    second: Hand_Albino1
+  - first:
+      213: 21300386
+    second: Hand_Corgi2
+  - first:
+      213: 21300388
+    second: Hand_Koi1
+  - first:
+      213: 21300390
+    second: DropFlamethrower
+  - first:
+      213: 21300392
+    second: RustyAK24k
+  - first:
+      213: 21300394
+    second: Hand_Akxolotl2
+  - first:
+      213: 21300396
+    second: HeavyRevolver
+  - first:
+      213: 21300398
+    second: PondEagle
+  - first:
+      213: 21300400
+    second: DropP90
+  - first:
+      213: 21300402
+    second: Hand_Platypus2
+  - first:
+      213: 21300404
+    second: Shotgun
+  - first:
+      213: 21300406
+    second: Hand_Platypus4
+  - first:
+      213: 21300408
+    second: DropBigStick
+  - first:
+      213: 21300410
+    second: Flamethrower
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DropTurboShotgun
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 204
+        width: 32
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -6.5}
+        - {x: -16, y: 6.5}
+        - {x: 16, y: 6.5}
+        - {x: 16, y: -6.5}
+      physicsShape:
+      - - {x: -16, y: 6.5}
+        - {x: -16, y: -6.5}
+        - {x: 14, y: -6.5}
+        - {x: 16, y: -5.5}
+        - {x: 16, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d47b5caf6a48369d1e1625883d0cb0
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 19.5}
+      - {x: 32, y: 19.5}
+      - {x: 0, y: 6.5}
+      - {x: 32, y: 6.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropBoomerang
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 108
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -7}
+        - {x: -7, y: 7}
+        - {x: 7, y: 7}
+        - {x: 7, y: -7}
+      physicsShape:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -2}
+        - {x: -2, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a6fc9b9eca466e88ab988f4bf1fc4c
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 14, y: 21}
+      - {x: 0, y: 7}
+      - {x: 14, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatling
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 222
+        width: 27
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -5.5}
+        - {x: -13.5, y: 5.5}
+        - {x: 13.5, y: 5.5}
+        - {x: 13.5, y: -5.5}
+      physicsShape:
+      - - {x: -13.5, y: 5.5}
+        - {x: -13.5, y: -5.5}
+        - {x: 13.5, y: -5.5}
+        - {x: 13.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29cba7086e341a8946d75b60b784dbd
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 11}
+      - {x: 27, y: 11}
+      - {x: 0, y: 0}
+      - {x: 27, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Crown2
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 233
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -2.5}
+        - {x: -2.5, y: 2.5}
+        - {x: 2.5, y: 2.5}
+        - {x: 2.5, y: -2.5}
+      physicsShape:
+      - - {x: -2.5, y: 2.5}
+        - {x: -2.5, y: -2.5}
+        - {x: 2.5, y: -2.5}
+        - {x: 2.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f50ae32e677433d8f9d53a7d0748e2a
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 5, y: 5}
+      - {x: 0, y: 0}
+      - {x: 5, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropAlteredPistol
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 255
+        width: 17
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -6}
+        - {x: -8.5, y: 6}
+        - {x: 8.5, y: 6}
+        - {x: 8.5, y: -6}
+      physicsShape:
+      - - {x: -8.5, y: 6}
+        - {x: -8.5, y: -6}
+        - {x: 8.5, y: -6}
+        - {x: 8.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317e2328f3724fd6aab022fa628eed44
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 17, y: 18}
+      - {x: 0, y: 6}
+      - {x: 17, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol24k
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 253
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -5}
+        - {x: -6, y: 5}
+        - {x: 6, y: 5}
+        - {x: 6, y: -5}
+      physicsShape:
+      - - {x: -5, y: 5}
+        - {x: -6, y: 4}
+        - {x: -6, y: -5}
+        - {x: 1, y: -5}
+        - {x: 6, y: -1}
+        - {x: 6, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b9821381544749bed09a60895483c4
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 10}
+      - {x: 12, y: 10}
+      - {x: 0, y: 0}
+      - {x: 12, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dropnewweapon2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 27
+        width: 31
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -7}
+        - {x: -15.5, y: 7}
+        - {x: 15.5, y: 7}
+        - {x: 15.5, y: -7}
+      physicsShape:
+      - - {x: -15.5, y: 7}
+        - {x: -15.5, y: -7}
+        - {x: 15.5, y: -7}
+        - {x: 15.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b3dfbe4f2b42e68675be5000584209
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 31, y: 21}
+      - {x: 0, y: 7}
+      - {x: 31, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_AKxolotl1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 252
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c62722651e447e80344ccd17da06c4
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Wooper2
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 210
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8ee586c7774c159e3ae2a6da171e30
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grenade
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 132
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -5}
+        - {x: -4.5, y: 5}
+        - {x: 4.5, y: 5}
+        - {x: 4.5, y: -5}
+      physicsShape:
+      - - {x: -4.5, y: 5}
+        - {x: -4.5, y: -5}
+        - {x: 4.5, y: -5}
+        - {x: 4.5, y: 4}
+        - {x: 3.5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f638ba21467e41a0817660f962a537f4
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 10}
+      - {x: 9, y: 10}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 132
+        width: 37
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -7}
+        - {x: -18.5, y: 7}
+        - {x: 18.5, y: 7}
+        - {x: 18.5, y: -7}
+      physicsShape:
+      - - {x: -18.5, y: 7}
+        - {x: -18.5, y: -4}
+        - {x: -13.5, y: -7}
+        - {x: 18.5, y: -7}
+        - {x: 18.5, y: 6}
+        - {x: 16.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce880b4c81c45778caca0f1e4b2ffea
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 37, y: 14}
+      - {x: 0, y: 0}
+      - {x: 37, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbow
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 188
+        width: 26
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -6}
+        - {x: -13, y: 6}
+        - {x: 13, y: 6}
+        - {x: 13, y: -6}
+      physicsShape:
+      - - {x: 12, y: 6}
+        - {x: -13, y: 6}
+        - {x: -13, y: -6}
+        - {x: 8, y: -6}
+        - {x: 12, y: -3}
+        - {x: 13, y: -2}
+        - {x: 13, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f3f17e24d24aeb929bcab341443cda
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 26, y: 12}
+      - {x: 0, y: 0}
+      - {x: 26, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Croakker1
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 234
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4be818a0bc48879d091f8eac58849c
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Olm1
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 222
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71611ccc08224377b509326df1f6ea3d
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouser
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 222
+        width: 17
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -5.5}
+        - {x: -8.5, y: 5.5}
+        - {x: 8.5, y: 5.5}
+        - {x: 8.5, y: -5.5}
+      physicsShape:
+      - - {x: -8.5, y: 5.5}
+        - {x: -8.5, y: -5.5}
+        - {x: 5.5, y: -5.5}
+        - {x: 8.5, y: -1.5}
+        - {x: 8.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1335f19d05d14c1898d6ac2585253e14
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 11}
+      - {x: 17, y: 11}
+      - {x: 0, y: 0}
+      - {x: 17, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropHeavyMachine
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 238
+        width: 35
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -7.5}
+        - {x: -17.5, y: 7.5}
+        - {x: 17.5, y: 7.5}
+        - {x: 17.5, y: -7.5}
+      physicsShape:
+      - - {x: -17.5, y: 7.5}
+        - {x: -17.5, y: -6.5}
+        - {x: -16.5, y: -7.5}
+        - {x: 17.5, y: -7.5}
+        - {x: 17.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ed31f4bdca4430b22d10f3ffa50a47
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 22.5}
+      - {x: 35, y: 22.5}
+      - {x: 0, y: 7.5}
+      - {x: 35, y: 7.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PondEagle24k
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 185
+        width: 14
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -5.5}
+        - {x: -7, y: 5.5}
+        - {x: 7, y: 5.5}
+        - {x: 7, y: -5.5}
+      physicsShape:
+      - - {x: -7, y: 5.5}
+        - {x: -7, y: -5.5}
+        - {x: 1, y: -5.5}
+        - {x: 7, y: -0.5}
+        - {x: 7, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6ded0a72de43dea41da4381cac38d4
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 11}
+      - {x: 14, y: 11}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropScythe
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 43
+        width: 24
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -8}
+        - {x: -12, y: 8}
+        - {x: 12, y: 8}
+        - {x: 12, y: -8}
+      physicsShape:
+      - - {x: -10, y: 8}
+        - {x: -12, y: 6}
+        - {x: -12, y: -1}
+        - {x: -3, y: -8}
+        - {x: 9, y: -8}
+        - {x: 12, y: -1}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428819c02f8149e38ff7ee09b9bdf38d
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 24, y: 24}
+      - {x: 0, y: 8}
+      - {x: 24, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropFlaregun
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 14
+        width: 15
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -6}
+        - {x: -7.5, y: 6}
+        - {x: 7.5, y: 6}
+        - {x: 7.5, y: -6}
+      physicsShape:
+      - - {x: -7.5, y: 6}
+        - {x: -7.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 7.5, y: -4}
+        - {x: 7.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c612bfd943e42d3ae9cce9a891e6a77
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 15, y: 18}
+      - {x: 0, y: 6}
+      - {x: 15, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RustyAK
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 239
+        width: 18
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -4.5}
+        - {x: -9, y: 4.5}
+        - {x: 9, y: 4.5}
+        - {x: 9, y: -4.5}
+      physicsShape:
+      - - {x: -9, y: 4.5}
+        - {x: -9, y: -4.5}
+        - {x: 9, y: -4.5}
+        - {x: 9, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172c569cdf924fc3b04ce6cccf5060d9
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 9}
+      - {x: 18, y: 9}
+      - {x: 0, y: 0}
+      - {x: 18, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdvancedRifle
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 239
+        width: 30
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -6.5}
+        - {x: -15, y: 6.5}
+        - {x: 15, y: 6.5}
+        - {x: 15, y: -6.5}
+      physicsShape:
+      - - {x: -9, y: 6.5}
+        - {x: -14, y: 4.5}
+        - {x: -15, y: 3.5}
+        - {x: -15, y: -6.5}
+        - {x: 13, y: -6.5}
+        - {x: 15, y: -5.5}
+        - {x: 15, y: 4.5}
+        - {x: 14, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2bae6759f34abdab476e67af3a0a5a
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 13}
+      - {x: 30, y: 13}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DualPistol
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 33
+        width: 15
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -6.5}
+        - {x: -7.5, y: 6.5}
+        - {x: 7.5, y: 6.5}
+        - {x: 7.5, y: -6.5}
+      physicsShape:
+      - - {x: -7.5, y: 6.5}
+        - {x: -7.5, y: -5.5}
+        - {x: -6.5, y: -6.5}
+        - {x: 7.5, y: -6.5}
+        - {x: 7.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074710c0929e46fdb7f543e78f9fb778
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 13}
+      - {x: 15, y: 13}
+      - {x: 0, y: 0}
+      - {x: 15, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 153
+        width: 32
+        height: 7
+      alignment: 9
+      pivot: {x: 0.15324068, y: 0.5181144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -3.4999998}
+        - {x: -16, y: 3.5000002}
+        - {x: 16, y: 3.5000002}
+        - {x: 16, y: -3.4999998}
+      physicsShape:
+      - - {x: -16, y: 3.5000002}
+        - {x: -16, y: -3.4999998}
+        - {x: 16, y: -3.4999998}
+        - {x: 16, y: 3.5000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c4b0d13b584f2b9a943c2e26f8f290
+      internalID: 21300044
+      vertices:
+      - {x: 11.096298, y: 6.8731995}
+      - {x: 43.0963, y: 6.8731995}
+      - {x: 11.096298, y: -0.12680054}
+      - {x: 43.0963, y: -0.12680054}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_CrocoBig2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 251
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -2.5}
+        - {x: -2.5, y: 2.5}
+        - {x: 2.5, y: 2.5}
+        - {x: 2.5, y: -2.5}
+      physicsShape:
+      - - {x: -2.5, y: 2.5}
+        - {x: -2.5, y: -2.5}
+        - {x: 2.5, y: -2.5}
+        - {x: 2.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5e86445abb4fb2a489ca1c1f202ce1
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 5, y: 5}
+      - {x: 0, y: 0}
+      - {x: 5, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Flamingo1
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 240
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -3}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 3}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3385ea39ffee4241a912dc8b2ecef298
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropCarbine
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 238
+        width: 31
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -7}
+        - {x: -15.5, y: 7}
+        - {x: 15.5, y: 7}
+        - {x: 15.5, y: -7}
+      physicsShape:
+      - - {x: -14.5, y: 7}
+        - {x: -15.5, y: 6}
+        - {x: -15.5, y: -7}
+        - {x: 10.5, y: -7}
+        - {x: 15.5, y: -3}
+        - {x: 15.5, y: 6}
+        - {x: 13.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e236b35177404e971f23da23d6408d
+      internalID: 21300050
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 31, y: 21}
+      - {x: 0, y: 7}
+      - {x: 31, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Crown1
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 233
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -2.5}
+        - {x: -2.5, y: 2.5}
+        - {x: 2.5, y: 2.5}
+        - {x: 2.5, y: -2.5}
+      physicsShape:
+      - - {x: -2.5, y: 2.5}
+        - {x: -2.5, y: -2.5}
+        - {x: 2.5, y: -2.5}
+        - {x: 2.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef603e01b13b4bfe9bce20c6288408e6
+      internalID: 21300052
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 5, y: 5}
+      - {x: 0, y: 0}
+      - {x: 5, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Monkey1
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 244
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -2.5}
+        - {x: -2.5, y: 2.5}
+        - {x: 2.5, y: 2.5}
+        - {x: 2.5, y: -2.5}
+      physicsShape:
+      - - {x: -2.5, y: 2.5}
+        - {x: -2.5, y: -2.5}
+        - {x: 2.5, y: -2.5}
+        - {x: 2.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff84651fbc6e4f5da9e13964c6b5067d
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 5, y: 5}
+      - {x: 0, y: 0}
+      - {x: 5, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Foxy
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 216
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af4a32117d7474183d36c7c80a7c27b
+      internalID: 21300056
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropMachete
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 168
+        width: 26
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -4}
+        - {x: -13, y: 4}
+        - {x: 13, y: 4}
+        - {x: 13, y: -4}
+      physicsShape:
+      - - {x: -13, y: 4}
+        - {x: -13, y: -4}
+        - {x: 12, y: -4}
+        - {x: 13, y: -3}
+        - {x: 13, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996869ce6ba64f72837cb08dfdedd0cb
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 26, y: 12}
+      - {x: 0, y: 4}
+      - {x: 26, y: 4}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Skeleton1
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 228
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac23f2b448245348e45cef6e88f8173
+      internalID: 21300060
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_CrocoLittle1
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 252
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b2749eec8b4f399421f83bbd08c17c
+      internalID: 21300062
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_BaldRat1
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 246
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41a1dd834e3420694f9e140c51facfb
+      internalID: 21300064
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropAxe
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 164
+        width: 31
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -10.5}
+        - {x: -15.5, y: 10.5}
+        - {x: 15.5, y: 10.5}
+        - {x: 15.5, y: -10.5}
+      physicsShape:
+      - - {x: -0.5, y: 10.5}
+        - {x: -6.5, y: 8.5}
+        - {x: -13.5, y: 5.5}
+        - {x: -15.5, y: 3.5}
+        - {x: -15.5, y: -8.5}
+        - {x: -2.5, y: -10.5}
+        - {x: 14.5, y: -10.5}
+        - {x: 15.5, y: -9.5}
+        - {x: 15.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d0a1369c5d4095b465c0e51a69a409
+      internalID: 21300066
+      vertices:
+      - {x: 0, y: 31.5}
+      - {x: 31, y: 31.5}
+      - {x: 0, y: 10.5}
+      - {x: 31, y: 10.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 169
+        width: 20
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -3.5}
+        - {x: -10, y: 3.5}
+        - {x: 10, y: 3.5}
+        - {x: 10, y: -3.5}
+      physicsShape:
+      - - {x: -10, y: 3.5}
+        - {x: -10, y: -2.5}
+        - {x: -7, y: -3.5}
+        - {x: 10, y: -3.5}
+        - {x: 10, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c61526aae24d479b3e7192039b71e7
+      internalID: 21300068
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 20, y: 7}
+      - {x: 0, y: 0}
+      - {x: 20, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Monkey2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 244
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -2.5}
+        - {x: -2.5, y: 2.5}
+        - {x: 2.5, y: 2.5}
+        - {x: 2.5, y: -2.5}
+      physicsShape:
+      - - {x: -2.5, y: 2.5}
+        - {x: -2.5, y: -2.5}
+        - {x: 2.5, y: -2.5}
+        - {x: 2.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef53ece0b43a444bba9e12d183dcf21d
+      internalID: 21300070
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 5, y: 5}
+      - {x: 0, y: 0}
+      - {x: 5, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Ratkuza1
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 228
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd53556d7ea24131aa8f651325b279c5
+      internalID: 21300072
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropRustyAK
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 238
+        width: 20
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -5.5}
+        - {x: -10, y: 5.5}
+        - {x: 10, y: 5.5}
+        - {x: 10, y: -5.5}
+      physicsShape:
+      - - {x: -10, y: 5.5}
+        - {x: -10, y: -5.5}
+        - {x: 5, y: -5.5}
+        - {x: 8, y: -3.5}
+        - {x: 10, y: -1.5}
+        - {x: 10, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ed706d71124f0fb04947731185417a
+      internalID: 21300074
+      vertices:
+      - {x: 0, y: 16.5}
+      - {x: 20, y: 16.5}
+      - {x: 0, y: 5.5}
+      - {x: 20, y: 5.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revolver
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 15
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -5.5}
+        - {x: -7.5, y: 5.5}
+        - {x: 7.5, y: 5.5}
+        - {x: 7.5, y: -5.5}
+      physicsShape:
+      - - {x: -7.5, y: 5.5}
+        - {x: -7.5, y: -5.5}
+        - {x: -0.5, y: -5.5}
+        - {x: 7.5, y: -1.5}
+        - {x: 7.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0406fd3a5e34406cbe48d0f5c8459fd1
+      internalID: 21300076
+      vertices:
+      - {x: 0, y: 11}
+      - {x: 15, y: 11}
+      - {x: 0, y: 0}
+      - {x: 15, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropPistol
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 255
+        width: 14
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -6}
+        - {x: -7, y: 6}
+        - {x: 7, y: 6}
+        - {x: 7, y: -6}
+      physicsShape:
+      - - {x: -7, y: 6}
+        - {x: -7, y: -6}
+        - {x: 2, y: -6}
+        - {x: 7, y: -3}
+        - {x: 7, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42214db1e9b440a29eb12b70efd6ab5d
+      internalID: 21300078
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 14, y: 18}
+      - {x: 0, y: 6}
+      - {x: 14, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carbine
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 239
+        width: 29
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -6}
+        - {x: -14.5, y: 6}
+        - {x: 14.5, y: 6}
+        - {x: 14.5, y: -6}
+      physicsShape:
+      - - {x: 14.5, y: -6}
+        - {x: 14.5, y: 6}
+        - {x: -14.5, y: 6}
+        - {x: -14.5, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3390c597a5be4d80bc1ee0dd8c3a6380
+      internalID: 21300080
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 29, y: 12}
+      - {x: 0, y: 0}
+      - {x: 29, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blowgun
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 109
+        width: 16
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -2}
+        - {x: -8, y: 2}
+        - {x: 8, y: 2}
+        - {x: 8, y: -2}
+      physicsShape:
+      - - {x: -8, y: 2}
+        - {x: -8, y: -2}
+        - {x: 8, y: -2}
+        - {x: 8, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4fac12d64f43139aa014e479780878
+      internalID: 21300082
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 16, y: 4}
+      - {x: 0, y: 0}
+      - {x: 16, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropCrossbow
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 187
+        width: 28
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -7}
+        - {x: -14, y: 7}
+        - {x: 14, y: 7}
+        - {x: 14, y: -7}
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -13, y: 6}
+        - {x: -14, y: 5}
+        - {x: -14, y: -6}
+        - {x: -13, y: -7}
+        - {x: 8, y: -7}
+        - {x: 14, y: -3}
+        - {x: 14, y: 6}
+        - {x: 12, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d305d321d3b448ce9854b25f9369f2c7
+      internalID: 21300084
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 28, y: 21}
+      - {x: 0, y: 7}
+      - {x: 28, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Goose2
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 250
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape:
+      - - {x: -3, y: 3}
+        - {x: -3, y: -3}
+        - {x: 3, y: -3}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8c2014fe9d4799a18ab96b5b673bd1
+      internalID: 21300086
+      vertices:
+      - {x: 0, y: 6}
+      - {x: 6, y: 6}
+      - {x: 0, y: 0}
+      - {x: 6, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropGrenadeLauncher
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 131
+        width: 30
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -7.5}
+        - {x: -15, y: 7.5}
+        - {x: 15, y: 7.5}
+        - {x: 15, y: -7.5}
+      physicsShape:
+      - - {x: -15, y: 7.5}
+        - {x: -15, y: -7.5}
+        - {x: 15, y: -7.5}
+        - {x: 15, y: 5.5}
+        - {x: 13, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295bf73e171c4020b03a01a5249646c5
+      internalID: 21300088
+      vertices:
+      - {x: 0, y: 22.5}
+      - {x: 30, y: 22.5}
+      - {x: 0, y: 7.5}
+      - {x: 30, y: 7.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Lavender1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 228
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf177bc595b84810991509f8eb6d3937
+      internalID: 21300090
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 135
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -7}
+        - {x: -7.5, y: 7}
+        - {x: 7.5, y: 7}
+        - {x: 7.5, y: -7}
+      physicsShape:
+      - - {x: -7.5, y: 7}
+        - {x: -7.5, y: -7}
+        - {x: 7.5, y: -7}
+        - {x: 7.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c12709e351402e9966149600be1f34
+      internalID: 21300092
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 15, y: 21}
+      - {x: 0, y: 7}
+      - {x: 15, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doom
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 205
+        width: 24
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -6}
+        - {x: -12, y: 6}
+        - {x: 12, y: 6}
+        - {x: 12, y: -6}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -6}
+        - {x: 6, y: -6}
+        - {x: 11, y: -4}
+        - {x: 12, y: -3}
+        - {x: 12, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2bf2cccd084d559def36ee73929679
+      internalID: 21300094
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 24, y: 12}
+      - {x: 0, y: 0}
+      - {x: 24, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropSuppressedPIstol
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 20
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -6}
+        - {x: -10, y: 6}
+        - {x: 10, y: 6}
+        - {x: 10, y: -6}
+      physicsShape:
+      - - {x: -10, y: 6}
+        - {x: -10, y: -6}
+        - {x: 4, y: -6}
+        - {x: 10, y: -4}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d6ddb948e24d129f24938f515dee70
+      internalID: 21300096
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 20, y: 18}
+      - {x: 0, y: 6}
+      - {x: 20, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropMjolnir
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 25
+        width: 16
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -5.5}
+        - {x: -8, y: 5.5}
+        - {x: 8, y: 5.5}
+        - {x: 8, y: -5.5}
+      physicsShape:
+      - - {x: -4, y: 5.5}
+        - {x: -8, y: 4.5}
+        - {x: -8, y: -3.5}
+        - {x: -2, y: -5.5}
+        - {x: 8, y: -5.5}
+        - {x: 8, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154dc547b29149448f4ddf635af61910
+      internalID: 21300098
+      vertices:
+      - {x: 0, y: 16.5}
+      - {x: 16, y: 16.5}
+      - {x: 0, y: 5.5}
+      - {x: 16, y: 5.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarbonPistol
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 256
+        width: 15
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -5}
+        - {x: -7.5, y: 5}
+        - {x: 7.5, y: 5}
+        - {x: 7.5, y: -5}
+      physicsShape:
+      - - {x: -7.5, y: 5}
+        - {x: -7.5, y: -5}
+        - {x: 6.5, y: -5}
+        - {x: 7.5, y: -4}
+        - {x: 7.5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e091fab7b84313884f60b0831aa570
+      internalID: 21300100
+      vertices:
+      - {x: 0, y: 10}
+      - {x: 15, y: 10}
+      - {x: 0, y: 0}
+      - {x: 15, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipeGun24k
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 202
+        width: 24
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -4}
+        - {x: -12, y: 4}
+        - {x: 12, y: 4}
+        - {x: 12, y: -4}
+      physicsShape:
+      - - {x: -12, y: 4}
+        - {x: -12, y: -4}
+        - {x: 12, y: -4}
+        - {x: 12, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0f867a56ed4076aa16194374c3f854
+      internalID: 21300102
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 24, y: 8}
+      - {x: 0, y: 0}
+      - {x: 24, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoSniper
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 188
+        width: 33
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -6}
+        - {x: -16.5, y: 6}
+        - {x: 16.5, y: 6}
+        - {x: 16.5, y: -6}
+      physicsShape:
+      - - {x: 13.5, y: 6}
+        - {x: -9.5, y: 6}
+        - {x: -16.5, y: 5}
+        - {x: -16.5, y: -6}
+        - {x: 5.5, y: -6}
+        - {x: 7.5, y: -5}
+        - {x: 16.5, y: -2}
+        - {x: 16.5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47571ec6615f4d3fb28c529e1e889c2c
+      internalID: 21300104
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 33, y: 12}
+      - {x: 0, y: 0}
+      - {x: 33, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_LabRat2
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 240
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f961c30df29041d48d3e9632262c1e5b
+      internalID: 21300106
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropCOwpup
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 238
+        width: 32
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -7.5}
+        - {x: -16, y: 7.5}
+        - {x: 16, y: 7.5}
+        - {x: 16, y: -7.5}
+      physicsShape:
+      - - {x: 15, y: 7.5}
+        - {x: -16, y: 7.5}
+        - {x: -16, y: -7.5}
+        - {x: 12, y: -7.5}
+        - {x: 15, y: -5.5}
+        - {x: 16, y: -4.5}
+        - {x: 16, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9079bffc1724a7ca65ef9c207480541
+      internalID: 21300108
+      vertices:
+      - {x: 0, y: 22.5}
+      - {x: 32, y: 22.5}
+      - {x: 0, y: 7.5}
+      - {x: 32, y: 7.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 222
+        width: 23
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -6.5}
+        - {x: -11.5, y: 6.5}
+        - {x: 11.5, y: 6.5}
+        - {x: 11.5, y: -6.5}
+      physicsShape:
+      - - {x: -11.5, y: 6.5}
+        - {x: -11.5, y: -5.5}
+        - {x: -8.5, y: -6.5}
+        - {x: 9.5, y: -6.5}
+        - {x: 11.5, y: -1.5}
+        - {x: 11.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccffbb04b654d41b87254375e6096a0
+      internalID: 21300110
+      vertices:
+      - {x: 0, y: 13}
+      - {x: 23, y: 13}
+      - {x: 0, y: 0}
+      - {x: 23, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropMouser
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 221
+        width: 19
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -6.5}
+        - {x: -9.5, y: 6.5}
+        - {x: 9.5, y: 6.5}
+        - {x: 9.5, y: -6.5}
+      physicsShape:
+      - - {x: -9.5, y: 6.5}
+        - {x: -9.5, y: -6.5}
+        - {x: 8.5, y: -6.5}
+        - {x: 9.5, y: -5.5}
+        - {x: 9.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351506c190a840ebb6e0570c1beddd29
+      internalID: 21300112
+      vertices:
+      - {x: 0, y: 19.5}
+      - {x: 19, y: 19.5}
+      - {x: 0, y: 6.5}
+      - {x: 19, y: 6.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dropnewweapon5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 26
+        width: 35
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -7}
+        - {x: -17.5, y: 7}
+        - {x: 17.5, y: 7}
+        - {x: 17.5, y: -7}
+      physicsShape:
+      - - {x: -17.5, y: 7}
+        - {x: -17.5, y: -7}
+        - {x: 17.5, y: -7}
+        - {x: 17.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6775d61ddc64469bbcc8e443dcf0925
+      internalID: 21300114
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 35, y: 21}
+      - {x: 0, y: 7}
+      - {x: 35, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Olm2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 222
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b423090f034b49908c874733c2e99653
+      internalID: 21300116
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Raccoon1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 252
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f433f889ec46df8e3c2e4e01017504
+      internalID: 21300118
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_FishingBait
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 88
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -4.5}
+        - {x: -4.5, y: 4.5}
+        - {x: 4.5, y: 4.5}
+        - {x: 4.5, y: -4.5}
+      physicsShape:
+      - - {x: -3.5, y: 4.5}
+        - {x: -4.5, y: 3.5}
+        - {x: -4.5, y: -3.5}
+        - {x: -3.5, y: -4.5}
+        - {x: 3.5, y: -4.5}
+        - {x: 4.5, y: -3.5}
+        - {x: 4.5, y: 3.5}
+        - {x: 3.5, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646f964afd7244d98c5533dac694b8c2
+      internalID: 21300120
+      vertices:
+      - {x: 0, y: 13.5}
+      - {x: 9, y: 13.5}
+      - {x: 0, y: 4.5}
+      - {x: 9, y: 4.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 109
+        width: 13
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -9}
+        - {x: -6.5, y: 9}
+        - {x: 6.5, y: 9}
+        - {x: 6.5, y: -9}
+      physicsShape:
+      - - {x: -3.5, y: 9}
+        - {x: -6.5, y: 6}
+        - {x: -6.5, y: -5}
+        - {x: -4.5, y: -9}
+        - {x: 4.5, y: -9}
+        - {x: 6.5, y: -7}
+        - {x: 6.5, y: 7}
+        - {x: 4.5, y: 9}
+      - - {x: -0.5, y: 0}
+        - {x: 0.5, y: 1}
+        - {x: 0.5, y: -1}
+        - {x: 0.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2702b45e26af4a47bf61e634771b5cdd
+      internalID: 21300122
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 13, y: 18}
+      - {x: 0, y: 0}
+      - {x: 13, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropKnife
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 168
+        width: 17
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -3}
+        - {x: -8.5, y: 3}
+        - {x: 8.5, y: 3}
+        - {x: 8.5, y: -3}
+      physicsShape:
+      - - {x: -8.5, y: 3}
+        - {x: -8.5, y: -3}
+        - {x: 7.5, y: -3}
+        - {x: 8.5, y: -2}
+        - {x: 8.5, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68e7b6af7cb48a58663480ef5420e04
+      internalID: 21300124
+      vertices:
+      - {x: 0, y: 9}
+      - {x: 17, y: 9}
+      - {x: 0, y: 3}
+      - {x: 17, y: 3}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Weird1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 252
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2460dffd4c0046389207c5c7d735388e
+      internalID: 21300126
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuppressedPistol
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 49
+        width: 18
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -5}
+        - {x: -9, y: 5}
+        - {x: 9, y: 5}
+        - {x: 9, y: -5}
+      physicsShape:
+      - - {x: -9, y: 5}
+        - {x: -9, y: -5}
+        - {x: -1, y: -5}
+        - {x: 9, y: -2}
+        - {x: 9, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ef862844dc450180812492634276a6
+      internalID: 21300128
+      vertices:
+      - {x: 0, y: 10}
+      - {x: 18, y: 10}
+      - {x: 0, y: 0}
+      - {x: 18, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropKalas
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 187
+        width: 34
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -7}
+        - {x: -17, y: 7}
+        - {x: 17, y: 7}
+        - {x: 17, y: -7}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -17, y: 5}
+        - {x: -17, y: -7}
+        - {x: 10, y: -7}
+        - {x: 17, y: -6}
+        - {x: 17, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a66752155142bf991edda9ab9d8a56
+      internalID: 21300130
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 34, y: 21}
+      - {x: 0, y: 7}
+      - {x: 34, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Croco1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 210
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0e08ba861a4da2b066c653dc31dde3
+      internalID: 21300132
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dropnewweapon1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 21
+        width: 22
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -7.5}
+        - {x: -11, y: 7.5}
+        - {x: 11, y: 7.5}
+        - {x: 11, y: -7.5}
+      physicsShape:
+      - - {x: -11, y: 7.5}
+        - {x: -11, y: -7.5}
+        - {x: 11, y: -7.5}
+        - {x: 11, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219f97d73def4646a377f745e6e4c9ba
+      internalID: 21300134
+      vertices:
+      - {x: 0, y: 22.5}
+      - {x: 22, y: 22.5}
+      - {x: 0, y: 7.5}
+      - {x: 22, y: 7.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropRustyRevolver
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 255
+        width: 16
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -6}
+        - {x: -8, y: 6}
+        - {x: 8, y: 6}
+        - {x: 8, y: -6}
+      physicsShape:
+      - - {x: -8, y: 6}
+        - {x: -8, y: -2}
+        - {x: -3, y: -6}
+        - {x: 8, y: -6}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf8e74cddda4b0e8b2e92d418e4f942
+      internalID: 21300136
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 16, y: 18}
+      - {x: 0, y: 6}
+      - {x: 16, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropBigSpikyStick
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 168
+        width: 28
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -5.5}
+        - {x: -14, y: 5.5}
+        - {x: 14, y: 5.5}
+        - {x: 14, y: -5.5}
+      physicsShape:
+      - - {x: -13, y: 5.5}
+        - {x: -14, y: 4.5}
+        - {x: -14, y: -5.5}
+        - {x: 12, y: -5.5}
+        - {x: 14, y: -4.5}
+        - {x: 14, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332a5014b08d4bc488c1c4200cf056f3
+      internalID: 21300138
+      vertices:
+      - {x: 0, y: 16.5}
+      - {x: 28, y: 16.5}
+      - {x: 0, y: 5.5}
+      - {x: 28, y: 5.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropUzi
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 221
+        width: 22
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -8}
+        - {x: -11, y: 8}
+        - {x: 11, y: 8}
+        - {x: 11, y: -8}
+      physicsShape:
+      - - {x: -11, y: 8}
+        - {x: -11, y: -5}
+        - {x: -9, y: -7}
+        - {x: -7, y: -8}
+        - {x: 9, y: -8}
+        - {x: 11, y: -6}
+        - {x: 11, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f00472099324793b1ab0def28ad4bd8
+      internalID: 21300140
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 22, y: 24}
+      - {x: 0, y: 8}
+      - {x: 22, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flaregun
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 93
+        width: 13
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -5}
+        - {x: -6.5, y: 5}
+        - {x: 6.5, y: 5}
+        - {x: 6.5, y: -5}
+      physicsShape:
+      - - {x: -6.5, y: 5}
+        - {x: -6.5, y: -5}
+        - {x: -0.5, y: -5}
+        - {x: 6.5, y: -1}
+        - {x: 6.5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad46b03a80a45888fe2ee7430cd3948
+      internalID: 21300142
+      vertices:
+      - {x: 0, y: 10}
+      - {x: 13, y: 10}
+      - {x: 0, y: 0}
+      - {x: 13, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Salagunner1
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 246
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100dac90e79c40298e1c919e4795d443
+      internalID: 21300144
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropDualPistol
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 17
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -7.5}
+        - {x: -8.5, y: 7.5}
+        - {x: 8.5, y: 7.5}
+        - {x: 8.5, y: -7.5}
+      physicsShape:
+      - - {x: 7.5, y: 7.5}
+        - {x: -8.5, y: 7.5}
+        - {x: -8.5, y: -7.5}
+        - {x: 3.5, y: -7.5}
+        - {x: 7.5, y: -5.5}
+        - {x: 8.5, y: -3.5}
+        - {x: 8.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2422ef765c4e149c63bae2203ecd97
+      internalID: 21300146
+      vertices:
+      - {x: 0, y: 22.5}
+      - {x: 17, y: 22.5}
+      - {x: 0, y: 7.5}
+      - {x: 17, y: 7.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadeLauncher
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 132
+        width: 28
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6.5}
+        - {x: -14, y: 6.5}
+        - {x: 14, y: 6.5}
+        - {x: 14, y: -6.5}
+      physicsShape:
+      - - {x: -14, y: 6.5}
+        - {x: -14, y: -6.5}
+        - {x: 14, y: -6.5}
+        - {x: 14, y: 5.5}
+        - {x: 12, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd8a09bb51049b6a6fac99d84a7c745
+      internalID: 21300148
+      vertices:
+      - {x: 0, y: 13}
+      - {x: 28, y: 13}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Platypus1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 240
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89fe508a7044bdaae572cd5e0816e00
+      internalID: 21300150
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machete
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 169
+        width: 24
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -3}
+        - {x: -12, y: 3}
+        - {x: 12, y: 3}
+        - {x: 12, y: -3}
+      physicsShape:
+      - - {x: -12, y: 3}
+        - {x: -12, y: -3}
+        - {x: 11, y: -3}
+        - {x: 12, y: -2}
+        - {x: 12, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa1fcb988e146c093ba4f3fb5fb7459
+      internalID: 21300152
+      vertices:
+      - {x: 0, y: 6}
+      - {x: 24, y: 6}
+      - {x: 0, y: 0}
+      - {x: 24, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Foxy1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 216
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0cc3a712c347e2a39e9091c8e257d6
+      internalID: 21300154
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_CinnamonRat1
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 252
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d901ff0ed6b4aa49252912dd980abc7
+      internalID: 21300156
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSpikyStick
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 169
+        width: 26
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -4.5}
+        - {x: -13, y: 4.5}
+        - {x: 13, y: 4.5}
+        - {x: 13, y: -4.5}
+      physicsShape:
+      - - {x: -13, y: 4.5}
+        - {x: -13, y: -4.5}
+        - {x: 13, y: -4.5}
+        - {x: 13, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef0c0a038c947fdb3b7641b2687399f
+      internalID: 21300158
+      vertices:
+      - {x: 0, y: 9}
+      - {x: 26, y: 9}
+      - {x: 0, y: 0}
+      - {x: 26, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Raccoon2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 252
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: add731347c64409db8097faa2609d537
+      internalID: 21300160
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Shark2
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 224
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5077545, y: 0.49225312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.4999788, y: -3.4999983}
+        - {x: -3.4999788, y: 3.5000017}
+        - {x: 3.5000212, y: 3.5000017}
+        - {x: 3.5000212, y: -3.4999983}
+      physicsShape:
+      - - {x: -3.4999788, y: 3.5000017}
+        - {x: -3.4999788, y: -2.4999983}
+        - {x: -2.4999788, y: -3.4999983}
+        - {x: 3.5000212, y: -3.4999983}
+        - {x: 3.5000212, y: 2.5000017}
+        - {x: 2.5000212, y: 3.5000017}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8eb2da44ef48cb94f379c14d7940a7
+      internalID: 21300162
+      vertices:
+      - {x: -0.054260254, y: 7.0542297}
+      - {x: 6.9457397, y: 7.0542297}
+      - {x: -0.054260254, y: 0.054229736}
+      - {x: 6.9457397, y: 0.054229736}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropHeavyRevolver
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 255
+        width: 19
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -6.5}
+        - {x: -9.5, y: 6.5}
+        - {x: 9.5, y: 6.5}
+        - {x: 9.5, y: -6.5}
+      physicsShape:
+      - - {x: -9.5, y: 6.5}
+        - {x: -9.5, y: -6.5}
+        - {x: 6.5, y: -6.5}
+        - {x: 9.5, y: -5.5}
+        - {x: 9.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b2faca8d804ba3acf14bceeca488e7
+      internalID: 21300164
+      vertices:
+      - {x: 0, y: 19.5}
+      - {x: 19, y: 19.5}
+      - {x: 0, y: 6.5}
+      - {x: 19, y: 6.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Skeleton2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 228
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec6da659a6141079c45bbddd161e4c7
+      internalID: 21300166
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Shark1
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 224
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -3.5}
+        - {x: -3.5, y: 3.5}
+        - {x: 3.5, y: 3.5}
+        - {x: 3.5, y: -3.5}
+      physicsShape:
+      - - {x: -3.5, y: 3.5}
+        - {x: -3.5, y: -2.5}
+        - {x: -2.5, y: -3.5}
+        - {x: 3.5, y: -3.5}
+        - {x: 3.5, y: 2.5}
+        - {x: 2.5, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8576329b331a4e4e8b550a9cb901089d
+      internalID: 21300168
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 7, y: 7}
+      - {x: 0, y: 0}
+      - {x: 7, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Frog2
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 222
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62afcd10d7d84a978d8d035357dc4d9d
+      internalID: 21300170
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PewPewer
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 222
+        width: 27
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -6}
+        - {x: -13.5, y: 6}
+        - {x: 13.5, y: 6}
+        - {x: 13.5, y: -6}
+      physicsShape:
+      - - {x: -9.5, y: 6}
+        - {x: -13.5, y: 4}
+        - {x: -13.5, y: -4}
+        - {x: -12.5, y: -5}
+        - {x: -10.5, y: -6}
+        - {x: 9.5, y: -6}
+        - {x: 13.5, y: -1}
+        - {x: 13.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0c4e071e6a43e996b33aae0c4f3433
+      internalID: 21300172
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 27, y: 12}
+      - {x: 0, y: 0}
+      - {x: 27, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Slime1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 228
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cf0c124a454185b010fe237f2bb494
+      internalID: 21300174
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropAutoSniper
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 187
+        width: 35
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -7}
+        - {x: -17.5, y: 7}
+        - {x: 17.5, y: 7}
+        - {x: 17.5, y: -7}
+      physicsShape:
+      - - {x: -14.5, y: 7}
+        - {x: -17.5, y: 6}
+        - {x: -17.5, y: -7}
+        - {x: 11.5, y: -7}
+        - {x: 17.5, y: -4}
+        - {x: 17.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af02c73d2f646c59398cd3634544455
+      internalID: 21300176
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 35, y: 21}
+      - {x: 0, y: 7}
+      - {x: 35, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spas
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 205
+        width: 26
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -6}
+        - {x: -13, y: 6}
+        - {x: 13, y: 6}
+        - {x: 13, y: -6}
+      physicsShape:
+      - - {x: -13, y: 6}
+        - {x: -13, y: -6}
+        - {x: 0, y: -6}
+        - {x: 13, y: -5}
+        - {x: 13, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75156892fccf498dae69b21738f6e59a
+      internalID: 21300178
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 26, y: 12}
+      - {x: 0, y: 0}
+      - {x: 26, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Draco1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 240
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7696546cf6ff43629544b7829dfed091
+      internalID: 21300180
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Squarrel1
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 222
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8e85b690dc4c299bc3205e459e887c
+      internalID: 21300182
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 44
+        width: 22
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -7}
+        - {x: -11, y: 7}
+        - {x: 11, y: 7}
+        - {x: 11, y: -7}
+      physicsShape:
+      - - {x: -10, y: 7}
+        - {x: -11, y: 6}
+        - {x: -11, y: 0}
+        - {x: -8, y: 0}
+        - {x: -1, y: -7}
+        - {x: 8, y: -7}
+        - {x: 11, y: -3}
+        - {x: 11, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de67702731c4a08af417e5554ad7782
+      internalID: 21300184
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 22, y: 14}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RustyRevolver
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 256
+        width: 14
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -5}
+        - {x: -7, y: 5}
+        - {x: 7, y: 5}
+        - {x: 7, y: -5}
+      physicsShape:
+      - - {x: -7, y: 5}
+        - {x: -7, y: -2}
+        - {x: -3, y: -5}
+        - {x: 7, y: -5}
+        - {x: 7, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6512a05e21284174b974e29cd89498e6
+      internalID: 21300186
+      vertices:
+      - {x: 0, y: 10}
+      - {x: 14, y: 10}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Koi2
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 234
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1dd2f66c2648dfb9261fd2656b960f
+      internalID: 21300188
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dropnewweapon3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 33
+        width: 26
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -6}
+        - {x: -13, y: 6}
+        - {x: 13, y: 6}
+        - {x: 13, y: -6}
+      physicsShape:
+      - - {x: -13, y: 6}
+        - {x: -13, y: -6}
+        - {x: 13, y: -6}
+        - {x: 13, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57f2a6a45cc48638e19bbad023c3317
+      internalID: 21300190
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 26, y: 18}
+      - {x: 0, y: 6}
+      - {x: 26, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Corgi1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 246
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfbcedafcd34da5a60638399a29b774
+      internalID: 21300192
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motorblade
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 153
+        width: 33
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -5.5}
+        - {x: -16.5, y: 5.5}
+        - {x: 16.5, y: 5.5}
+        - {x: 16.5, y: -5.5}
+      physicsShape:
+      - - {x: 6.5, y: 5.5}
+        - {x: -12.5, y: 5.5}
+        - {x: -16.5, y: 3.5}
+        - {x: -16.5, y: -5.5}
+        - {x: 16.5, y: -5.5}
+        - {x: 16.5, y: 3.5}
+        - {x: 14.5, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6d79269d1b438dbe4ce9e074846732
+      internalID: 21300194
+      vertices:
+      - {x: 0, y: 11}
+      - {x: 33, y: 11}
+      - {x: 0, y: 0}
+      - {x: 33, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_CinnamonRat2
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 252
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad54efb2352b4f02aa210e73f85d3d40
+      internalID: 21300196
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_BaldRat2
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 246
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a699cc05e21479aae2c058c92f3e43d
+      internalID: 21300198
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Slime2
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 228
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5153add8984e4c98cc5e7b471dfc25
+      internalID: 21300200
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Imp2
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 204
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41be16615ca48c686cd362d2a5f6a68
+      internalID: 21300202
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiRPG
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 132
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -8}
+        - {x: -15, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: -8}
+      physicsShape:
+      - - {x: -15, y: 8}
+        - {x: -15, y: -8}
+        - {x: 9, y: -8}
+        - {x: 15, y: -7}
+        - {x: 15, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75636138fc684f38bb2e7e0736a2b0d5
+      internalID: 21300204
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 30, y: 16}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 165
+        width: 29
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -9.5}
+        - {x: -14.5, y: 9.5}
+        - {x: 14.5, y: 9.5}
+        - {x: 14.5, y: -9.5}
+      physicsShape:
+      - - {x: -6.5, y: 9.5}
+        - {x: -13.5, y: 4.5}
+        - {x: -14.5, y: 3.5}
+        - {x: -14.5, y: -4.5}
+        - {x: -7.5, y: -9.5}
+        - {x: 14.5, y: -9.5}
+        - {x: 14.5, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4d6962f94640498456e7f5b0bafe3c
+      internalID: 21300206
+      vertices:
+      - {x: 0, y: 19}
+      - {x: 29, y: 19}
+      - {x: 0, y: 0}
+      - {x: 29, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Platypus3
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 240
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598a6504dcf542ca99128a596225485a
+      internalID: 21300208
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Pengu1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 240
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cf31a60a664782b32ea7035cced25d
+      internalID: 21300210
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Goose1
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 250
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape:
+      - - {x: -3, y: 3}
+        - {x: -3, y: -3}
+        - {x: 3, y: -3}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac773dfd8ce14ac289ec45fabd78baa5
+      internalID: 21300212
+      vertices:
+      - {x: 0, y: 6}
+      - {x: 6, y: 6}
+      - {x: 0, y: 0}
+      - {x: 6, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Trans2
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 204
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4fb7955ab54f83beedef8eb5ce6332
+      internalID: 21300214
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropGatling
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 221
+        width: 29
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -6.5}
+        - {x: -14.5, y: 6.5}
+        - {x: 14.5, y: 6.5}
+        - {x: 14.5, y: -6.5}
+      physicsShape:
+      - - {x: -13.5, y: 6.5}
+        - {x: -14.5, y: 5.5}
+        - {x: -14.5, y: -6.5}
+        - {x: 13.5, y: -6.5}
+        - {x: 14.5, y: -5.5}
+        - {x: 14.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3dfdc6448147848c02317ac30ffa72
+      internalID: 21300216
+      vertices:
+      - {x: 0, y: 19.5}
+      - {x: 29, y: 19.5}
+      - {x: 0, y: 6.5}
+      - {x: 29, y: 6.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropQuakser
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 255
+        width: 22
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -7.5}
+        - {x: -11, y: 7.5}
+        - {x: 11, y: 7.5}
+        - {x: 11, y: -7.5}
+      physicsShape:
+      - - {x: -11, y: 7.5}
+        - {x: -11, y: -5.5}
+        - {x: -9, y: -7.5}
+        - {x: 3, y: -7.5}
+        - {x: 11, y: -2.5}
+        - {x: 11, y: 6.5}
+        - {x: 10, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cc4402daed4e488dbfd8acd8cd262d
+      internalID: 21300218
+      vertices:
+      - {x: 0, y: 22.5}
+      - {x: 22, y: 22.5}
+      - {x: 0, y: 7.5}
+      - {x: 22, y: 7.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketPistol
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 5
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -3.5}
+        - {x: -4, y: 3.5}
+        - {x: 4, y: 3.5}
+        - {x: 4, y: -3.5}
+      physicsShape:
+      - - {x: -4, y: 3.5}
+        - {x: -4, y: -3.5}
+        - {x: 2, y: -3.5}
+        - {x: 4, y: -1.5}
+        - {x: 4, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a785456da4a24f26b0a82e9892896e92
+      internalID: 21300220
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 8, y: 7}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropGrenade
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 131
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -6}
+        - {x: -5.5, y: 6}
+        - {x: 5.5, y: 6}
+        - {x: 5.5, y: -6}
+      physicsShape:
+      - - {x: -5.5, y: 6}
+        - {x: -5.5, y: -6}
+        - {x: 5.5, y: -6}
+        - {x: 5.5, y: 4}
+        - {x: 3.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee32a7334a94e208b12c39eed0d655c
+      internalID: 21300222
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 11, y: 18}
+      - {x: 0, y: 6}
+      - {x: 11, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 239
+        width: 30
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -5}
+        - {x: -15, y: 5}
+        - {x: 15, y: 5}
+        - {x: 15, y: -5}
+      physicsShape:
+      - - {x: -15, y: 5}
+        - {x: -15, y: -5}
+        - {x: 7, y: -5}
+        - {x: 15, y: -2}
+        - {x: 15, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602bfb844c654fbca20ef978578cbc7c
+      internalID: 21300224
+      vertices:
+      - {x: 0, y: 10}
+      - {x: 30, y: 10}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Croco2
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 210
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18cd260a615443a98ba2a079e1c7a8d
+      internalID: 21300226
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Skull1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 222
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223526ec028b4d47a1c4123fcd3edf64
+      internalID: 21300228
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Brat1
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 234
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f423dd4301b4b36899c9ecd3af89c23
+      internalID: 21300230
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Midas1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 216
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e906eb7561ee409fb3b9312188e5c596
+      internalID: 21300232
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Squarrel2
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 222
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0079ee1f8634b9ea62d29fc2707d989
+      internalID: 21300234
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropSpas
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 204
+        width: 28
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -7}
+        - {x: -14, y: 7}
+        - {x: 14, y: 7}
+        - {x: 14, y: -7}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -14, y: 6}
+        - {x: -14, y: -7}
+        - {x: 4, y: -7}
+        - {x: 14, y: -5}
+        - {x: 14, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea6dd8b14b54ebeaef9104cce2ce5de
+      internalID: 21300236
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 28, y: 21}
+      - {x: 0, y: 7}
+      - {x: 28, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlintRifle
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 188
+        width: 28
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -4}
+        - {x: -14, y: 4}
+        - {x: 14, y: 4}
+        - {x: 14, y: -4}
+      physicsShape:
+      - - {x: -14, y: 4}
+        - {x: -14, y: -4}
+        - {x: 8, y: -4}
+        - {x: 14, y: -3}
+        - {x: 14, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e527f2b62cfc4fca831fc7e003b7f8a3
+      internalID: 21300238
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 28, y: 8}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Robot2
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 212
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0505b098fc40ae93064b61c9e6deef
+      internalID: 21300240
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Salagunner2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 246
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2fb4d39d894843b6465f1e123a657c
+      internalID: 21300242
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropRatvolver
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 18
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 6}
+        - {x: 9, y: 6}
+        - {x: 9, y: -6}
+      physicsShape:
+      - - {x: -9, y: 6}
+        - {x: -9, y: -6}
+        - {x: -1, y: -6}
+        - {x: 8, y: -2}
+        - {x: 9, y: -1}
+        - {x: 9, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80efbb7756a348aa94606fea27e5b754
+      internalID: 21300244
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 18, y: 18}
+      - {x: 0, y: 6}
+      - {x: 18, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWP
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 188
+        width: 39
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -6}
+        - {x: -19.5, y: 6}
+        - {x: 19.5, y: 6}
+        - {x: 19.5, y: -6}
+      physicsShape:
+      - - {x: -18.5, y: 6}
+        - {x: -19.5, y: 5}
+        - {x: -19.5, y: -6}
+        - {x: 19.5, y: -6}
+        - {x: 19.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16db4bcb81144bc6b3498fde33b5dea3
+      internalID: 21300246
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 39, y: 12}
+      - {x: 0, y: 0}
+      - {x: 39, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mjolnir
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 26
+        width: 14
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -4.5}
+        - {x: -7, y: 4.5}
+        - {x: 7, y: 4.5}
+        - {x: 7, y: -4.5}
+      physicsShape:
+      - - {x: -7, y: 4.5}
+        - {x: -7, y: -3.5}
+        - {x: -3, y: -4.5}
+        - {x: 7, y: -4.5}
+        - {x: 7, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747334aa217d40a6bcd95304fd2fbe93
+      internalID: 21300248
+      vertices:
+      - {x: 0, y: 9}
+      - {x: 14, y: 9}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife24k
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 166
+        width: 15
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -2}
+        - {x: -7.5, y: 2}
+        - {x: 7.5, y: 2}
+        - {x: 7.5, y: -2}
+      physicsShape:
+      - - {x: -7.5, y: 2}
+        - {x: -7.5, y: -2}
+        - {x: 7.5, y: -2}
+        - {x: 7.5, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70453c974f024c82a0f23cecb24baf9a
+      internalID: 21300250
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 15, y: 4}
+      - {x: 0, y: 0}
+      - {x: 15, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Toad2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 240
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26693b24517d44afaf12f618ce785460
+      internalID: 21300252
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropPondEagle
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 187
+        width: 16
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -6.5}
+        - {x: -8, y: 6.5}
+        - {x: 8, y: 6.5}
+        - {x: 8, y: -6.5}
+      physicsShape:
+      - - {x: -8, y: 6.5}
+        - {x: -8, y: -6.5}
+        - {x: 2, y: -6.5}
+        - {x: 8, y: -0.5}
+        - {x: 8, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7867146bb0324e99b2e5cb7b4cedf335
+      internalID: 21300254
+      vertices:
+      - {x: 0, y: 19.5}
+      - {x: 16, y: 19.5}
+      - {x: 0, y: 6.5}
+      - {x: 16, y: 6.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 169
+        width: 15
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -2}
+        - {x: -7.5, y: 2}
+        - {x: 7.5, y: 2}
+        - {x: 7.5, y: -2}
+      physicsShape:
+      - - {x: -7.5, y: 2}
+        - {x: -7.5, y: -2}
+        - {x: 7.5, y: -2}
+        - {x: 7.5, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a564326f8dee43e6bb4c420fa3a38122
+      internalID: 21300256
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 15, y: 4}
+      - {x: 0, y: 0}
+      - {x: 15, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Chupacabra1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 234
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aee74bd41441a4a4dd44bcb0f582ff
+      internalID: 21300258
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratvolver
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 17
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -5}
+        - {x: -8, y: 5}
+        - {x: 8, y: 5}
+        - {x: 8, y: -5}
+      physicsShape:
+      - - {x: -8, y: 5}
+        - {x: -8, y: -5}
+        - {x: -2, y: -5}
+        - {x: 8, y: -1}
+        - {x: 8, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9673acc0f4443af9846e4de33fff86d
+      internalID: 21300260
+      vertices:
+      - {x: 0, y: 10}
+      - {x: 16, y: 10}
+      - {x: 0, y: 0}
+      - {x: 16, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Robot1
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 212
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72797e5bcf1404d86659b70047f5f95
+      internalID: 21300262
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouser24k
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 219
+        width: 17
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -5.5}
+        - {x: -8.5, y: 5.5}
+        - {x: 8.5, y: 5.5}
+        - {x: 8.5, y: -5.5}
+      physicsShape:
+      - - {x: -8.5, y: 5.5}
+        - {x: -8.5, y: -5.5}
+        - {x: 5.5, y: -5.5}
+        - {x: 8.5, y: -1.5}
+        - {x: 8.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c89994e62d3444483c39f89040c17a5
+      internalID: 21300264
+      vertices:
+      - {x: 0, y: 11}
+      - {x: 17, y: 11}
+      - {x: 0, y: 0}
+      - {x: 17, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quakser
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 256
+        width: 20
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -6.5}
+        - {x: -10, y: 6.5}
+        - {x: 10, y: 6.5}
+        - {x: 10, y: -6.5}
+      physicsShape:
+      - - {x: -10, y: 6.5}
+        - {x: -10, y: -6.5}
+        - {x: 3, y: -6.5}
+        - {x: 10, y: -3.5}
+        - {x: 10, y: 5.5}
+        - {x: 9, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc9912eebc9431a9e541b69a5e2b999
+      internalID: 21300266
+      vertices:
+      - {x: 0, y: 13}
+      - {x: 20, y: 13}
+      - {x: 0, y: 0}
+      - {x: 20, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Albino2
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 246
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a52665b1b714836b6ccdf6fc1e67665
+      internalID: 21300268
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Chupacabra2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 234
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf21bdbcc8a04d21b330ab44f3c72b27
+      internalID: 21300270
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Ratkuza2
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 228
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7549e673b3c74bf9870c93e4dfdf8f77
+      internalID: 21300272
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Fox1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 246
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92b5c578de3465a871063b8a5c05c37
+      internalID: 21300274
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipeGun
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 205
+        width: 24
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -4}
+        - {x: -12, y: 4}
+        - {x: 12, y: 4}
+        - {x: 12, y: -4}
+      physicsShape:
+      - - {x: -12, y: 4}
+        - {x: -12, y: -4}
+        - {x: 12, y: -4}
+        - {x: 12, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25db79df285b4263b809179f898a8cf8
+      internalID: 21300276
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 24, y: 8}
+      - {x: 0, y: 0}
+      - {x: 24, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboShotgun
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 205
+        width: 30
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -5.5}
+        - {x: -15, y: 5.5}
+        - {x: 15, y: 5.5}
+        - {x: 15, y: -5.5}
+      physicsShape:
+      - - {x: -12, y: 5.5}
+        - {x: -15, y: 4.5}
+        - {x: -15, y: -5.5}
+        - {x: 13, y: -5.5}
+        - {x: 15, y: -4.5}
+        - {x: 15, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86585ca44d5c4433b8680a8476c0d753
+      internalID: 21300278
+      vertices:
+      - {x: 0, y: 11}
+      - {x: 30, y: 11}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Frog1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 222
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0eee3ba3a14f57abb5594b3a9c7cca
+      internalID: 21300280
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterGun
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 109
+        width: 23
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -7}
+        - {x: -11.5, y: 7}
+        - {x: 11.5, y: 7}
+        - {x: 11.5, y: -7}
+      physicsShape:
+      - - {x: -11.5, y: 7}
+        - {x: -11.5, y: -3}
+        - {x: -9.5, y: -7}
+        - {x: 4.5, y: -7}
+        - {x: 11.5, y: -5}
+        - {x: 11.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf92c67067641ef91f849e393c086b3
+      internalID: 21300282
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 23, y: 14}
+      - {x: 0, y: 0}
+      - {x: 23, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Brat2
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 234
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410fff391cd14913b098a0bc1473a1b4
+      internalID: 21300284
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uzi
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 222
+        width: 20
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -7}
+        - {x: -10, y: 7}
+        - {x: 10, y: 7}
+        - {x: 10, y: -7}
+      physicsShape:
+      - - {x: -10, y: 7}
+        - {x: -10, y: -7}
+        - {x: 8, y: -7}
+        - {x: 10, y: -3}
+        - {x: 10, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c298af405d44fb6929a2f92adf1ec8c
+      internalID: 21300286
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 20, y: 14}
+      - {x: 0, y: 0}
+      - {x: 20, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropMotorblade
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 152
+        width: 35
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -6.5}
+        - {x: -17.5, y: 6.5}
+        - {x: 17.5, y: 6.5}
+        - {x: 17.5, y: -6.5}
+      physicsShape:
+      - - {x: -12.5, y: 6.5}
+        - {x: -17.5, y: 3.5}
+        - {x: -17.5, y: -6.5}
+        - {x: 16.5, y: -6.5}
+        - {x: 17.5, y: -5.5}
+        - {x: 17.5, y: 4.5}
+        - {x: 16.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4b912bb8ed4e3a820e1a297bbd5a9d
+      internalID: 21300288
+      vertices:
+      - {x: 0, y: 19.5}
+      - {x: 35, y: 19.5}
+      - {x: 0, y: 6.5}
+      - {x: 35, y: 6.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Trans1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 204
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fadbe3e05714ce09703db9a83b7db23
+      internalID: 21300290
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Flamingo2
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 240
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: -4}
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -3}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 3}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6b77b902794b48b3b8bc423da32189
+      internalID: 21300292
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 8, y: 8}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropBoomstick
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 204
+        width: 20
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -6}
+        - {x: -10, y: 6}
+        - {x: 10, y: 6}
+        - {x: 10, y: -6}
+      physicsShape:
+      - - {x: -10, y: 6}
+        - {x: -10, y: -6}
+        - {x: 5, y: -6}
+        - {x: 10, y: -1}
+        - {x: 10, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35070e30975d4bd48bde69de6095270a
+      internalID: 21300294
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 20, y: 18}
+      - {x: 0, y: 6}
+      - {x: 20, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropRPG
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 131
+        width: 39
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -8}
+        - {x: -19.5, y: 8}
+        - {x: 19.5, y: 8}
+        - {x: 19.5, y: -8}
+      physicsShape:
+      - - {x: -19.5, y: 8}
+        - {x: -19.5, y: -8}
+        - {x: 16.5, y: -8}
+        - {x: 18.5, y: -7}
+        - {x: 19.5, y: -5}
+        - {x: 19.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e3efb28ea24ba6b25fe90fa10a76e6
+      internalID: 21300296
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 39, y: 24}
+      - {x: 0, y: 8}
+      - {x: 39, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Imp1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 204
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9bee9b5149498aa70639af02cb4da6
+      internalID: 21300298
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyMachine
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 239
+        width: 33
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -6.5}
+        - {x: -16.5, y: 6.5}
+        - {x: 16.5, y: 6.5}
+        - {x: 16.5, y: -6.5}
+      physicsShape:
+      - - {x: -16.5, y: 6.5}
+        - {x: -16.5, y: -6.5}
+        - {x: 16.5, y: -6.5}
+        - {x: 16.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef88f99aedda432484d938716556d473
+      internalID: 21300300
+      vertices:
+      - {x: 0, y: 13}
+      - {x: 33, y: 13}
+      - {x: 0, y: 0}
+      - {x: 33, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_FishingBaitWater
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 68
+        width: 9
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -4}
+        - {x: -4.5, y: 4}
+        - {x: 4.5, y: 4}
+        - {x: 4.5, y: -4}
+      physicsShape:
+      - - {x: -4.5, y: 4}
+        - {x: -4.5, y: -4}
+        - {x: 4.5, y: -4}
+        - {x: 4.5, y: 3}
+        - {x: 3.5, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bca937d81a040fa8764cc17e6f35c67
+      internalID: 21300302
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 9, y: 12}
+      - {x: 0, y: 4}
+      - {x: 9, y: 4}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TacticalPistol
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 256
+        width: 15
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -5.5}
+        - {x: -7.5, y: 5.5}
+        - {x: 7.5, y: 5.5}
+        - {x: 7.5, y: -5.5}
+      physicsShape:
+      - - {x: -7.5, y: 5.5}
+        - {x: -7.5, y: -5.5}
+        - {x: 1.5, y: -5.5}
+        - {x: 7.5, y: -2.5}
+        - {x: 7.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3be7701ef674163a576184dbd3e991f
+      internalID: 21300304
+      vertices:
+      - {x: 0, y: 11}
+      - {x: 15, y: 11}
+      - {x: 0, y: 0}
+      - {x: 15, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenAK
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 239
+        width: 30
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -5}
+        - {x: -15, y: 5}
+        - {x: 15, y: 5}
+        - {x: 15, y: -5}
+      physicsShape:
+      - - {x: -15, y: 5}
+        - {x: -15, y: -5}
+        - {x: 7, y: -5}
+        - {x: 15, y: -2}
+        - {x: 15, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9596a21a95477da703abfb720729cb
+      internalID: 21300306
+      vertices:
+      - {x: 0, y: 10}
+      - {x: 30, y: 10}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropMP5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 221
+        width: 25
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -7.5}
+        - {x: -12.5, y: 7.5}
+        - {x: 12.5, y: 7.5}
+        - {x: 12.5, y: -7.5}
+      physicsShape:
+      - - {x: -12.5, y: 7.5}
+        - {x: -12.5, y: -7.5}
+        - {x: 9.5, y: -7.5}
+        - {x: 12.5, y: -2.5}
+        - {x: 12.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a377857d3584e2997344d45df7c6f12
+      internalID: 21300308
+      vertices:
+      - {x: 0, y: 22.5}
+      - {x: 25, y: 22.5}
+      - {x: 0, y: 7.5}
+      - {x: 25, y: 7.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropAK
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 238
+        width: 32
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -6}
+        - {x: -16, y: 6}
+        - {x: 16, y: 6}
+        - {x: 16, y: -6}
+      physicsShape:
+      - - {x: -16, y: 6}
+        - {x: -16, y: -6}
+        - {x: 12, y: -6}
+        - {x: 15, y: -5}
+        - {x: 16, y: -4}
+        - {x: 16, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f6302bfce54891ae1fca56510a8532
+      internalID: 21300310
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 32, y: 18}
+      - {x: 0, y: 6}
+      - {x: 32, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Skull2
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 222
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a73a8a211d41eabe94942d1ff7ae4f
+      internalID: 21300312
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 109
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -6}
+        - {x: -6, y: 6}
+        - {x: 6, y: 6}
+        - {x: 6, y: -6}
+      physicsShape:
+      - - {x: -6, y: 6}
+        - {x: -6, y: -1}
+        - {x: 0, y: -6}
+        - {x: 6, y: -6}
+        - {x: 6, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28f2255e8de4a0bb72c38d32e1a5729
+      internalID: 21300314
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 12, y: 12}
+      - {x: 0, y: 0}
+      - {x: 12, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropButcher
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 168
+        width: 22
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -4.5}
+        - {x: -11, y: 4.5}
+        - {x: 11, y: 4.5}
+        - {x: 11, y: -4.5}
+      physicsShape:
+      - - {x: -11, y: 4.5}
+        - {x: -11, y: -4.5}
+        - {x: 11, y: -4.5}
+        - {x: 11, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58cd54a5e10435fb0bab19e514ec99d
+      internalID: 21300316
+      vertices:
+      - {x: 0, y: 13.5}
+      - {x: 22, y: 13.5}
+      - {x: 0, y: 4.5}
+      - {x: 22, y: 4.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P90
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 222
+        width: 19
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -5}
+        - {x: -9.5, y: 5}
+        - {x: 9.5, y: 5}
+        - {x: 9.5, y: -5}
+      physicsShape:
+      - - {x: -9.5, y: 5}
+        - {x: -9.5, y: -5}
+        - {x: 9.5, y: -5}
+        - {x: 9.5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7c9de2100643c08ce4e914beed8b5d
+      internalID: 21300318
+      vertices:
+      - {x: 0, y: 10}
+      - {x: 19, y: 10}
+      - {x: 0, y: 0}
+      - {x: 19, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_FishingRoad
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 15
+        width: 81
+        height: 28
+      alignment: 9
+      pivot: {x: 0.035590276, y: 0.42944574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -14}
+        - {x: -40.5, y: 14}
+        - {x: 40.5, y: 14}
+        - {x: 40.5, y: -14}
+      physicsShape:
+      - - {x: -31.5, y: 14}
+        - {x: -40.5, y: 6}
+        - {x: -40.5, y: -10}
+        - {x: -31.5, y: -8}
+        - {x: -20.5, y: 6}
+        - {x: 32.5, y: -14}
+        - {x: 40.5, y: -14}
+        - {x: 40.5, y: -8}
+        - {x: -12.5, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27ea01950414f3da02fbb97c199f88d
+      internalID: 21300320
+      vertices:
+      - {x: 37.617188, y: 29.97552}
+      - {x: 118.61719, y: 29.97552}
+      - {x: 37.617188, y: 1.9755192}
+      - {x: 118.61719, y: 1.9755192}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropGoldAK
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 238
+        width: 32
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -6}
+        - {x: -16, y: 6}
+        - {x: 16, y: 6}
+        - {x: 16, y: -6}
+      physicsShape:
+      - - {x: -16, y: 6}
+        - {x: -16, y: -6}
+        - {x: 12, y: -6}
+        - {x: 15, y: -5}
+        - {x: 16, y: -4}
+        - {x: 16, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4215045da364cf8a192b92b247b5f0a
+      internalID: 21300322
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 32, y: 18}
+      - {x: 0, y: 6}
+      - {x: 32, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_CrocoBig1
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 251
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -2.5}
+        - {x: -2.5, y: 2.5}
+        - {x: 2.5, y: 2.5}
+        - {x: 2.5, y: -2.5}
+      physicsShape:
+      - - {x: -2.5, y: 2.5}
+        - {x: -2.5, y: -2.5}
+        - {x: 2.5, y: -2.5}
+        - {x: 2.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e42687daf241bcb8cd9b5d935f0756
+      internalID: 21300324
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 5, y: 5}
+      - {x: 0, y: 0}
+      - {x: 5, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropRailgun
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 108
+        width: 42
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -9}
+        - {x: -21, y: 9}
+        - {x: 21, y: 9}
+        - {x: 21, y: -9}
+      physicsShape:
+      - - {x: 18, y: 9}
+        - {x: -14, y: 9}
+        - {x: -21, y: 6}
+        - {x: -21, y: -9}
+        - {x: 2, y: -9}
+        - {x: 17, y: -6}
+        - {x: 21, y: -3}
+        - {x: 21, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830f26ac700b449c8f2b7a72e29a2b9a
+      internalID: 21300326
+      vertices:
+      - {x: 0, y: 27}
+      - {x: 42, y: 27}
+      - {x: 0, y: 9}
+      - {x: 42, y: 9}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropAWP
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 187
+        width: 41
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -7}
+        - {x: -20.5, y: 7}
+        - {x: 20.5, y: 7}
+        - {x: 20.5, y: -7}
+      physicsShape:
+      - - {x: -20.5, y: 7}
+        - {x: -20.5, y: -7}
+        - {x: 20.5, y: -7}
+        - {x: 20.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61014472865949029074e7500cdb4178
+      internalID: 21300328
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 41, y: 21}
+      - {x: 0, y: 7}
+      - {x: 41, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropPewPewer
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 221
+        width: 29
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -7}
+        - {x: -14.5, y: 7}
+        - {x: 14.5, y: 7}
+        - {x: 14.5, y: -7}
+      physicsShape:
+      - - {x: -14.5, y: 7}
+        - {x: -14.5, y: -7}
+        - {x: 11.5, y: -7}
+        - {x: 14.5, y: -5}
+        - {x: 14.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c948ecd17aa142cc9257463ac878badd
+      internalID: 21300330
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 29, y: 21}
+      - {x: 0, y: 7}
+      - {x: 29, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropPocketPistol
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 14
+        width: 10
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -4.5}
+        - {x: -5, y: 4.5}
+        - {x: 5, y: 4.5}
+        - {x: 5, y: -4.5}
+      physicsShape:
+      - - {x: -5, y: 4.5}
+        - {x: -5, y: -4.5}
+        - {x: 3, y: -4.5}
+        - {x: 5, y: -2.5}
+        - {x: 5, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfe8d9017374ffc9c0ef024d94acd7f
+      internalID: 21300332
+      vertices:
+      - {x: 0, y: 13.5}
+      - {x: 10, y: 13.5}
+      - {x: 0, y: 4.5}
+      - {x: 10, y: 4.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Wooper1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 210
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07be8da223174bd2b7a93ac7e3cc9265
+      internalID: 21300334
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropTacticalPistol
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 255
+        width: 17
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -6.5}
+        - {x: -8.5, y: 6.5}
+        - {x: 8.5, y: 6.5}
+        - {x: 8.5, y: -6.5}
+      physicsShape:
+      - - {x: -8.5, y: 6.5}
+        - {x: -8.5, y: -6.5}
+        - {x: 2.5, y: -6.5}
+        - {x: 7.5, y: -3.5}
+        - {x: 8.5, y: -2.5}
+        - {x: 8.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc4905d1fc94d149685e2074aebce50
+      internalID: 21300336
+      vertices:
+      - {x: 0, y: 19.5}
+      - {x: 17, y: 19.5}
+      - {x: 0, y: 6.5}
+      - {x: 17, y: 6.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Croakker2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 234
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a037a3e06942aeab143b9097d1e761
+      internalID: 21300338
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropRevolver
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 255
+        width: 17
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -6}
+        - {x: -8.5, y: 6}
+        - {x: 8.5, y: 6}
+        - {x: 8.5, y: -6}
+      physicsShape:
+      - - {x: -8.5, y: 6}
+        - {x: -8.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 6.5, y: -2}
+        - {x: 8.5, y: 0}
+        - {x: 8.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1385d0666ffb42f99c747758a0314426
+      internalID: 21300340
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 17, y: 18}
+      - {x: 0, y: 6}
+      - {x: 17, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Weird2
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 252
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44507e5b229b41f3b5aca4e5b2184f63
+      internalID: 21300342
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropFlintGun
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 187
+        width: 30
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -5}
+        - {x: -15, y: 5}
+        - {x: 15, y: 5}
+        - {x: 15, y: -5}
+      physicsShape:
+      - - {x: -15, y: 5}
+        - {x: -15, y: -5}
+        - {x: 15, y: -5}
+        - {x: 15, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a40347ab57e4d9ebf66313cad1ccf27
+      internalID: 21300344
+      vertices:
+      - {x: 0, y: 15}
+      - {x: 30, y: 15}
+      - {x: 0, y: 5}
+      - {x: 30, y: 5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Lavender2
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 228
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56be9e2c0b9b48acb7a57f1e24327910
+      internalID: 21300346
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Draco2
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 240
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b877f44df3a4c18b42b7088107fead6
+      internalID: 21300348
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_CrocoLittle2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 252
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421c17c2470b4b9cb0db8b628978aca3
+      internalID: 21300350
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_LabRat1
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 240
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1592c03d44c94c5bb53b61d24d270924
+      internalID: 21300352
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropShotgun
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 204
+        width: 32
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -5.5}
+        - {x: -16, y: 5.5}
+        - {x: 16, y: 5.5}
+        - {x: 16, y: -5.5}
+      physicsShape:
+      - - {x: -10, y: 5.5}
+        - {x: -15, y: 4.5}
+        - {x: -16, y: 4.5}
+        - {x: -16, y: -5.5}
+        - {x: 16, y: -5.5}
+        - {x: 16, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5f8e94746c42d085f3ac4a2cf9f9f1
+      internalID: 21300354
+      vertices:
+      - {x: 0, y: 16.5}
+      - {x: 32, y: 16.5}
+      - {x: 0, y: 5.5}
+      - {x: 32, y: 5.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Pengu2
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 240
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6703e363494376983c62213b5c642a
+      internalID: 21300356
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kalas
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 188
+        width: 32
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -6}
+        - {x: -16, y: 6}
+        - {x: 16, y: 6}
+        - {x: 16, y: -6}
+      physicsShape:
+      - - {x: -12, y: 6}
+        - {x: -16, y: 4}
+        - {x: -16, y: -6}
+        - {x: 10, y: -6}
+        - {x: 16, y: -5}
+        - {x: 16, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3197f188e11c4cd9b4ac0254efb02e44
+      internalID: 21300358
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 32, y: 12}
+      - {x: 0, y: 0}
+      - {x: 32, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Fox2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 246
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990ba551a1154793a0ea712bf2adea29
+      internalID: 21300360
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Robot
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 234
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c09b36850f4ee8ad876121959438ed
+      internalID: 21300362
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Railgun
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 109
+        width: 40
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -8}
+        - {x: -20, y: 8}
+        - {x: 20, y: 8}
+        - {x: 20, y: -8}
+      physicsShape:
+      - - {x: -18, y: 8}
+        - {x: -20, y: 6}
+        - {x: -20, y: -6}
+        - {x: -18, y: -8}
+        - {x: 5, y: -8}
+        - {x: 20, y: -4}
+        - {x: 20, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c395d756b74f49b8b6cd8a5d9e2c37
+      internalID: 21300364
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 40, y: 16}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Toad1
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 240
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b95c80267a041aaa88392c61d264465
+      internalID: 21300366
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigStick
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 169
+        width: 25
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -2.5}
+        - {x: -12.5, y: 2.5}
+        - {x: 12.5, y: 2.5}
+        - {x: 12.5, y: -2.5}
+      physicsShape:
+      - - {x: -12.5, y: 2.5}
+        - {x: -12.5, y: -2.5}
+        - {x: 12.5, y: -2.5}
+        - {x: 12.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723216189e7b4b3ab2ef816d4e32c392
+      internalID: 21300368
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 25, y: 5}
+      - {x: 0, y: 0}
+      - {x: 25, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Midas2
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 216
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec5e924ec9f46dd8a42566fc0f74e52
+      internalID: 21300370
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomstick
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 205
+        width: 18
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -5}
+        - {x: -9, y: 5}
+        - {x: 9, y: 5}
+        - {x: 9, y: -5}
+      physicsShape:
+      - - {x: -7, y: 5}
+        - {x: -9, y: 3}
+        - {x: -9, y: -5}
+        - {x: 5, y: -5}
+        - {x: 9, y: -1}
+        - {x: 9, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38e0c9a5bd94b668e18ca66ca6a90ad
+      internalID: 21300372
+      vertices:
+      - {x: 0, y: 10}
+      - {x: 18, y: 10}
+      - {x: 0, y: 0}
+      - {x: 18, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropKatana
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 152
+        width: 34
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -4.5}
+        - {x: -17, y: 4.5}
+        - {x: 17, y: 4.5}
+        - {x: 17, y: -4.5}
+      physicsShape:
+      - - {x: -17, y: 4.5}
+        - {x: -17, y: -4.5}
+        - {x: 17, y: -4.5}
+        - {x: 17, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3575333f7841288b322c0914610e11
+      internalID: 21300374
+      vertices:
+      - {x: 0, y: 13.5}
+      - {x: 34, y: 13.5}
+      - {x: 0, y: 4.5}
+      - {x: 34, y: 4.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -5}
+        - {x: -6, y: 5}
+        - {x: 6, y: 5}
+        - {x: 6, y: -5}
+      physicsShape:
+      - - {x: -5, y: 5}
+        - {x: -6, y: 4}
+        - {x: -6, y: -5}
+        - {x: 1, y: -5}
+        - {x: 6, y: -1}
+        - {x: 6, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2b27273ea64f228f14af5b8565f44e
+      internalID: 21300376
+      vertices:
+      - {x: 0, y: 10}
+      - {x: 12, y: 10}
+      - {x: 0, y: 0}
+      - {x: 12, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropDoom
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 204
+        width: 26
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -7}
+        - {x: -13, y: 7}
+        - {x: 13, y: 7}
+        - {x: 13, y: -7}
+      physicsShape:
+      - - {x: -13, y: 7}
+        - {x: -13, y: -7}
+        - {x: 8, y: -7}
+        - {x: 13, y: -4}
+        - {x: 13, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94fc1d22ebb486997bb65a5f6d06037
+      internalID: 21300378
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 26, y: 21}
+      - {x: 0, y: 7}
+      - {x: 26, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Robo
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 234
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a2a72e1eec4259b1e1aa9e5242fd21
+      internalID: 21300380
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropRustyShotgun
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 204
+        width: 26
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -5}
+        - {x: -13, y: 5}
+        - {x: 13, y: 5}
+        - {x: 13, y: -5}
+      physicsShape:
+      - - {x: -13, y: 5}
+        - {x: -13, y: -5}
+        - {x: 13, y: -5}
+        - {x: 13, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d509ae0e703d4fd396ef1cffee307939
+      internalID: 21300382
+      vertices:
+      - {x: 0, y: 15}
+      - {x: 26, y: 15}
+      - {x: 0, y: 5}
+      - {x: 26, y: 5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Albino1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 246
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a4994e09be4875acfcd913c1594c9e
+      internalID: 21300384
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Corgi2
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 246
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e93baafbdee405a860a1e9fa4d05048
+      internalID: 21300386
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Koi1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 234
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8f6d4d28f94296a2d6562b742eef14
+      internalID: 21300388
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropFlamethrower
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 108
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -8}
+        - {x: -16, y: 8}
+        - {x: 16, y: 8}
+        - {x: 16, y: -8}
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -6}
+        - {x: -13, y: -8}
+        - {x: 16, y: -8}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9063a65ecb4714af4536c11f96fad7
+      internalID: 21300390
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 32, y: 24}
+      - {x: 0, y: 8}
+      - {x: 32, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RustyAK24k
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 236
+        width: 18
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -4.5}
+        - {x: -9, y: 4.5}
+        - {x: 9, y: 4.5}
+        - {x: 9, y: -4.5}
+      physicsShape:
+      - - {x: -9, y: 4.5}
+        - {x: -9, y: -4.5}
+        - {x: 9, y: -4.5}
+        - {x: 9, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba425906dd0c4c57ac6a3ca468c72e92
+      internalID: 21300392
+      vertices:
+      - {x: 0, y: 9}
+      - {x: 18, y: 9}
+      - {x: 0, y: 0}
+      - {x: 18, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Akxolotl2
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 252
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e97a6ee73e451e909905a04dc6b781
+      internalID: 21300394
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyRevolver
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 256
+        width: 17
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -5.5}
+        - {x: -8.5, y: 5.5}
+        - {x: 8.5, y: 5.5}
+        - {x: 8.5, y: -5.5}
+      physicsShape:
+      - - {x: -8.5, y: 5.5}
+        - {x: -8.5, y: -5.5}
+        - {x: 0.5, y: -5.5}
+        - {x: 8.5, y: -1.5}
+        - {x: 8.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff8c729c47d435bb675653ff92c5b33
+      internalID: 21300396
+      vertices:
+      - {x: 0, y: 11}
+      - {x: 17, y: 11}
+      - {x: 0, y: 0}
+      - {x: 17, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PondEagle
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 188
+        width: 14
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -5.5}
+        - {x: -7, y: 5.5}
+        - {x: 7, y: 5.5}
+        - {x: 7, y: -5.5}
+      physicsShape:
+      - - {x: -7, y: 5.5}
+        - {x: -7, y: -5.5}
+        - {x: 1, y: -5.5}
+        - {x: 7, y: -0.5}
+        - {x: 7, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a4afc112b2444ea93a51cdcddae92c
+      internalID: 21300398
+      vertices:
+      - {x: 0, y: 11}
+      - {x: 14, y: 11}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropP90
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 221
+        width: 21
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -6}
+        - {x: -10.5, y: 6}
+        - {x: 10.5, y: 6}
+        - {x: 10.5, y: -6}
+      physicsShape:
+      - - {x: -10.5, y: 6}
+        - {x: -10.5, y: -6}
+        - {x: 10.5, y: -6}
+        - {x: 10.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13acbacecdf4eed8fa138ceab855825
+      internalID: 21300400
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 21, y: 18}
+      - {x: 0, y: 6}
+      - {x: 21, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Platypus2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 240
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5786d8125d594e34ba7dcf4c16ae01ff
+      internalID: 21300402
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 205
+        width: 30
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -4.5}
+        - {x: -15, y: 4.5}
+        - {x: 15, y: 4.5}
+        - {x: 15, y: -4.5}
+      physicsShape:
+      - - {x: -10, y: 4.5}
+        - {x: -15, y: 3.5}
+        - {x: -15, y: -4.5}
+        - {x: 13, y: -4.5}
+        - {x: 15, y: -2.5}
+        - {x: 15, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95a1fa5df304ffc8d49802a6d20eb85
+      internalID: 21300404
+      vertices:
+      - {x: 0, y: 9}
+      - {x: 30, y: 9}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_Platypus4
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 240
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf0c9717d9c42edb55d06cf5d7fb433
+      internalID: 21300406
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropBigStick
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 168
+        width: 27
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -3.5}
+        - {x: -13.5, y: 3.5}
+        - {x: 13.5, y: 3.5}
+        - {x: 13.5, y: -3.5}
+      physicsShape:
+      - - {x: -13.5, y: 3.5}
+        - {x: -13.5, y: -3.5}
+        - {x: 13.5, y: -3.5}
+        - {x: 13.5, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25469558291e4943bd88bad6a38bea90
+      internalID: 21300408
+      vertices:
+      - {x: 0, y: 10.5}
+      - {x: 27, y: 10.5}
+      - {x: 0, y: 3.5}
+      - {x: 27, y: 3.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamethrower
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 109
+        width: 30
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -7}
+        - {x: -15, y: 7}
+        - {x: 15, y: 7}
+        - {x: 15, y: -7}
+      physicsShape:
+      - - {x: -14, y: 7}
+        - {x: -15, y: 6}
+        - {x: -15, y: -7}
+        - {x: 11, y: -7}
+        - {x: 15, y: -5}
+        - {x: 15, y: 5}
+        - {x: 14, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7a2bd38bde4e349b1e8aca475fed47
+      internalID: 21300410
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 30, y: 14}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 8c01267c0c1bf4cda9dc5323e445dc9a.bundle
+  assetBundleVariant:

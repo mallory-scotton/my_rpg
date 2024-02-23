@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: 291c55ccae66ec940866af299245b08f
+timeCreated: 1706119822
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SP_tree_04_77x67_3
+  - first:
+      213: 21300002
+    second: SP_tree_04_77x67_4
+  - first:
+      213: 21300004
+    second: SP_tree_04_77x67_2
+  - first:
+      213: 21300006
+    second: SP_tree_04_77x67_7
+  - first:
+      213: 21300008
+    second: SP_tree_04_77x67_6
+  - first:
+      213: 21300010
+    second: SP_tree_04_77x67_5
+  - first:
+      213: 21300012
+    second: SP_tree_04_77x67_1
+  - first:
+      213: 21300014
+    second: SP_tree_04_77x67_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SP_tree_04_77x67_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 77
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -33.5}
+        - {x: -38.5, y: 33.5}
+        - {x: 38.5, y: 33.5}
+        - {x: 38.5, y: -33.5}
+      physicsShape:
+      - - {x: 38.5, y: 5.5}
+        - {x: 38.5, y: 21.5}
+        - {x: 30.5, y: 28.5}
+        - {x: 17.5, y: 33.5}
+        - {x: -1.5, y: 33.5}
+        - {x: -4.5, y: 30.5}
+        - {x: -18.5, y: 24.5}
+        - {x: -38.5, y: 14.5}
+        - {x: -38.5, y: -13.5}
+        - {x: -33.5, y: -21.5}
+        - {x: -4.5, y: -20.5}
+        - {x: -13.5, y: -25.5}
+        - {x: -16.5, y: -31.5}
+        - {x: -11.5, y: -33.5}
+        - {x: 20.5, y: -33.5}
+        - {x: 22.5, y: -28.5}
+        - {x: 10.5, y: -10.5}
+        - {x: 32.5, y: -1.5}
+      - - {x: -25.5, y: -32.5}
+        - {x: -22.5, y: -31.5}
+        - {x: -22.5, y: -28.5}
+        - {x: -25.5, y: -27.5}
+        - {x: -27.5, y: -29.5}
+      - - {x: 25.5, y: -28.5}
+        - {x: 28.5, y: -27.5}
+        - {x: 28.5, y: -24.5}
+        - {x: 25.5, y: -23.5}
+        - {x: 23.5, y: -25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb6f400353946ea97e79ec2d2a324f1
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 100.5}
+      - {x: 77, y: 100.5}
+      - {x: 0, y: 33.5}
+      - {x: 77, y: 33.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_tree_04_77x67_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 67
+        width: 77
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -33.5}
+        - {x: -38.5, y: 33.5}
+        - {x: 38.5, y: 33.5}
+        - {x: 38.5, y: -33.5}
+      physicsShape:
+      - - {x: 24.5, y: -6.5}
+        - {x: 38.5, y: 4.5}
+        - {x: 38.5, y: 19.5}
+        - {x: 33.5, y: 26.5}
+        - {x: 18.5, y: 33.5}
+        - {x: -2.5, y: 33.5}
+        - {x: -11.5, y: 19.5}
+        - {x: -22.5, y: 18.5}
+        - {x: -34.5, y: 16.5}
+        - {x: -38.5, y: 12.5}
+        - {x: -38.5, y: -14.5}
+        - {x: -34.5, y: -18.5}
+        - {x: -20.5, y: -22.5}
+        - {x: -14.5, y: -16.5}
+        - {x: -19.5, y: -33.5}
+        - {x: 22.5, y: -33.5}
+        - {x: 22.5, y: -28.5}
+        - {x: 18.5, y: -26.5}
+        - {x: 12.5, y: -8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472649371e1c4e6aa91c7428af7c501c
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 100.5}
+      - {x: 77, y: 100.5}
+      - {x: 0, y: 33.5}
+      - {x: 77, y: 33.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_tree_04_77x67_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 134
+        width: 77
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -33.5}
+        - {x: -38.5, y: 33.5}
+        - {x: 38.5, y: 33.5}
+        - {x: 38.5, y: -33.5}
+      physicsShape:
+      - - {x: 22.5, y: -5.5}
+        - {x: 38.5, y: 2.5}
+        - {x: 38.5, y: 19.5}
+        - {x: 31.5, y: 25.5}
+        - {x: 28.5, y: 26.5}
+        - {x: 14.5, y: 33.5}
+        - {x: -2.5, y: 33.5}
+        - {x: -13.5, y: 21.5}
+        - {x: -36.5, y: 17.5}
+        - {x: -38.5, y: 14.5}
+        - {x: -38.5, y: -14.5}
+        - {x: -30.5, y: -20.5}
+        - {x: -22.5, y: -21.5}
+        - {x: -8.5, y: -20.5}
+        - {x: -18.5, y: -32.5}
+        - {x: -15.5, y: -33.5}
+        - {x: 20.5, y: -33.5}
+        - {x: 22.5, y: -28.5}
+        - {x: 10.5, y: -15.5}
+        - {x: 16.5, y: -4.5}
+      - - {x: -22.5, y: -30.5}
+        - {x: -19.5, y: -29.5}
+        - {x: -19.5, y: -26.5}
+        - {x: -22.5, y: -25.5}
+        - {x: -24.5, y: -27.5}
+      - - {x: 31.5, y: -23.5}
+        - {x: 34.5, y: -22.5}
+        - {x: 34.5, y: -19.5}
+        - {x: 31.5, y: -18.5}
+        - {x: 29.5, y: -20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ac696d97824a949ac0a5fb1a153ebf
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 100.5}
+      - {x: 77, y: 100.5}
+      - {x: 0, y: 33.5}
+      - {x: 77, y: 33.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_tree_04_77x67_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 77
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -33.5}
+        - {x: -38.5, y: 33.5}
+        - {x: 38.5, y: 33.5}
+        - {x: 38.5, y: -33.5}
+      physicsShape:
+      - - {x: 38.5, y: 4.5}
+        - {x: 38.5, y: 21.5}
+        - {x: 28.5, y: 27.5}
+        - {x: 15.5, y: 33.5}
+        - {x: -1.5, y: 33.5}
+        - {x: -11.5, y: 19.5}
+        - {x: -17.5, y: 20.5}
+        - {x: -31.5, y: 19.5}
+        - {x: -38.5, y: 13.5}
+        - {x: -38.5, y: -13.5}
+        - {x: -28.5, y: -21.5}
+        - {x: -23.5, y: -21.5}
+        - {x: -12.5, y: -18.5}
+        - {x: -14.5, y: -27.5}
+        - {x: -15.5, y: -31.5}
+        - {x: -11.5, y: -33.5}
+        - {x: 20.5, y: -33.5}
+        - {x: 22.5, y: -28.5}
+        - {x: 8.5, y: -11.5}
+        - {x: 32.5, y: -1.5}
+      - - {x: 21.5, y: -6.5}
+        - {x: 20.5, y: -7.5}
+        - {x: 20.5, y: -12.5}
+        - {x: 25.5, y: -12.5}
+        - {x: 26.5, y: -10.5}
+        - {x: 26.5, y: -8.5}
+        - {x: 24.5, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b815817dbee49dcad6d11326ba9046f
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 100.5}
+      - {x: 77, y: 100.5}
+      - {x: 0, y: 33.5}
+      - {x: 77, y: 33.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_tree_04_77x67_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 77
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -33.5}
+        - {x: -38.5, y: 33.5}
+        - {x: 38.5, y: 33.5}
+        - {x: 38.5, y: -33.5}
+      physicsShape:
+      - - {x: 26.5, y: -8.5}
+        - {x: 32.5, y: -6.5}
+        - {x: 38.5, y: 4.5}
+        - {x: 38.5, y: 19.5}
+        - {x: 31.5, y: 25.5}
+        - {x: 28.5, y: 26.5}
+        - {x: 18.5, y: 28.5}
+        - {x: 12.5, y: 33.5}
+        - {x: -1.5, y: 33.5}
+        - {x: -12.5, y: 20.5}
+        - {x: -17.5, y: 20.5}
+        - {x: -35.5, y: 16.5}
+        - {x: -38.5, y: 13.5}
+        - {x: -38.5, y: -14.5}
+        - {x: -30.5, y: -20.5}
+        - {x: -22.5, y: -21.5}
+        - {x: -8.5, y: -20.5}
+        - {x: -18.5, y: -32.5}
+        - {x: -15.5, y: -33.5}
+        - {x: 20.5, y: -33.5}
+        - {x: 22.5, y: -28.5}
+        - {x: 8.5, y: -11.5}
+        - {x: 22.5, y: -4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf2a318c0d54021a67c0eb8474f6080
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 100.5}
+      - {x: 77, y: 100.5}
+      - {x: 0, y: 33.5}
+      - {x: 77, y: 33.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_tree_04_77x67_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 67
+        width: 77
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -33.5}
+        - {x: -38.5, y: 33.5}
+        - {x: 38.5, y: 33.5}
+        - {x: 38.5, y: -33.5}
+      physicsShape:
+      - - {x: 38.5, y: 4.5}
+        - {x: 38.5, y: 21.5}
+        - {x: 30.5, y: 28.5}
+        - {x: 17.5, y: 33.5}
+        - {x: -1.5, y: 33.5}
+        - {x: -4.5, y: 30.5}
+        - {x: -17.5, y: 20.5}
+        - {x: -34.5, y: 16.5}
+        - {x: -38.5, y: 10.5}
+        - {x: -38.5, y: -13.5}
+        - {x: -33.5, y: -21.5}
+        - {x: -4.5, y: -20.5}
+        - {x: -13.5, y: -25.5}
+        - {x: -16.5, y: -31.5}
+        - {x: -11.5, y: -33.5}
+        - {x: 20.5, y: -33.5}
+        - {x: 22.5, y: -28.5}
+        - {x: 9.5, y: -11.5}
+        - {x: 29.5, y: -5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515a33761d3d4252b4b8fa4ae1f54661
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 100.5}
+      - {x: 77, y: 100.5}
+      - {x: 0, y: 33.5}
+      - {x: 77, y: 33.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_tree_04_77x67_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 134
+        width: 77
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -33.5}
+        - {x: -38.5, y: 33.5}
+        - {x: 38.5, y: 33.5}
+        - {x: 38.5, y: -33.5}
+      physicsShape:
+      - - {x: 38.5, y: 4.5}
+        - {x: 38.5, y: 21.5}
+        - {x: 28.5, y: 27.5}
+        - {x: 15.5, y: 33.5}
+        - {x: -1.5, y: 33.5}
+        - {x: -11.5, y: 19.5}
+        - {x: -17.5, y: 20.5}
+        - {x: -31.5, y: 19.5}
+        - {x: -38.5, y: 13.5}
+        - {x: -38.5, y: -13.5}
+        - {x: -28.5, y: -21.5}
+        - {x: -23.5, y: -21.5}
+        - {x: -12.5, y: -18.5}
+        - {x: -14.5, y: -27.5}
+        - {x: -15.5, y: -31.5}
+        - {x: -11.5, y: -33.5}
+        - {x: 20.5, y: -33.5}
+        - {x: 22.5, y: -28.5}
+        - {x: 8.5, y: -11.5}
+        - {x: 32.5, y: -1.5}
+      - - {x: -28.5, y: -20.5}
+        - {x: -31.5, y: -23.5}
+        - {x: -31.5, y: -24.5}
+        - {x: -29.5, y: -26.5}
+        - {x: -27.5, y: -26.5}
+        - {x: -25.5, y: -24.5}
+        - {x: -25.5, y: -22.5}
+        - {x: -27.5, y: -20.5}
+      - - {x: 23.5, y: -13.5}
+        - {x: 22.5, y: -14.5}
+        - {x: 22.5, y: -19.5}
+        - {x: 27.5, y: -19.5}
+        - {x: 28.5, y: -17.5}
+        - {x: 28.5, y: -15.5}
+        - {x: 26.5, y: -13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f74dd3bd9a84aa9b9789c14485dd6bd
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 100.5}
+      - {x: 77, y: 100.5}
+      - {x: 0, y: 33.5}
+      - {x: 77, y: 33.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_tree_04_77x67_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 77
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -33.5}
+        - {x: -38.5, y: 33.5}
+        - {x: 38.5, y: 33.5}
+        - {x: 38.5, y: -33.5}
+      physicsShape:
+      - - {x: 38.5, y: 5.5}
+        - {x: 38.5, y: 20.5}
+        - {x: 31.5, y: 26.5}
+        - {x: 15.5, y: 33.5}
+        - {x: -2.5, y: 33.5}
+        - {x: -12.5, y: 19.5}
+        - {x: -31.5, y: 18.5}
+        - {x: -38.5, y: 13.5}
+        - {x: -38.5, y: -14.5}
+        - {x: -32.5, y: -20.5}
+        - {x: -22.5, y: -24.5}
+        - {x: -14.5, y: -16.5}
+        - {x: -7.5, y: -21.5}
+        - {x: -14.5, y: -27.5}
+        - {x: -15.5, y: -31.5}
+        - {x: -11.5, y: -33.5}
+        - {x: 20.5, y: -33.5}
+        - {x: 22.5, y: -28.5}
+        - {x: 8.5, y: -11.5}
+        - {x: 31.5, y: -3.5}
+      - - {x: 27.5, y: -13.5}
+        - {x: 28.5, y: -15.5}
+        - {x: 31.5, y: -15.5}
+        - {x: 33.5, y: -14.5}
+        - {x: 33.5, y: -11.5}
+        - {x: 32.5, y: -9.5}
+        - {x: 29.5, y: -9.5}
+        - {x: 27.5, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4917371acdb466b9e338d025ea3d5ee
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 100.5}
+      - {x: 77, y: 100.5}
+      - {x: 0, y: 33.5}
+      - {x: 77, y: 33.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 2601eefa90f1f302662960eba7e3f32c.bundle
+  assetBundleVariant:

@@ -1,0 +1,2112 @@
+fileFormatVersion: 2
+guid: 2735be132453d5441814e302253c0f63
+timeCreated: 1706119824
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: EliteblackBear90x56_Walk6
+  - first:
+      213: 21300002
+    second: EliteblackBear90x56_Death12
+  - first:
+      213: 21300004
+    second: EliteblackBear90x56_Death1
+  - first:
+      213: 21300006
+    second: EliteblackBear90x56_Death4
+  - first:
+      213: 21300008
+    second: EliteblackBear90x56_Death7
+  - first:
+      213: 21300010
+    second: EliteblackBear90x56_Idle3
+  - first:
+      213: 21300012
+    second: EliteblackBear90x56_Anticipation0
+  - first:
+      213: 21300014
+    second: EliteblackBear90x56_Walk4
+  - first:
+      213: 21300016
+    second: EliteblackBear90x56_Death2
+  - first:
+      213: 21300018
+    second: EliteBlackBear_hand1
+  - first:
+      213: 21300020
+    second: EliteblackBear90x56_Anticipation2
+  - first:
+      213: 21300022
+    second: EliteblackBear90x56_Walk2
+  - first:
+      213: 21300024
+    second: EliteblackBear90x56_Walk1
+  - first:
+      213: 21300026
+    second: EliteblackBear90x56_Idle1
+  - first:
+      213: 21300028
+    second: EliteblackBear90x56_Death9
+  - first:
+      213: 21300030
+    second: EliteblackBear90x56_Death6
+  - first:
+      213: 21300032
+    second: EliteblackBear90x56_Death8
+  - first:
+      213: 21300034
+    second: EliteblackBear90x56_Anticipation1
+  - first:
+      213: 21300036
+    second: EliteblackBear90x56_Death10
+  - first:
+      213: 21300038
+    second: EliteblackBear90x56_Hurt1
+  - first:
+      213: 21300040
+    second: EliteblackBear90x56_Walk0
+  - first:
+      213: 21300042
+    second: EliteBlackBear_hand2
+  - first:
+      213: 21300044
+    second: EliteblackBear90x56_Death5
+  - first:
+      213: 21300046
+    second: EliteblackBear90x56_Death0
+  - first:
+      213: 21300048
+    second: EliteBlackBear_weapon
+  - first:
+      213: 21300050
+    second: EliteblackBear90x56_Idle0
+  - first:
+      213: 21300052
+    second: EliteblackBear90x56_Death3
+  - first:
+      213: 21300054
+    second: EliteblackBear90x56_Hurt0
+  - first:
+      213: 21300056
+    second: EliteblackBear90x56_Walk3
+  - first:
+      213: 21300058
+    second: EliteblackBear90x56_Death11
+  - first:
+      213: 21300060
+    second: EliteblackBear90x56_Idle2
+  - first:
+      213: 21300062
+    second: EliteblackBear90x56_Walk5
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Walk6
+      rect:
+        serializedVersion: 2
+        x: 45.076122
+        y: 56
+        width: 41.84776
+        height: 43.957092
+      alignment: 9
+      pivot: {x: 0.44981802, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.000002, y: -21.978546}
+        - {x: -21.000002, y: -19.978546}
+        - {x: -21.000002, y: 8.021454}
+        - {x: -19.000002, y: 22.021454}
+        - {x: 17.999998, y: 22.021454}
+        - {x: 19.999998, y: 19.021454}
+        - {x: 20.999998, y: 15.021454}
+        - {x: 20.999998, y: -4.978546}
+        - {x: 13.999998, y: -21.978546}
+      physicsShape:
+      - - {x: 17.999998, y: 22.021454}
+        - {x: -19.000002, y: 22.021454}
+        - {x: -21.000002, y: 8.021454}
+        - {x: -21.000002, y: -19.978546}
+        - {x: -20.000002, y: -21.978546}
+        - {x: 13.999998, y: -21.978546}
+        - {x: 20.999998, y: -4.978546}
+        - {x: 20.999998, y: 15.021454}
+        - {x: 19.999998, y: 19.021454}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45d38456c4a4b5097f38aefdf7b41b0
+      internalID: 21300000
+      vertices:
+      - {x: 43.02388, y: 62.978546}
+      - {x: 44.02388, y: 38.978546}
+      - {x: 44.02388, y: 58.978546}
+      - {x: 41.02388, y: 65.978546}
+      - {x: 37.02388, y: 21.978546}
+      - {x: 4.023882, y: 65.978546}
+      - {x: 3.023882, y: 21.978546}
+      - {x: 2.023882, y: 51.978546}
+      - {x: 2.023882, y: 23.978546}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Death12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 55.923878
+        height: 17.97325
+      alignment: 9
+      pivot: {x: 1.1426246, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.038033, y: -8.986625}
+        - {x: -27.961967, y: -8.986625}
+        - {x: -27.961967, y: 5.0133753}
+        - {x: -19.961967, y: 9.013375}
+        - {x: -4.9619675, y: 9.013375}
+        - {x: 7.0380325, y: 7.0133753}
+        - {x: 28.038033, y: 0.013375282}
+      physicsShape:
+      - - {x: -4.9619675, y: 9.013375}
+        - {x: -19.961967, y: 9.013375}
+        - {x: -27.961967, y: 5.0133753}
+        - {x: -27.961967, y: -8.986625}
+        - {x: 28.038033, y: -8.986625}
+        - {x: 28.038033, y: 0.013375282}
+        - {x: 7.0380325, y: 7.0133753}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036acb2ca3594521ba1593a6235eec12
+      internalID: 21300002
+      vertices:
+      - {x: -0.93808556, y: 24.986626}
+      - {x: 20.061914, y: 8.986625}
+      - {x: 20.061914, y: 17.986626}
+      - {x: -12.938086, y: 26.986626}
+      - {x: -27.938086, y: 26.986626}
+      - {x: -35.938087, y: 22.986626}
+      - {x: -35.938087, y: 8.986625}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Death1
+      rect:
+        serializedVersion: 2
+        x: 668.0761
+        y: 56
+        width: 43.872562
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5886113, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.012419, y: -28}
+        - {x: -22.012419, y: -24}
+        - {x: -22.012419, y: 25}
+        - {x: -10.012419, y: 28}
+        - {x: 15.987581, y: 28}
+        - {x: 21.987581, y: 0}
+        - {x: 21.987581, y: -26}
+        - {x: 19.987581, y: -28}
+      physicsShape:
+      - - {x: -5.0124187, y: 28}
+        - {x: -22.012419, y: 21}
+        - {x: -22.012419, y: 2}
+        - {x: -19.012419, y: -21}
+        - {x: -15.012419, y: -28}
+        - {x: 18.987581, y: -28}
+        - {x: 21.987581, y: -23}
+        - {x: 21.987581, y: -1}
+        - {x: 12.987581, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8881e4258d4c5aa3bb51ef8df582f6
+      internalID: 21300004
+      vertices:
+      - {x: 40.036255, y: 56}
+      - {x: 38.036255, y: 28}
+      - {x: 40.036255, y: 30}
+      - {x: 34.036255, y: 84}
+      - {x: 8.036257, y: 84}
+      - {x: 1.0362568, y: 28}
+      - {x: -3.9637432, y: 81}
+      - {x: -3.9637432, y: 32}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Death4
+      rect:
+        serializedVersion: 2
+        x: 1.0761205
+        y: 0
+        width: 55.847755
+        height: 28.97325
+      alignment: 9
+      pivot: {x: 1.1249132, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.000004, y: -14.486625}
+        - {x: -27.999996, y: -14.486625}
+        - {x: -27.999996, y: 2.5133753}
+        - {x: -20.999996, y: 14.513375}
+        - {x: 22.000004, y: 14.513375}
+        - {x: 28.000004, y: 2.5133753}
+        - {x: 28.000004, y: -9.486625}
+      physicsShape:
+      - - {x: -20.999996, y: 14.513375}
+        - {x: -27.999996, y: 2.5133753}
+        - {x: -27.999996, y: -14.486625}
+        - {x: 20.000004, y: -14.486625}
+        - {x: 28.000004, y: -9.486625}
+        - {x: 28.000004, y: 2.5133753}
+        - {x: 22.000004, y: 14.513375}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161cb7973f6340d78a51b83b5fcb4a34
+      internalID: 21300006
+      vertices:
+      - {x: 15.02388, y: 43.486626}
+      - {x: 21.02388, y: 19.486626}
+      - {x: 21.02388, y: 31.486626}
+      - {x: 13.02388, y: 14.486625}
+      - {x: -27.97612, y: 43.486626}
+      - {x: -34.97612, y: 31.486626}
+      - {x: -34.97612, y: 14.486625}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Death7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 55.923878
+        height: 24.97325
+      alignment: 9
+      pivot: {x: 1.1426246, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.961937, y: -12.486625}
+        - {x: -27.961937, y: -10.486625}
+        - {x: -27.961937, y: -0.48662472}
+        - {x: -22.961937, y: 9.513375}
+        - {x: -16.961937, y: 12.513375}
+        - {x: 21.038063, y: 12.513375}
+        - {x: 26.038063, y: 2.5133753}
+        - {x: 28.038063, y: -5.4866247}
+        - {x: 28.038063, y: -12.486625}
+      physicsShape:
+      - - {x: -16.961937, y: 12.513375}
+        - {x: -22.961937, y: 9.513375}
+        - {x: -27.961937, y: -0.48662472}
+        - {x: -27.961937, y: -10.486625}
+        - {x: -25.961937, y: -12.486625}
+        - {x: 28.038063, y: -12.486625}
+        - {x: 28.038063, y: -5.4866247}
+        - {x: 26.038063, y: 2.5133753}
+        - {x: 21.038063, y: 12.513375}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac4c53671924fbcb0be0bec2dadddad
+      internalID: 21300008
+      vertices:
+      - {x: 18.061945, y: 27.486626}
+      - {x: 20.061945, y: 12.486625}
+      - {x: 20.061945, y: 19.486626}
+      - {x: 13.061945, y: 37.486626}
+      - {x: -24.938055, y: 37.486626}
+      - {x: -30.938055, y: 34.486626}
+      - {x: -33.938057, y: 12.486625}
+      - {x: -35.938057, y: 24.486626}
+      - {x: -35.938057, y: 14.486625}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 1
+      - 6
+      - 5
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Idle3
+      rect:
+        serializedVersion: 2
+        x: 313.0761
+        y: 112
+        width: 41.864147
+        height: 43.957092
+      alignment: 9
+      pivot: {x: 0.49741578, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.00818, y: -21.978546}
+        - {x: -21.00818, y: -18.978546}
+        - {x: -21.00818, y: 7.021454}
+        - {x: -15.008181, y: 19.021454}
+        - {x: -11.008181, y: 22.021454}
+        - {x: 18.99182, y: 22.021454}
+        - {x: 20.99182, y: 19.021454}
+        - {x: 20.99182, y: -14.978546}
+        - {x: 17.99182, y: -21.978546}
+      physicsShape:
+      - - {x: -11.008181, y: 22.021454}
+        - {x: -15.008181, y: 19.021454}
+        - {x: -21.00818, y: 7.021454}
+        - {x: -21.00818, y: -18.978546}
+        - {x: -20.00818, y: -21.978546}
+        - {x: 17.99182, y: -21.978546}
+        - {x: 20.99182, y: -14.978546}
+        - {x: 20.99182, y: 19.021454}
+        - {x: 18.99182, y: 22.021454}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a288fc8fa44fe587bb855e177ffda9
+      internalID: 21300010
+      vertices:
+      - {x: 40.03208, y: 65.978546}
+      - {x: 42.03208, y: 28.978546}
+      - {x: 42.03208, y: 62.978546}
+      - {x: 39.03208, y: 21.978546}
+      - {x: 10.03208, y: 65.978546}
+      - {x: 6.0320797, y: 62.978546}
+      - {x: 1.0320797, y: 21.978546}
+      - {x: 0.032079697, y: 50.978546}
+      - {x: 0.032079697, y: 24.978546}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Anticipation0
+      rect:
+        serializedVersion: 2
+        x: 313.0761
+        y: 56
+        width: 41.84776
+        height: 44.957092
+      alignment: 9
+      pivot: {x: 0.49761057, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.000013, y: -22.478546}
+        - {x: -20.999987, y: -22.478546}
+        - {x: -20.999987, y: 11.521454}
+        - {x: -15.999987, y: 21.521454}
+        - {x: -10.999987, y: 22.521454}
+        - {x: 20.000013, y: 22.521454}
+        - {x: 21.000013, y: 19.521454}
+        - {x: 21.000013, y: -11.478546}
+      physicsShape:
+      - - {x: -10.999987, y: 22.521454}
+        - {x: -15.999987, y: 21.521454}
+        - {x: -20.999987, y: -3.4785461}
+        - {x: -20.999987, y: -19.478546}
+        - {x: -18.999987, y: -22.478546}
+        - {x: 16.000013, y: -22.478546}
+        - {x: 21.000013, y: -11.478546}
+        - {x: 21.000013, y: 19.521454}
+        - {x: 20.000013, y: 22.521454}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5ec9260da14e44b43d666d58fd1d81
+      internalID: 21300012
+      vertices:
+      - {x: 41.023888, y: 67.478546}
+      - {x: 42.023888, y: 33.478546}
+      - {x: 42.023888, y: 64.478546}
+      - {x: 37.023888, y: 22.478546}
+      - {x: 10.023886, y: 67.478546}
+      - {x: 5.0238857, y: 66.478546}
+      - {x: 0.023885727, y: 56.478546}
+      - {x: 0.023885727, y: 22.478546}
+      indices:
+      - 7
+      - 6
+      - 3
+      - 5
+      - 3
+      - 6
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Walk4
+      rect:
+        serializedVersion: 2
+        x: 768.0761
+        y: 112
+        width: 39.84776
+        height: 45.957092
+      alignment: 9
+      pivot: {x: 0.39710858, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.000017, y: -22.978546}
+        - {x: -20.000017, y: -13.978546}
+        - {x: -20.000017, y: 19.021454}
+        - {x: -19.000017, y: 23.021454}
+        - {x: 19.999983, y: 23.021454}
+        - {x: 19.999983, y: -15.978546}
+        - {x: 17.999983, y: -22.978546}
+      physicsShape:
+      - - {x: 19.999983, y: 20.021454}
+        - {x: 18.999983, y: 23.021454}
+        - {x: -19.000017, y: 23.021454}
+        - {x: -20.000017, y: 11.021454}
+        - {x: -20.000017, y: -13.978546}
+        - {x: -13.000017, y: -22.978546}
+        - {x: 9.999983, y: -22.978546}
+        - {x: 17.999983, y: -9.978546}
+        - {x: 19.999983, y: -3.9785461}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae2f3020e7945cd9bed15d1c793e67e
+      internalID: 21300014
+      vertices:
+      - {x: 44.023857, y: 68.978546}
+      - {x: 42.023857, y: 22.978546}
+      - {x: 44.023857, y: 29.978546}
+      - {x: 7.023855, y: 22.978546}
+      - {x: 5.023855, y: 68.978546}
+      - {x: 4.023855, y: 64.978546}
+      - {x: 4.023855, y: 31.978546}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Death2
+      rect:
+        serializedVersion: 2
+        x: 741.0761
+        y: 56
+        width: 56.897133
+        height: 46.923878
+      alignment: 9
+      pivot: {x: 0.75265455, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.524704, y: -23.461939}
+        - {x: -28.524704, y: -0.46193886}
+        - {x: -28.524704, y: 5.538061}
+        - {x: -20.524704, y: 23.538061}
+        - {x: 9.475296, y: 23.538061}
+        - {x: 28.475296, y: -0.46193886}
+        - {x: 28.475296, y: -12.461939}
+        - {x: 18.475296, y: -23.461939}
+      physicsShape:
+      - - {x: 9.475296, y: 10.538061}
+        - {x: 4.475296, y: 22.538061}
+        - {x: 2.475296, y: 23.538061}
+        - {x: -8.524704, y: 23.538061}
+        - {x: -16.524704, y: 19.538061}
+        - {x: -28.524704, y: 5.538061}
+        - {x: -28.524704, y: -0.46193886}
+        - {x: -9.524704, y: -23.461939}
+        - {x: 18.475296, y: -23.461939}
+        - {x: 28.475296, y: -12.461939}
+        - {x: 28.475296, y: -1.4619389}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56501c51da4042db9da1cbfd208ab92e
+      internalID: 21300016
+      vertices:
+      - {x: 42.548542, y: 46.461937}
+      - {x: 32.548542, y: 23.461939}
+      - {x: 42.548542, y: 34.461937}
+      - {x: 23.548542, y: 70.46194}
+      - {x: 4.548542, y: 23.461939}
+      - {x: -6.451458, y: 70.46194}
+      - {x: -14.451458, y: 52.461937}
+      - {x: -14.451458, y: 46.461937}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteBlackBear_hand1
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 35
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -5.5}
+        - {x: -6, y: 5.5}
+        - {x: 6, y: 5.5}
+        - {x: 6, y: -5.5}
+      physicsShape:
+      - - {x: -6, y: 5.5}
+        - {x: -6, y: -3.5}
+        - {x: -3, y: -5.5}
+        - {x: 6, y: -5.5}
+        - {x: 6, y: 4.5}
+        - {x: 5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6e42d6b3204047b4d43dbe0157c9c2
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 10.5}
+      - {x: 12, y: 10.5}
+      - {x: 0, y: -0.5}
+      - {x: 12, y: -0.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Anticipation2
+      rect:
+        serializedVersion: 2
+        x: 493.0761
+        y: 56
+        width: 46.923878
+        height: 42.923878
+      alignment: 9
+      pivot: {x: 0.44378018, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.538076, y: -21.461939}
+        - {x: -23.538076, y: -20.461939}
+        - {x: -23.538076, y: -4.461939}
+        - {x: -8.538076, y: 21.538061}
+        - {x: 14.461924, y: 21.538061}
+        - {x: 23.461924, y: 20.538061}
+        - {x: 23.461924, y: -5.461939}
+        - {x: 12.461924, y: -21.461939}
+      physicsShape:
+      - - {x: 10.461924, y: 21.538061}
+        - {x: -4.5380764, y: 21.538061}
+        - {x: -7.5380764, y: 19.538061}
+        - {x: -23.538076, y: -8.461939}
+        - {x: -23.538076, y: -19.461939}
+        - {x: -22.538076, y: -21.461939}
+        - {x: 12.461924, y: -21.461939}
+        - {x: 17.461924, y: -14.461939}
+        - {x: 23.461924, y: -5.461939}
+        - {x: 23.461924, y: 18.538061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0372e44e6e4b43b38541780be007efec
+      internalID: 21300020
+      vertices:
+      - {x: 40.561913, y: 64.46194}
+      - {x: 49.561913, y: 37.461937}
+      - {x: 49.561913, y: 63.461937}
+      - {x: 38.561913, y: 21.461939}
+      - {x: 17.561914, y: 64.46194}
+      - {x: 3.5619144, y: 21.461939}
+      - {x: 2.5619144, y: 38.461937}
+      - {x: 2.5619144, y: 22.461939}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Walk2
+      rect:
+        serializedVersion: 2
+        x: 584.0625
+        y: 112
+        width: 43.86137
+        height: 45.957092
+      alignment: 9
+      pivot: {x: 0.4522772, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.993212, y: -22.978546}
+        - {x: -21.993212, y: -20.978546}
+        - {x: -21.993212, y: 2.0214539}
+        - {x: -18.993212, y: 23.021454}
+        - {x: 20.006788, y: 23.021454}
+        - {x: 22.006788, y: 14.021454}
+        - {x: 22.006788, y: -10.978546}
+        - {x: 20.006788, y: -22.978546}
+      physicsShape:
+      - - {x: 21.006788, y: 20.021454}
+        - {x: 19.006788, y: 23.021454}
+        - {x: -11.993212, y: 23.021454}
+        - {x: -17.993212, y: 22.021454}
+        - {x: -21.993212, y: 0.021453857}
+        - {x: -21.993212, y: -18.978546}
+        - {x: -16.993212, y: -22.978546}
+        - {x: 19.006788, y: -22.978546}
+        - {x: 18.006788, y: -2.9785461}
+        - {x: 22.006788, y: 3.0214539}
+        - {x: 22.006788, y: 12.021454}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99f5ec5dad1440e80f6b11597321e84
+      internalID: 21300022
+      vertices:
+      - {x: 44.030663, y: 68.978546}
+      - {x: 46.030663, y: 34.978546}
+      - {x: 46.030663, y: 59.978546}
+      - {x: 44.030663, y: 22.978546}
+      - {x: 6.0306606, y: 22.978546}
+      - {x: 5.0306606, y: 68.978546}
+      - {x: 2.0306606, y: 47.978546}
+      - {x: 2.0306606, y: 24.978546}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Walk1
+      rect:
+        serializedVersion: 2
+        x: 493.0761
+        y: 112
+        width: 43.84776
+        height: 45.957092
+      alignment: 9
+      pivot: {x: 0.47491336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.999983, y: -22.978546}
+        - {x: -22.000017, y: -22.978546}
+        - {x: -22.000017, y: 3.0214539}
+        - {x: -16.000017, y: 23.021454}
+        - {x: 16.999983, y: 23.021454}
+        - {x: 21.999983, y: 17.021454}
+        - {x: 21.999983, y: -21.978546}
+      physicsShape:
+      - - {x: 21.999983, y: 6.021454}
+        - {x: 21.999983, y: 17.021454}
+        - {x: 16.999983, y: 23.021454}
+        - {x: -13.000017, y: 23.021454}
+        - {x: -19.000017, y: 14.021454}
+        - {x: -22.000017, y: -7.978546}
+        - {x: -22.000017, y: -19.978546}
+        - {x: -18.000017, y: -22.978546}
+        - {x: 17.999983, y: -22.978546}
+        - {x: 21.999983, y: -19.978546}
+        - {x: 21.999983, y: -7.978546}
+        - {x: 20.999983, y: 0.021453857}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a088da8e2248d6b6f73c66e7c45d81
+      internalID: 21300024
+      vertices:
+      - {x: 45.023857, y: 62.978546}
+      - {x: 41.023857, y: 22.978546}
+      - {x: 45.023857, y: 23.978546}
+      - {x: 40.023857, y: 68.978546}
+      - {x: 7.023855, y: 68.978546}
+      - {x: 1.0238552, y: 48.978546}
+      - {x: 1.0238552, y: 22.978546}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Idle1
+      rect:
+        serializedVersion: 2
+        x: 133.07613
+        y: 112
+        width: 41.89713
+        height: 44.923878
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.975313, y: -22.461939}
+        - {x: -21.024687, y: -22.461939}
+        - {x: -21.024687, y: 14.538061}
+        - {x: -18.024687, y: 22.538061}
+        - {x: 14.975313, y: 22.538061}
+        - {x: 20.975313, y: 21.538061}
+        - {x: 20.975313, y: -5.461939}
+      physicsShape:
+      - - {x: 15.975313, y: 22.538061}
+        - {x: -13.024687, y: 22.538061}
+        - {x: -21.024687, y: 5.538061}
+        - {x: -21.024687, y: -20.461939}
+        - {x: -19.024687, y: -22.461939}
+        - {x: 16.975313, y: -22.461939}
+        - {x: 20.975313, y: -5.461939}
+        - {x: 20.975313, y: 13.538061}
+        - {x: 18.975313, y: 17.538061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0652c90944344d7dac3d12c0dac79d1c
+      internalID: 21300026
+      vertices:
+      - {x: 42.04857, y: 66.46194}
+      - {x: 38.04857, y: 22.461939}
+      - {x: 42.04857, y: 39.461937}
+      - {x: 36.04857, y: 67.46194}
+      - {x: 3.0485706, y: 67.46194}
+      - {x: 0.048570633, y: 59.461937}
+      - {x: 0.048570633, y: 22.461939}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Death9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 55.923878
+        height: 19.97325
+      alignment: 9
+      pivot: {x: 1.1426246, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.038033, y: -9.986625}
+        - {x: -27.961967, y: -9.986625}
+        - {x: -27.961967, y: 7.0133753}
+        - {x: -20.961967, y: 10.013375}
+        - {x: 14.038033, y: 10.013375}
+        - {x: 28.038033, y: 0.013375282}
+      physicsShape:
+      - - {x: -20.961967, y: 10.013375}
+        - {x: -27.961967, y: 7.0133753}
+        - {x: -27.961967, y: -9.986625}
+        - {x: 28.038033, y: -9.986625}
+        - {x: 28.038033, y: 0.013375282}
+        - {x: 14.038033, y: 10.013375}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ca68ef9b6342f8a6fd59ab6aeae8d9
+      internalID: 21300028
+      vertices:
+      - {x: 6.0619144, y: 29.986626}
+      - {x: 20.061914, y: 9.986625}
+      - {x: 20.061914, y: 19.986626}
+      - {x: -28.938086, y: 29.986626}
+      - {x: -35.938087, y: 26.986626}
+      - {x: -35.938087, y: 9.986625}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Death6
+      rect:
+        serializedVersion: 2
+        x: 180.07613
+        y: 0
+        width: 55.847755
+        height: 26.97325
+      alignment: 9
+      pivot: {x: 1.1428189, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: -13.486625}
+        - {x: -28, y: -13.486625}
+        - {x: -28, y: 2.5133753}
+        - {x: -20, y: 13.513375}
+        - {x: 18, y: 13.513375}
+        - {x: 28, y: -0.48662472}
+      physicsShape:
+      - - {x: -20, y: 13.513375}
+        - {x: -28, y: 2.5133753}
+        - {x: -28, y: -13.486625}
+        - {x: 28, y: -13.486625}
+        - {x: 28, y: -0.48662472}
+        - {x: 18, y: 13.513375}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108b83f046074f7a9bd6257103697f23
+      internalID: 21300030
+      vertices:
+      - {x: 10.023884, y: 40.486626}
+      - {x: 20.023884, y: 13.486625}
+      - {x: 20.023884, y: 26.486626}
+      - {x: -27.976116, y: 40.486626}
+      - {x: -35.976116, y: 29.486626}
+      - {x: -35.976116, y: 13.486625}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Death8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 55.923878
+        height: 20.92388
+      alignment: 9
+      pivot: {x: 1.1426246, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.038063, y: -10.46194}
+        - {x: -27.961937, y: -10.46194}
+        - {x: -27.961937, y: 2.5380602}
+        - {x: -21.961937, y: 8.53806}
+        - {x: -12.961937, y: 10.53806}
+        - {x: 18.038063, y: 10.53806}
+        - {x: 28.038063, y: 0.5380602}
+      physicsShape:
+      - - {x: -12.961937, y: 10.53806}
+        - {x: -21.961937, y: 8.53806}
+        - {x: -27.961937, y: 2.5380602}
+        - {x: -27.961937, y: -10.46194}
+        - {x: 28.038063, y: -10.46194}
+        - {x: 28.038063, y: 0.5380602}
+        - {x: 18.038063, y: 10.53806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42125769c19b48fdae49f70c3db2bea5
+      internalID: 21300032
+      vertices:
+      - {x: 10.061945, y: 31.46194}
+      - {x: 20.061945, y: 10.46194}
+      - {x: 20.061945, y: 21.46194}
+      - {x: -20.938055, y: 31.46194}
+      - {x: -29.938055, y: 29.46194}
+      - {x: -35.938057, y: 23.46194}
+      - {x: -35.938057, y: 10.46194}
+      indices:
+      - 6
+      - 5
+      - 1
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Anticipation1
+      rect:
+        serializedVersion: 2
+        x: 403.0761
+        y: 56
+        width: 46.923878
+        height: 43.923878
+      alignment: 9
+      pivot: {x: 0.44378018, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.538046, y: -21.961939}
+        - {x: -23.538046, y: -19.961939}
+        - {x: -23.538046, y: 2.0380611}
+        - {x: -14.538046, y: 22.038061}
+        - {x: 12.461954, y: 22.038061}
+        - {x: 22.461954, y: 20.038061}
+        - {x: 23.461954, y: 17.038061}
+        - {x: 23.461954, y: -3.9619389}
+        - {x: 14.461954, y: -21.961939}
+      physicsShape:
+      - - {x: 4.461954, y: 22.038061}
+        - {x: -10.538046, y: 22.038061}
+        - {x: -23.538046, y: -3.9619389}
+        - {x: -23.538046, y: -18.961939}
+        - {x: -21.538046, y: -21.961939}
+        - {x: 14.461954, y: -21.961939}
+        - {x: 23.461954, y: -3.9619389}
+        - {x: 23.461954, y: 14.038061}
+        - {x: 20.461954, y: 17.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208636ab8304411f91ebe2d3e24a5e3e
+      internalID: 21300034
+      vertices:
+      - {x: 48.561943, y: 63.961937}
+      - {x: 49.561943, y: 39.961937}
+      - {x: 49.561943, y: 60.961937}
+      - {x: 40.561943, y: 21.961939}
+      - {x: 38.561943, y: 65.96194}
+      - {x: 11.561945, y: 65.96194}
+      - {x: 3.561945, y: 21.961939}
+      - {x: 2.561945, y: 45.961937}
+      - {x: 2.561945, y: 23.961939}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 3
+      - 6
+      - 5
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Death10
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 55.923878
+        height: 19.97325
+      alignment: 9
+      pivot: {x: 1.1426246, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.038033, y: -9.986625}
+        - {x: -27.961967, y: -9.986625}
+        - {x: -27.961967, y: 8.013375}
+        - {x: -24.961967, y: 10.013375}
+        - {x: 11.038033, y: 10.013375}
+        - {x: 28.038033, y: 3.0133753}
+      physicsShape:
+      - - {x: -24.961967, y: 10.013375}
+        - {x: -27.961967, y: 8.013375}
+        - {x: -27.961967, y: -9.986625}
+        - {x: 28.038033, y: -9.986625}
+        - {x: 28.038033, y: 3.0133753}
+        - {x: 11.038033, y: 10.013375}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fba2e8bac048fba4865919384bc4a9
+      internalID: 21300036
+      vertices:
+      - {x: 3.0619144, y: 29.986626}
+      - {x: 20.061914, y: 9.986625}
+      - {x: 20.061914, y: 22.986626}
+      - {x: -32.938087, y: 29.986626}
+      - {x: -35.938087, y: 27.986626}
+      - {x: -35.938087, y: 9.986625}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Hurt1
+      rect:
+        serializedVersion: 2
+        x: 220.02675
+        y: 56
+        width: 44.89713
+        height: 48.973248
+      alignment: 9
+      pivot: {x: 0.5317322, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.52469, y: -24.486624}
+        - {x: -22.47531, y: -24.486624}
+        - {x: -22.47531, y: 22.513376}
+        - {x: -12.475309, y: 24.513376}
+        - {x: 10.524691, y: 24.513376}
+        - {x: 22.52469, y: -4.486624}
+      physicsShape:
+      - - {x: 11.524691, y: 21.513376}
+        - {x: 7.5246906, y: 24.513376}
+        - {x: -0.47530937, y: 24.513376}
+        - {x: -11.475309, y: 23.513376}
+        - {x: -22.47531, y: 21.513376}
+        - {x: -22.47531, y: -24.486624}
+        - {x: 6.5246906, y: -24.486624}
+        - {x: 20.52469, y: -22.486624}
+        - {x: 22.52469, y: -17.486624}
+        - {x: 22.52469, y: -9.486624}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a357898b43484a81ccac5b331cc73c
+      internalID: 21300038
+      vertices:
+      - {x: 31.54857, y: 73.486626}
+      - {x: 43.54857, y: 24.486624}
+      - {x: 43.54857, y: 44.486626}
+      - {x: 8.548571, y: 73.486626}
+      - {x: -1.4514294, y: 71.486626}
+      - {x: -1.4514294, y: 24.486624}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Walk0
+      rect:
+        serializedVersion: 2
+        x: 403.0761
+        y: 112
+        width: 41.84776
+        height: 44.957092
+      alignment: 9
+      pivot: {x: 0.49761057, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.000013, y: -22.478546}
+        - {x: -20.999987, y: -22.478546}
+        - {x: -20.999987, y: 11.521454}
+        - {x: -15.999987, y: 21.521454}
+        - {x: -10.999987, y: 22.521454}
+        - {x: 20.000013, y: 22.521454}
+        - {x: 21.000013, y: 19.521454}
+        - {x: 21.000013, y: -11.478546}
+      physicsShape:
+      - - {x: -10.999987, y: 22.521454}
+        - {x: -15.999987, y: 21.521454}
+        - {x: -20.999987, y: -3.4785461}
+        - {x: -20.999987, y: -19.478546}
+        - {x: -18.999987, y: -22.478546}
+        - {x: 16.000013, y: -22.478546}
+        - {x: 21.000013, y: -11.478546}
+        - {x: 21.000013, y: 19.521454}
+        - {x: 20.000013, y: 22.521454}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef15ac984374760be5a3fff0ec8f878
+      internalID: 21300040
+      vertices:
+      - {x: 41.023888, y: 67.478546}
+      - {x: 42.023888, y: 33.478546}
+      - {x: 42.023888, y: 64.478546}
+      - {x: 37.023888, y: 22.478546}
+      - {x: 10.023886, y: 67.478546}
+      - {x: 5.0238857, y: 66.478546}
+      - {x: 0.023885727, y: 56.478546}
+      - {x: 0.023885727, y: 22.478546}
+      indices:
+      - 7
+      - 6
+      - 3
+      - 5
+      - 3
+      - 6
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteBlackBear_hand2
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 35
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -5.5}
+        - {x: -6, y: 5.5}
+        - {x: 6, y: 5.5}
+        - {x: 6, y: -5.5}
+      physicsShape:
+      - - {x: -6, y: 5.5}
+        - {x: -6, y: -3.5}
+        - {x: -3, y: -5.5}
+        - {x: 6, y: -5.5}
+        - {x: 6, y: 4.5}
+        - {x: 5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9871bff15714b839e1e17c2159b8939
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 10.5}
+      - {x: 12, y: 10.5}
+      - {x: 0, y: -0.5}
+      - {x: 12, y: -0.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Death5
+      rect:
+        serializedVersion: 2
+        x: 91.07612
+        y: 0
+        width: 54.847755
+        height: 28.92388
+      alignment: 9
+      pivot: {x: 1.1454229, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.499996, y: -14.46194}
+        - {x: -27.499996, y: -13.46194}
+        - {x: -27.499996, y: -3.4619398}
+        - {x: -26.499996, y: 3.5380602}
+        - {x: -15.499996, y: 14.53806}
+        - {x: 7.500004, y: 14.53806}
+        - {x: 15.500004, y: 13.53806}
+        - {x: 22.500004, y: 5.53806}
+        - {x: 24.500004, y: 0.5380602}
+        - {x: 26.500004, y: -5.46194}
+        - {x: 27.500004, y: -7.46194}
+        - {x: 27.500004, y: -14.46194}
+      physicsShape:
+      - - {x: 22.500004, y: 5.53806}
+        - {x: 15.500004, y: 13.53806}
+        - {x: 7.500004, y: 14.53806}
+        - {x: -15.499996, y: 14.53806}
+        - {x: -26.499996, y: 3.5380602}
+        - {x: -27.499996, y: -3.4619398}
+        - {x: -27.499996, y: -13.46194}
+        - {x: -26.499996, y: -14.46194}
+        - {x: 27.500004, y: -14.46194}
+        - {x: 27.500004, y: -7.46194}
+        - {x: 26.500004, y: -5.46194}
+        - {x: 24.500004, y: 0.5380602}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac4d6c4fbc44f518006e56720e18350
+      internalID: 21300044
+      vertices:
+      - {x: 18.523884, y: 23.46194}
+      - {x: 19.523884, y: 14.46194}
+      - {x: 19.523884, y: 21.46194}
+      - {x: 16.523884, y: 29.46194}
+      - {x: 14.523884, y: 34.46194}
+      - {x: 7.523884, y: 42.46194}
+      - {x: -0.47611618, y: 43.46194}
+      - {x: -23.476116, y: 43.46194}
+      - {x: -34.476116, y: 32.46194}
+      - {x: -34.476116, y: 14.46194}
+      - {x: -35.476116, y: 25.46194}
+      - {x: -35.476116, y: 15.46194}
+      indices:
+      - 11
+      - 10
+      - 9
+      - 8
+      - 9
+      - 10
+      - 1
+      - 9
+      - 8
+      - 7
+      - 1
+      - 8
+      - 6
+      - 1
+      - 7
+      - 5
+      - 1
+      - 6
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Death0
+      rect:
+        serializedVersion: 2
+        x: 579.0761
+        y: 56
+        width: 42.872562
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57901573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.512417, y: -28}
+        - {x: -21.512417, y: -25}
+        - {x: -21.512417, y: 27}
+        - {x: -19.512417, y: 28}
+        - {x: 16.487583, y: 28}
+        - {x: 21.487583, y: 17}
+        - {x: 21.487583, y: -25}
+        - {x: 18.487583, y: -28}
+      physicsShape:
+      - - {x: 20.487583, y: 19}
+        - {x: 10.487583, y: 28}
+        - {x: -12.512417, y: 28}
+        - {x: -21.512417, y: 24}
+        - {x: -21.512417, y: -25}
+        - {x: -17.512417, y: -28}
+        - {x: 18.487583, y: -28}
+        - {x: 21.487583, y: -21}
+        - {x: 21.487583, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36257531b4942058c7f703714ac3c8b
+      internalID: 21300046
+      vertices:
+      - {x: 39.536255, y: 73}
+      - {x: 36.536255, y: 28}
+      - {x: 39.536255, y: 31}
+      - {x: 34.536255, y: 84}
+      - {x: 0.5362568, y: 28}
+      - {x: -1.4637432, y: 84}
+      - {x: -3.4637432, y: 83}
+      - {x: -3.4637432, y: 31}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteBlackBear_weapon
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 8
+        width: 48
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -7.5}
+        - {x: -24, y: 7.5}
+        - {x: 24, y: 7.5}
+        - {x: 24, y: -7.5}
+      physicsShape:
+      - - {x: 24, y: 7.5}
+        - {x: -22, y: 7.5}
+        - {x: -24, y: 3.5}
+        - {x: -24, y: -7.5}
+        - {x: 24, y: -7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7658c59b55a44c75b8990ef5e9c491fb
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 15}
+      - {x: 48, y: 15}
+      - {x: 0, y: 0}
+      - {x: 48, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Idle0
+      rect:
+        serializedVersion: 2
+        x: 43.076122
+        y: 112
+        width: 41.84776
+        height: 44.957092
+      alignment: 9
+      pivot: {x: 0.49761027, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.999998, y: -22.478546}
+        - {x: -21.000002, y: -22.478546}
+        - {x: -21.000002, y: 11.521454}
+        - {x: -16.000002, y: 21.521454}
+        - {x: -11.000002, y: 22.521454}
+        - {x: 19.999998, y: 22.521454}
+        - {x: 20.999998, y: 19.521454}
+        - {x: 20.999998, y: -11.478546}
+      physicsShape:
+      - - {x: -11.000002, y: 22.521454}
+        - {x: -16.000002, y: 21.521454}
+        - {x: -21.000002, y: -3.4785461}
+        - {x: -21.000002, y: -19.478546}
+        - {x: -19.000002, y: -22.478546}
+        - {x: 15.999998, y: -22.478546}
+        - {x: 20.999998, y: -11.478546}
+        - {x: 20.999998, y: 19.521454}
+        - {x: 19.999998, y: 22.521454}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1f03b492314b11a987d05baed7a42b
+      internalID: 21300050
+      vertices:
+      - {x: 41.02388, y: 67.478546}
+      - {x: 42.02388, y: 33.478546}
+      - {x: 42.02388, y: 64.478546}
+      - {x: 37.02388, y: 22.478546}
+      - {x: 10.023882, y: 67.478546}
+      - {x: 5.023882, y: 66.478546}
+      - {x: 0.023881912, y: 56.478546}
+      - {x: 0.023881912, y: 22.478546}
+      indices:
+      - 7
+      - 6
+      - 3
+      - 5
+      - 3
+      - 6
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Death3
+      rect:
+        serializedVersion: 2
+        x: 811.0761
+        y: 56
+        width: 54.847755
+        height: 28.92388
+      alignment: 9
+      pivot: {x: 1.1454232, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.499989, y: -14.46194}
+        - {x: -27.500011, y: -14.46194}
+        - {x: -27.500011, y: 6.53806}
+        - {x: -21.500011, y: 14.53806}
+        - {x: 9.499989, y: 14.53806}
+        - {x: 27.499989, y: 8.53806}
+      physicsShape:
+      - - {x: -21.500011, y: 14.53806}
+        - {x: -27.500011, y: 6.53806}
+        - {x: -27.500011, y: -14.46194}
+        - {x: 27.499989, y: -14.46194}
+        - {x: 27.499989, y: 8.53806}
+        - {x: 9.499989, y: 14.53806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760fcac22b8d4762a32a460216ef9b8e
+      internalID: 21300052
+      vertices:
+      - {x: 1.5238533, y: 43.46194}
+      - {x: 19.523853, y: 14.46194}
+      - {x: 19.523853, y: 37.46194}
+      - {x: -29.476147, y: 43.46194}
+      - {x: -35.476147, y: 35.46194}
+      - {x: -35.476147, y: 14.46194}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Hurt0
+      rect:
+        serializedVersion: 2
+        x: 130.02675
+        y: 56
+        width: 44.89713
+        height: 48.973248
+      alignment: 9
+      pivot: {x: 0.5317322, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.52469, y: -24.486624}
+        - {x: -22.47531, y: -24.486624}
+        - {x: -22.47531, y: 22.513376}
+        - {x: -12.475309, y: 24.513376}
+        - {x: 10.524691, y: 24.513376}
+        - {x: 22.52469, y: -4.486624}
+      physicsShape:
+      - - {x: 11.524691, y: 21.513376}
+        - {x: 7.5246906, y: 24.513376}
+        - {x: -0.47530937, y: 24.513376}
+        - {x: -11.475309, y: 23.513376}
+        - {x: -22.47531, y: 21.513376}
+        - {x: -22.47531, y: -24.486624}
+        - {x: 6.5246906, y: -24.486624}
+        - {x: 20.52469, y: -22.486624}
+        - {x: 22.52469, y: -17.486624}
+        - {x: 22.52469, y: -9.486624}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74180b0b551341e1894596e56c87a636
+      internalID: 21300054
+      vertices:
+      - {x: 31.54857, y: 73.486626}
+      - {x: 43.54857, y: 24.486624}
+      - {x: 43.54857, y: 44.486626}
+      - {x: 8.548571, y: 73.486626}
+      - {x: -1.4514294, y: 71.486626}
+      - {x: -1.4514294, y: 24.486624}
+      indices:
+      - 5
+      - 4
+      - 1
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Walk3
+      rect:
+        serializedVersion: 2
+        x: 676.02673
+        y: 112
+        width: 41.89713
+        height: 44.957092
+      alignment: 9
+      pivot: {x: 0.4265988, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.975325, y: -22.478546}
+        - {x: -20.975325, y: -15.478546}
+        - {x: -20.975325, y: 11.521454}
+        - {x: -13.975325, y: 22.521454}
+        - {x: 16.024675, y: 22.521454}
+        - {x: 21.024675, y: 19.521454}
+        - {x: 21.024675, y: -5.478546}
+        - {x: 15.024675, y: -22.478546}
+      physicsShape:
+      - - {x: 21.024675, y: 19.521454}
+        - {x: 16.024675, y: 22.521454}
+        - {x: -13.975325, y: 22.521454}
+        - {x: -20.975325, y: 6.521454}
+        - {x: -20.975325, y: -13.478546}
+        - {x: -19.975325, y: -17.478546}
+        - {x: -13.975325, y: -22.478546}
+        - {x: 12.024675, y: -22.478546}
+        - {x: 17.024675, y: -11.478546}
+        - {x: 21.024675, y: 2.5214539}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8139d6ee1e9149b1981437fc15b9f8e4
+      internalID: 21300056
+      vertices:
+      - {x: 40.04854, y: 67.478546}
+      - {x: 45.04854, y: 39.478546}
+      - {x: 45.04854, y: 64.478546}
+      - {x: 39.04854, y: 22.478546}
+      - {x: 10.04854, y: 67.478546}
+      - {x: 7.04854, y: 22.478546}
+      - {x: 3.04854, y: 56.478546}
+      - {x: 3.04854, y: 29.478546}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Death11
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 55.923878
+        height: 18.97325
+      alignment: 9
+      pivot: {x: 1.1426246, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.038033, y: -9.486625}
+        - {x: -27.961967, y: -9.486625}
+        - {x: -27.961967, y: 9.513375}
+        - {x: 9.038033, y: 9.513375}
+        - {x: 28.038033, y: -0.48662472}
+      physicsShape:
+      - - {x: -27.961967, y: 9.513375}
+        - {x: -27.961967, y: -9.486625}
+        - {x: 28.038033, y: -9.486625}
+        - {x: 28.038033, y: -0.48662472}
+        - {x: 9.038033, y: 9.513375}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d07c447ab0c44b5a1365258861c7fa0
+      internalID: 21300058
+      vertices:
+      - {x: 1.0619144, y: 28.486626}
+      - {x: 20.061914, y: 9.486625}
+      - {x: 20.061914, y: 18.486626}
+      - {x: -35.938087, y: 28.486626}
+      - {x: -35.938087, y: 9.486625}
+      indices:
+      - 4
+      - 3
+      - 1
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Idle2
+      rect:
+        serializedVersion: 2
+        x: 222.02675
+        y: 112
+        width: 42.9465
+        height: 42.923878
+      alignment: 9
+      pivot: {x: 0.5093139, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.500004, y: -21.461939}
+        - {x: -21.499996, y: -21.461939}
+        - {x: -21.499996, y: 6.538061}
+        - {x: -13.499996, y: 21.538061}
+        - {x: 21.500004, y: 21.538061}
+      physicsShape:
+      - - {x: 18.500004, y: 21.538061}
+        - {x: -13.499996, y: 21.538061}
+        - {x: -21.499996, y: 5.538061}
+        - {x: -21.499996, y: -20.461939}
+        - {x: -19.499996, y: -21.461939}
+        - {x: 15.500004, y: -21.461939}
+        - {x: 21.500004, y: -14.461939}
+        - {x: 21.500004, y: 13.538061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e702600b9804220b2535a51b8a1467e
+      internalID: 21300060
+      vertices:
+      - {x: 7.5732555, y: 64.46194}
+      - {x: 42.573257, y: 21.461939}
+      - {x: 42.573257, y: 64.46194}
+      - {x: -0.42674446, y: 49.461937}
+      - {x: -0.42674446, y: 21.461939}
+      indices:
+      - 4
+      - 3
+      - 1
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteblackBear90x56_Walk5
+      rect:
+        serializedVersion: 2
+        x: 861.02673
+        y: 112
+        width: 36.89713
+        height: 44.957092
+      alignment: 9
+      pivot: {x: 0.3488961, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.475325, y: -22.478546}
+        - {x: -18.475325, y: -20.478546}
+        - {x: -18.475325, y: 17.521454}
+        - {x: -15.475325, y: 22.521454}
+        - {x: 14.524675, y: 22.521454}
+        - {x: 18.524675, y: 17.521454}
+        - {x: 18.524675, y: -13.478546}
+        - {x: 13.524675, y: -22.478546}
+      physicsShape:
+      - - {x: 12.524675, y: 22.521454}
+        - {x: -15.475325, y: 22.521454}
+        - {x: -18.475325, y: 17.521454}
+        - {x: -18.475325, y: -14.478546}
+        - {x: -17.475325, y: -19.478546}
+        - {x: -12.475325, y: -22.478546}
+        - {x: 12.524675, y: -22.478546}
+        - {x: 18.524675, y: -11.478546}
+        - {x: 18.524675, y: 16.521454}
+        - {x: 17.524675, y: 19.521454}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3106b5bf80734a7ba65ad8f30fad710b
+      internalID: 21300062
+      vertices:
+      - {x: 38.54854, y: 67.478546}
+      - {x: 42.54854, y: 31.478546}
+      - {x: 42.54854, y: 62.478546}
+      - {x: 37.54854, y: 22.478546}
+      - {x: 10.54854, y: 22.478546}
+      - {x: 8.54854, y: 67.478546}
+      - {x: 5.54854, y: 62.478546}
+      - {x: 5.54854, y: 24.478546}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

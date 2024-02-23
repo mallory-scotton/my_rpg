@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: d8fe95a9bd7e93146b77073cb6896c15
+timeCreated: 1706119823
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: AK_shop_barel_01_destructiblesVFX_3
+  - first:
+      213: 21300002
+    second: AK_shop_barel_01_destructiblesVFX_2
+  - first:
+      213: 21300004
+    second: AK_shop_barel_01_destructiblesVFX_6
+  - first:
+      213: 21300006
+    second: AK_shop_barel_01_destructiblesVFX_0
+  - first:
+      213: 21300008
+    second: AK_shop_barel_01_destructiblesVFX_5
+  - first:
+      213: 21300010
+    second: AK_shop_barel_01_destructiblesVFX_1
+  - first:
+      213: 21300012
+    second: AK_shop_barel_01_destructiblesVFX_4
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AK_shop_barel_01_destructiblesVFX_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 11
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -5}
+        - {x: -4.5, y: 5}
+        - {x: 4.5, y: 5}
+        - {x: 4.5, y: -5}
+      physicsShape:
+      - - {x: -4.5, y: 5}
+        - {x: -4.5, y: -2}
+        - {x: -0.5, y: -5}
+        - {x: 4.5, y: -5}
+        - {x: 4.5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24eb719492654f6eba3c4877421b653d
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 10}
+      - {x: 9, y: 10}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_shop_barel_01_destructiblesVFX_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 15
+        width: 10
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -3}
+        - {x: -5, y: 3}
+        - {x: 5, y: 3}
+        - {x: 5, y: -3}
+      physicsShape:
+      - - {x: -5, y: 3}
+        - {x: -5, y: -3}
+        - {x: 5, y: -3}
+        - {x: 5, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280448f99605450594ec69a998c8dea3
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 6}
+      - {x: 10, y: 6}
+      - {x: 0, y: 0}
+      - {x: 10, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_shop_barel_01_destructiblesVFX_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 11
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -4.5}
+        - {x: -5.5, y: 4.5}
+        - {x: 5.5, y: 4.5}
+        - {x: 5.5, y: -4.5}
+      physicsShape:
+      - - {x: -5.5, y: 4.5}
+        - {x: -5.5, y: -4.5}
+        - {x: 5.5, y: -4.5}
+        - {x: 5.5, y: 2.5}
+        - {x: 2.5, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dd61dc038f4add980dd10e6c413309
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 9}
+      - {x: 11, y: 9}
+      - {x: 0, y: 0}
+      - {x: 11, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_shop_barel_01_destructiblesVFX_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 11
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -4.5}
+        - {x: -5.5, y: 4.5}
+        - {x: 5.5, y: 4.5}
+        - {x: 5.5, y: -4.5}
+      physicsShape:
+      - - {x: -5.5, y: 4.5}
+        - {x: -5.5, y: -4.5}
+        - {x: 2.5, y: -4.5}
+        - {x: 5.5, y: -1.5}
+        - {x: 5.5, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f6bba20e2448ed8ba7e79eeaa836ed
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 9}
+      - {x: 11, y: 9}
+      - {x: 0, y: 0}
+      - {x: 11, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_shop_barel_01_destructiblesVFX_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5
+        width: 9
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -3}
+        - {x: -4.5, y: 3}
+        - {x: 4.5, y: 3}
+        - {x: 4.5, y: -3}
+      physicsShape:
+      - - {x: -4.5, y: 3}
+        - {x: -4.5, y: -3}
+        - {x: 4.5, y: -3}
+        - {x: 4.5, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29169015ecea4bb9820b2cfe92e85a4c
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 6}
+      - {x: 9, y: 6}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_shop_barel_01_destructiblesVFX_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 15
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape:
+      - - {x: -3, y: 3}
+        - {x: -3, y: -3}
+        - {x: 3, y: -3}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9155f78a23ca4f8ba94ea2e42ec37e28
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 6}
+      - {x: 6, y: 6}
+      - {x: 0, y: 0}
+      - {x: 6, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK_shop_barel_01_destructiblesVFX_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 10
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -2.5}
+        - {x: -5, y: 2.5}
+        - {x: 5, y: 2.5}
+        - {x: 5, y: -2.5}
+      physicsShape:
+      - - {x: -5, y: 2.5}
+        - {x: -5, y: -2.5}
+        - {x: 5, y: -2.5}
+        - {x: 5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8870d5917e642029d780f63f150f4cb
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 10, y: 5}
+      - {x: 0, y: 0}
+      - {x: 10, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 65827e5843426b7463705ba31aebab29.bundle
+  assetBundleVariant:

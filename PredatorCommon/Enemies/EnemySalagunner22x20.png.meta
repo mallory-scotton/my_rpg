@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: f4a17246c9cecb845b71db2b7e52efa8
+timeCreated: 1706119824
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: EnemySalagunner22x20_Walk2
+  - first:
+      213: 21300002
+    second: EnemySalagunner22x20_Walk0
+  - first:
+      213: 21300004
+    second: EnemySalagunner22x20_Idle3
+  - first:
+      213: 21300006
+    second: EnemySalagunner22x20_Idle1
+  - first:
+      213: 21300008
+    second: EnemySalagunner22x20_Idle0
+  - first:
+      213: 21300010
+    second: EnemySalagunner22x20_Weapon
+  - first:
+      213: 21300012
+    second: EnemySalagunner22x20_Walk3
+  - first:
+      213: 21300014
+    second: EnemySalagunner22x20_Hand2
+  - first:
+      213: 21300016
+    second: EnemySalagunner22x20_Walk1
+  - first:
+      213: 21300018
+    second: EnemySalagunner22x20_Walk4
+  - first:
+      213: 21300020
+    second: EnemySalagunner22x20_Damage0
+  - first:
+      213: 21300022
+    second: EnemySalagunner22x20_Damage1
+  - first:
+      213: 21300024
+    second: EnemySalagunner22x20_Idle2
+  - first:
+      213: 21300026
+    second: EnemySalagunner22x20_Death
+  - first:
+      213: 21300028
+    second: EnemySalagunner22x20_Hand1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemySalagunner22x20_Walk2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -10}
+        - {x: -11, y: 10}
+        - {x: 11, y: 10}
+        - {x: 11, y: -10}
+      physicsShape:
+      - - {x: -5, y: 10}
+        - {x: -7, y: 9}
+        - {x: -11, y: 1}
+        - {x: -11, y: -7}
+        - {x: -9, y: -9}
+        - {x: -5, y: -10}
+        - {x: 10, y: -10}
+        - {x: 9, y: -6}
+        - {x: 11, y: 7}
+        - {x: 8, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e52b58161e346ffb8e25aca644a77ac
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 20}
+      - {x: 22, y: 20}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySalagunner22x20_Walk0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -10}
+        - {x: -11, y: 10}
+        - {x: 11, y: 10}
+        - {x: 11, y: -10}
+      physicsShape:
+      - - {x: 7, y: 10}
+        - {x: -8, y: 10}
+        - {x: -11, y: 9}
+        - {x: -11, y: -10}
+        - {x: 5, y: -10}
+        - {x: 5, y: -9}
+        - {x: 9, y: 5}
+        - {x: 9, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b061644861142f5846cd0171b15d28f
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 20}
+      - {x: 22, y: 20}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySalagunner22x20_Idle3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -10}
+        - {x: -11, y: 10}
+        - {x: 11, y: 10}
+        - {x: 11, y: -10}
+      physicsShape:
+      - - {x: -7, y: 10}
+        - {x: -11, y: 3}
+        - {x: -11, y: -10}
+        - {x: 7, y: -10}
+        - {x: 9, y: -6}
+        - {x: 9, y: 9}
+        - {x: 5, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc1871db86d4d29b87a5a854ac4e510
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 20}
+      - {x: 22, y: 20}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySalagunner22x20_Idle1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -10}
+        - {x: -11, y: 10}
+        - {x: 11, y: 10}
+        - {x: 11, y: -10}
+      physicsShape:
+      - - {x: -4, y: 9}
+        - {x: -11, y: 7}
+        - {x: -11, y: -10}
+        - {x: 7, y: -10}
+        - {x: 9, y: 0}
+        - {x: 9, y: 6}
+        - {x: 7, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc15aff1f7b4064b6daffd51b286560
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 20}
+      - {x: 22, y: 20}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySalagunner22x20_Idle0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -10}
+        - {x: -11, y: 10}
+        - {x: 11, y: 10}
+        - {x: 11, y: -10}
+      physicsShape:
+      - - {x: 7, y: 10}
+        - {x: -8, y: 10}
+        - {x: -11, y: 9}
+        - {x: -11, y: -10}
+        - {x: 5, y: -10}
+        - {x: 5, y: -9}
+        - {x: 9, y: 5}
+        - {x: 9, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b00495be624550aad142699d43ab11
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 20}
+      - {x: 22, y: 20}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySalagunner22x20_Weapon
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 5
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -7}
+        - {x: -8, y: 7}
+        - {x: 8, y: 7}
+        - {x: 8, y: -7}
+      physicsShape:
+      - - {x: -8, y: 7}
+        - {x: -8, y: -6}
+        - {x: -7, y: -7}
+        - {x: 2, y: -7}
+        - {x: 8, y: -3}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4949fa6be74c49ddbe3a17156f3ea617
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 16, y: 14}
+      - {x: 0, y: 0}
+      - {x: 16, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySalagunner22x20_Walk3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -10}
+        - {x: -11, y: 10}
+        - {x: 11, y: 10}
+        - {x: 11, y: -10}
+      physicsShape:
+      - - {x: -5, y: 10}
+        - {x: -8, y: 9}
+        - {x: -11, y: -2}
+        - {x: -11, y: -10}
+        - {x: 11, y: -10}
+        - {x: 11, y: 6}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f91bf2dbcb4507b1e4dc3c83d97fa8
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 20}
+      - {x: 22, y: 20}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySalagunner22x20_Hand2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8070dee03a024613bf64f03f6fdafdc6
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySalagunner22x20_Walk1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -10}
+        - {x: -11, y: 10}
+        - {x: 11, y: 10}
+        - {x: 11, y: -10}
+      physicsShape:
+      - - {x: -5, y: 10}
+        - {x: -7, y: 8}
+        - {x: -11, y: 1}
+        - {x: -11, y: -9}
+        - {x: -9, y: -10}
+        - {x: 10, y: -10}
+        - {x: 10, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada4a84c52d94e5090a85f0773e3610b
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 20}
+      - {x: 22, y: 20}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySalagunner22x20_Walk4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -10}
+        - {x: -11, y: 10}
+        - {x: 11, y: 10}
+        - {x: 11, y: -10}
+      physicsShape:
+      - - {x: 5, y: 10}
+        - {x: -3, y: 10}
+        - {x: -8, y: 7}
+        - {x: -11, y: -2}
+        - {x: -11, y: -7}
+        - {x: -6, y: -10}
+        - {x: 5, y: -10}
+        - {x: 10, y: -2}
+        - {x: 10, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18d1ad625f14ff685c97bac23674aac
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 20}
+      - {x: 22, y: 20}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySalagunner22x20_Damage0
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -10}
+        - {x: -11, y: 10}
+        - {x: 11, y: 10}
+        - {x: 11, y: -10}
+      physicsShape:
+      - - {x: -11, y: 10}
+        - {x: -11, y: -8}
+        - {x: -9, y: -10}
+        - {x: 4, y: -10}
+        - {x: 7, y: -7}
+        - {x: 4, y: 7}
+        - {x: 1, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f65da3b5ed14a129803db068e64496c
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 20}
+      - {x: 22, y: 20}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySalagunner22x20_Damage1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -10}
+        - {x: -11, y: 10}
+        - {x: 11, y: 10}
+        - {x: 11, y: -10}
+      physicsShape:
+      - - {x: -11, y: 10}
+        - {x: -11, y: -10}
+        - {x: 7, y: -10}
+        - {x: 7, y: 0}
+        - {x: 3, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c812be88764a4fb22f4a21f5cf04c7
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 20}
+      - {x: 22, y: 20}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySalagunner22x20_Idle2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -10}
+        - {x: -11, y: 10}
+        - {x: 11, y: 10}
+        - {x: 11, y: -10}
+      physicsShape:
+      - - {x: 4, y: 8}
+        - {x: -4, y: 8}
+        - {x: -8, y: 4}
+        - {x: -11, y: 0}
+        - {x: -11, y: -9}
+        - {x: -10, y: -10}
+        - {x: 4, y: -10}
+        - {x: 9, y: -3}
+        - {x: 9, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaaf75f501f402388175f83bf033421
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 20}
+      - {x: 22, y: 20}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySalagunner22x20_Death
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -10}
+        - {x: -11, y: 10}
+        - {x: 11, y: 10}
+        - {x: 11, y: -10}
+      physicsShape:
+      - - {x: -7, y: 4}
+        - {x: -11, y: 1}
+        - {x: -11, y: -7}
+        - {x: 11, y: -7}
+        - {x: 11, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62aad9d965c428e82e6f48685d6a53c
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 20}
+      - {x: 22, y: 20}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySalagunner22x20_Hand1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: -2}
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a609b094d947c2bee1e28f26765df5
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 4}
+      - {x: 4, y: 4}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

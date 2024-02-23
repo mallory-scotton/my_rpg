@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: e775231d5b6754f48a629425aed79ffe
+timeCreated: 1706119813
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: LB_Tree7_54x53_0
+  - first:
+      213: 21300002
+    second: LB_Tree7_54x53_1
+  - first:
+      213: 21300004
+    second: LB_Tree7_54x53_6
+  - first:
+      213: 21300006
+    second: LB_Tree7_54x53_7
+  - first:
+      213: 21300008
+    second: LB_Tree7_54x53_3
+  - first:
+      213: 21300010
+    second: LB_Tree7_54x53_4
+  - first:
+      213: 21300012
+    second: LB_Tree7_54x53_2
+  - first:
+      213: 21300014
+    second: LB_Tree7_54x53_5
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LB_Tree7_54x53_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 52.973248
+        height: 53
+      alignment: 9
+      pivot: {x: 0.50969124, y: 0.1509434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.486624, y: -26.5}
+        - {x: -26.486624, y: -15.5}
+        - {x: -26.486624, y: 16.5}
+        - {x: -18.486624, y: 26.5}
+        - {x: 15.513376, y: 26.5}
+        - {x: 26.513376, y: 20.5}
+        - {x: 26.513376, y: -6.5}
+        - {x: 20.513376, y: -21.5}
+        - {x: 16.513376, y: -26.5}
+      physicsShape:
+      - - {x: 23.513376, y: -3.5}
+        - {x: 26.513376, y: 3.5}
+        - {x: 26.513376, y: 18.5}
+        - {x: 14.513376, y: 26.5}
+        - {x: -17.486624, y: 26.5}
+        - {x: -26.486624, y: 15.5}
+        - {x: -26.486624, y: 0.5}
+        - {x: -17.486624, y: -11.5}
+        - {x: -18.486624, y: -12.5}
+        - {x: -20.486624, y: -21.5}
+        - {x: -13.486624, y: -26.5}
+        - {x: 16.513376, y: -26.5}
+        - {x: 20.513376, y: -21.5}
+        - {x: 20.513376, y: -17.5}
+        - {x: 18.513376, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3decbe5c706445be82a7de38c49c89fe
+      internalID: 21300000
+      vertices:
+      - {x: 52.486626, y: 65.5}
+      - {x: 46.486626, y: 23.5}
+      - {x: 52.486626, y: 38.5}
+      - {x: 42.486626, y: 18.5}
+      - {x: 41.486626, y: 71.5}
+      - {x: 9.486624, y: 18.5}
+      - {x: 7.486624, y: 71.5}
+      - {x: -0.51337624, y: 61.5}
+      - {x: -0.51337624, y: 29.5}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB_Tree7_54x53_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 53.973248
+        height: 53
+      alignment: 9
+      pivot: {x: 0.50024784, y: 0.1509434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.986624, y: -26.5}
+        - {x: -26.986624, y: -13.5}
+        - {x: -26.986624, y: 24.5}
+        - {x: -23.986624, y: 26.5}
+        - {x: 26.013376, y: 26.5}
+        - {x: 27.013376, y: 24.5}
+        - {x: 27.013376, y: -19.5}
+        - {x: 25.013376, y: -22.5}
+        - {x: 17.013376, y: -26.5}
+      physicsShape:
+      - - {x: 27.013376, y: 15.5}
+        - {x: 19.013376, y: 22.5}
+        - {x: 11.013376, y: 26.5}
+        - {x: -14.986624, y: 26.5}
+        - {x: -22.986624, y: 21.5}
+        - {x: -26.986624, y: 13.5}
+        - {x: -26.986624, y: -1.5}
+        - {x: -20.986624, y: -11.5}
+        - {x: -20.986624, y: -21.5}
+        - {x: -13.986624, y: -26.5}
+        - {x: 16.013376, y: -26.5}
+        - {x: 22.013376, y: -21.5}
+        - {x: 18.013376, y: -10.5}
+        - {x: 27.013376, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44245f8b5cd34a1bb33daf6ee8bd4648
+      internalID: 21300002
+      vertices:
+      - {x: 52.986626, y: 71.5}
+      - {x: 53.986626, y: 25.5}
+      - {x: 53.986626, y: 69.5}
+      - {x: 51.986626, y: 22.5}
+      - {x: 43.986626, y: 18.5}
+      - {x: 8.986624, y: 18.5}
+      - {x: 2.9866238, y: 71.5}
+      - {x: -0.013376236, y: 69.5}
+      - {x: -0.013376236, y: 31.5}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 0
+      - 5
+      - 6
+      - 4
+      - 5
+      - 0
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB_Tree7_54x53_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 53.973248
+        height: 53
+      alignment: 9
+      pivot: {x: 0.50024784, y: 0.1509434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.986624, y: -21.5}
+        - {x: -26.986624, y: -6.5}
+        - {x: -26.986624, y: 26.5}
+        - {x: 27.013376, y: 26.5}
+        - {x: 27.013376, y: -25.5}
+        - {x: 19.013376, y: -26.5}
+        - {x: -13.986624, y: -26.5}
+      physicsShape:
+      - - {x: 27.013376, y: 14.5}
+        - {x: 20.013376, y: 23.5}
+        - {x: 11.013376, y: 26.5}
+        - {x: -15.986624, y: 26.5}
+        - {x: -21.986624, y: 21.5}
+        - {x: -26.986624, y: 13.5}
+        - {x: -26.986624, y: -1.5}
+        - {x: -20.986624, y: -21.5}
+        - {x: -13.986624, y: -26.5}
+        - {x: 16.013376, y: -26.5}
+        - {x: 22.013376, y: -21.5}
+        - {x: 18.013376, y: -10.5}
+        - {x: 27.013376, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6ffaa7e660438fb77f4ba46de12b5c
+      internalID: 21300004
+      vertices:
+      - {x: 53.986626, y: 71.5}
+      - {x: 45.986626, y: 18.5}
+      - {x: 53.986626, y: 19.5}
+      - {x: 12.986624, y: 18.5}
+      - {x: 5.986624, y: 23.5}
+      - {x: -0.013376236, y: 71.5}
+      - {x: -0.013376236, y: 38.5}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB_Tree7_54x53_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 53.973248
+        height: 53
+      alignment: 9
+      pivot: {x: 0.50024784, y: 0.1509434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.986624, y: -26.5}
+        - {x: -26.986624, y: -13.5}
+        - {x: -26.986624, y: 24.5}
+        - {x: -23.986624, y: 26.5}
+        - {x: 26.013376, y: 26.5}
+        - {x: 27.013376, y: 24.5}
+        - {x: 27.013376, y: -19.5}
+        - {x: 25.013376, y: -22.5}
+        - {x: 17.013376, y: -26.5}
+      physicsShape:
+      - - {x: 27.013376, y: 15.5}
+        - {x: 19.013376, y: 22.5}
+        - {x: 11.013376, y: 26.5}
+        - {x: -14.986624, y: 26.5}
+        - {x: -22.986624, y: 21.5}
+        - {x: -26.986624, y: 13.5}
+        - {x: -26.986624, y: -1.5}
+        - {x: -20.986624, y: -11.5}
+        - {x: -20.986624, y: -21.5}
+        - {x: -13.986624, y: -26.5}
+        - {x: 16.013376, y: -26.5}
+        - {x: 22.013376, y: -21.5}
+        - {x: 18.013376, y: -10.5}
+        - {x: 27.013376, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b62e37e9bad4db9aa6403ce15485ada
+      internalID: 21300006
+      vertices:
+      - {x: 52.986626, y: 71.5}
+      - {x: 53.986626, y: 25.5}
+      - {x: 53.986626, y: 69.5}
+      - {x: 51.986626, y: 22.5}
+      - {x: 43.986626, y: 18.5}
+      - {x: 8.986624, y: 18.5}
+      - {x: 2.9866238, y: 71.5}
+      - {x: -0.013376236, y: 69.5}
+      - {x: -0.013376236, y: 31.5}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 0
+      - 5
+      - 6
+      - 4
+      - 5
+      - 0
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB_Tree7_54x53_3
+      rect:
+        serializedVersion: 2
+        x: 162.05132
+        y: 0
+        width: 53.948685
+        height: 53
+      alignment: 9
+      pivot: {x: 0.4995244, y: 0.1509434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.025658, y: -21.5}
+        - {x: -27.025658, y: -2.5}
+        - {x: -27.025658, y: 15.5}
+        - {x: -19.025658, y: 26.5}
+        - {x: 21.974342, y: 26.5}
+        - {x: 26.974342, y: 19.5}
+        - {x: 26.974342, y: -24.5}
+        - {x: 18.974342, y: -26.5}
+        - {x: -16.025658, y: -26.5}
+      physicsShape:
+      - - {x: 26.974342, y: 2.5}
+        - {x: 26.974342, y: 13.5}
+        - {x: 25.974342, y: 15.5}
+        - {x: 19.974342, y: 22.5}
+        - {x: 11.974342, y: 26.5}
+        - {x: -16.025658, y: 26.5}
+        - {x: -27.025658, y: 14.5}
+        - {x: -27.025658, y: 3.5}
+        - {x: -25.025658, y: -1.5}
+        - {x: -19.025658, y: -12.5}
+        - {x: -21.025658, y: -21.5}
+        - {x: -14.025658, y: -26.5}
+        - {x: 15.974342, y: -26.5}
+        - {x: 21.974342, y: -21.5}
+        - {x: 17.974342, y: -10.5}
+        - {x: 19.974342, y: -7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134b553d17c8479baf82b76671481af1
+      internalID: 21300008
+      vertices:
+      - {x: 48.974342, y: 71.5}
+      - {x: 53.974342, y: 20.5}
+      - {x: 53.974342, y: 64.5}
+      - {x: 45.974342, y: 18.5}
+      - {x: 10.974342, y: 18.5}
+      - {x: 7.9743423, y: 71.5}
+      - {x: 5.9743423, y: 23.5}
+      - {x: -0.025657654, y: 60.5}
+      - {x: -0.025657654, y: 42.5}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB_Tree7_54x53_4
+      rect:
+        serializedVersion: 2
+        x: 217.02675
+        y: 0
+        width: 52.973248
+        height: 53
+      alignment: 9
+      pivot: {x: 0.49030885, y: 0.1509434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.513372, y: -26.5}
+        - {x: -21.513372, y: -21.5}
+        - {x: -19.513372, y: -12.5}
+        - {x: -14.513372, y: -9.5}
+        - {x: -16.513372, y: -10.5}
+        - {x: -22.513372, y: -4.5}
+        - {x: -26.513372, y: -1.5}
+        - {x: -26.513372, y: 12.5}
+        - {x: -18.513372, y: 26.5}
+        - {x: 24.486628, y: 26.5}
+        - {x: 26.486628, y: 20.5}
+        - {x: 26.486628, y: -16.5}
+        - {x: 25.486628, y: -22.5}
+        - {x: 16.486628, y: -26.5}
+      physicsShape:
+      - - {x: 26.486628, y: 20.5}
+        - {x: 24.486628, y: 26.5}
+        - {x: -16.513372, y: 26.5}
+        - {x: -23.513372, y: 17.5}
+        - {x: -26.513372, y: 9.5}
+        - {x: -26.513372, y: 1.5}
+        - {x: -22.513372, y: -4.5}
+        - {x: -16.513372, y: -10.5}
+        - {x: -14.513372, y: -9.5}
+        - {x: -19.513372, y: -12.5}
+        - {x: -21.513372, y: -21.5}
+        - {x: -14.513372, y: -26.5}
+        - {x: 16.486628, y: -26.5}
+        - {x: 25.486628, y: -22.5}
+        - {x: 23.486628, y: -9.5}
+        - {x: 26.486628, y: -4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee5756a217747ac9351a004fe9a19c4
+      internalID: 21300010
+      vertices:
+      - {x: 53.486626, y: 65.5}
+      - {x: 52.486626, y: 22.5}
+      - {x: 53.486626, y: 28.5}
+      - {x: 51.486626, y: 71.5}
+      - {x: 43.486626, y: 18.5}
+      - {x: 12.486624, y: 35.5}
+      - {x: 10.486624, y: 34.5}
+      - {x: 8.486624, y: 71.5}
+      - {x: 4.486624, y: 40.5}
+      - {x: 0.48662376, y: 57.5}
+      - {x: 0.48662376, y: 43.5}
+      - {x: 12.486624, y: 18.5}
+      - {x: 7.486624, y: 32.5}
+      - {x: 5.486624, y: 23.5}
+      indices:
+      - 13
+      - 12
+      - 11
+      - 5
+      - 11
+      - 12
+      - 4
+      - 11
+      - 5
+      - 10
+      - 9
+      - 8
+      - 7
+      - 8
+      - 9
+      - 6
+      - 8
+      - 7
+      - 3
+      - 6
+      - 7
+      - 5
+      - 6
+      - 3
+      - 4
+      - 5
+      - 3
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB_Tree7_54x53_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 53.973248
+        height: 53
+      alignment: 9
+      pivot: {x: 0.50024784, y: 0.1509434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.986624, y: -21.5}
+        - {x: -26.986624, y: -6.5}
+        - {x: -26.986624, y: 26.5}
+        - {x: 27.013376, y: 26.5}
+        - {x: 27.013376, y: -25.5}
+        - {x: 19.013376, y: -26.5}
+        - {x: -13.986624, y: -26.5}
+      physicsShape:
+      - - {x: 27.013376, y: 14.5}
+        - {x: 20.013376, y: 23.5}
+        - {x: 11.013376, y: 26.5}
+        - {x: -15.986624, y: 26.5}
+        - {x: -21.986624, y: 21.5}
+        - {x: -26.986624, y: 13.5}
+        - {x: -26.986624, y: -1.5}
+        - {x: -20.986624, y: -21.5}
+        - {x: -13.986624, y: -26.5}
+        - {x: 16.013376, y: -26.5}
+        - {x: 22.013376, y: -21.5}
+        - {x: 18.013376, y: -10.5}
+        - {x: 27.013376, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9c497c32714c99a931e0c9e53e5b5b
+      internalID: 21300012
+      vertices:
+      - {x: 53.986626, y: 71.5}
+      - {x: 45.986626, y: 18.5}
+      - {x: 53.986626, y: 19.5}
+      - {x: 12.986624, y: 18.5}
+      - {x: 5.986624, y: 23.5}
+      - {x: -0.013376236, y: 71.5}
+      - {x: -0.013376236, y: 38.5}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB_Tree7_54x53_5
+      rect:
+        serializedVersion: 2
+        x: 270.05133
+        y: 0
+        width: 53.948685
+        height: 53
+      alignment: 9
+      pivot: {x: 0.49952412, y: 0.1509434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.025673, y: -21.5}
+        - {x: -27.025673, y: -2.5}
+        - {x: -27.025673, y: 15.5}
+        - {x: -19.025673, y: 26.5}
+        - {x: 21.974327, y: 26.5}
+        - {x: 26.974327, y: 19.5}
+        - {x: 26.974327, y: -24.5}
+        - {x: 18.974327, y: -26.5}
+        - {x: -16.025673, y: -26.5}
+      physicsShape:
+      - - {x: 26.974327, y: 2.5}
+        - {x: 26.974327, y: 13.5}
+        - {x: 25.974327, y: 15.5}
+        - {x: 19.974327, y: 22.5}
+        - {x: 11.974327, y: 26.5}
+        - {x: -16.025673, y: 26.5}
+        - {x: -27.025673, y: 14.5}
+        - {x: -27.025673, y: 3.5}
+        - {x: -25.025673, y: -1.5}
+        - {x: -19.025673, y: -12.5}
+        - {x: -21.025673, y: -21.5}
+        - {x: -14.025673, y: -26.5}
+        - {x: 15.974327, y: -26.5}
+        - {x: 21.974327, y: -21.5}
+        - {x: 17.974327, y: -10.5}
+        - {x: 19.974327, y: -7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6139686046fe47d6aa33291844aaeb5f
+      internalID: 21300014
+      vertices:
+      - {x: 48.974342, y: 71.5}
+      - {x: 53.974342, y: 20.5}
+      - {x: 53.974342, y: 64.5}
+      - {x: 45.974342, y: 18.5}
+      - {x: 10.974342, y: 18.5}
+      - {x: 7.9743423, y: 71.5}
+      - {x: 5.9743423, y: 23.5}
+      - {x: -0.025657654, y: 60.5}
+      - {x: -0.025657654, y: 42.5}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 1f0e03801170aa975b541c4c7d517a45.bundle
+  assetBundleVariant:

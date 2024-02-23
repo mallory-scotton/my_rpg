@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: 3c8af36d9a4b6a042ac02d7175f96967
+timeCreated: 1706119823
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ParticlesGroundImpact_loop_variation-Sheet80x72_4
+  - first:
+      213: 21300002
+    second: ParticlesGroundImpact_loop_variation-Sheet80x72_3
+  - first:
+      213: 21300004
+    second: ParticlesGroundImpact_loop_variation-Sheet80x72_2
+  - first:
+      213: 21300006
+    second: ParticlesGroundImpact_loop_variation-Sheet80x72_1
+  - first:
+      213: 21300008
+    second: ParticlesGroundImpact_loop_variation-Sheet80x72_0
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParticlesGroundImpact_loop_variation-Sheet80x72_4
+      rect:
+        serializedVersion: 2
+        x: 327.0761
+        y: 0
+        width: 60.847763
+        height: 72
+      alignment: 9
+      pivot: {x: 0.54108626, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.4999924, y: 33}
+        - {x: -8.499992, y: 36}
+        - {x: -3.4999924, y: 36}
+        - {x: -3.4999924, y: 34}
+      - - {x: -21.499992, y: -36}
+        - {x: -30.499992, y: -24}
+        - {x: -30.499992, y: 11}
+        - {x: -14.499992, y: 29}
+        - {x: 5.5000076, y: 29}
+        - {x: 18.500008, y: 21}
+        - {x: 26.500008, y: 15}
+        - {x: 30.500008, y: 6}
+        - {x: 30.500008, y: -30}
+        - {x: 15.500008, y: -36}
+      physicsShape:
+      - - {x: 20.500008, y: 25}
+        - {x: 3.5000076, y: 28}
+        - {x: 1.5000076, y: 29}
+        - {x: -8.499992, y: 29}
+        - {x: -9.499992, y: 28}
+        - {x: -24.499992, y: 8}
+        - {x: -26.499992, y: -1}
+        - {x: -26.499992, y: -13}
+        - {x: -22.499992, y: -24}
+        - {x: -6.4999924, y: -33}
+        - {x: 10.500008, y: -33}
+        - {x: 27.500008, y: -17}
+        - {x: 27.500008, y: 1}
+      - - {x: 24.500008, y: 9}
+        - {x: 27.500008, y: 10}
+        - {x: 27.500008, y: 13}
+        - {x: 24.500008, y: 14}
+        - {x: 22.500008, y: 12}
+      - - {x: -3.4999924, y: 34}
+        - {x: -3.4999924, y: 36}
+        - {x: -8.499992, y: 36}
+        - {x: -6.4999924, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec3ca76caa946faa29ffe64297fe713
+      internalID: 21300000
+      vertices:
+      - {x: 54.42388, y: 51}
+      - {x: 58.42388, y: 6}
+      - {x: 58.42388, y: 42}
+      - {x: 46.42388, y: 57}
+      - {x: 43.42388, y: 0}
+      - {x: 33.42388, y: 65}
+      - {x: 13.423882, y: 65}
+      - {x: 6.4238815, y: 0}
+      - {x: -2.5761185, y: 47}
+      - {x: -2.5761185, y: 12}
+      - {x: 24.423882, y: 72}
+      - {x: 21.423882, y: 69}
+      - {x: 24.423882, y: 70}
+      - {x: 19.423882, y: 72}
+      indices:
+      - 13
+      - 10
+      - 11
+      - 12
+      - 11
+      - 10
+      - 9
+      - 8
+      - 7
+      - 6
+      - 7
+      - 8
+      - 4
+      - 7
+      - 6
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGroundImpact_loop_variation-Sheet80x72_3
+      rect:
+        serializedVersion: 2
+        x: 247.07613
+        y: 0
+        width: 60.847763
+        height: 72
+      alignment: 9
+      pivot: {x: 0.541086, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5000076, y: 32}
+        - {x: -8.500008, y: 35}
+        - {x: -7.5000076, y: 36}
+        - {x: -3.5000076, y: 36}
+        - {x: -3.5000076, y: 33}
+      - - {x: -13.500008, y: -36}
+        - {x: -30.500008, y: -32}
+        - {x: -30.500008, y: 10}
+        - {x: -9.500008, y: 31}
+        - {x: 29.499992, y: 31}
+        - {x: 30.499992, y: 26}
+        - {x: 30.499992, y: -35}
+        - {x: 27.499992, y: -36}
+      physicsShape:
+      - - {x: 27.499992, y: 15}
+        - {x: 15.499992, y: 22}
+        - {x: 4.4999924, y: 29}
+        - {x: 0.49999237, y: 31}
+        - {x: -8.500008, y: 31}
+        - {x: -9.500008, y: 30}
+        - {x: -26.500008, y: 6}
+        - {x: -26.500008, y: -16}
+        - {x: -14.500008, y: -31}
+        - {x: -8.500008, y: -33}
+        - {x: 7.4999924, y: -33}
+        - {x: 14.499992, y: -32}
+        - {x: 27.499992, y: -17}
+      - - {x: -6.5000076, y: 32}
+        - {x: -3.5000076, y: 33}
+        - {x: -3.5000076, y: 36}
+        - {x: -7.5000076, y: 36}
+        - {x: -8.500008, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5f93b66a8544cdad7fa213174f8305
+      internalID: 21300002
+      vertices:
+      - {x: 57.42388, y: 67}
+      - {x: 58.42388, y: 1}
+      - {x: 58.42388, y: 62}
+      - {x: 55.42388, y: 0}
+      - {x: 18.423882, y: 67}
+      - {x: 14.423882, y: 0}
+      - {x: -2.5761185, y: 46}
+      - {x: -2.5761185, y: 4}
+      - {x: 24.423882, y: 72}
+      - {x: 21.423882, y: 68}
+      - {x: 24.423882, y: 69}
+      - {x: 20.423882, y: 72}
+      - {x: 19.423882, y: 71}
+      indices:
+      - 12
+      - 11
+      - 9
+      - 8
+      - 9
+      - 11
+      - 10
+      - 9
+      - 8
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGroundImpact_loop_variation-Sheet80x72_2
+      rect:
+        serializedVersion: 2
+        x: 167.07613
+        y: 0
+        width: 60.847763
+        height: 71.98709
+      alignment: 9
+      pivot: {x: 0.541086, y: 0.50008965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.500008, y: -28.993546}
+        - {x: -30.500008, y: -21.993546}
+        - {x: -30.500008, y: 11.006454}
+        - {x: -8.500008, y: 35.006454}
+        - {x: -6.5000076, y: 36.006454}
+        - {x: -4.5000076, y: 36.006454}
+        - {x: 19.499992, y: 25.006454}
+        - {x: 30.499992, y: 7.0064545}
+        - {x: 30.499992, y: -26.993546}
+        - {x: 21.499992, y: -35.993546}
+        - {x: -11.500008, y: -35.993546}
+      physicsShape:
+      - - {x: 15.499992, y: 21.006454}
+        - {x: 5.4999924, y: 28.006454}
+        - {x: -2.5000076, y: 35.006454}
+        - {x: -5.5000076, y: 36.006454}
+        - {x: -8.500008, y: 35.006454}
+        - {x: -25.500008, y: 8.006454}
+        - {x: -26.500008, y: 6.0064545}
+        - {x: -26.500008, y: -14.993546}
+        - {x: -20.500008, y: -22.993546}
+        - {x: -13.500008, y: -28.993546}
+        - {x: -4.5000076, y: -32.993546}
+        - {x: 10.499992, y: -32.993546}
+        - {x: 27.499992, y: -16.993546}
+        - {x: 27.499992, y: -0.99354553}
+        - {x: 21.499992, y: 15.006454}
+      - - {x: 15.499992, y: -8.993546}
+        - {x: 14.499992, y: -10.993546}
+        - {x: 13.499992, y: -11.993546}
+        - {x: 14.499992, y: -11.993546}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731a1da7447743ec89cc2b638b38d925
+      internalID: 21300004
+      vertices:
+      - {x: 58.42388, y: 42.993546}
+      - {x: 49.42388, y: -0.006454468}
+      - {x: 58.42388, y: 8.993546}
+      - {x: 47.42388, y: 60.993546}
+      - {x: 23.423882, y: 71.993546}
+      - {x: 21.423882, y: 71.993546}
+      - {x: 19.423882, y: 70.993546}
+      - {x: 16.423882, y: -0.006454468}
+      - {x: -1.5761185, y: 6.9935455}
+      - {x: -2.5761185, y: 46.993546}
+      - {x: -2.5761185, y: 13.993546}
+      indices:
+      - 10
+      - 9
+      - 8
+      - 6
+      - 8
+      - 9
+      - 7
+      - 8
+      - 6
+      - 1
+      - 7
+      - 6
+      - 5
+      - 1
+      - 6
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGroundImpact_loop_variation-Sheet80x72_1
+      rect:
+        serializedVersion: 2
+        x: 87.07612
+        y: 0
+        width: 60.847763
+        height: 64.948685
+      alignment: 9
+      pivot: {x: 0.54108614, y: 0.55428374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -32.474342}
+        - {x: -30.5, y: -19.474342}
+        - {x: -30.5, y: 7.5256577}
+        - {x: -27.5, y: 19.525658}
+        - {x: -14.5, y: 32.525658}
+        - {x: 7.5, y: 32.525658}
+        - {x: 30.5, y: 17.525658}
+        - {x: 30.5, y: -28.474342}
+        - {x: 16.5, y: -32.474342}
+      physicsShape:
+      - - {x: 27.5, y: 4.5256577}
+        - {x: 16.5, y: 28.525658}
+        - {x: 3.5, y: 32.525658}
+        - {x: -6.5, y: 32.525658}
+        - {x: -13.5, y: 24.525658}
+        - {x: -24.5, y: 20.525658}
+        - {x: -26.5, y: 14.525658}
+        - {x: -26.5, y: -9.474342}
+        - {x: -20.5, y: -19.474342}
+        - {x: -13.5, y: -25.474342}
+        - {x: -4.5, y: -29.474342}
+        - {x: 10.5, y: -29.474342}
+        - {x: 27.5, y: -13.474342}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09da760db5b845ebb251c3802710a6a3
+      internalID: 21300006
+      vertices:
+      - {x: 58.42388, y: 46.474342}
+      - {x: 44.42388, y: -3.5256577}
+      - {x: 58.42388, y: 0.47434235}
+      - {x: 35.42388, y: 61.474342}
+      - {x: 13.423882, y: 61.474342}
+      - {x: 7.4238815, y: -3.5256577}
+      - {x: 0.42388153, y: 48.474342}
+      - {x: -2.5761185, y: 36.474342}
+      - {x: -2.5761185, y: 9.474342}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGroundImpact_loop_variation-Sheet80x72_0
+      rect:
+        serializedVersion: 2
+        x: 7.0761204
+        y: 0
+        width: 60.847763
+        height: 62.973248
+      alignment: 9
+      pivot: {x: 0.54108614, y: 0.5716713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -31.486624}
+        - {x: -30.5, y: -24.486624}
+        - {x: -30.5, y: 15.513376}
+        - {x: -21.5, y: 31.513376}
+        - {x: 24.5, y: 31.513376}
+        - {x: 30.5, y: 10.513376}
+        - {x: 30.5, y: -27.486624}
+        - {x: 18.5, y: -31.486624}
+      physicsShape:
+      - - {x: 17.5, y: 30.513376}
+        - {x: 14.5, y: 30.513376}
+        - {x: 13.5, y: 27.513376}
+        - {x: 4.5, y: 28.513376}
+        - {x: 1.5, y: 27.513376}
+        - {x: -1.5, y: 30.513376}
+        - {x: -4.5, y: 31.513376}
+        - {x: -6.5, y: 31.513376}
+        - {x: -8.5, y: 28.513376}
+        - {x: -26.5, y: 17.513376}
+        - {x: -26.5, y: -10.486624}
+        - {x: -21.5, y: -18.486624}
+        - {x: -8.5, y: -28.486624}
+        - {x: 9.5, y: -28.486624}
+        - {x: 14.5, y: -27.486624}
+        - {x: 26.5, y: -12.486624}
+        - {x: 27.5, y: -5.486624}
+        - {x: 27.5, y: 4.513376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e58dfeda8c14393acd08ee3811c3067
+      internalID: 21300008
+      vertices:
+      - {x: 52.42388, y: 58.486626}
+      - {x: 58.42388, y: -0.51337624}
+      - {x: 58.42388, y: 37.486626}
+      - {x: 46.42388, y: -4.513376}
+      - {x: 6.4238815, y: 58.486626}
+      - {x: 4.4238815, y: -4.513376}
+      - {x: -2.5761185, y: 42.486626}
+      - {x: -2.5761185, y: 2.4866238}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 591ab39634acdd66ceaa70c8282befd8.bundle
+  assetBundleVariant:

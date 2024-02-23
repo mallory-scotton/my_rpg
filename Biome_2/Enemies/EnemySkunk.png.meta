@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: cb2297460ded5c24a93426b7e608fc23
+timeCreated: 1706119826
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: EnemySkunk36x32_Walk0
+  - first:
+      213: 21300002
+    second: EnemySkunk36x32_Idle0
+  - first:
+      213: 21300004
+    second: EnemySkunk36x32_Damage0
+  - first:
+      213: 21300006
+    second: EnemySkunk36x32_Walk3
+  - first:
+      213: 21300008
+    second: EnemySkunk36x32_Idle2
+  - first:
+      213: 21300010
+    second: EnemySkunk36x32_Walk1
+  - first:
+      213: 21300012
+    second: EnemySkunk36x32_Idle1
+  - first:
+      213: 21300014
+    second: EnemySkunk36x32_Dead
+  - first:
+      213: 21300016
+    second: EnemySkunk36x32_Idle4
+  - first:
+      213: 21300018
+    second: EnemySkunk36x32_Walk2
+  - first:
+      213: 21300020
+    second: EnemySkunk36x32_Walk4
+  - first:
+      213: 21300022
+    second: EnemySkunk36x32_Damage1
+  - first:
+      213: 21300024
+    second: EnemySkunk36x32_Idle3
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemySkunk36x32_Walk0
+      rect:
+        serializedVersion: 2
+        x: 181.02675
+        y: 2.0513167
+        width: 32.897125
+        height: 21.897366
+      alignment: 9
+      pivot: {x: 0.51594937, y: 0.63700277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.475311, y: -11}
+        - {x: -16.475311, y: -4}
+        - {x: -16.475311, y: 3}
+        - {x: -10.475311, y: 11}
+        - {x: 8.524689, y: 11}
+        - {x: 16.524689, y: 6}
+        - {x: 16.524689, y: -11}
+      physicsShape:
+      - - {x: -10.475311, y: 11}
+        - {x: -16.475311, y: 3}
+        - {x: -16.475311, y: -4}
+        - {x: -12.475311, y: -11}
+        - {x: 16.524689, y: -11}
+        - {x: 16.524689, y: 6}
+        - {x: 8.524689, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa33cde689c4b7cafd39e105dbc3ea9
+      internalID: 21300000
+      vertices:
+      - {x: 24.448563, y: 18.948683}
+      - {x: 32.448563, y: -3.0513172}
+      - {x: 32.448563, y: 13.948683}
+      - {x: 5.4485626, y: 18.948683}
+      - {x: 3.4485626, y: -3.0513172}
+      - {x: -0.5514374, y: 10.948683}
+      - {x: -0.5514374, y: 3.9486828}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySkunk36x32_Idle0
+      rect:
+        serializedVersion: 2
+        x: 3.0761204
+        y: 2.0761204
+        width: 30.847757
+        height: 22.880972
+      alignment: 9
+      pivot: {x: 0.4837914, y: 0.60853535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.499999, y: -11.516605}
+        - {x: -15.499999, y: -6.5166054}
+        - {x: -15.499999, y: 5.4833946}
+        - {x: -13.499999, y: 11.483395}
+        - {x: 13.500001, y: 11.483395}
+        - {x: 15.500001, y: 5.4833946}
+        - {x: 15.500001, y: -7.5166054}
+        - {x: 9.500001, y: -11.516605}
+      physicsShape:
+      - - {x: -13.499999, y: 11.483395}
+        - {x: -15.499999, y: 5.4833946}
+        - {x: -15.499999, y: -6.5166054}
+        - {x: -12.499999, y: -11.516605}
+        - {x: 9.500001, y: -11.516605}
+        - {x: 15.500001, y: -7.5166054}
+        - {x: 15.500001, y: 5.4833946}
+        - {x: 13.500001, y: 11.483395}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d47e479b754152a6cf435d02ffe99a
+      internalID: 21300002
+      vertices:
+      - {x: 29.423878, y: 20.440487}
+      - {x: 31.423878, y: 1.440486}
+      - {x: 31.423878, y: 14.440486}
+      - {x: 25.423878, y: -2.559514}
+      - {x: 3.4238787, y: -2.559514}
+      - {x: 2.4238787, y: 20.440487}
+      - {x: 0.42387867, y: 14.440486}
+      - {x: 0.42387867, y: 2.440486}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySkunk36x32_Damage0
+      rect:
+        serializedVersion: 2
+        x: 360.02676
+        y: 2.0761204
+        width: 32.91352
+        height: 22.84776
+      alignment: 9
+      pivot: {x: 0.54607457, y: 0.60941994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.4835243, y: -11.499999}
+        - {x: -16.483524, y: -9.499999}
+        - {x: -16.483524, y: 3.500001}
+        - {x: -8.483524, y: 11.500001}
+        - {x: 13.516476, y: 11.500001}
+        - {x: 16.516476, y: 3.500001}
+        - {x: 16.516476, y: -11.499999}
+      physicsShape:
+      - - {x: -8.483524, y: 11.500001}
+        - {x: -16.483524, y: 3.500001}
+        - {x: -16.483524, y: -9.499999}
+        - {x: -4.4835243, y: -11.499999}
+        - {x: 16.516476, y: -11.499999}
+        - {x: 16.516476, y: 3.500001}
+        - {x: 13.516476, y: 11.500001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43540bea204a476da2546cae8c239dcb
+      internalID: 21300004
+      vertices:
+      - {x: 28.45676, y: 20.42388}
+      - {x: 31.45676, y: -2.5761204}
+      - {x: 31.45676, y: 12.42388}
+      - {x: 10.45676, y: -2.5761204}
+      - {x: 6.4567604, y: 20.42388}
+      - {x: -1.5432396, y: 12.42388}
+      - {x: -1.5432396, y: -0.5761204}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySkunk36x32_Walk3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2.026751
+        width: 33.923878
+        height: 20.936964
+      alignment: 9
+      pivot: {x: 0.5305997, y: 0.6673962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.961939, y: -10.495232}
+        - {x: -16.961939, y: -4.4952316}
+        - {x: -16.961939, y: 4.5047684}
+        - {x: -13.961939, y: 10.504768}
+        - {x: 10.038061, y: 10.504768}
+        - {x: 17.038061, y: 7.5047684}
+        - {x: 17.038061, y: -3.4952316}
+        - {x: 13.038061, y: -10.495232}
+      physicsShape:
+      - - {x: -13.961939, y: 10.504768}
+        - {x: -16.961939, y: 4.5047684}
+        - {x: -16.961939, y: -4.4952316}
+        - {x: -8.961939, y: -10.495232}
+        - {x: 13.038061, y: -10.495232}
+        - {x: 17.038061, y: -3.4952316}
+        - {x: 17.038061, y: 7.5047684}
+        - {x: 10.038061, y: 10.504768}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70c4d0d72944256855470bab9fa05a3
+      internalID: 21300006
+      vertices:
+      - {x: 32.961937, y: 14.468482}
+      - {x: 28.961939, y: -3.531518}
+      - {x: 32.961937, y: 3.468482}
+      - {x: 25.961939, y: 17.468483}
+      - {x: 6.961939, y: -3.531518}
+      - {x: 1.9619389, y: 17.468483}
+      - {x: -1.0380611, y: 11.468482}
+      - {x: -1.0380611, y: 2.468482}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySkunk36x32_Idle2
+      rect:
+        serializedVersion: 2
+        x: 73.07612
+        y: 2.0761204
+        width: 32.847755
+        height: 20.889027
+      alignment: 9
+      pivot: {x: 0.51522183, y: 0.6665643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.499996, y: -9.520635}
+        - {x: -16.499996, y: -5.5206347}
+        - {x: -16.499996, y: 6.4793653}
+        - {x: -13.499996, y: 10.479365}
+        - {x: 13.500004, y: 10.479365}
+        - {x: 16.500004, y: 9.479365}
+        - {x: 16.500004, y: -4.5206347}
+        - {x: 12.500004, y: -10.520635}
+        - {x: -3.4999962, y: -10.520635}
+      physicsShape:
+      - - {x: -13.499996, y: 10.479365}
+        - {x: -16.499996, y: 6.4793653}
+        - {x: -16.499996, y: -5.5206347}
+        - {x: -10.499996, y: -9.520635}
+        - {x: -3.4999962, y: -10.520635}
+        - {x: 12.500004, y: -10.520635}
+        - {x: 16.500004, y: -4.5206347}
+        - {x: 16.500004, y: 9.479365}
+        - {x: 13.500004, y: 10.479365}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b26995f6ab41518cbc99699e232473
+      internalID: 21300008
+      vertices:
+      - {x: 29.423878, y: 17.444513}
+      - {x: 32.423878, y: 2.4445133}
+      - {x: 32.423878, y: 16.444513}
+      - {x: 28.423878, y: -3.5554867}
+      - {x: 12.423878, y: -3.5554867}
+      - {x: 5.4238777, y: -2.5554867}
+      - {x: 2.4238777, y: 17.444513}
+      - {x: -0.5761223, y: 13.444513}
+      - {x: -0.5761223, y: 1.4445133}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 0
+      - 5
+      - 6
+      - 4
+      - 5
+      - 0
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySkunk36x32_Walk1
+      rect:
+        serializedVersion: 2
+        x: 217.04291
+        y: 2.0761204
+        width: 32.88097
+        height: 21.887594
+      alignment: 9
+      pivot: {x: 0.5157114, y: 0.63615394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.483393, y: -11.0199175}
+        - {x: -16.483393, y: -8.0199175}
+        - {x: -16.483393, y: 3.9800825}
+        - {x: -15.483393, y: 6.9800825}
+        - {x: -4.4833927, y: 10.9800825}
+        - {x: 11.516607, y: 10.9800825}
+        - {x: 16.516607, y: 6.9800825}
+        - {x: 16.516607, y: -6.0199175}
+        - {x: 12.516607, y: -11.0199175}
+      physicsShape:
+      - - {x: -4.4833927, y: 10.9800825}
+        - {x: -15.483393, y: 6.9800825}
+        - {x: -16.483393, y: 3.9800825}
+        - {x: -16.483393, y: -8.0199175}
+        - {x: -11.483393, y: -11.0199175}
+        - {x: 12.516607, y: -11.0199175}
+        - {x: 16.516607, y: -6.0199175}
+        - {x: 16.516607, y: 6.9800825}
+        - {x: 11.516607, y: 10.9800825}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5624410ec1477b9f8bed6697db1808
+      internalID: 21300010
+      vertices:
+      - {x: 32.440483, y: 14.943797}
+      - {x: 28.440485, y: -3.056203}
+      - {x: 32.440483, y: 1.9437971}
+      - {x: 27.440485, y: 18.943798}
+      - {x: 11.440485, y: 18.943798}
+      - {x: 4.440485, y: -3.056203}
+      - {x: 0.440485, y: 14.943797}
+      - {x: -0.559515, y: 11.943797}
+      - {x: -0.559515, y: -0.05620289}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySkunk36x32_Idle1
+      rect:
+        serializedVersion: 2
+        x: 38.07612
+        y: 2.0761204
+        width: 31.847757
+        height: 21.84776
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.63731384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.999996, y: -11}
+        - {x: -15.999996, y: -7}
+        - {x: -15.999996, y: 7}
+        - {x: -9.999996, y: 11}
+        - {x: 13.000004, y: 11}
+        - {x: 16.000004, y: 4}
+        - {x: 16.000004, y: -7}
+        - {x: 11.000004, y: -11}
+      physicsShape:
+      - - {x: -9.999996, y: 11}
+        - {x: -15.999996, y: 7}
+        - {x: -15.999996, y: -7}
+        - {x: -8.999996, y: -11}
+        - {x: 11.000004, y: -11}
+        - {x: 16.000004, y: -7}
+        - {x: 16.000004, y: 4}
+        - {x: 13.000004, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0841b341776b4b2ab7e667dac8252437
+      internalID: 21300012
+      vertices:
+      - {x: 28.923878, y: 18.92388}
+      - {x: 31.923878, y: 0.9238796}
+      - {x: 31.923878, y: 11.92388}
+      - {x: 26.923878, y: -3.0761204}
+      - {x: 6.9238787, y: -3.0761204}
+      - {x: 5.9238787, y: 18.92388}
+      - {x: -0.07612133, y: 14.92388}
+      - {x: -0.07612133, y: 0.9238796}
+      indices:
+      - 7
+      - 6
+      - 4
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySkunk36x32_Dead
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 34.957092
+        height: 14.92388
+      alignment: 9
+      pivot: {x: 0.51491696, y: 1.0721073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.478546, y: -7.46194}
+        - {x: -17.478546, y: -6.46194}
+        - {x: -17.478546, y: 7.53806}
+        - {x: 17.521454, y: 7.53806}
+        - {x: 17.521454, y: -2.4619398}
+        - {x: 15.521454, y: -6.46194}
+        - {x: 10.521454, y: -7.46194}
+      physicsShape:
+      - - {x: -17.478546, y: 7.53806}
+        - {x: -17.478546, y: -6.46194}
+        - {x: -16.478546, y: -7.46194}
+        - {x: 10.521454, y: -7.46194}
+        - {x: 15.521454, y: -6.46194}
+        - {x: 17.521454, y: -2.4619398}
+        - {x: 17.521454, y: 7.53806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bb0f1013ca4a57ae57bc243e34d162
+      internalID: 21300014
+      vertices:
+      - {x: 34.478546, y: 6.46194}
+      - {x: 32.478546, y: -7.53806}
+      - {x: 34.478546, y: -3.5380602}
+      - {x: 27.478546, y: -8.53806}
+      - {x: 0.47854614, y: -8.53806}
+      - {x: -0.52145386, y: 6.46194}
+      - {x: -0.52145386, y: -7.53806}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySkunk36x32_Idle4
+      rect:
+        serializedVersion: 2
+        x: 147.07613
+        y: 2.0761204
+        width: 30.847757
+        height: 22.880972
+      alignment: 9
+      pivot: {x: 0.4837912, y: 0.60853535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.500005, y: -11.516605}
+        - {x: -15.500005, y: -5.5166054}
+        - {x: -15.500005, y: 9.483395}
+        - {x: -13.500005, y: 11.483395}
+        - {x: 15.499995, y: 11.483395}
+        - {x: 15.499995, y: -7.5166054}
+        - {x: 9.499995, y: -11.516605}
+      physicsShape:
+      - - {x: -13.500005, y: 11.483395}
+        - {x: -15.500005, y: 9.483395}
+        - {x: -15.500005, y: -5.5166054}
+        - {x: -14.500005, y: -11.516605}
+        - {x: 9.499995, y: -11.516605}
+        - {x: 15.499995, y: -7.5166054}
+        - {x: 15.499995, y: 11.483395}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d0eea277f142c4b38501f922a95fa6
+      internalID: 21300016
+      vertices:
+      - {x: 31.423878, y: 20.440487}
+      - {x: 25.423878, y: -2.559514}
+      - {x: 31.423878, y: 1.440486}
+      - {x: 2.4238787, y: 20.440487}
+      - {x: 1.4238787, y: -2.559514}
+      - {x: 0.42387867, y: 18.440487}
+      - {x: 0.42387867, y: 3.440486}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySkunk36x32_Walk2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2.0761204
+        width: 33.923878
+        height: 21.887594
+      alignment: 9
+      pivot: {x: 0.5305997, y: 0.63615394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.038061, y: -11.0199175}
+        - {x: -16.961939, y: -11.0199175}
+        - {x: -16.961939, y: 2.9800825}
+        - {x: -12.961939, y: 8.9800825}
+        - {x: -2.9619389, y: 10.9800825}
+        - {x: 10.038061, y: 10.9800825}
+        - {x: 17.038061, y: 6.9800825}
+        - {x: 17.038061, y: -6.0199175}
+      physicsShape:
+      - - {x: -2.9619389, y: 10.9800825}
+        - {x: -12.961939, y: 8.9800825}
+        - {x: -16.961939, y: 2.9800825}
+        - {x: -16.961939, y: -11.0199175}
+        - {x: 15.038061, y: -11.0199175}
+        - {x: 17.038061, y: -6.0199175}
+        - {x: 17.038061, y: 6.9800825}
+        - {x: 10.038061, y: 10.9800825}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc8a760d22141aeb4ab877f4669f2dc
+      internalID: 21300018
+      vertices:
+      - {x: 32.961937, y: 14.943797}
+      - {x: 30.961939, y: -3.056203}
+      - {x: 32.961937, y: 1.9437971}
+      - {x: 25.961939, y: 18.943798}
+      - {x: 12.961939, y: 18.943798}
+      - {x: 2.9619389, y: 16.943798}
+      - {x: -1.0380611, y: 10.943797}
+      - {x: -1.0380611, y: -3.056203}
+      indices:
+      - 7
+      - 6
+      - 1
+      - 5
+      - 1
+      - 6
+      - 4
+      - 1
+      - 5
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySkunk36x32_Walk4
+      rect:
+        serializedVersion: 2
+        x: 324.0363
+        y: 2.0761204
+        width: 33.887592
+        height: 21.84776
+      alignment: 9
+      pivot: {x: 0.5300971, y: 0.63731384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.980082, y: -9}
+        - {x: -16.980082, y: -8}
+        - {x: -16.980082, y: 8}
+        - {x: -10.980082, y: 11}
+        - {x: 15.019918, y: 11}
+        - {x: 17.019918, y: 6}
+        - {x: 17.019918, y: -7}
+        - {x: 10.019918, y: -11}
+        - {x: -9.980082, y: -11}
+      physicsShape:
+      - - {x: -10.980082, y: 11}
+        - {x: -16.980082, y: 8}
+        - {x: -16.980082, y: -8}
+        - {x: -15.980082, y: -9}
+        - {x: -9.980082, y: -11}
+        - {x: 10.019918, y: -11}
+        - {x: 17.019918, y: -7}
+        - {x: 17.019918, y: 6}
+        - {x: 15.019918, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc757cb956ff45d2847aa214e893d94b
+      internalID: 21300020
+      vertices:
+      - {x: 30.943796, y: 18.92388}
+      - {x: 32.943794, y: 0.9238796}
+      - {x: 32.943794, y: 13.92388}
+      - {x: 25.943796, y: -3.0761204}
+      - {x: 5.943796, y: -3.0761204}
+      - {x: 4.943796, y: 18.92388}
+      - {x: -0.056203842, y: -1.0761204}
+      - {x: -1.0562038, y: 15.92388}
+      - {x: -1.0562038, y: -0.07612038}
+      indices:
+      - 8
+      - 7
+      - 6
+      - 5
+      - 6
+      - 7
+      - 4
+      - 6
+      - 5
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySkunk36x32_Damage1
+      rect:
+        serializedVersion: 2
+        x: 396.02676
+        y: 2.0761204
+        width: 32.91352
+        height: 22.84776
+      alignment: 9
+      pivot: {x: 0.54607457, y: 0.60941994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.4835243, y: -11.499999}
+        - {x: -16.483524, y: -9.499999}
+        - {x: -16.483524, y: 3.500001}
+        - {x: -8.483524, y: 11.500001}
+        - {x: 13.516476, y: 11.500001}
+        - {x: 16.516476, y: 3.500001}
+        - {x: 16.516476, y: -11.499999}
+      physicsShape:
+      - - {x: -8.483524, y: 11.500001}
+        - {x: -16.483524, y: 3.500001}
+        - {x: -16.483524, y: -9.499999}
+        - {x: -4.4835243, y: -11.499999}
+        - {x: 16.516476, y: -11.499999}
+        - {x: 16.516476, y: 3.500001}
+        - {x: 13.516476, y: 11.500001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b59576dca874000a490b247add2be2a
+      internalID: 21300022
+      vertices:
+      - {x: 28.45676, y: 20.42388}
+      - {x: 31.45676, y: -2.5761204}
+      - {x: 31.45676, y: 12.42388}
+      - {x: 10.45676, y: -2.5761204}
+      - {x: 6.4567604, y: 20.42388}
+      - {x: -1.5432396, y: 12.42388}
+      - {x: -1.5432396, y: -0.5761204}
+      indices:
+      - 6
+      - 5
+      - 3
+      - 4
+      - 3
+      - 5
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySkunk36x32_Idle3
+      rect:
+        serializedVersion: 2
+        x: 110.02675
+        y: 2.0761204
+        width: 31.897127
+        height: 21.872562
+      alignment: 9
+      pivot: {x: 0.50077397, y: 0.63659114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.975312, y: -11.012402}
+        - {x: -15.975312, y: -5.0124016}
+        - {x: -15.975312, y: 8.987598}
+        - {x: -13.975312, y: 10.987598}
+        - {x: 14.024688, y: 10.987598}
+        - {x: 16.024689, y: 9.987598}
+        - {x: 16.024689, y: -6.0124016}
+        - {x: 12.024688, y: -11.012402}
+      physicsShape:
+      - - {x: -13.975312, y: 10.987598}
+        - {x: -15.975312, y: 8.987598}
+        - {x: -15.975312, y: -5.0124016}
+        - {x: -13.975312, y: -11.012402}
+        - {x: 11.024688, y: -11.012402}
+        - {x: 16.024689, y: -6.0124016}
+        - {x: 16.024689, y: 8.987598}
+        - {x: 12.024688, y: 10.987598}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1ec03212484870a02a011f76ad629d
+      internalID: 21300024
+      vertices:
+      - {x: 29.948563, y: 18.936281}
+      - {x: 31.948563, y: 1.9362812}
+      - {x: 31.948563, y: 17.936281}
+      - {x: 27.948563, y: -3.0637188}
+      - {x: 1.9485636, y: 18.936281}
+      - {x: 1.9485636, y: -3.0637188}
+      - {x: -0.051436424, y: 16.936281}
+      - {x: -0.051436424, y: 2.9362812}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

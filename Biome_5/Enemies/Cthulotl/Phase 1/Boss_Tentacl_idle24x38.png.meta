@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: ab7a3342dfc4ae94f9da8062a971c389
+timeCreated: 1706119827
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Boss_Tentacl_idle24x38_7
+  - first:
+      213: 21300002
+    second: Boss_Tentacl_idle24x38_5
+  - first:
+      213: 21300004
+    second: Boss_Tentacl_idle24x38_2
+  - first:
+      213: 21300006
+    second: Boss_Tentacl_idle24x38_6
+  - first:
+      213: 21300008
+    second: Boss_Tentacl_idle24x38_4
+  - first:
+      213: 21300010
+    second: Boss_Tentacl_idle24x38_1
+  - first:
+      213: 21300012
+    second: Boss_Tentacl_idle24x38_0
+  - first:
+      213: 21300014
+    second: Boss_Tentacl_idle24x38_3
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Tentacl_idle24x38_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -19}
+        - {x: -12, y: 19}
+        - {x: 12, y: 19}
+        - {x: 12, y: -19}
+      physicsShape:
+      - - {x: -7, y: 19}
+        - {x: -12, y: 0}
+        - {x: -12, y: -19}
+        - {x: 12, y: -19}
+        - {x: 12, y: 17}
+        - {x: 10, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3379d1d136cd4103b6184bd8b54104b7
+      internalID: 21300000
+      vertices:
+      - {x: -2, y: 57}
+      - {x: 22, y: 57}
+      - {x: -2, y: 19}
+      - {x: 22, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Tentacl_idle24x38_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -19}
+        - {x: -12, y: 19}
+        - {x: 12, y: 19}
+        - {x: 12, y: -19}
+      physicsShape:
+      - - {x: -5, y: 19}
+        - {x: -12, y: -3}
+        - {x: -12, y: -18}
+        - {x: -11, y: -19}
+        - {x: 12, y: -19}
+        - {x: 12, y: 18}
+        - {x: 11, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc2eb32b26e4c4680587a2401da8e08
+      internalID: 21300002
+      vertices:
+      - {x: -2, y: 57}
+      - {x: 22, y: 57}
+      - {x: -2, y: 19}
+      - {x: 22, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Tentacl_idle24x38_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 38
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -19}
+        - {x: -12, y: 19}
+        - {x: 12, y: 19}
+        - {x: 12, y: -19}
+      physicsShape:
+      - - {x: 8, y: 19}
+        - {x: -7, y: 19}
+        - {x: -12, y: 10}
+        - {x: -12, y: -18}
+        - {x: -11, y: -19}
+        - {x: 11, y: -19}
+        - {x: 12, y: -18}
+        - {x: 12, y: 3}
+        - {x: 9, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce82bd7905084b80b824587784326281
+      internalID: 21300004
+      vertices:
+      - {x: -2, y: 57}
+      - {x: 22, y: 57}
+      - {x: -2, y: 19}
+      - {x: 22, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Tentacl_idle24x38_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -19}
+        - {x: -12, y: 19}
+        - {x: 12, y: 19}
+        - {x: 12, y: -19}
+      physicsShape:
+      - - {x: -2, y: 19}
+        - {x: -12, y: 11}
+        - {x: -12, y: -19}
+        - {x: 12, y: -19}
+        - {x: 12, y: 16}
+        - {x: 9, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25857a5074fb44d69f9adab9df7e2888
+      internalID: 21300006
+      vertices:
+      - {x: -2, y: 57}
+      - {x: 22, y: 57}
+      - {x: -2, y: 19}
+      - {x: 22, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Tentacl_idle24x38_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -19}
+        - {x: -12, y: 19}
+        - {x: 12, y: 19}
+        - {x: 12, y: -19}
+      physicsShape:
+      - - {x: 7, y: 19}
+        - {x: -4, y: 19}
+        - {x: -9, y: 11}
+        - {x: -12, y: 4}
+        - {x: -12, y: -19}
+        - {x: 12, y: -19}
+        - {x: 12, y: 1}
+        - {x: 10, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa4bb71a3014ce789eaeef266b1195c
+      internalID: 21300008
+      vertices:
+      - {x: -2, y: 57}
+      - {x: 22, y: 57}
+      - {x: -2, y: 19}
+      - {x: 22, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Tentacl_idle24x38_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 38
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -19}
+        - {x: -12, y: 19}
+        - {x: 12, y: 19}
+        - {x: 12, y: -19}
+      physicsShape:
+      - - {x: 8, y: 19}
+        - {x: -9, y: 19}
+        - {x: -12, y: 7}
+        - {x: -12, y: -19}
+        - {x: 12, y: -19}
+        - {x: 12, y: 13}
+        - {x: 11, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6091f4f9ccf4b6db425825fe762de44
+      internalID: 21300010
+      vertices:
+      - {x: -2, y: 57}
+      - {x: 22, y: 57}
+      - {x: -2, y: 19}
+      - {x: 22, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Tentacl_idle24x38_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -19}
+        - {x: -12, y: 19}
+        - {x: 12, y: 19}
+        - {x: 12, y: -19}
+      physicsShape:
+      - - {x: -5, y: 19}
+        - {x: -12, y: 2}
+        - {x: -12, y: -17}
+        - {x: -11, y: -19}
+        - {x: 12, y: -19}
+        - {x: 12, y: 18}
+        - {x: 11, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e819f72790402b8ea00013f4fe9bcf
+      internalID: 21300012
+      vertices:
+      - {x: -2, y: 57}
+      - {x: 22, y: 57}
+      - {x: -2, y: 19}
+      - {x: 22, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Tentacl_idle24x38_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 38
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -19}
+        - {x: -12, y: 19}
+        - {x: 12, y: 19}
+        - {x: 12, y: -19}
+      physicsShape:
+      - - {x: -12, y: -17}
+        - {x: -11, y: -19}
+        - {x: 12, y: -19}
+        - {x: 12, y: -2}
+        - {x: 6, y: 19}
+        - {x: -8, y: 19}
+        - {x: -12, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f7ab78168543cd9025f439f7746593
+      internalID: 21300014
+      vertices:
+      - {x: -2, y: 57}
+      - {x: 22, y: 57}
+      - {x: -2, y: 19}
+      - {x: 22, y: 19}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: c4f650f4ed98a9638c074ba6f62ae978.bundle
+  assetBundleVariant:

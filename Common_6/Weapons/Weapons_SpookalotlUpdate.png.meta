@@ -1,0 +1,4338 @@
+fileFormatVersion: 2
+guid: 9d94c811f91a92249b042ab960463192
+timeCreated: 1706119811
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Weapons_SpookalotlUpdate_Annhilator
+  - first:
+      213: 21300002
+    second: Weapons_SpookalotlUpdate_CarnageGear_Drop
+  - first:
+      213: 21300004
+    second: Weapons_SpookalotlUpdate_Cleavage
+  - first:
+      213: 21300006
+    second: Weapons_SpookalotlUpdate_Quackser
+  - first:
+      213: 21300008
+    second: Weapons_SpookalotlUpdate_Avelyn_HUD
+  - first:
+      213: 21300010
+    second: Weapons_SpookalotlUpdate_FishingRod_HUD
+  - first:
+      213: 21300012
+    second: Weapons_SpookalotlUpdate_SlugShotgun_HUD
+  - first:
+      213: 21300014
+    second: Weapons_SpookalotlUpdate_Lute_Drop
+  - first:
+      213: 21300016
+    second: Weapons_SpookalotlUpdate_Equalizer
+  - first:
+      213: 21300018
+    second: Weapons_SpookalotlUpdate_Swoosher
+  - first:
+      213: 21300020
+    second: Weapons_SpookalotlUpdate_RPK410_Drop
+  - first:
+      213: 21300022
+    second: Weapons_SpookalotlUpdate_NailGun_HUD
+  - first:
+      213: 21300024
+    second: Weapons_SpookalotlUpdate_RPK410
+  - first:
+      213: 21300026
+    second: Weapons_SpookalotlUpdate_FingerPistol
+  - first:
+      213: 21300028
+    second: Weapons_SpookalotlUpdate_Annhilator_HUD
+  - first:
+      213: 21300030
+    second: Weapons_SpookalotlUpdate_ElephantGun_Drop
+  - first:
+      213: 21300032
+    second: Weapons_SpookalotlUpdate_FingerPistol_HUD
+  - first:
+      213: 21300034
+    second: Weapons_SpookalotlUpdate_MechaPaw_Drop
+  - first:
+      213: 21300036
+    second: Weapons_SpookalotlUpdate_Swoosher_Drop
+  - first:
+      213: 21300038
+    second: Weapons_SpookalotlUpdate_RPK410_HUD
+  - first:
+      213: 21300040
+    second: Weapons_SpookalotlUpdate_Retrovolver_HUD
+  - first:
+      213: 21300042
+    second: Weapons_SpookalotlUpdate_HellQueen
+  - first:
+      213: 21300044
+    second: Weapons_SpookalotlUpdate_Raptor_HUD
+  - first:
+      213: 21300046
+    second: Weapons_SpookalotlUpdate_ToadallyTosser_HUD
+  - first:
+      213: 21300048
+    second: Weapons_SpookalotlUpdate_Retrovolver
+  - first:
+      213: 21300050
+    second: Weapons_SpookalotlUpdate_SlugShotgun
+  - first:
+      213: 21300052
+    second: Weapons_SpookalotlUpdate_TwinkleStar_HUD
+  - first:
+      213: 21300054
+    second: Weapons_SpookalotlUpdate_Tentacle_HUD
+  - first:
+      213: 21300056
+    second: Weapons_SpookalotlUpdate_ToadallyTosser
+  - first:
+      213: 21300058
+    second: Weapons_SpookalotlUpdate_Blowgun_HUD
+  - first:
+      213: 21300060
+    second: Weapons_SpookalotlUpdate_HellQueen_HUD
+  - first:
+      213: 21300062
+    second: Weapons_SpookalotlUpdate_Xbow_HUD
+  - first:
+      213: 21300064
+    second: Weapons_SpookalotlUpdate_Knuckles_Drop
+  - first:
+      213: 21300066
+    second: Weapons_SpookalotlUpdate_Boomerang_HUD
+  - first:
+      213: 21300068
+    second: Weapons_SpookalotlUpdate_Avelyn
+  - first:
+      213: 21300070
+    second: Weapons_SpookalotlUpdate_Equalizer_Drop
+  - first:
+      213: 21300072
+    second: Weapons_SpookalotlUpdate_Peacekeeper
+  - first:
+      213: 21300074
+    second: Weapons_SpookalotlUpdate_Peacekeeper_HUD
+  - first:
+      213: 21300076
+    second: Weapons_SpookalotlUpdate_Tentacle
+  - first:
+      213: 21300078
+    second: Weapons_SpookalotlUpdate_Blowgun_Drop
+  - first:
+      213: 21300080
+    second: Weapons_SpookalotlUpdate_TwinkleStar
+  - first:
+      213: 21300082
+    second: Weapons_SpookalotlUpdate_FingerPistol_Drop
+  - first:
+      213: 21300084
+    second: Weapons_SpookalotlUpdate_Blowgun
+  - first:
+      213: 21300086
+    second: Weapons_SpookalotlUpdate_FlareGun_HUD
+  - first:
+      213: 21300088
+    second: Weapons_SpookalotlUpdate_Peacekeeper_Drop
+  - first:
+      213: 21300090
+    second: Weapons_SpookalotlUpdate_SnakeEyes
+  - first:
+      213: 21300092
+    second: Weapons_SpookalotlUpdate_CarnageGear_HUD
+  - first:
+      213: 21300094
+    second: Weapons_SpookalotlUpdate_Annhilator_Drop
+  - first:
+      213: 21300096
+    second: Weapons_SpookalotlUpdate_Bolt_Drop
+  - first:
+      213: 21300098
+    second: Weapons_SpookalotlUpdate_SnakeEyes_Drop
+  - first:
+      213: 21300100
+    second: Weapons_SpookalotlUpdate_Knuckles_HUD
+  - first:
+      213: 21300102
+    second: Weapons_SpookalotlUpdate_TwinkleStar_Drop
+  - first:
+      213: 21300104
+    second: Weapons_SpookalotlUpdate_Cleavage_HUD
+  - first:
+      213: 21300106
+    second: Weapons_SpookalotlUpdate_Lute
+  - first:
+      213: 21300108
+    second: Weapons_SpookalotlUpdate_FlamingBalls_Drop
+  - first:
+      213: 21300110
+    second: Weapons_SpookalotlUpdate_ElephantGun_HUD
+  - first:
+      213: 21300112
+    second: Weapons_SpookalotlUpdate_Equalizer_HUD
+  - first:
+      213: 21300114
+    second: Weapons_SpookalotlUpdate_ToyRifle_HUD
+  - first:
+      213: 21300116
+    second: Weapons_SpookalotlUpdate_ToyRifle_Drop
+  - first:
+      213: 21300118
+    second: Weapons_SpookalotlUpdate_Lute_HUD
+  - first:
+      213: 21300120
+    second: Weapons_SpookalotlUpdate_Xbow_Drop
+  - first:
+      213: 21300122
+    second: Weapons_SpookalotlUpdate_FlareGun_Drop
+  - first:
+      213: 21300124
+    second: Weapons_SpookalotlUpdate_ToyRifle
+  - first:
+      213: 21300126
+    second: Weapons_SpookalotlUpdate_CarnageGear
+  - first:
+      213: 21300128
+    second: Weapons_SpookalotlUpdate_FlareGun
+  - first:
+      213: 21300130
+    second: Weapons_SpookalotlUpdate_Xbow
+  - first:
+      213: 21300132
+    second: Weapons_SpookalotlUpdate_Raptor
+  - first:
+      213: 21300134
+    second: Weapons_SpookalotlUpdate_FlamingBalls_HUD
+  - first:
+      213: 21300136
+    second: Weapons_SpookalotlUpdate_FlamingBalls
+  - first:
+      213: 21300138
+    second: Weapons_SpookalotlUpdate_Retrovolver_Drop
+  - first:
+      213: 21300140
+    second: Weapons_SpookalotlUpdate_MechaPaw
+  - first:
+      213: 21300142
+    second: Weapons_SpookalotlUpdate_Bolt
+  - first:
+      213: 21300144
+    second: Weapons_SpookalotlUpdate_MechaPaw_HUD
+  - first:
+      213: 21300146
+    second: Weapons_SpookalotlUpdate_SlugShotgun_Drop
+  - first:
+      213: 21300148
+    second: Weapons_SpookalotlUpdate_Quackser_Drop
+  - first:
+      213: 21300150
+    second: Weapons_SpookalotlUpdate_Swoosher_HUD
+  - first:
+      213: 21300152
+    second: Weapons_SpookalotlUpdate_Knuckles
+  - first:
+      213: 21300154
+    second: Weapons_SpookalotlUpdate_ElephantGun
+  - first:
+      213: 21300156
+    second: Weapons_SpookalotlUpdate_Tentacle_Drop
+  - first:
+      213: 21300158
+    second: Weapons_SpookalotlUpdate_ToadallyTosser_Drop
+  - first:
+      213: 21300160
+    second: Weapons_SpookalotlUpdate_HellQueen_Drop
+  - first:
+      213: 21300162
+    second: Weapons_SpookalotlUpdate_Bolt_HUD
+  - first:
+      213: 21300164
+    second: Weapons_SpookalotlUpdate_SnakeEyes_HUD
+  - first:
+      213: 21300166
+    second: Weapons_SpookalotlUpdate_Magnegun_Drop
+  - first:
+      213: 21300168
+    second: Weapons_SpookalotlUpdate_Boomerang_Drop
+  - first:
+      213: 21300170
+    second: Weapons_SpookalotlUpdate_NailGun
+  - first:
+      213: 21300172
+    second: Weapons_SpookalotlUpdate_Magnegun
+  - first:
+      213: 21300174
+    second: Weapons_SpookalotlUpdate_Boomerang
+  - first:
+      213: 21300176
+    second: Weapons_SpookalotlUpdate_Avelyn_Drop
+  - first:
+      213: 21300178
+    second: Weapons_SpookalotlUpdate_Magnegun_HUD
+  - first:
+      213: 21300180
+    second: Weapons_SpookalotlUpdate_NailGun_Drop
+  - first:
+      213: 21300182
+    second: Weapons_SpookalotlUpdate_Raptor_Drop
+  - first:
+      213: 21300184
+    second: Weapons_SpookalotlUpdate_Quackser_HUD
+  - first:
+      213: 21300186
+    second: Weapons_SpookalotlUpdate_Cleavage_Drop
+  - first:
+      213: 21300188
+    second: Weapons_SpookalotlUpdate_FishingRod
+  - first:
+      213: 21300190
+    second: Weapons_SpookalotlUpdate_FishingRod_Drop
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Annhilator
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 217
+        width: 30
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -7}
+        - {x: -15, y: 7}
+        - {x: 15, y: 7}
+        - {x: 15, y: -7}
+      physicsShape:
+      - - {x: -15, y: 7}
+        - {x: -15, y: -7}
+        - {x: 8, y: -7}
+        - {x: 15, y: -3}
+        - {x: 15, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3fb68c2cc7439abdc227222d50c41b
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 30, y: 14}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_CarnageGear_Drop
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 185
+        width: 34
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -7}
+        - {x: -17, y: 7}
+        - {x: 17, y: 7}
+        - {x: 17, y: -7}
+      physicsShape:
+      - - {x: -17, y: 7}
+        - {x: -17, y: -7}
+        - {x: 17, y: -7}
+        - {x: 17, y: 5}
+        - {x: 12, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9314e15af5ed478ca8cab4a7e8c7cb24
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 34, y: 21}
+      - {x: 0, y: 7}
+      - {x: 34, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Cleavage
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 217
+        width: 31
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -5}
+        - {x: -15.5, y: 5}
+        - {x: 15.5, y: 5}
+        - {x: 15.5, y: -5}
+      physicsShape:
+      - - {x: -15.5, y: 5}
+        - {x: -15.5, y: -3}
+        - {x: -9.5, y: -5}
+        - {x: 15.5, y: -5}
+        - {x: 15.5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee0ebc2ce7d46e8846ddb8a6ea57bb8
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 10}
+      - {x: 31, y: 10}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Quackser
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 121
+        width: 22
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -7.5}
+        - {x: -11, y: 7.5}
+        - {x: 11, y: 7.5}
+        - {x: 11, y: -7.5}
+      physicsShape:
+      - - {x: -9, y: 7.5}
+        - {x: -11, y: 6.5}
+        - {x: -11, y: -7.5}
+        - {x: 3, y: -7.5}
+        - {x: 11, y: -0.5}
+        - {x: 11, y: 5.5}
+        - {x: 10, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd97407a2fd4b14bbe25f11170d2079
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 15}
+      - {x: 22, y: 15}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Avelyn_HUD
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 58
+        width: 28
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -8}
+        - {x: -14, y: 8}
+        - {x: 14, y: 8}
+        - {x: 14, y: -8}
+      physicsShape:
+      - - {x: -14, y: 8}
+        - {x: -14, y: -8}
+        - {x: 12, y: -8}
+        - {x: 14, y: -7}
+        - {x: 14, y: 7}
+        - {x: 13, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad2e7940c654d36bdb06993f77584de
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 28, y: 16}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_FishingRod_HUD
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 58
+        width: 22
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -10.5}
+        - {x: -11, y: 10.5}
+        - {x: 11, y: 10.5}
+        - {x: 11, y: -10.5}
+      physicsShape:
+      - - {x: -3, y: 10.5}
+        - {x: -11, y: 5.5}
+        - {x: -11, y: -10.5}
+        - {x: 3, y: -10.5}
+        - {x: 8, y: -9.5}
+        - {x: 11, y: 1.5}
+        - {x: 11, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e11fdf80c454d0bb90b7babd71252ac
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 22, y: 21}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_SlugShotgun_HUD
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 249
+        width: 32
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -6.5}
+        - {x: -16, y: 6.5}
+        - {x: 16, y: 6.5}
+        - {x: 16, y: -6.5}
+      physicsShape:
+      - - {x: -13, y: 6.5}
+        - {x: -16, y: 5.5}
+        - {x: -16, y: -6.5}
+        - {x: 14, y: -6.5}
+        - {x: 16, y: -3.5}
+        - {x: 16, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4f6965ea594883a2b67442fac5f14d
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 13}
+      - {x: 32, y: 13}
+      - {x: 0, y: 0}
+      - {x: 32, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Lute_Drop
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 89
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -7.5}
+        - {x: -15.5, y: 7.5}
+        - {x: 15.5, y: 7.5}
+        - {x: 15.5, y: -7.5}
+      physicsShape:
+      - - {x: 9.5, y: 7.5}
+        - {x: -15.5, y: 7.5}
+        - {x: -15.5, y: -7.5}
+        - {x: 15.5, y: -7.5}
+        - {x: 15.5, y: 4.5}
+        - {x: 12.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b0eb551acb4419bf98321684e19c19
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 22.5}
+      - {x: 31, y: 22.5}
+      - {x: 0, y: 7.5}
+      - {x: 31, y: 7.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Equalizer
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 313
+        width: 27
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -6.5}
+        - {x: -13.5, y: 6.5}
+        - {x: 13.5, y: 6.5}
+        - {x: 13.5, y: -6.5}
+      physicsShape:
+      - - {x: -13.5, y: 6.5}
+        - {x: -13.5, y: -6.5}
+        - {x: -0.5, y: -6.5}
+        - {x: 13.5, y: -1.5}
+        - {x: 13.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16a93ea32c74fcfb7f477e2fd122919
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 13}
+      - {x: 27, y: 13}
+      - {x: 0, y: 0}
+      - {x: 27, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Swoosher
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 217
+        width: 38
+        height: 9
+      alignment: 9
+      pivot: {x: 0.23684211, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -4.5}
+        - {x: -19, y: 4.5}
+        - {x: 19, y: 4.5}
+        - {x: 19, y: -4.5}
+      physicsShape:
+      - - {x: -18, y: -4.5}
+        - {x: 9, y: -4.5}
+        - {x: 17, y: -2.5}
+        - {x: 17, y: 4.5}
+        - {x: -19, y: 4.5}
+        - {x: -19, y: -3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d91eb9a939490591de73eff36c843e
+      internalID: 21300018
+      vertices:
+      - {x: 10, y: 8.5}
+      - {x: 48, y: 8.5}
+      - {x: 10, y: -0.5}
+      - {x: 48, y: -0.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_RPK410_Drop
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 281
+        width: 42
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -8}
+        - {x: -21, y: 8}
+        - {x: 21, y: 8}
+        - {x: 21, y: -8}
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -21, y: 6}
+        - {x: -21, y: -8}
+        - {x: 21, y: -8}
+        - {x: 21, y: 5}
+        - {x: 20, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d419e4a6a294de59aee752b6e5a3d9d
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 42, y: 24}
+      - {x: 0, y: 8}
+      - {x: 42, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_NailGun_HUD
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 250
+        width: 18
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -8}
+        - {x: -9, y: 8}
+        - {x: 9, y: 8}
+        - {x: 9, y: -8}
+      physicsShape:
+      - - {x: -9, y: 8}
+        - {x: -9, y: -6}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 9, y: -5}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15043976865497aade58ce688ac7527
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 18, y: 16}
+      - {x: 0, y: 0}
+      - {x: 18, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_RPK410
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 313
+        width: 41
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -8}
+        - {x: -20.5, y: 8}
+        - {x: 20.5, y: 8}
+        - {x: 20.5, y: -8}
+      physicsShape:
+      - - {x: 20.5, y: 8}
+        - {x: -15.5, y: 8}
+        - {x: -20.5, y: 7}
+        - {x: -20.5, y: -8}
+        - {x: 10.5, y: -8}
+        - {x: 19.5, y: -3}
+        - {x: 20.5, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cf52c27fe84fbaba80205f02a3fc8f
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 41, y: 16}
+      - {x: 0, y: 0}
+      - {x: 41, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_FingerPistol
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 313
+        width: 9
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -4}
+        - {x: -4.5, y: 4}
+        - {x: 4.5, y: 4}
+        - {x: 4.5, y: -4}
+      physicsShape:
+      - - {x: -4.5, y: 4}
+        - {x: -4.5, y: -4}
+        - {x: 2.5, y: -4}
+        - {x: 4.5, y: -2}
+        - {x: 4.5, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41eb563c7a448aca5bcbc23ac390c73
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 9, y: 8}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Annhilator_HUD
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 154
+        width: 30
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -7}
+        - {x: -15, y: 7}
+        - {x: 15, y: 7}
+        - {x: 15, y: -7}
+      physicsShape:
+      - - {x: -15, y: 7}
+        - {x: -15, y: -7}
+        - {x: 15, y: -7}
+        - {x: 15, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23b6a4504e34735b64bbda1789f2a54
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 30, y: 14}
+      - {x: 0, y: 0}
+      - {x: 30, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_ElephantGun_Drop
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 185
+        width: 34
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -7}
+        - {x: -17, y: 7}
+        - {x: 17, y: 7}
+        - {x: 17, y: -7}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -16, y: 5}
+        - {x: -17, y: 4}
+        - {x: -17, y: -7}
+        - {x: 15, y: -7}
+        - {x: 17, y: -5}
+        - {x: 17, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f3cd9214684937a2334f8edbc7496d
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 34, y: 21}
+      - {x: 0, y: 7}
+      - {x: 34, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_FingerPistol_HUD
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 250
+        width: 9
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -4}
+        - {x: -4.5, y: 4}
+        - {x: 4.5, y: 4}
+        - {x: 4.5, y: -4}
+      physicsShape:
+      - - {x: -4.5, y: 4}
+        - {x: -4.5, y: -4}
+        - {x: 3.5, y: -4}
+        - {x: 4.5, y: -3}
+        - {x: 4.5, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1584f74a14840a4bcc76bebf13a7a4c
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 8}
+      - {x: 9, y: 8}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_MechaPaw_Drop
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 89
+        width: 37
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -13.5}
+        - {x: -18.5, y: 13.5}
+        - {x: 18.5, y: 13.5}
+        - {x: 18.5, y: -13.5}
+      physicsShape:
+      - - {x: -18.5, y: 13.5}
+        - {x: -18.5, y: -9.5}
+        - {x: -15.5, y: -13.5}
+        - {x: 18.5, y: -13.5}
+        - {x: 18.5, y: 9.5}
+        - {x: 7.5, y: 13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccda8ad32a684c24833043ac5c972657
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 40.5}
+      - {x: 37, y: 40.5}
+      - {x: 0, y: 13.5}
+      - {x: 37, y: 13.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Swoosher_Drop
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 186
+        width: 12
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -3.5}
+        - {x: -6, y: 3.5}
+        - {x: 6, y: 3.5}
+        - {x: 6, y: -3.5}
+      physicsShape:
+      - - {x: -6, y: 3.5}
+        - {x: -6, y: -3.5}
+        - {x: 6, y: -3.5}
+        - {x: 6, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41e71dace724b2a814ee10616609d84
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 10.5}
+      - {x: 12, y: 10.5}
+      - {x: 0, y: 3.5}
+      - {x: 12, y: 3.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_RPK410_HUD
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 250
+        width: 42
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -8}
+        - {x: -21, y: 8}
+        - {x: 21, y: 8}
+        - {x: 21, y: -8}
+      physicsShape:
+      - - {x: -19, y: 8}
+        - {x: -21, y: 6}
+        - {x: -21, y: -8}
+        - {x: 18, y: -8}
+        - {x: 21, y: -7}
+        - {x: 21, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd2a87bdb71488684aa203bc3181e04
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 42, y: 16}
+      - {x: 0, y: 0}
+      - {x: 42, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Retrovolver_HUD
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 58
+        width: 18
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 6}
+        - {x: 9, y: 6}
+        - {x: 9, y: -6}
+      physicsShape:
+      - - {x: 9, y: 6}
+        - {x: -9, y: 6}
+        - {x: -9, y: -6}
+        - {x: 0, y: -6}
+        - {x: 8, y: -2}
+        - {x: 9, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b60929def549db8e3d5c81a7872108
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 18, y: 12}
+      - {x: 0, y: 0}
+      - {x: 18, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_HellQueen
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 313
+        width: 28
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -7}
+        - {x: -14, y: 7}
+        - {x: 14, y: 7}
+        - {x: 14, y: -7}
+      physicsShape:
+      - - {x: -14, y: 7}
+        - {x: -14, y: -7}
+        - {x: 5, y: -7}
+        - {x: 14, y: -5}
+        - {x: 14, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476d29872d7540a5b3d405fd2b1c4e93
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 28, y: 14}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Raptor_HUD
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 250
+        width: 40
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -9.5}
+        - {x: -20, y: 9.5}
+        - {x: 20, y: 9.5}
+        - {x: 20, y: -9.5}
+      physicsShape:
+      - - {x: -20, y: 9.5}
+        - {x: -20, y: -9.5}
+        - {x: 20, y: -9.5}
+        - {x: 20, y: 6.5}
+        - {x: 15, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abfa1660ef14182884c4804f88b5611
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 19}
+      - {x: 40, y: 19}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_ToadallyTosser_HUD
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 153
+        width: 25
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -11}
+        - {x: -12.5, y: 11}
+        - {x: 12.5, y: 11}
+        - {x: 12.5, y: -11}
+      physicsShape:
+      - - {x: -11.5, y: 11}
+        - {x: -12.5, y: 7}
+        - {x: -12.5, y: -9}
+        - {x: -11.5, y: -11}
+        - {x: 12.5, y: -11}
+        - {x: 12.5, y: 9}
+        - {x: 10.5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00566d8ea0c4c93afa9eddf8dd15e34
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 25, y: 22}
+      - {x: 0, y: 0}
+      - {x: 25, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Retrovolver
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 121
+        width: 18
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 6}
+        - {x: 9, y: 6}
+        - {x: 9, y: -6}
+      physicsShape:
+      - - {x: -9, y: 6}
+        - {x: -9, y: -6}
+        - {x: -1, y: -6}
+        - {x: 9, y: -1}
+        - {x: 9, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0fc97df8a14b718051a551445f3a3f
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 18, y: 12}
+      - {x: 0, y: 0}
+      - {x: 18, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_SlugShotgun
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 313
+        width: 32
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -6}
+        - {x: -16, y: 6}
+        - {x: 16, y: 6}
+        - {x: 16, y: -6}
+      physicsShape:
+      - - {x: -16, y: 6}
+        - {x: -16, y: -6}
+        - {x: 14, y: -6}
+        - {x: 16, y: -2}
+        - {x: 16, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994ef8c68c834befbac84c1f876a2012
+      internalID: 21300050
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 32, y: 12}
+      - {x: 0, y: 0}
+      - {x: 32, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_TwinkleStar_HUD
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 154
+        width: 34
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -9}
+        - {x: -17, y: 9}
+        - {x: 17, y: 9}
+        - {x: 17, y: -9}
+      physicsShape:
+      - - {x: -10, y: 9}
+        - {x: -16, y: 4}
+        - {x: -17, y: 3}
+        - {x: -17, y: -9}
+        - {x: 13, y: -9}
+        - {x: 17, y: -7}
+        - {x: 17, y: 4}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7820d24ded8446ba7860d6423d09132
+      internalID: 21300052
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 34, y: 18}
+      - {x: 0, y: 0}
+      - {x: 34, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Tentacle_HUD
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 58
+        width: 26
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -8}
+        - {x: -13, y: 8}
+        - {x: 13, y: 8}
+        - {x: 13, y: -8}
+      physicsShape:
+      - - {x: -13, y: 8}
+        - {x: -13, y: -8}
+        - {x: 10, y: -8}
+        - {x: 13, y: -5}
+        - {x: 13, y: 7}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bedef198534c02b2efd9499d84f223
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 26, y: 16}
+      - {x: 0, y: 0}
+      - {x: 26, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_ToadallyTosser
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 218
+        width: 23
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -10}
+        - {x: -11.5, y: 10}
+        - {x: 11.5, y: 10}
+        - {x: 11.5, y: -10}
+      physicsShape:
+      - - {x: -11.5, y: 10}
+        - {x: -11.5, y: -7}
+        - {x: -8.5, y: -10}
+        - {x: 1.5, y: -10}
+        - {x: 11.5, y: -8}
+        - {x: 11.5, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e693d95a4f4b5cb20f1d6fcbf3daae
+      internalID: 21300056
+      vertices:
+      - {x: -0.5, y: 22}
+      - {x: 22.5, y: 22}
+      - {x: -0.5, y: 2}
+      - {x: 22.5, y: 2}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Blowgun_HUD
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 58
+        width: 18
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -3}
+        - {x: -9, y: 3}
+        - {x: 9, y: 3}
+        - {x: 9, y: -3}
+      physicsShape:
+      - - {x: -9, y: 3}
+        - {x: -9, y: -3}
+        - {x: 9, y: -3}
+        - {x: 9, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9235a5b06f7428c9a7f16a7ed6a75a0
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 6}
+      - {x: 18, y: 6}
+      - {x: 0, y: 0}
+      - {x: 18, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_HellQueen_HUD
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 250
+        width: 28
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -7}
+        - {x: -14, y: 7}
+        - {x: 14, y: 7}
+        - {x: 14, y: -7}
+      physicsShape:
+      - - {x: -14, y: 7}
+        - {x: -14, y: -7}
+        - {x: 3, y: -7}
+        - {x: 13, y: -5}
+        - {x: 14, y: -4}
+        - {x: 14, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1872178f01004ac79c5eac47f02d3326
+      internalID: 21300060
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 28, y: 14}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Xbow_HUD
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 58
+        width: 28
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -7}
+        - {x: -14, y: 7}
+        - {x: 14, y: 7}
+        - {x: 14, y: -7}
+      physicsShape:
+      - - {x: -14, y: 7}
+        - {x: -14, y: -7}
+        - {x: 13, y: -7}
+        - {x: 14, y: -5}
+        - {x: 14, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9365e33bc02e41b78811d727121324cd
+      internalID: 21300062
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 28, y: 14}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Knuckles_Drop
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 185
+        width: 17
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -6}
+        - {x: -8.5, y: 6}
+        - {x: 8.5, y: 6}
+        - {x: 8.5, y: -6}
+      physicsShape:
+      - - {x: -8.5, y: 6}
+        - {x: -8.5, y: -6}
+        - {x: 8.5, y: -6}
+        - {x: 8.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49af6180f5b742e5bed6471322054d79
+      internalID: 21300064
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 17, y: 18}
+      - {x: 0, y: 6}
+      - {x: 17, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Boomerang_HUD
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 154
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: -2, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 7}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131c5fe1c5d544b598d821984d4c8a79
+      internalID: 21300066
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 16, y: 16}
+      - {x: 0, y: 0}
+      - {x: 16, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Avelyn
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 121
+        width: 28
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -8}
+        - {x: -14, y: 8}
+        - {x: 14, y: 8}
+        - {x: 14, y: -8}
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -14, y: 4}
+        - {x: -14, y: -8}
+        - {x: 14, y: -8}
+        - {x: 14, y: 7}
+        - {x: 11, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0828f3e65644228da16dbd8babb060
+      internalID: 21300068
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 28, y: 16}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Equalizer_Drop
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 281
+        width: 27
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -6.5}
+        - {x: -13.5, y: 6.5}
+        - {x: 13.5, y: 6.5}
+        - {x: 13.5, y: -6.5}
+      physicsShape:
+      - - {x: -13.5, y: 6.5}
+        - {x: -13.5, y: -6.5}
+        - {x: 9.5, y: -6.5}
+        - {x: 13.5, y: -5.5}
+        - {x: 13.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17022ef0d8b74e2390ec4a253f77bd63
+      internalID: 21300070
+      vertices:
+      - {x: 0, y: 19.5}
+      - {x: 27, y: 19.5}
+      - {x: 0, y: 6.5}
+      - {x: 27, y: 6.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Peacekeeper
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 313
+        width: 32
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -6.5}
+        - {x: -16, y: 6.5}
+        - {x: 16, y: 6.5}
+        - {x: 16, y: -6.5}
+      physicsShape:
+      - - {x: -15, y: 6.5}
+        - {x: -16, y: 3.5}
+        - {x: -16, y: -6.5}
+        - {x: 16, y: -6.5}
+        - {x: 16, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a903b7638044faa0f798d31cbe81fd
+      internalID: 21300072
+      vertices:
+      - {x: 0, y: 13}
+      - {x: 32, y: 13}
+      - {x: 0, y: 0}
+      - {x: 32, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Peacekeeper_HUD
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 250
+        width: 32
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -6.5}
+        - {x: -16, y: 6.5}
+        - {x: 16, y: 6.5}
+        - {x: 16, y: -6.5}
+      physicsShape:
+      - - {x: -15, y: 6.5}
+        - {x: -16, y: 5.5}
+        - {x: -16, y: -6.5}
+        - {x: 10, y: -6.5}
+        - {x: 16, y: -3.5}
+        - {x: 16, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06612ad9f64740dc89d92185980d318f
+      internalID: 21300074
+      vertices:
+      - {x: 0, y: 13}
+      - {x: 32, y: 13}
+      - {x: 0, y: 0}
+      - {x: 32, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Tentacle
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 121
+        width: 26
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -8}
+        - {x: -13, y: 8}
+        - {x: 13, y: 8}
+        - {x: 13, y: -8}
+      physicsShape:
+      - - {x: -13, y: 8}
+        - {x: -13, y: -8}
+        - {x: 11, y: -8}
+        - {x: 13, y: -5}
+        - {x: 13, y: 7}
+        - {x: 11, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4ffb10ec4041ccaeed2743ac8871a0
+      internalID: 21300076
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 26, y: 16}
+      - {x: 0, y: 0}
+      - {x: 26, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Blowgun_Drop
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 89
+        width: 18
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -3}
+        - {x: -9, y: 3}
+        - {x: 9, y: 3}
+        - {x: 9, y: -3}
+      physicsShape:
+      - - {x: -9, y: 3}
+        - {x: -9, y: -3}
+        - {x: 9, y: -3}
+        - {x: 9, y: 2}
+        - {x: 8, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: baded11eeb8f4d7498024395030b3f28
+      internalID: 21300078
+      vertices:
+      - {x: 0, y: 9}
+      - {x: 18, y: 9}
+      - {x: 0, y: 3}
+      - {x: 18, y: 3}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_TwinkleStar
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 217
+        width: 34
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -8.5}
+        - {x: -17, y: 8.5}
+        - {x: 17, y: 8.5}
+        - {x: 17, y: -8.5}
+      physicsShape:
+      - - {x: -14, y: 8.5}
+        - {x: -17, y: 4.5}
+        - {x: -17, y: -8.5}
+        - {x: 10, y: -8.5}
+        - {x: 17, y: -5.5}
+        - {x: 17, y: 5.5}
+        - {x: 8, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f810e92b62d4757a81b91457c1e79f4
+      internalID: 21300080
+      vertices:
+      - {x: 0, y: 17}
+      - {x: 34, y: 17}
+      - {x: 0, y: 0}
+      - {x: 34, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_FingerPistol_Drop
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 281
+        width: 9
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -4}
+        - {x: -4.5, y: 4}
+        - {x: 4.5, y: 4}
+        - {x: 4.5, y: -4}
+      physicsShape:
+      - - {x: -4.5, y: 4}
+        - {x: -4.5, y: -4}
+        - {x: 2.5, y: -4}
+        - {x: 4.5, y: -2}
+        - {x: 4.5, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2218782d8ae24408a2be77eeeb24b117
+      internalID: 21300082
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 9, y: 12}
+      - {x: 0, y: 4}
+      - {x: 9, y: 4}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Blowgun
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 121
+        width: 18
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -3}
+        - {x: -9, y: 3}
+        - {x: 9, y: 3}
+        - {x: 9, y: -3}
+      physicsShape:
+      - - {x: -8, y: 3}
+        - {x: -9, y: 2}
+        - {x: -9, y: -3}
+        - {x: 9, y: -3}
+        - {x: 9, y: 1}
+        - {x: 7, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895f4e34b633404ab267b9807c418679
+      internalID: 21300084
+      vertices:
+      - {x: 0, y: 6}
+      - {x: 18, y: 6}
+      - {x: 0, y: 0}
+      - {x: 18, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_FlareGun_HUD
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 58
+        width: 15
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -6}
+        - {x: -7.5, y: 6}
+        - {x: 7.5, y: 6}
+        - {x: 7.5, y: -6}
+      physicsShape:
+      - - {x: -7.5, y: 6}
+        - {x: -7.5, y: -6}
+        - {x: 3.5, y: -6}
+        - {x: 7.5, y: -1}
+        - {x: 7.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ed1f60f17042e2bc4eff36c4235b40
+      internalID: 21300086
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 15, y: 12}
+      - {x: 0, y: 0}
+      - {x: 15, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Peacekeeper_Drop
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 281
+        width: 32
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -6.5}
+        - {x: -16, y: 6.5}
+        - {x: 16, y: 6.5}
+        - {x: 16, y: -6.5}
+      physicsShape:
+      - - {x: -14, y: 6.5}
+        - {x: -16, y: 5.5}
+        - {x: -16, y: -6.5}
+        - {x: 12, y: -6.5}
+        - {x: 16, y: -5.5}
+        - {x: 16, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbca34e0b9e549c1840a9bdefa2795f1
+      internalID: 21300088
+      vertices:
+      - {x: 0, y: 19.5}
+      - {x: 32, y: 19.5}
+      - {x: 0, y: 6.5}
+      - {x: 32, y: 6.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_SnakeEyes
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 121
+        width: 29
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -8.5}
+        - {x: -14.5, y: 8.5}
+        - {x: 14.5, y: 8.5}
+        - {x: 14.5, y: -8.5}
+      physicsShape:
+      - - {x: -4.5, y: 8.5}
+        - {x: -14.5, y: 3.5}
+        - {x: -14.5, y: -5.5}
+        - {x: -0.5, y: -8.5}
+        - {x: 14.5, y: -8.5}
+        - {x: 14.5, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb897963c606449eb61d06f17fd7ed45
+      internalID: 21300090
+      vertices:
+      - {x: 0, y: 17}
+      - {x: 29, y: 17}
+      - {x: 0, y: 0}
+      - {x: 29, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_CarnageGear_HUD
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 154
+        width: 34
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -7}
+        - {x: -17, y: 7}
+        - {x: 17, y: 7}
+        - {x: 17, y: -7}
+      physicsShape:
+      - - {x: 9, y: 7}
+        - {x: -17, y: 7}
+        - {x: -17, y: -7}
+        - {x: 13, y: -7}
+        - {x: 17, y: -3}
+        - {x: 17, y: 4}
+        - {x: 16, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077ae4a6be254cb585ed7d90b75ff3b6
+      internalID: 21300092
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 34, y: 14}
+      - {x: 0, y: 0}
+      - {x: 34, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Annhilator_Drop
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 185
+        width: 30
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -7}
+        - {x: -15, y: 7}
+        - {x: 15, y: 7}
+        - {x: 15, y: -7}
+      physicsShape:
+      - - {x: -15, y: 7}
+        - {x: -15, y: -7}
+        - {x: 14, y: -7}
+        - {x: 15, y: -6}
+        - {x: 15, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9466645ddf4490aabfc929e55295b74
+      internalID: 21300094
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 30, y: 21}
+      - {x: 0, y: 7}
+      - {x: 30, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Bolt_Drop
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 185
+        width: 19
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -7}
+        - {x: -9.5, y: 7}
+        - {x: 9.5, y: 7}
+        - {x: 9.5, y: -7}
+      physicsShape:
+      - - {x: -7.5, y: 7}
+        - {x: -9.5, y: 5}
+        - {x: -9.5, y: -7}
+        - {x: 6.5, y: -7}
+        - {x: 9.5, y: -5}
+        - {x: 9.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dc5d0fc1f240389de8458f65280b20
+      internalID: 21300096
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 19, y: 21}
+      - {x: 0, y: 7}
+      - {x: 19, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_SnakeEyes_Drop
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 89
+        width: 29
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -8.5}
+        - {x: -14.5, y: 8.5}
+        - {x: 14.5, y: 8.5}
+        - {x: 14.5, y: -8.5}
+      physicsShape:
+      - - {x: -6.5, y: 8.5}
+        - {x: -14.5, y: 4.5}
+        - {x: -14.5, y: -3.5}
+        - {x: -3.5, y: -8.5}
+        - {x: 14.5, y: -8.5}
+        - {x: 14.5, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54af397f3f17408dbf2cadecb0336175
+      internalID: 21300098
+      vertices:
+      - {x: 0, y: 25.5}
+      - {x: 29, y: 25.5}
+      - {x: 0, y: 8.5}
+      - {x: 29, y: 8.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Knuckles_HUD
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 154
+        width: 17
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -6}
+        - {x: -8.5, y: 6}
+        - {x: 8.5, y: 6}
+        - {x: 8.5, y: -6}
+      physicsShape:
+      - - {x: -8.5, y: 6}
+        - {x: -8.5, y: -6}
+        - {x: 8.5, y: -6}
+        - {x: 8.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a19b7dbe70f49168d76b1a29ab3e81c
+      internalID: 21300100
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 17, y: 12}
+      - {x: 0, y: 0}
+      - {x: 17, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_TwinkleStar_Drop
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 185
+        width: 34
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -8.5}
+        - {x: -17, y: 8.5}
+        - {x: 17, y: 8.5}
+        - {x: 17, y: -8.5}
+      physicsShape:
+      - - {x: -15, y: 8.5}
+        - {x: -17, y: 5.5}
+        - {x: -17, y: -8.5}
+        - {x: 13, y: -8.5}
+        - {x: 17, y: -7.5}
+        - {x: 17, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d9e0fdedfd47fabb031464419923e9
+      internalID: 21300102
+      vertices:
+      - {x: 0, y: 25.5}
+      - {x: 34, y: 25.5}
+      - {x: 0, y: 8.5}
+      - {x: 34, y: 8.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Cleavage_HUD
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 154
+        width: 31
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -5}
+        - {x: -15.5, y: 5}
+        - {x: 15.5, y: 5}
+        - {x: 15.5, y: -5}
+      physicsShape:
+      - - {x: -15.5, y: 5}
+        - {x: -15.5, y: -4}
+        - {x: -13.5, y: -5}
+        - {x: 15.5, y: -5}
+        - {x: 15.5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba1be453abe470396ab8f17cd24d36d
+      internalID: 21300104
+      vertices:
+      - {x: 0, y: 10}
+      - {x: 31, y: 10}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Lute
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 121
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -7.5}
+        - {x: -15.5, y: 7.5}
+        - {x: 15.5, y: 7.5}
+        - {x: 15.5, y: -7.5}
+      physicsShape:
+      - - {x: 8.5, y: 7.5}
+        - {x: -15.5, y: 7.5}
+        - {x: -15.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 13.5, y: -6.5}
+        - {x: 15.5, y: -3.5}
+        - {x: 15.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72d50b7c92248a9b66589223fc726bb
+      internalID: 21300106
+      vertices:
+      - {x: 0, y: 15}
+      - {x: 31, y: 15}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_FlamingBalls_Drop
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 185
+        width: 26
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -9}
+        - {x: -13, y: 9}
+        - {x: 13, y: 9}
+        - {x: 13, y: -9}
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -13, y: 6}
+        - {x: -13, y: -7}
+        - {x: -10, y: -9}
+        - {x: 10, y: -9}
+        - {x: 13, y: -7}
+        - {x: 13, y: 6}
+        - {x: 10, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d6cf8efcb042fcb1918caa67f44f3f
+      internalID: 21300108
+      vertices:
+      - {x: 0, y: 27}
+      - {x: 26, y: 27}
+      - {x: 0, y: 9}
+      - {x: 26, y: 9}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_ElephantGun_HUD
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 154
+        width: 34
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -7}
+        - {x: -17, y: 7}
+        - {x: 17, y: 7}
+        - {x: 17, y: -7}
+      physicsShape:
+      - - {x: -17, y: 7}
+        - {x: -17, y: -7}
+        - {x: 17, y: -7}
+        - {x: 17, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7475ea8dbe14530a69aca1c4de33dcd
+      internalID: 21300110
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 34, y: 14}
+      - {x: 0, y: 0}
+      - {x: 34, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Equalizer_HUD
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 250
+        width: 27
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -6.5}
+        - {x: -13.5, y: 6.5}
+        - {x: 13.5, y: 6.5}
+        - {x: 13.5, y: -6.5}
+      physicsShape:
+      - - {x: -13.5, y: 6.5}
+        - {x: -13.5, y: -6.5}
+        - {x: 3.5, y: -6.5}
+        - {x: 13.5, y: -2.5}
+        - {x: 13.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eab896fd0cc4db39e8e525f1021a207
+      internalID: 21300112
+      vertices:
+      - {x: 0, y: 13}
+      - {x: 27, y: 13}
+      - {x: 0, y: 0}
+      - {x: 27, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_ToyRifle_HUD
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 250
+        width: 32
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -7.5}
+        - {x: -16, y: 7.5}
+        - {x: 16, y: 7.5}
+        - {x: 16, y: -7.5}
+      physicsShape:
+      - - {x: -16, y: 7.5}
+        - {x: -16, y: -7.5}
+        - {x: 10, y: -7.5}
+        - {x: 16, y: -3.5}
+        - {x: 16, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d86de058814467a115246a1f950e2b
+      internalID: 21300114
+      vertices:
+      - {x: 0, y: 15}
+      - {x: 32, y: 15}
+      - {x: 0, y: 0}
+      - {x: 32, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_ToyRifle_Drop
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 281
+        width: 32
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -7.5}
+        - {x: -16, y: 7.5}
+        - {x: 16, y: 7.5}
+        - {x: 16, y: -7.5}
+      physicsShape:
+      - - {x: -13, y: 7.5}
+        - {x: -16, y: 6.5}
+        - {x: -16, y: -7.5}
+        - {x: 15, y: -7.5}
+        - {x: 16, y: -5.5}
+        - {x: 16, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d047c591b9e40f5b9f51c58c8457527
+      internalID: 21300116
+      vertices:
+      - {x: 0, y: 22.5}
+      - {x: 32, y: 22.5}
+      - {x: 0, y: 7.5}
+      - {x: 32, y: 7.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Lute_HUD
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 58
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -7.5}
+        - {x: -15.5, y: 7.5}
+        - {x: 15.5, y: 7.5}
+        - {x: 15.5, y: -7.5}
+      physicsShape:
+      - - {x: -15.5, y: 7.5}
+        - {x: -15.5, y: -7.5}
+        - {x: 15.5, y: -7.5}
+        - {x: 15.5, y: 5.5}
+        - {x: 14.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada886765c6a410781abc65bd6aa6e46
+      internalID: 21300118
+      vertices:
+      - {x: 0, y: 15}
+      - {x: 31, y: 15}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Xbow_Drop
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 89
+        width: 28
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -7}
+        - {x: -14, y: 7}
+        - {x: 14, y: 7}
+        - {x: 14, y: -7}
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -13, y: 6}
+        - {x: -14, y: 5}
+        - {x: -14, y: -6}
+        - {x: -13, y: -7}
+        - {x: 8, y: -7}
+        - {x: 14, y: -3}
+        - {x: 14, y: 6}
+        - {x: 12, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d55324cc8b41169d77e8eca1a25486
+      internalID: 21300120
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 28, y: 21}
+      - {x: 0, y: 7}
+      - {x: 28, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_FlareGun_Drop
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 89
+        width: 15
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -6}
+        - {x: -7.5, y: 6}
+        - {x: 7.5, y: 6}
+        - {x: 7.5, y: -6}
+      physicsShape:
+      - - {x: -7.5, y: 6}
+        - {x: -7.5, y: -6}
+        - {x: 2.5, y: -6}
+        - {x: 7.5, y: -4}
+        - {x: 7.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f63d6b11be45a1b19553320f60ebf9
+      internalID: 21300122
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 15, y: 18}
+      - {x: 0, y: 6}
+      - {x: 15, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_ToyRifle
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 313
+        width: 32
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -7.5}
+        - {x: -16, y: 7.5}
+        - {x: 16, y: 7.5}
+        - {x: 16, y: -7.5}
+      physicsShape:
+      - - {x: -13, y: 7.5}
+        - {x: -16, y: 5.5}
+        - {x: -16, y: -7.5}
+        - {x: 12, y: -7.5}
+        - {x: 15, y: -5.5}
+        - {x: 16, y: -3.5}
+        - {x: 16, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bad7f06b3a54b22954c8b188544b0fb
+      internalID: 21300124
+      vertices:
+      - {x: 0, y: 15}
+      - {x: 32, y: 15}
+      - {x: 0, y: 0}
+      - {x: 32, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_CarnageGear
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 217
+        width: 34
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -7}
+        - {x: -17, y: 7}
+        - {x: 17, y: 7}
+        - {x: 17, y: -7}
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -17, y: 5}
+        - {x: -17, y: -7}
+        - {x: 17, y: -7}
+        - {x: 17, y: 5}
+        - {x: 13, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd084921333d464981ba8e451382fd2e
+      internalID: 21300126
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 34, y: 14}
+      - {x: 0, y: 0}
+      - {x: 34, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_FlareGun
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 121
+        width: 15
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -6}
+        - {x: -7.5, y: 6}
+        - {x: 7.5, y: 6}
+        - {x: 7.5, y: -6}
+      physicsShape:
+      - - {x: -7.5, y: 6}
+        - {x: -7.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 7.5, y: -1}
+        - {x: 7.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3680f10461984fa2aff140c62437285c
+      internalID: 21300128
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 15, y: 12}
+      - {x: 0, y: 0}
+      - {x: 15, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Xbow
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 121
+        width: 28
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -7}
+        - {x: -14, y: 7}
+        - {x: 14, y: 7}
+        - {x: 14, y: -7}
+      physicsShape:
+      - - {x: -7, y: 7}
+        - {x: -14, y: 5}
+        - {x: -14, y: -7}
+        - {x: 11, y: -7}
+        - {x: 14, y: -4}
+        - {x: 14, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb010aef16024d5684a7fd82f771f6d1
+      internalID: 21300130
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 28, y: 14}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Raptor
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 313
+        width: 40
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -9.5}
+        - {x: -20, y: 9.5}
+        - {x: 20, y: 9.5}
+        - {x: 20, y: -9.5}
+      physicsShape:
+      - - {x: -14, y: 9.5}
+        - {x: -20, y: 4.5}
+        - {x: -20, y: -9.5}
+        - {x: 8, y: -9.5}
+        - {x: 19, y: -7.5}
+        - {x: 20, y: -5.5}
+        - {x: 20, y: 5.5}
+        - {x: 11, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db01cbc1efb4ec49374c425647e1859
+      internalID: 21300132
+      vertices:
+      - {x: 0, y: 19}
+      - {x: 40, y: 19}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_FlamingBalls_HUD
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 151
+        width: 26
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -9}
+        - {x: -13, y: 9}
+        - {x: 13, y: 9}
+        - {x: 13, y: -9}
+      physicsShape:
+      - - {x: -13, y: 9}
+        - {x: -13, y: -7}
+        - {x: -6, y: -9}
+        - {x: 13, y: -9}
+        - {x: 13, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2f4a0d98264276a0c2896db3752aee
+      internalID: 21300134
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 26, y: 18}
+      - {x: 0, y: 0}
+      - {x: 26, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_FlamingBalls
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 217
+        width: 26
+        height: 18
+      alignment: 9
+      pivot: {x: 0.26923078, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -9}
+        - {x: -13, y: 9}
+        - {x: 13, y: 9}
+        - {x: 13, y: -9}
+      physicsShape:
+      - - {x: -6.9999995, y: 9}
+        - {x: -13, y: 7}
+        - {x: -13, y: -5}
+        - {x: -6.9999995, y: -9}
+        - {x: 10, y: -9}
+        - {x: 13, y: -7}
+        - {x: 13, y: 6}
+        - {x: 10, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a236b260edfd441692d148e19c025dc6
+      internalID: 21300136
+      vertices:
+      - {x: 6, y: 18}
+      - {x: 32, y: 18}
+      - {x: 6, y: 0}
+      - {x: 32, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Retrovolver_Drop
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 89
+        width: 18
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 6}
+        - {x: 9, y: 6}
+        - {x: 9, y: -6}
+      physicsShape:
+      - - {x: -9, y: 6}
+        - {x: -9, y: -6}
+        - {x: 5, y: -6}
+        - {x: 9, y: -5}
+        - {x: 9, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b520390bfa4db38cd8d50b811f5180
+      internalID: 21300138
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 18, y: 18}
+      - {x: 0, y: 6}
+      - {x: 18, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_MechaPaw
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 121
+        width: 37
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -13.5}
+        - {x: -18.5, y: 13.5}
+        - {x: 18.5, y: 13.5}
+        - {x: 18.5, y: -13.5}
+      physicsShape:
+      - - {x: -18.5, y: -6.5}
+        - {x: -7.5, y: -13.5}
+        - {x: 18.5, y: -13.5}
+        - {x: 18.5, y: 1.5}
+        - {x: 8.5, y: 13.5}
+        - {x: -12.5, y: 13.5}
+        - {x: -18.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e294fbb4ea84201b66f04ae92ccde02
+      internalID: 21300140
+      vertices:
+      - {x: 0, y: 27}
+      - {x: 37, y: 27}
+      - {x: 0, y: 0}
+      - {x: 37, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Bolt
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 217
+        width: 19
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -7}
+        - {x: -9.5, y: 7}
+        - {x: 9.5, y: 7}
+        - {x: 9.5, y: -7}
+      physicsShape:
+      - - {x: -8.5, y: 7}
+        - {x: -9.5, y: 6}
+        - {x: -9.5, y: -7}
+        - {x: 8.5, y: -7}
+        - {x: 9.5, y: -4}
+        - {x: 9.5, y: 6}
+        - {x: 8.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08cb2eaa3c14412b3bec1f2905f1364
+      internalID: 21300142
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 19, y: 14}
+      - {x: 0, y: 0}
+      - {x: 19, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_MechaPaw_HUD
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 58
+        width: 37
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -13.5}
+        - {x: -18.5, y: 13.5}
+        - {x: 18.5, y: 13.5}
+        - {x: 18.5, y: -13.5}
+      physicsShape:
+      - - {x: -18.5, y: 13.5}
+        - {x: -18.5, y: -6.5}
+        - {x: -15.5, y: -9.5}
+        - {x: -9.5, y: -13.5}
+        - {x: 18.5, y: -13.5}
+        - {x: 18.5, y: 3.5}
+        - {x: 6.5, y: 13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541b0c05b82e40969ea4b8df7b81aa32
+      internalID: 21300144
+      vertices:
+      - {x: 0, y: 27}
+      - {x: 37, y: 27}
+      - {x: 0, y: 0}
+      - {x: 37, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_SlugShotgun_Drop
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 281
+        width: 32
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -6}
+        - {x: -16, y: 6}
+        - {x: 16, y: 6}
+        - {x: 16, y: -6}
+      physicsShape:
+      - - {x: -11, y: 6}
+        - {x: -15, y: 4}
+        - {x: -16, y: 3}
+        - {x: -16, y: -6}
+        - {x: 14, y: -6}
+        - {x: 16, y: -3}
+        - {x: 16, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488cecdafa6441229ca041c843c7377e
+      internalID: 21300146
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 32, y: 18}
+      - {x: 0, y: 6}
+      - {x: 32, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Quackser_Drop
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 89
+        width: 22
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -7.5}
+        - {x: -11, y: 7.5}
+        - {x: 11, y: 7.5}
+        - {x: 11, y: -7.5}
+      physicsShape:
+      - - {x: -11, y: 7.5}
+        - {x: -11, y: -5.5}
+        - {x: -9, y: -7.5}
+        - {x: 3, y: -7.5}
+        - {x: 11, y: -2.5}
+        - {x: 11, y: 6.5}
+        - {x: 10, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0969ca915515496887ff0d9de583ccf9
+      internalID: 21300148
+      vertices:
+      - {x: 0, y: 22.5}
+      - {x: 22, y: 22.5}
+      - {x: 0, y: 7.5}
+      - {x: 22, y: 7.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Swoosher_HUD
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 155
+        width: 36
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -3.5}
+        - {x: -18, y: 3.5}
+        - {x: 18, y: 3.5}
+        - {x: 18, y: -3.5}
+      physicsShape:
+      - - {x: -18, y: 3.5}
+        - {x: -18, y: -3.5}
+        - {x: 18, y: -3.5}
+        - {x: 18, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8219b396ca704685a66f0ad3df840428
+      internalID: 21300150
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 36, y: 7}
+      - {x: 0, y: 0}
+      - {x: 36, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Knuckles
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 217
+        width: 18
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 6}
+        - {x: 9, y: 6}
+        - {x: 9, y: -6}
+      physicsShape:
+      - - {x: 9, y: 6}
+        - {x: -6, y: 6}
+        - {x: -7, y: 3}
+        - {x: -7, y: -6}
+        - {x: 9, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76455492c2f44db49de68c0fff268ec0
+      internalID: 21300152
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 18, y: 12}
+      - {x: 0, y: 0}
+      - {x: 18, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_ElephantGun
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 217
+        width: 34
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -7}
+        - {x: -17, y: 7}
+        - {x: 17, y: 7}
+        - {x: 17, y: -7}
+      physicsShape:
+      - - {x: -11, y: 7}
+        - {x: -17, y: 4}
+        - {x: -17, y: -7}
+        - {x: 16, y: -7}
+        - {x: 17, y: -4}
+        - {x: 17, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf3adb8b673417281893c2419d39ce5
+      internalID: 21300154
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 34, y: 14}
+      - {x: 0, y: 0}
+      - {x: 34, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Tentacle_Drop
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 89
+        width: 26
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -8}
+        - {x: -13, y: 8}
+        - {x: 13, y: 8}
+        - {x: 13, y: -8}
+      physicsShape:
+      - - {x: -13, y: 8}
+        - {x: -13, y: -8}
+        - {x: 10, y: -8}
+        - {x: 13, y: -4}
+        - {x: 13, y: 7}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708d608881f841ecab8d3f82c7650829
+      internalID: 21300156
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 26, y: 24}
+      - {x: 0, y: 8}
+      - {x: 26, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_ToadallyTosser_Drop
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 185
+        width: 25
+        height: 22
+      alignment: 9
+      pivot: {x: 0.52, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -11}
+        - {x: -12.5, y: 11}
+        - {x: 12.5, y: 11}
+        - {x: 12.5, y: -11}
+      physicsShape:
+      - - {x: 11.5, y: 11}
+        - {x: -10.5, y: 11}
+        - {x: -12.5, y: 10}
+        - {x: -12.5, y: -6}
+        - {x: -8.5, y: -11}
+        - {x: 8.5, y: -11}
+        - {x: 12.5, y: -8}
+        - {x: 12.5, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db29035fbc44d2e954b6789b56fbf31
+      internalID: 21300158
+      vertices:
+      - {x: -0.5, y: 33}
+      - {x: 24.5, y: 33}
+      - {x: -0.5, y: 11}
+      - {x: 24.5, y: 11}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_HellQueen_Drop
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 281
+        width: 28
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -7}
+        - {x: -14, y: 7}
+        - {x: 14, y: 7}
+        - {x: 14, y: -7}
+      physicsShape:
+      - - {x: -14, y: 7}
+        - {x: -14, y: -7}
+        - {x: 14, y: -7}
+        - {x: 14, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccde7bde4bf4c84b0979a399dd53f87
+      internalID: 21300160
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 28, y: 21}
+      - {x: 0, y: 7}
+      - {x: 28, y: 7}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Bolt_HUD
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 154
+        width: 19
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -7}
+        - {x: -9.5, y: 7}
+        - {x: 9.5, y: 7}
+        - {x: 9.5, y: -7}
+      physicsShape:
+      - - {x: -8.5, y: 7}
+        - {x: -9.5, y: 6}
+        - {x: -9.5, y: -7}
+        - {x: 7.5, y: -7}
+        - {x: 9.5, y: -6}
+        - {x: 9.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce97db973621491b93d3e00684bfc6ed
+      internalID: 21300162
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 19, y: 14}
+      - {x: 0, y: 0}
+      - {x: 19, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_SnakeEyes_HUD
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 57
+        width: 31
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -9.5}
+        - {x: -15.5, y: 9.5}
+        - {x: 15.5, y: 9.5}
+        - {x: 15.5, y: -9.5}
+      physicsShape:
+      - - {x: -8.5, y: 9.5}
+        - {x: -15.5, y: 6.5}
+        - {x: -15.5, y: -6.5}
+        - {x: -1.5, y: -9.5}
+        - {x: 15.5, y: -9.5}
+        - {x: 15.5, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc16bb5db3d45f58cc862a1f14b5699
+      internalID: 21300164
+      vertices:
+      - {x: 0, y: 19}
+      - {x: 31, y: 19}
+      - {x: 0, y: 0}
+      - {x: 31, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Magnegun_Drop
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 281
+        width: 17
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -6}
+        - {x: -8.5, y: 6}
+        - {x: 8.5, y: 6}
+        - {x: 8.5, y: -6}
+      physicsShape:
+      - - {x: -8.5, y: 6}
+        - {x: -8.5, y: -6}
+        - {x: 8.5, y: -6}
+        - {x: 8.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9527b236d6b4495ab74257fca5c4bd31
+      internalID: 21300166
+      vertices:
+      - {x: 0, y: 18}
+      - {x: 17, y: 18}
+      - {x: 0, y: 6}
+      - {x: 17, y: 6}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Boomerang_Drop
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 185
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -4}
+        - {x: -3, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdffc8c6bb14c99a3d91af35f6d26d8
+      internalID: 21300168
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 16, y: 24}
+      - {x: 0, y: 8}
+      - {x: 16, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_NailGun
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 313
+        width: 18
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -8}
+        - {x: -9, y: 8}
+        - {x: 9, y: 8}
+        - {x: 9, y: -8}
+      physicsShape:
+      - - {x: 7, y: 8}
+        - {x: -8, y: 8}
+        - {x: -9, y: 6}
+        - {x: -9, y: -6}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 9, y: -3}
+        - {x: 9, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244ed47b9c6f4dc993cae3ce6f55642a
+      internalID: 21300170
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 18, y: 16}
+      - {x: 0, y: 0}
+      - {x: 18, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Magnegun
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 313
+        width: 17
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -6}
+        - {x: -8.5, y: 6}
+        - {x: 8.5, y: 6}
+        - {x: 8.5, y: -6}
+      physicsShape:
+      - - {x: -7.5, y: 6}
+        - {x: -8.5, y: 5}
+        - {x: -8.5, y: -4}
+        - {x: -7.5, y: -6}
+        - {x: 8.5, y: -6}
+        - {x: 8.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fc8239b452426cb2a73860fa6a69ce
+      internalID: 21300172
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 17, y: 12}
+      - {x: 0, y: 0}
+      - {x: 17, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Boomerang
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 217
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape:
+      - - {x: -2, y: 8}
+        - {x: -8, y: 1}
+        - {x: -8, y: -7}
+        - {x: -7, y: -8}
+        - {x: 5, y: -8}
+        - {x: 8, y: -5}
+        - {x: 8, y: 7}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebd90d477444244a776128b424533e4
+      internalID: 21300174
+      vertices:
+      - {x: 0, y: 16}
+      - {x: 16, y: 16}
+      - {x: 0, y: 0}
+      - {x: 16, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Avelyn_Drop
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 89
+        width: 28
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -8}
+        - {x: -14, y: 8}
+        - {x: 14, y: 8}
+        - {x: 14, y: -8}
+      physicsShape:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 5}
+        - {x: -14, y: -8}
+        - {x: 12, y: -8}
+        - {x: 14, y: -7}
+        - {x: 14, y: 6}
+        - {x: 11, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c255726a9b2e4bf7ab1efe99f240830f
+      internalID: 21300176
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 28, y: 24}
+      - {x: 0, y: 8}
+      - {x: 28, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Magnegun_HUD
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 250
+        width: 17
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -6}
+        - {x: -8.5, y: 6}
+        - {x: 8.5, y: 6}
+        - {x: 8.5, y: -6}
+      physicsShape:
+      - - {x: -8.5, y: 6}
+        - {x: -8.5, y: -6}
+        - {x: 7.5, y: -6}
+        - {x: 8.5, y: -5}
+        - {x: 8.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1d65ba8b114511abd9e828fefb8878
+      internalID: 21300178
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 17, y: 12}
+      - {x: 0, y: 0}
+      - {x: 17, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_NailGun_Drop
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 281
+        width: 18
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -8}
+        - {x: -9, y: 8}
+        - {x: 9, y: 8}
+        - {x: 9, y: -8}
+      physicsShape:
+      - - {x: -9, y: 8}
+        - {x: -9, y: -6}
+        - {x: -7, y: -8}
+        - {x: 6, y: -8}
+        - {x: 9, y: -5}
+        - {x: 9, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea5d35d79f34c5ead353e4fccc898e3
+      internalID: 21300180
+      vertices:
+      - {x: 0, y: 24}
+      - {x: 18, y: 24}
+      - {x: 0, y: 8}
+      - {x: 18, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Raptor_Drop
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 281
+        width: 40
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -9.5}
+        - {x: -20, y: 9.5}
+        - {x: 20, y: 9.5}
+        - {x: 20, y: -9.5}
+      physicsShape:
+      - - {x: 10, y: 9.5}
+        - {x: -15, y: 9.5}
+        - {x: -20, y: 4.5}
+        - {x: -20, y: -9.5}
+        - {x: 19, y: -9.5}
+        - {x: 20, y: -5.5}
+        - {x: 20, y: 6.5}
+        - {x: 18, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4534ce46dc384315a31f299d2724bdf8
+      internalID: 21300182
+      vertices:
+      - {x: 0, y: 28.5}
+      - {x: 40, y: 28.5}
+      - {x: 0, y: 9.5}
+      - {x: 40, y: 9.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Quackser_HUD
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 58
+        width: 22
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -7.5}
+        - {x: -11, y: 7.5}
+        - {x: 11, y: 7.5}
+        - {x: 11, y: -7.5}
+      physicsShape:
+      - - {x: -11, y: 7.5}
+        - {x: -11, y: -7.5}
+        - {x: 3, y: -7.5}
+        - {x: 11, y: -4.5}
+        - {x: 11, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749d7e62692d4a3aad742785d639955b
+      internalID: 21300184
+      vertices:
+      - {x: 0, y: 15}
+      - {x: 22, y: 15}
+      - {x: 0, y: 0}
+      - {x: 22, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_Cleavage_Drop
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 185
+        width: 31
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -5}
+        - {x: -15.5, y: 5}
+        - {x: 15.5, y: 5}
+        - {x: 15.5, y: -5}
+      physicsShape:
+      - - {x: -15.5, y: 5}
+        - {x: -15.5, y: -4}
+        - {x: -13.5, y: -5}
+        - {x: 15.5, y: -5}
+        - {x: 15.5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b0a422da124770b9671187d5f0eb70
+      internalID: 21300186
+      vertices:
+      - {x: 0, y: 15}
+      - {x: 31, y: 15}
+      - {x: 0, y: 5}
+      - {x: 31, y: 5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_FishingRod
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 121
+        width: 22
+        height: 21
+      alignment: 9
+      pivot: {x: 0.18181819, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -10.5}
+        - {x: -11, y: 10.5}
+        - {x: 11, y: 10.5}
+        - {x: 11, y: -10.5}
+      physicsShape:
+      - - {x: -5, y: 10.5}
+        - {x: -11, y: -0.49999952}
+        - {x: -11, y: -10.5}
+        - {x: -1, y: -10.5}
+        - {x: 5, y: -7.4999995}
+        - {x: 11, y: 3.5000005}
+        - {x: 11, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bad980f4baf40d398bdc08f398d3eb8
+      internalID: 21300188
+      vertices:
+      - {x: 7, y: 25.5}
+      - {x: 29, y: 25.5}
+      - {x: 7, y: 4.5}
+      - {x: 29, y: 4.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_SpookalotlUpdate_FishingRod_Drop
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 89
+        width: 22
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -10.5}
+        - {x: -11, y: 10.5}
+        - {x: 11, y: 10.5}
+        - {x: 11, y: -10.5}
+      physicsShape:
+      - - {x: -11, y: -10.5}
+        - {x: -2, y: -10.5}
+        - {x: 6, y: -7.5}
+        - {x: 11, y: -2.5}
+        - {x: 11, y: 10.5}
+        - {x: -5, y: 10.5}
+        - {x: -11, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699c8b8f60e145f0b5892f33d9846cd4
+      internalID: 21300190
+      vertices:
+      - {x: 0, y: 31.5}
+      - {x: 22, y: 31.5}
+      - {x: 0, y: 10.5}
+      - {x: 22, y: 10.5}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 9f23ea1fa7a66eee1e1c5100444a3da7.bundle
+  assetBundleVariant:

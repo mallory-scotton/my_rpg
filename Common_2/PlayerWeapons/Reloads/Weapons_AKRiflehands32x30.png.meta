@@ -1,0 +1,628 @@
+fileFormatVersion: 2
+guid: 043f2d740a2f8b14a9784df9f572c7c2
+timeCreated: 1706119814
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Weapons_AKRiflehands32x30_4
+  - first:
+      213: 21300002
+    second: Weapons_AKRiflehands32x30_1
+  - first:
+      213: 21300004
+    second: Weapons_AKRiflehands32x30_7
+  - first:
+      213: 21300006
+    second: Weapons_AKRiflehands32x30_8
+  - first:
+      213: 21300008
+    second: Weapons_AKRiflehands32x30_3
+  - first:
+      213: 21300010
+    second: Weapons_AKRiflehands32x30_5
+  - first:
+      213: 21300012
+    second: Weapons_AKRiflehands32x30_0
+  - first:
+      213: 21300014
+    second: Weapons_AKRiflehands32x30_6
+  - first:
+      213: 21300016
+    second: Weapons_AKRiflehands32x30_10
+  - first:
+      213: 21300018
+    second: Weapons_AKRiflehands32x30_2
+  - first:
+      213: 21300020
+    second: Weapons_AKRiflehands32x30_9
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapons_AKRiflehands32x30_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4531251, y: 0.6333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.999997, y: -15}
+        - {x: -15.999997, y: 15}
+        - {x: 16.000004, y: 15}
+        - {x: 16.000004, y: -15}
+      physicsShape:
+      - - {x: -2.9999971, y: 0}
+        - {x: -4.999997, y: -2}
+        - {x: -4.999997, y: -9}
+        - {x: 2.861023E-06, y: -12}
+        - {x: 6.000003, y: -12}
+        - {x: 6.000003, y: -7}
+        - {x: 2.0000029, y: 0}
+      - - {x: 9.000003, y: 14}
+        - {x: -15.999997, y: 10}
+        - {x: -15.999997, y: -2}
+        - {x: 2.861023E-06, y: -2}
+        - {x: 16.000004, y: 5}
+        - {x: 16.000004, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de04312fe6274904bb317214cf9d5f0a
+      internalID: 21300000
+      vertices:
+      - {x: 1.5, y: 25.999998}
+      - {x: 33.5, y: 25.999998}
+      - {x: 1.5, y: -4.000002}
+      - {x: 33.5, y: -4.000002}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AKRiflehands32x30_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4531251, y: 0.6333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -15}
+        - {x: -16, y: 15}
+        - {x: 15.999999, y: 15}
+        - {x: 15.999999, y: -15}
+      physicsShape:
+      - - {x: 2.999999, y: 15}
+        - {x: -11.000001, y: 11}
+        - {x: -16, y: 6}
+        - {x: -16, y: -3}
+        - {x: 1.999999, y: -3}
+        - {x: 13.999999, y: 6}
+        - {x: 15.999999, y: 10}
+        - {x: 15.999999, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2066cc98431b45d48e66036d21e46ac9
+      internalID: 21300002
+      vertices:
+      - {x: 1.4999962, y: 25.999998}
+      - {x: 33.499996, y: 25.999998}
+      - {x: 1.4999962, y: -4.000002}
+      - {x: 33.499996, y: -4.000002}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AKRiflehands32x30_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4531251, y: 0.6333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.999997, y: -15}
+        - {x: -15.999997, y: 15}
+        - {x: 16.000004, y: 15}
+        - {x: 16.000004, y: -15}
+      physicsShape:
+      - - {x: -2.9999971, y: -3}
+        - {x: -4.999997, y: -5}
+        - {x: -4.999997, y: -12}
+        - {x: 2.861023E-06, y: -15}
+        - {x: 6.000003, y: -15}
+        - {x: 6.000003, y: -10}
+        - {x: 2.0000029, y: -3}
+      - - {x: 9.000003, y: 14}
+        - {x: -15.999997, y: 10}
+        - {x: -15.999997, y: -2}
+        - {x: 2.861023E-06, y: -2}
+        - {x: 16.000004, y: 5}
+        - {x: 16.000004, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619e29f96b7e4218aac805d314cd4207
+      internalID: 21300004
+      vertices:
+      - {x: 1.5, y: 25.999998}
+      - {x: 33.5, y: 25.999998}
+      - {x: 1.5, y: -4.000002}
+      - {x: 33.5, y: -4.000002}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AKRiflehands32x30_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4531251, y: 0.6333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.999997, y: -15}
+        - {x: -15.999997, y: 15}
+        - {x: 16.000004, y: 15}
+        - {x: 16.000004, y: -15}
+      physicsShape:
+      - - {x: 3.0000029, y: 15}
+        - {x: -10.999997, y: 11}
+        - {x: -15.999997, y: 6}
+        - {x: -15.999997, y: -3}
+        - {x: 2.0000029, y: -3}
+        - {x: 14.000003, y: 6}
+        - {x: 16.000004, y: 10}
+        - {x: 16.000004, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c7ee8098004ceb84fb49c12a22afaa
+      internalID: 21300006
+      vertices:
+      - {x: 1.5, y: 25.999998}
+      - {x: 33.5, y: 25.999998}
+      - {x: 1.5, y: -4.000002}
+      - {x: 33.5, y: -4.000002}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AKRiflehands32x30_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4531251, y: 0.6333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.999997, y: -15}
+        - {x: -15.999997, y: 15}
+        - {x: 16.000004, y: 15}
+        - {x: 16.000004, y: -15}
+      physicsShape:
+      - - {x: 9.000003, y: 14}
+        - {x: -15.999997, y: 10}
+        - {x: -15.999997, y: -2}
+        - {x: 1.0000029, y: -2}
+        - {x: 6.000003, y: -1}
+        - {x: 16.000004, y: 6}
+        - {x: 16.000004, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95784c7c1fe549bda8f493bbdc01856d
+      internalID: 21300008
+      vertices:
+      - {x: 1.5, y: 25.999998}
+      - {x: 33.5, y: 25.999998}
+      - {x: 1.5, y: -4.000002}
+      - {x: 33.5, y: -4.000002}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AKRiflehands32x30_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4531251, y: 0.6333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.999997, y: -15}
+        - {x: -15.999997, y: 15}
+        - {x: 16.000004, y: 15}
+        - {x: 16.000004, y: -15}
+      physicsShape:
+      - - {x: 9.000003, y: 14}
+        - {x: -15.999997, y: 10}
+        - {x: -15.999997, y: -2}
+        - {x: 2.861023E-06, y: -2}
+        - {x: 16.000004, y: 5}
+        - {x: 16.000004, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6048b2cb5f684826a1efca54311e2932
+      internalID: 21300010
+      vertices:
+      - {x: 1.5, y: 25.999998}
+      - {x: 33.5, y: 25.999998}
+      - {x: 1.5, y: -4.000002}
+      - {x: 33.5, y: -4.000002}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AKRiflehands32x30_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4531251, y: 0.6333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -15}
+        - {x: -16, y: 15}
+        - {x: 15.999999, y: 15}
+        - {x: 15.999999, y: -15}
+      physicsShape:
+      - - {x: -16, y: 11}
+        - {x: -16, y: -3}
+        - {x: 15.999999, y: -3}
+        - {x: 15.999999, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4528da9588124f43ab10f65b95a9ad1d
+      internalID: 21300012
+      vertices:
+      - {x: 1.4999971, y: 25.999998}
+      - {x: 33.499996, y: 25.999998}
+      - {x: 1.4999971, y: -4.000002}
+      - {x: 33.499996, y: -4.000002}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AKRiflehands32x30_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4531251, y: 0.6333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.999997, y: -15}
+        - {x: -15.999997, y: 15}
+        - {x: 16.000004, y: 15}
+        - {x: 16.000004, y: -15}
+      physicsShape:
+      - - {x: 9.000003, y: 14}
+        - {x: -15.999997, y: 10}
+        - {x: -15.999997, y: -2}
+        - {x: 2.861023E-06, y: -2}
+        - {x: 16.000004, y: 5}
+        - {x: 16.000004, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35bfc8c7ccd4b6fb0cb4aa5c5aa531c
+      internalID: 21300014
+      vertices:
+      - {x: 1.5, y: 25.999998}
+      - {x: 33.5, y: 25.999998}
+      - {x: 1.5, y: -4.000002}
+      - {x: 33.5, y: -4.000002}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AKRiflehands32x30_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4531251, y: 0.6333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.999997, y: -15}
+        - {x: -15.999997, y: 15}
+        - {x: 16.000004, y: 15}
+        - {x: 16.000004, y: -15}
+      physicsShape:
+      - - {x: -15.999997, y: 11}
+        - {x: -15.999997, y: -3}
+        - {x: 16.000004, y: -3}
+        - {x: 16.000004, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6e7cd393824b528c3b02be53893cea
+      internalID: 21300016
+      vertices:
+      - {x: 1.5, y: 25.999998}
+      - {x: 33.5, y: 25.999998}
+      - {x: 1.5, y: -4.000002}
+      - {x: 33.5, y: -4.000002}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AKRiflehands32x30_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4531251, y: 0.6333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.999997, y: -15}
+        - {x: -15.999997, y: 15}
+        - {x: 16.000004, y: 15}
+        - {x: 16.000004, y: -15}
+      physicsShape:
+      - - {x: 9.000003, y: 14}
+        - {x: -15.999997, y: 10}
+        - {x: -15.999997, y: -2}
+        - {x: 1.0000029, y: -2}
+        - {x: 6.000003, y: -1}
+        - {x: 16.000004, y: 6}
+        - {x: 16.000004, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b3ee517d8e4b5cbe11af767900f729
+      internalID: 21300018
+      vertices:
+      - {x: 1.5, y: 25.999998}
+      - {x: 33.5, y: 25.999998}
+      - {x: 1.5, y: -4.000002}
+      - {x: 33.5, y: -4.000002}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_AKRiflehands32x30_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4531251, y: 0.6333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.999997, y: -15}
+        - {x: -15.999997, y: 15}
+        - {x: 16.000004, y: 15}
+        - {x: 16.000004, y: -15}
+      physicsShape:
+      - - {x: -11.999997, y: 10}
+        - {x: -15.999997, y: 8}
+        - {x: -15.999997, y: -2}
+        - {x: -9.999997, y: -4}
+        - {x: 9.000003, y: -4}
+        - {x: 16.000004, y: 1}
+        - {x: 16.000004, y: 8}
+        - {x: 15.000003, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe1316c0d9f45f5a129cc3dee8c4661
+      internalID: 21300020
+      vertices:
+      - {x: 1.5, y: 25.999998}
+      - {x: 33.5, y: 25.999998}
+      - {x: 1.5, y: -4.000002}
+      - {x: 33.5, y: -4.000002}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: dd14d2ddaa07bc34756cc666fad2ee2c.bundle
+  assetBundleVariant:

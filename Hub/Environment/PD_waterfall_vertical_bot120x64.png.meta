@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: 1e9aa4d94cc618b4a9c43f8aff358e3c
+timeCreated: 1706119813
+licenseType: Free
+TextureImporter:
+  serializedVersion: 12
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PD_waterfall_vertical_bot120x64_1
+  - first:
+      213: 21300002
+    second: PD_waterfall_vertical_bot120x64_0
+  - first:
+      213: 21300004
+    second: PD_waterfall_vertical_bot120x64_6
+  - first:
+      213: 21300006
+    second: PD_waterfall_vertical_bot120x64_5
+  - first:
+      213: 21300008
+    second: PD_waterfall_vertical_bot120x64_3
+  - first:
+      213: 21300010
+    second: PD_waterfall_vertical_bot120x64_4
+  - first:
+      213: 21300012
+    second: PD_waterfall_vertical_bot120x64_2
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PD_waterfall_vertical_bot120x64_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 120
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: -32}
+        - {x: -60, y: 32}
+        - {x: 60, y: 32}
+        - {x: 60, y: -32}
+      physicsShape:
+      - - {x: -46, y: 32}
+        - {x: -48, y: 12}
+        - {x: -48, y: -18}
+        - {x: -40, y: -26}
+        - {x: -24, y: -26}
+        - {x: -18, y: -25}
+        - {x: -13, y: -26}
+        - {x: -7, y: -26}
+        - {x: -9, y: -28}
+        - {x: -8, y: -31}
+        - {x: 15, y: -31}
+        - {x: 52, y: -21}
+        - {x: 52, y: 10}
+        - {x: 50, y: 32}
+      - - {x: 31, y: -25}
+        - {x: 29, y: -27}
+        - {x: 30, y: -30}
+        - {x: 33, y: -31}
+        - {x: 41, y: -31}
+        - {x: 46, y: -30}
+        - {x: 48, y: -28}
+        - {x: 47, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37434b27fe664503ab6076af92d93b0d
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 96}
+      - {x: 120, y: 96}
+      - {x: 0, y: 32}
+      - {x: 120, y: 32}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_waterfall_vertical_bot120x64_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 120
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: -32}
+        - {x: -60, y: 32}
+        - {x: 60, y: 32}
+        - {x: 60, y: -32}
+      physicsShape:
+      - - {x: 39, y: -23}
+        - {x: 38, y: -24}
+        - {x: 26, y: -24}
+        - {x: 26, y: -23}
+        - {x: 32, y: -24}
+        - {x: 37, y: -24}
+        - {x: 41, y: -21}
+        - {x: 50, y: -18}
+        - {x: 50, y: 32}
+        - {x: -46, y: 32}
+        - {x: -47, y: 23}
+        - {x: -47, y: -24}
+        - {x: -30, y: -30}
+        - {x: 44, y: -30}
+        - {x: 47, y: -29}
+        - {x: 49, y: -27}
+        - {x: 48, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4a3d480c7d4059b76be453f8419ca2
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 96}
+      - {x: 120, y: 96}
+      - {x: 0, y: 32}
+      - {x: 120, y: 32}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_waterfall_vertical_bot120x64_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 120
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: -32}
+        - {x: -60, y: 32}
+        - {x: 60, y: 32}
+        - {x: 60, y: -32}
+      physicsShape:
+      - - {x: -47, y: 32}
+        - {x: -48, y: 27}
+        - {x: -48, y: -21}
+        - {x: -31, y: -30}
+        - {x: -13, y: -30}
+        - {x: -11, y: -25}
+        - {x: -8, y: -23}
+        - {x: -6, y: -23}
+        - {x: -2, y: -21}
+        - {x: -4, y: -22}
+        - {x: -6, y: -24}
+        - {x: -9, y: -24}
+        - {x: -11, y: -26}
+        - {x: -11, y: -30}
+        - {x: 51, y: -30}
+        - {x: 51, y: 31}
+        - {x: 50, y: 32}
+      - - {x: 28, y: -23}
+        - {x: 24, y: -23}
+        - {x: 18, y: -25}
+        - {x: 19, y: -27}
+      - - {x: -48, y: 1}
+        - {x: -45, y: 2}
+        - {x: -45, y: 5}
+        - {x: -48, y: 6}
+        - {x: -50, y: 4}
+      - - {x: 57, y: 4}
+        - {x: 60, y: 5}
+        - {x: 60, y: 8}
+        - {x: 57, y: 9}
+        - {x: 55, y: 7}
+      - - {x: -57, y: 5}
+        - {x: -54, y: 6}
+        - {x: -54, y: 9}
+        - {x: -57, y: 10}
+        - {x: -59, y: 8}
+      - - {x: -60, y: 13}
+        - {x: -59, y: 12}
+        - {x: -56, y: 13}
+        - {x: -56, y: 16}
+        - {x: -59, y: 17}
+        - {x: -60, y: 16}
+      - - {x: 53, y: 17}
+        - {x: 54, y: 14}
+        - {x: 57, y: 13}
+        - {x: 60, y: 14}
+        - {x: 60, y: 16}
+        - {x: 57, y: 19}
+        - {x: 55, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca032ab438a48519fe92cd83c2c8bb3
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 96}
+      - {x: 120, y: 96}
+      - {x: 0, y: 32}
+      - {x: 120, y: 32}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_waterfall_vertical_bot120x64_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 120
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: -32}
+        - {x: -60, y: 32}
+        - {x: 60, y: 32}
+        - {x: 60, y: -32}
+      physicsShape:
+      - - {x: 51, y: -21}
+        - {x: 51, y: 1}
+        - {x: 50, y: 5}
+        - {x: 51, y: 22}
+        - {x: 51, y: 29}
+        - {x: 50, y: 32}
+        - {x: -46, y: 32}
+        - {x: -46, y: 12}
+        - {x: -50, y: 2}
+        - {x: -50, y: -17}
+        - {x: -47, y: -25}
+        - {x: -19, y: -30}
+        - {x: -3, y: -30}
+        - {x: 7, y: -27}
+        - {x: 13, y: -30}
+        - {x: 28, y: -30}
+        - {x: 45, y: -28}
+        - {x: 49, y: -25}
+      - - {x: -50, y: 4}
+        - {x: -47, y: 1}
+        - {x: -44, y: 2}
+        - {x: -44, y: 4}
+        - {x: -47, y: 7}
+        - {x: -49, y: 7}
+      - - {x: 53, y: 8}
+        - {x: 56, y: 5}
+        - {x: 59, y: 6}
+        - {x: 59, y: 8}
+        - {x: 56, y: 11}
+        - {x: 54, y: 11}
+      - - {x: -59, y: 9}
+        - {x: -59, y: 8}
+        - {x: -57, y: 6}
+        - {x: -56, y: 6}
+        - {x: -53, y: 9}
+        - {x: -53, y: 11}
+        - {x: -56, y: 12}
+      - - {x: -60, y: 16}
+        - {x: -60, y: 15}
+        - {x: -58, y: 13}
+        - {x: -57, y: 13}
+        - {x: -53, y: 17}
+        - {x: -53, y: 19}
+        - {x: -56, y: 20}
+      - - {x: 52, y: 20}
+        - {x: 50, y: 18}
+        - {x: 51, y: 15}
+        - {x: 54, y: 14}
+        - {x: 57, y: 14}
+        - {x: 58, y: 16}
+        - {x: 58, y: 17}
+        - {x: 55, y: 20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6553b1c764e4cc6af0e301d23b053b6
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 96}
+      - {x: 120, y: 96}
+      - {x: 0, y: 32}
+      - {x: 120, y: 32}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_waterfall_vertical_bot120x64_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 64
+        width: 120
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: -32}
+        - {x: -60, y: 32}
+        - {x: 60, y: 32}
+        - {x: 60, y: -32}
+      physicsShape:
+      - - {x: 47, y: -25}
+        - {x: 49, y: -23}
+        - {x: 56, y: 8}
+        - {x: 56, y: 10}
+        - {x: 50, y: 32}
+        - {x: -46, y: 32}
+        - {x: -46, y: 28}
+        - {x: -45, y: 12}
+        - {x: -54, y: 13}
+        - {x: -56, y: 11}
+        - {x: -51, y: -20}
+        - {x: -44, y: -24}
+        - {x: -21, y: -25}
+        - {x: -15, y: -29}
+        - {x: -5, y: -32}
+        - {x: 4, y: -32}
+        - {x: 9, y: -31}
+        - {x: 11, y: -27}
+        - {x: 22, y: -31}
+        - {x: 24, y: -26}
+      - - {x: 35, y: -29}
+        - {x: 36, y: -32}
+        - {x: 41, y: -32}
+        - {x: 43, y: -30}
+        - {x: 42, y: -27}
+        - {x: 37, y: -27}
+      - - {x: -35, y: -26}
+        - {x: -34, y: -29}
+        - {x: -30, y: -30}
+        - {x: -25, y: -30}
+        - {x: -23, y: -27}
+        - {x: -24, y: -24}
+        - {x: -33, y: -24}
+      - - {x: -56, y: 22}
+        - {x: -57, y: 20}
+        - {x: -57, y: 16}
+        - {x: -55, y: 15}
+        - {x: -50, y: 13}
+        - {x: -46, y: 13}
+        - {x: -45, y: 15}
+        - {x: -45, y: 19}
+        - {x: -50, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e4b24b940a44b89a42ef542ea734eb
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 96}
+      - {x: 120, y: 96}
+      - {x: 0, y: 32}
+      - {x: 120, y: 32}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_waterfall_vertical_bot120x64_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: -32}
+        - {x: -60, y: 32}
+        - {x: 60, y: 32}
+        - {x: 60, y: -32}
+      physicsShape:
+      - - {x: 23, y: -29}
+        - {x: 44, y: -27}
+        - {x: 48, y: -26}
+        - {x: 54, y: -12}
+        - {x: 50, y: 5}
+        - {x: 56, y: 16}
+        - {x: 56, y: 21}
+        - {x: 55, y: 22}
+        - {x: 50, y: 32}
+        - {x: -46, y: 32}
+        - {x: -47, y: 12}
+        - {x: -51, y: 3}
+        - {x: -51, y: -13}
+        - {x: -50, y: -19}
+        - {x: -40, y: -23}
+        - {x: -26, y: -24}
+        - {x: -12, y: -29}
+        - {x: -3, y: -29}
+        - {x: -1, y: -27}
+        - {x: -2, y: -24}
+        - {x: 18, y: -29}
+      - - {x: 50, y: 8}
+        - {x: 50, y: 6}
+        - {x: 52, y: 5}
+        - {x: 56, y: 5}
+        - {x: 58, y: 8}
+        - {x: 57, y: 11}
+        - {x: 53, y: 11}
+      - - {x: -58, y: 10}
+        - {x: -57, y: 7}
+        - {x: -54, y: 7}
+        - {x: -51, y: 10}
+        - {x: -51, y: 12}
+        - {x: -54, y: 13}
+      - - {x: -56, y: 21}
+        - {x: -60, y: 17}
+        - {x: -59, y: 14}
+        - {x: -50, y: 14}
+        - {x: -48, y: 16}
+        - {x: -48, y: 18}
+        - {x: -51, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f766815357e4b50bb8e87749dc2916f
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 96}
+      - {x: 120, y: 96}
+      - {x: 0, y: 32}
+      - {x: 120, y: 32}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PD_waterfall_vertical_bot120x64_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 120
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: -32}
+        - {x: -60, y: 32}
+        - {x: 60, y: 32}
+        - {x: 60, y: -32}
+      physicsShape:
+      - - {x: 51, y: -17}
+        - {x: 56, y: -1}
+        - {x: 56, y: 19}
+        - {x: 50, y: 32}
+        - {x: -46, y: 32}
+        - {x: -46, y: 28}
+        - {x: -52, y: 25}
+        - {x: -56, y: 18}
+        - {x: -56, y: 8}
+        - {x: -51, y: -16}
+        - {x: -44, y: -23}
+        - {x: -24, y: -22}
+        - {x: -18, y: -30}
+        - {x: -4, y: -32}
+        - {x: 6, y: -32}
+        - {x: 15, y: -25}
+        - {x: 30, y: -27}
+        - {x: 47, y: -23}
+      - - {x: 33, y: -28}
+        - {x: 34, y: -31}
+        - {x: 42, y: -31}
+        - {x: 44, y: -29}
+        - {x: 43, y: -26}
+        - {x: 35, y: -26}
+      - - {x: -39, y: -22}
+        - {x: -40, y: -24}
+        - {x: -39, y: -27}
+        - {x: -37, y: -28}
+        - {x: -22, y: -28}
+        - {x: -21, y: -25}
+        - {x: -22, y: -22}
+      - - {x: 12, y: -25}
+        - {x: 13, y: -28}
+        - {x: 22, y: -28}
+        - {x: 24, y: -26}
+        - {x: 23, y: -23}
+        - {x: 14, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8394fd88fba047a4865b4bbe86d67d5e
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 96}
+      - {x: 120, y: 96}
+      - {x: 0, y: 32}
+      - {x: 120, y: 32}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName: 1f0e03801170aa975b541c4c7d517a45.bundle
+  assetBundleVariant:
