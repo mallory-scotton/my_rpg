@@ -42,52 +42,7 @@
 /// \return    The result of the executed function
 ///
 ///////////////////////////////////////////////////////////////////////////////
-    #define SWITCH(c, f1, f2) ((c) ? (f1()) : (f2()))
-
-///////////////////////////////////////////////////////////////////////////////
-/// \brief Conditionally execute one of two functions with an additional
-/// parameter
-///
-/// \param c   The condition to check
-/// \param f1  The function to execute if the condition is true
-/// \param f2  The function to execute if the condition is false
-/// \param x   The additional parameter to pass to the executed function
-///
-/// \return    The result of the executed function
-///
-///////////////////////////////////////////////////////////////////////////////
-    #define SWITCHX(c, f1, f2, x) ((c) ? (f1(x)) : (f2(x)))
-
-///////////////////////////////////////////////////////////////////////////////
-/// \brief Conditionally execute one of two functions with two additional
-/// parameters
-///
-/// \param c   The condition to check
-/// \param f1  The function to execute if the condition is true
-/// \param f2  The function to execute if the condition is false
-/// \param x   The first additional parameter to pass to the executed function
-/// \param y   The second additional parameter to pass to the executed function
-///
-/// \return    The result of the executed function
-///
-///////////////////////////////////////////////////////////////////////////////
-    #define SWITCHXY(c, f1, f2, x, y) ((c) ? (f1(x, y)) : (f2(x, y)))
-
-///////////////////////////////////////////////////////////////////////////////
-/// \brief Conditionally execute one of two functions with three additional
-/// parameters
-///
-/// \param c   The condition to check
-/// \param f1  The function to execute if the condition is true
-/// \param f2  The function to execute if the condition is false
-/// \param x   The first additional parameter to pass to the executed function
-/// \param y   The second additional parameter to pass to the executed function
-/// \param z   The third additional parameter to pass to the executed function
-///
-/// \return    The result of the executed function
-///
-///////////////////////////////////////////////////////////////////////////////
-    #define SWITCHXYZ(c, f1, f2, x, y, z) ((c) ? (f1(x, y, z)) : (f2(x, y, z)))
+    #define SWITCH(c, f1, f2) ((c) ? (f1) : (f2))
 
 ///////////////////////////////////////////////////////////////////////////////
 /// \brief Linearly interpolate between two values
@@ -100,6 +55,19 @@
 ///
 ///////////////////////////////////////////////////////////////////////////////
     #define LERP(a, b, t) ((a) * (1 - t) + (b) * (t))
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Coding style bypassing macros
+///
+///////////////////////////////////////////////////////////////////////////////
+    #define EQ3(x, y, z) ((x) = (y) = (z))
+    #define EQ2(x, y) ((x) = (y))
+    #define DEC1(x) (--(x))
+    #define INC1(x) (++(x))
+    #define DEC2(x, y) (--(x), --(y))
+    #define INC2(x, y) (++(x), ++(y))
+    #define INC1DEC1(x, y) (++(x), --(y))
+    #define INC2DEC1(x, y, z) (++(x), ++(y), --(z))
 
 ///////////////////////////////////////////////////////////////////////////////
 /// \brief Clamp a value between 0 and 1
@@ -182,43 +150,7 @@
 /// \param f   The function to execute if the condition is true
 ///
 ///////////////////////////////////////////////////////////////////////////////
-    #define DOIF(c, f) if ((c)) (f())
-
-///////////////////////////////////////////////////////////////////////////////
-/// \brief Conditionally execute a function with an additional parameter if a
-/// specified condition is true
-///
-/// \param c   The condition to check
-/// \param f   The function to execute if the condition is true
-/// \param x   The additional parameter to pass to the executed function
-///
-///////////////////////////////////////////////////////////////////////////////
-    #define DOIFX(c, f, x) if ((c)) (f(x))
-
-///////////////////////////////////////////////////////////////////////////////
-/// \brief Conditionally execute a function with two additional parameters if
-/// a specified condition is true
-///
-/// \param c   The condition to check
-/// \param f   The function to execute if the condition is true
-/// \param x   The first additional parameter to pass to the executed function
-/// \param y   The second additional parameter to pass to the executed function
-///
-///////////////////////////////////////////////////////////////////////////////
-    #define DOIFXY(c, f, x, y) if ((c)) (f(x, y))
-
-///////////////////////////////////////////////////////////////////////////////
-/// \brief Conditionally execute a function with three additional parameters
-/// if a specified condition is true
-///
-/// \param c   The condition to check
-/// \param f   The function to execute if the condition is true
-/// \param x   The first additional parameter to pass to the executed function
-/// \param y   The second additional parameter to pass to the executed function
-/// \param z   The third additional parameter to pass to the executed function
-///
-///////////////////////////////////////////////////////////////////////////////
-    #define DOIFXYZ(c, f, x, y, z) if ((c)) (f(x, y, z))
+    #define DOIF(c, f) if ((c)) (f)
 
 ///////////////////////////////////////////////////////////////////////////////
 /// \brief Macro to compute the minimum of three values.
