@@ -24,9 +24,8 @@ string my_strdup(cstring str)
     ulong len = my_strlen(str) + 1;
     string copy;
 
-    copy = malloc((uint)len);
-    if (!copy)
-        return (NULL);
+    copy = malloc(len);
+    RETURN(!copy, NULL);
     my_memcpy(copy, str, len);
     return (copy);
 }

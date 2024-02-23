@@ -460,6 +460,9 @@ typedef struct prop_s {
     string name;
     prop_type_t type;
     prop_animation_t anim;
+    bool valid;
+    sfTexture *text;
+    recti mask;
 } prop_t;
 
 ///////////////////////////////////////////////////////////////////////////////
@@ -492,7 +495,7 @@ typedef struct category_s {
 typedef struct zones_s {
     string name;
     bool loaded;
-    category_t **cat;
+    category_t **cats;
     u8 catCount;
 } zones_t;
 
@@ -532,5 +535,67 @@ status assets_init(void);
 ///
 ///////////////////////////////////////////////////////////////////////////////
 status assets_destroy(void);
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Initializes the zones module.
+///
+/// \return Status of the operation (success/fail).
+///
+///////////////////////////////////////////////////////////////////////////////
+status zones_init(void);
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Destroys a zone structure.
+///
+/// \param zone Pointer to the zone structure to be destroyed.
+///
+/// \return Status of the operation (success/fail).
+///
+///////////////////////////////////////////////////////////////////////////////
+status zone_destroy(zones_t *zone);
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Initializes a category with the specified name and path.
+///
+/// \param cat          Pointer to the category_t structure to be initialized.
+/// \param parentPath   The path of the category.
+/// \param name         The name of the category.
+///
+/// \return The status of the initialization process (success or failure).
+///
+///////////////////////////////////////////////////////////////////////////////
+status category_init(category_t *cat, cstring parentPath, string name);
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Destroys a category and its associated props.
+///
+/// \param cat Pointer to the category_t structure to be destroyed.
+///
+/// \return The status of the destruction process (success or failure).
+///
+///////////////////////////////////////////////////////////////////////////////
+status category_destroy(category_t *cat);
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Initializes a prop with the specified parent path and name.
+///
+/// \param prop Pointer to the prop_t structure to be initialized.
+/// \param parentPath The parent path of the prop.
+/// \param name The name of the prop.
+///
+/// \return The status of the initialization process (success or failure).
+///
+///////////////////////////////////////////////////////////////////////////////
+status prop_init(prop_t *prop, cstring parentPath, string name);
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Destroys a prop and releases associated resources.
+///
+/// \param prop Pointer to the prop_t structure to be destroyed.
+///
+/// \return The status of the destruction process (success or failure).
+///
+///////////////////////////////////////////////////////////////////////////////
+status prop_destroy(prop_t *prop);
 
 #endif /* !GLOBAL_H_ */

@@ -27,7 +27,7 @@ status assets_init(void)
     Assets->zoneCount = dircount(ASSETS_PATH ZONES_DIR);
     DOIF(Assets->zoneCount == 0 || Assets->zoneCount > MAX_ZONE, FREE(Assets));
     RETURN(Assets->zoneCount == 0 || Assets->zoneCount > MAX_ZONE, fail);
-    Assets->zones = malloc(sizeof(zones_t) * Assets->zoneCount);
+    Assets->zones = malloc(sizeof(zones_t *) * Assets->zoneCount);
     if (Assets->zones == NULL) {
         FREE(Assets);
         return (fail);
@@ -47,7 +47,11 @@ status assets_init(void)
 status assets_destroy(void)
 {
     RETURN(Assets == NULL, success);
-    for (uchar i = 0; i < Assets->zoneCount; i++)
-        zone_destroy(Assets->zones[i]);
+    if (Assets->zones != NULL) {
+        for (uchar i = 0; i < Assets->zoneCount; i++)
+            zone_destroy(Assets->zones[i]);
+        FREE(Assets->zones);
+    }
+    FREE(Assets);
     return (success);
 }
