@@ -46,7 +46,6 @@ warray dircontent(cstring path)
 {
     u8 len = dircount(path);
     DIR *dir;
-    struct dirent *info;
     warray content;
     u8 i = 0;
 
@@ -57,8 +56,10 @@ warray dircontent(cstring path)
     for (struct dirent *info = readdir(dir); info; info = readdir(dir)) {
         if (CMP(info->d_name, ".") || CMP(info->d_name, ".."))
             continue;
-        content[INC1(i)] = my_strdup(info->d_name);
+        content[i] = my_strdup(info->d_name);
+        i++;
     }
     content[len] = 0;
+    closedir(dir);
     return (content);
 }
