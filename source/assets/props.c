@@ -47,6 +47,39 @@ static bool is_prop_name_valid(warray frag)
 }
 
 ///////////////////////////////////////////////////////////////////////////////
+/// \brief Parses the metadata of a prop from its fragments.
+///
+/// \param prop Pointer to the prop_t structure to store metadata.
+/// \param frag An array containing fragments of the prop name.
+/// \param len The number of fragments in the array.
+///
+/// This function parses the metadata of a prop based on its fragments. It sets
+/// the prop type, name, and other properties such as animation details if
+/// applicable.
+///
+///////////////////////////////////////////////////////////////////////////////
+static void parse_prop_metadata(prop_t *prop, warray frag, ulong len)
+{
+    warray ext = my_strsplit(frag[len - 1], '.');
+    warray tmp;
+
+    prop->type = frag[0][0] == 'S' ? props_animated : props_static;
+    prop->name = my_strdup(len == 2 ? ext[0] : frag[1]);
+    if (len != 2) {
+        prop->animated = true;
+        tmp = my_strsplit(frag[2], 'x');
+        prop->anim.autoplay = my_atob(ext[0]);
+        prop->anim.frameSize = VEC2U(my_atoi(tmp[0]), my_atoi(tmp[1]));
+        prop->anim.gridWidth = my_atoi(frag[3]);
+        prop->anim.gridHeight = my_atob(frag[4]);
+        my_watroy(tmp);
+        prop->mask = (recti){0, 0, prop->anim.gridWidth,
+            prop->anim.gridHeight};
+    }
+    my_watroy(ext);
+}
+
+///////////////////////////////////////////////////////////////////////////////
 /// \brief Initializes a prop with the specified parent path and name.
 ///
 /// \param prop         Pointer to the prop_t structure to be initialized.
@@ -64,11 +97,14 @@ status prop_init(prop_t *prop, cstring parentPath, string name)
     frag = my_strsplit(name, '-');
     RETURN(frag == NULL, fail);
     prop->valid = is_prop_name_valid(frag);
-    prop->name = name;
     prop->filepath = my_strdcat(parentPath, "/", name);
+    prop->animated = false;
+    prop->textureSize = VEC2U(0, 0);
+    FREE(name);
     prop->text = NULL;
     DOIF(!prop->valid, my_watroy(frag));
     RETURN(!prop->valid, fail);
+    parse_prop_metadata(prop, frag, my_walen(frag));
     my_watroy(frag);
     return (success);
 }
