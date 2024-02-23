@@ -82,9 +82,11 @@
 ///////////////////////////////////////////////////////////////////////////////
     #include "rpg/dependencies.h"
     #include "rpg/types.h"
+    #include "rpg/utils.h"
     #include "rpg/libmy.h"
     #include "rpg/macros.h"
     #include "rpg/global.h"
     #include "configuration.h"
+    #include "class/shots.h"
 
 #endif /* !RPG_H_ */
