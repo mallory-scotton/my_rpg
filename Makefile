@@ -42,8 +42,7 @@ LIBDIR	:=	./libmy/char \
 			./libmy/memory \
 			./libmy/parsing \
 			./libmy/puts \
-			./libmy/strings \
-			./libmy/crypto
+			./libmy/strings
 LIBMY	:=	$(shell find $(LIBDIR) -name '*.c')
 
 TESTDIR	:= 	./tests/
