@@ -66,11 +66,16 @@
 
     // ZONES LOCATION
     #define ZONES_DIR "zones"
+    #define ZONE_PATH (ASSETS_PATH ZONES_DIR)
 
     // RESERVED KEYWORDS DIRECTORY
     #define TRAPS_DIR "traps"
     #define VFX_DIR "vfx"
     #define DESTRUCTIBLES_DIR "destructibles"
+
+    #define MAX_ZONE 16
+    #define MAX_CATEGORY 16
+    #define MAX_ASSETS 128
 
 ///////////////////////////////////////////////////////////////////////////////
 
