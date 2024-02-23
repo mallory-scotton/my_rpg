@@ -25,8 +25,8 @@ status assets_init(void)
 {
     RETURN(!EQ2(Assets, malloc(sizeof(global_assets_t))), fail);
     Assets->zoneCount = dircount(ASSETS_PATH ZONES_DIR);
-    DOIF(Assets->zoneCount == 0, FREE(Assets));
-    RETURN(Assets->zoneCount == 0, fail);
+    DOIF(Assets->zoneCount == 0 || Assets->zoneCount > MAX_ZONE, FREE(Assets));
+    RETURN(Assets->zoneCount == 0 || Assets->zoneCount > MAX_ZONE, fail);
     Assets->zones = malloc(sizeof(zones_t) * Assets->zoneCount);
     if (Assets->zones == NULL) {
         FREE(Assets);
@@ -48,6 +48,6 @@ status assets_destroy(void)
 {
     RETURN(Assets == NULL, success);
     for (uchar i = 0; i < Assets->zoneCount; i++)
-        zones_destroy(Assets->zones);
+        zone_destroy(Assets->zones[i]);
     return (success);
 }

@@ -23,8 +23,8 @@ u8 dircount(cstring path)
     struct dirent *info;
     u8 count = 0;
 
-    RETURN(dir == NULL, 0);
-    for (info = readdir(dir); info == NULL; info = readdir(dir)) {
+    RETURN(dir == NULL, (u8)-1);
+    for (info = readdir(dir); info != NULL; info = readdir(dir)) {
         if (CMP(info->d_name, ".") || CMP(info->d_name, ".."))
             continue;
         count++;
