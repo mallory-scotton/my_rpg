@@ -38,7 +38,7 @@ status time_init(void)
         free(Time);
         return (fail);
     }
-    Time->currentTime = sfClock_getElapsedTime(Time->clock);
+    Time->currentTime = TIME_MS(sfClock_getElapsedTime(Time->clock));
     Time->deltaTime = 0.0f;
     return (success);
 }
@@ -59,8 +59,8 @@ status time_update(void)
 
     RETURN(!Time, time_init());
     current = sfClock_getElapsedTime(Time->clock);
-    Time->deltaTime = TIME_MS(current) - TIME_MS(Time->currentTime);
-    Time->currentTime = current;
+    Time->deltaTime = TIME_MS(current) - Time->currentTime;
+    Time->currentTime = TIME_MS(current);
     return (success);
 }
 

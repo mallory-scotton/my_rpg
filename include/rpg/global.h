@@ -327,7 +327,7 @@ extern global_vec2_t Vec2;
 ///////////////////////////////////////////////////////////////////////////////
 typedef struct global_time_s {
     double deltaTime;
-    sfTime currentTime;
+    ulong currentTime;
     sfClock *clock;
 } global_time_t;
 
