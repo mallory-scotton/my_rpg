@@ -122,7 +122,6 @@ status prop_destroy(prop_t *prop)
     RETURN(prop == NULL, success);
     FREE(prop->filepath);
     FREE(prop->name);
-    DOIF(prop->text != NULL, sfTexture_destroy(prop->text));
     FREE(prop);
     return (success);
 }
