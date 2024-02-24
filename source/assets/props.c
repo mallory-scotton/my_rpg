@@ -126,3 +126,41 @@ status prop_destroy(prop_t *prop)
     FREE(prop);
     return (success);
 }
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Unloads a prop.
+///
+/// \param prop Pointer to the prop_t structure to be unloaded.
+///
+/// \return The status of the unloading process (success or failure).
+///
+/// This function unloads a prop.
+///
+///////////////////////////////////////////////////////////////////////////////
+status prop_unload(prop_t *prop)
+{
+    RETURN(prop == NULL || !prop->valid, success);
+    RETURN(prop->text == NULL, success);
+    sfTexture_destroy(prop->text);
+    prop->textureSize = VEC2U(0, 0);
+    return (success);
+}
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Loads a prop.
+///
+/// \param prop Pointer to the prop_t structure to be loaded.
+///
+/// \return The status of the loading process (success or failure).
+///
+/// This function loads a prop.
+///
+///////////////////////////////////////////////////////////////////////////////
+status prop_load(prop_t *prop)
+{
+    RETURN(prop == NULL || !prop->valid, success);
+    prop->text = sfTexture_createFromFile(prop->filepath, NULL);
+    RETURN(prop->text == NULL, fail);
+    prop->textureSize = sfTexture_getSize(prop->text);
+    return (success);
+}

@@ -77,3 +77,57 @@ status zone_destroy(zones_t *zone)
     FREE(zone);
     return (success);
 }
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Unloads a zone and its categories.
+///
+/// \param name The name of the zone to be unloaded.
+///
+/// \return The status of the unloading process (success or failure).
+///
+/// This function unloads a zone and its associated categories. It iterates
+/// through the zones in the global assets and unloads the specified zone.
+///
+///////////////////////////////////////////////////////////////////////////////
+status zone_unload(cstring name)
+{
+    status result = success;
+
+    for (u8 i = 0; i < Assets->zoneCount; i++) {
+        if (!CMP(Assets->zones[i]->name, name))
+            continue;
+        for (u8 y = 0; y < Assets->zones[i]->catCount; y++)
+            DOIF(!category_unload(Assets->zones[i]->cats[y]), EQ2(result, 0));
+        DOIF(result, EQ2(Assets->zones[i]->loaded, false));
+        break;
+    }
+    return (result);
+}
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Loads a zone and its categories.
+///
+/// \param name The name of the zone to be loaded.
+///
+/// \return The status of the loading process (success or failure).
+///
+/// This function loads a zone and its associated categories. It iterates
+/// through the zones in the global assets and loads the specified zone.
+///
+///////////////////////////////////////////////////////////////////////////////
+status zone_load(cstring name)
+{
+    status result = success;
+
+    for (u8 i = 0; i < Assets->zoneCount; i++) {
+        if (!CMP(Assets->zones[i]->name, name) && Assets->zones[i]->loaded) {
+            zone_unload(Assets->zones[i]->name);
+            continue;
+        }
+        for (u8 y = 0; y < Assets->zones[i]->catCount; y++)
+            DOIF(!category_load(Assets->zones[i]->cats[y]), EQ2(result, 0));
+        DOIF(result, EQ2(Assets->zones[i]->loaded, true));
+        break;
+    }
+    return (result);
+}

@@ -600,4 +600,78 @@ status prop_init(prop_t *prop, cstring parentPath, string name);
 ///////////////////////////////////////////////////////////////////////////////
 status prop_destroy(prop_t *prop);
 
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Unloads a zone and its categories.
+///
+/// \param name The name of the zone to be unloaded.
+///
+/// \return The status of the unloading process (success or failure).
+///
+/// This function unloads a zone and its associated categories. It iterates
+/// through the zones in the global assets and unloads the specified zone.
+///
+///////////////////////////////////////////////////////////////////////////////
+status zone_unload(cstring name);
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Loads a zone and its categories.
+///
+/// \param name The name of the zone to be loaded.
+///
+/// \return The status of the loading process (success or failure).
+///
+/// This function loads a zone and its associated categories. It iterates
+/// through the zones in the global assets and loads the specified zone.
+///
+///////////////////////////////////////////////////////////////////////////////
+status zone_load(cstring name);
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Unloads a category and its associated props.
+///
+/// \param cat Pointer to the category_t structure to be unloaded.
+///
+/// \return The status of the unloading process (success or failure).
+///
+/// This function unloads a category and its associated props.
+///
+///////////////////////////////////////////////////////////////////////////////
+status category_unload(category_t *cat);
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Loads a category and its associated props.
+///
+/// \param cat Pointer to the category_t structure to be loaded.
+///
+/// \return The status of the loading process (success or failure).
+///
+/// This function loads a category and its associated props.
+///
+///////////////////////////////////////////////////////////////////////////////
+status category_load(category_t *cat);
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Loads a prop.
+///
+/// \param prop Pointer to the prop_t structure to be loaded.
+///
+/// \return The status of the loading process (success or failure).
+///
+/// This function loads a prop.
+///
+///////////////////////////////////////////////////////////////////////////////
+status prop_load(prop_t *prop);
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Unloads a prop.
+///
+/// \param prop Pointer to the prop_t structure to be unloaded.
+///
+/// \return The status of the unloading process (success or failure).
+///
+/// This function unloads a prop.
+///
+///////////////////////////////////////////////////////////////////////////////
+status prop_unload(prop_t *prop);
+
 #endif /* !GLOBAL_H_ */

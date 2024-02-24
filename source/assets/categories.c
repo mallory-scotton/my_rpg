@@ -69,3 +69,43 @@ status category_destroy(category_t *cat)
     FREE(cat);
     return (success);
 }
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Unloads a category and its associated props.
+///
+/// \param cat Pointer to the category_t structure to be unloaded.
+///
+/// \return The status of the unloading process (success or failure).
+///
+/// This function unloads a category and its associated props.
+///
+///////////////////////////////////////////////////////////////////////////////
+status category_unload(category_t *cat)
+{
+    status result = success;
+
+    RETURN(cat == NULL, success);
+    for (u8 i = 0; i < cat->propCount; i++)
+        DOIF(!prop_unload(cat->props[i]), EQ2(result, fail));
+    return (result);
+}
+
+///////////////////////////////////////////////////////////////////////////////
+/// \brief Loads a category and its associated props.
+///
+/// \param cat Pointer to the category_t structure to be loaded.
+///
+/// \return The status of the loading process (success or failure).
+///
+/// This function loads a category and its associated props.
+///
+///////////////////////////////////////////////////////////////////////////////
+status category_load(category_t *cat)
+{
+    status result = success;
+
+    RETURN(cat == NULL, success);
+    for (u8 i = 0; i < cat->propCount; i++)
+        DOIF(!prop_load(cat->props[i]), EQ2(result, fail));
+    return (result);
+}
