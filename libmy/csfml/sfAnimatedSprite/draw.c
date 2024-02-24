@@ -22,7 +22,7 @@ void ansprite_draw(ansprite_t *s)
     ulong ems = (Time->currentTime) - (s->start);
     recti mask = {0, 0, a->frameSize.x, a->frameSize.y};
 
-    s->currentFrame = (uint)(ems / FRAME_PER_MS) % a->maxFrame;
+    s->currentFrame = (uint)(ems / s->frameRate) % a->maxFrame;
     mask.left = (s->currentFrame % a->gridSize.x) * a->frameSize.x;
     mask.top = (s->currentFrame / a->gridSize.x) * a->frameSize.y;
     sfSprite_setTextureRect(s->sprite, mask);

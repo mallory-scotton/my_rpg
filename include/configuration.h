@@ -56,8 +56,10 @@
     #define VIEW_WIDTH 512
     #define VIEW_HEIGHT 288
 
-    #define FRAME_PER_SEC 9
-    #define FRAME_PER_MS (1000 / FRAME_PER_SEC)
+    #define ACTOR_FRAME_PER_SEC 9
+    #define PROP_FRAME_PER_SEC 5
+    #define ACTOR_FRAME_PER_MS (1000 / ACTOR_FRAME_PER_SEC)
+    #define PROP_FRAME_PER_MS (1000 / PROP_FRAME_PER_SEC)
 
 ///////////////////////////////////////////////////////////////////////////////
 

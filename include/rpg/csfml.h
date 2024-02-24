@@ -36,6 +36,7 @@ typedef struct {
     uint currentAnimation;
     uint currentFrame;
     uint animationCount;
+    ulong frameRate;
     ulong start;
 } ansprite_t;
 
