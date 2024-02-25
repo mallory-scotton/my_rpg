@@ -508,6 +508,7 @@ typedef struct zones_s {
 typedef struct global_assets_s {
     zones_t **zones;
     u8 zoneCount;
+    sfTexture *fontAtlas;
 } global_assets_t;
 
 ///////////////////////////////////////////////////////////////////////////////

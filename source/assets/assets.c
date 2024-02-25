@@ -24,10 +24,11 @@ global_assets_t *Assets;
 status assets_init(void)
 {
     RETURN(!EQ2(Assets, malloc(sizeof(global_assets_t))), fail);
-    Assets->zoneCount = dircount(ASSETS_PATH ZONES_DIR);
+    Assets->zoneCount = dircount(ZONE_PATH);
     DOIF(Assets->zoneCount == 0 || Assets->zoneCount > MAX_ZONE, FREE(Assets));
     RETURN(Assets->zoneCount == 0 || Assets->zoneCount > MAX_ZONE, fail);
     Assets->zones = malloc(sizeof(zones_t *) * Assets->zoneCount);
+    Assets->fontAtlas = sfTexture_createFromFile(FONT_PATH, NULL);
     if (Assets->zones == NULL) {
         FREE(Assets);
         return (fail);
@@ -52,6 +53,7 @@ status assets_destroy(void)
             zone_destroy(Assets->zones[i]);
         FREE(Assets->zones);
     }
+    DOIF(Assets->fontAtlas, sfTexture_destroy(Assets->fontAtlas));
     FREE(Assets);
     return (success);
 }

@@ -69,9 +69,15 @@
     // DEFAULT ASSETS LOCATION
     #define ASSETS_PATH "assets/"
 
+    // DEFAULT DATA LOCATION
+    #define DATA_PATH (ASSETS_PATH "data")
+
     // ZONES LOCATION
-    #define ZONES_DIR "zones"
-    #define ZONE_PATH (ASSETS_PATH ZONES_DIR)
+    #define ZONE_PATH (ASSETS_PATH "zones")
+
+    // FONT LOCATION
+    #define FONT_PATH (ASSETS_PATH "font-atlas.png")
+    #define FONT_LOWERED_CHAR "gjpqyJQ"
 
     // RESERVED KEYWORDS DIRECTORY
     #define TRAPS_DIR "traps"
