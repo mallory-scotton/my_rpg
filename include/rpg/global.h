@@ -501,6 +501,20 @@ typedef struct zones_s {
     u8 catCount;
 } zones_t;
 
+typedef struct actor_s {
+    ansprite_t *self;
+    uint currentVariant;
+    bool has_variant;
+    sfTexture **variants;
+} actor_t;
+
+typedef struct global_assets_assets_s {
+    sfTexture *fontAtlas;
+    sfTexture *cover;
+    sfTexture *logo;
+    sfTexture *selection;
+} global_assets_assets_t;
+
 ///////////////////////////////////////////////////////////////////////////////
 /// \brief Structure for global assets, including zones and categories.
 ///
@@ -508,7 +522,9 @@ typedef struct zones_s {
 typedef struct global_assets_s {
     zones_t **zones;
     u8 zoneCount;
-    sfTexture *fontAtlas;
+    actor_t **actors;
+    uint actorCount;
+    global_assets_assets_t *assets;
 } global_assets_t;
 
 ///////////////////////////////////////////////////////////////////////////////

@@ -42,7 +42,7 @@
     #define WIN_HEIGHT 1080
     #define WIN_BITS 32
     #define WIN_MODE ((sfVideoMode){WIN_WIDTH, WIN_HEIGHT, WIN_BITS})
-    #define WIN_STYLE (sfResize | sfClose)
+    #define WIN_STYLE (sfResize | sfClose | sfFullscreen)
     #define WIN_TITLE "AK-XOLOTL"
     #define WIN_FPS 60
     #define WIN_CENTERED true
@@ -76,8 +76,12 @@
     #define ZONE_PATH (ASSETS_PATH "zones")
 
     // FONT LOCATION
+    ./
+
     #define FONT_PATH (ASSETS_PATH "font-atlas.png")
-    #define FONT_LOWERED_CHAR "gjpqyJQ"
+    #define COVER_PATH (ASSETS_PATH "cover.jpg")
+    #define LOGO_PATH (ASSETS_PATH "logo.png")
+    #define SELECTION_PATH (ASSETS_PATH "selection-mark.png")
 
     // RESERVED KEYWORDS DIRECTORY
     #define TRAPS_DIR "traps"

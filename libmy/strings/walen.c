@@ -22,6 +22,7 @@ ulong my_walen(warray wa)
 {
     warray swa = wa;
 
+    RETURN(!wa, 0);
     for (; *wa; wa++);
     return (wa - swa);
 }

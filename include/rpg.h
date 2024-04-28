@@ -88,6 +88,7 @@
     #include "rpg/macros.h"
     #include "rpg/global.h"
     #include "configuration.h"
+    #include "class/scenes.h"
     #include "class/shots.h"
 
 #endif /* !RPG_H_ */

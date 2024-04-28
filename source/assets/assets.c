@@ -12,6 +12,14 @@
 
 global_assets_t *Assets;
 
+static void assets_init_assets(void)
+{
+    Assets->assets->fontAtlas = sfTexture_createFromFile(FONT_PATH, NULL);
+    Assets->assets->cover = sfTexture_createFromFile(COVER_PATH, NULL);
+    Assets->assets->logo = sfTexture_createFromFile(LOGO_PATH, NULL);
+    Assets->assets->selection = sfTexture_createFromFile(SELECTION_PATH, NULL);
+}
+
 ///////////////////////////////////////////////////////////////////////////////
 /// \brief Initialize the assets.
 ///
@@ -28,12 +36,23 @@ status assets_init(void)
     DOIF(Assets->zoneCount == 0 || Assets->zoneCount > MAX_ZONE, FREE(Assets));
     RETURN(Assets->zoneCount == 0 || Assets->zoneCount > MAX_ZONE, fail);
     Assets->zones = malloc(sizeof(zones_t *) * Assets->zoneCount);
-    Assets->fontAtlas = sfTexture_createFromFile(FONT_PATH, NULL);
+    Assets->assets = malloc(sizeof(global_assets_assets_t));
+    assets_init_assets();
     if (Assets->zones == NULL) {
         FREE(Assets);
         return (fail);
     }
     return (zones_init());
+}
+
+static void assets_destroy_assets(void)
+{
+    DOIF(Assets->assets->fontAtlas, sfTexture_destroy(
+        Assets->assets->fontAtlas));
+    DOIF(Assets->assets->cover, sfTexture_destroy(Assets->assets->cover));
+    DOIF(Assets->assets->logo, sfTexture_destroy(Assets->assets->logo));
+    DOIF(Assets->assets->selection,
+        sfTexture_destroy(Assets->assets->selection));
 }
 
 ///////////////////////////////////////////////////////////////////////////////
@@ -53,7 +72,7 @@ status assets_destroy(void)
             zone_destroy(Assets->zones[i]);
         FREE(Assets->zones);
     }
-    DOIF(Assets->fontAtlas, sfTexture_destroy(Assets->fontAtlas));
+    assets_destroy_assets();
     FREE(Assets);
     return (success);
 }

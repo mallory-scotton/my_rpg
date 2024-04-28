@@ -1,0 +1,15 @@
+INDEX=0
+FOLDER=actors/player/adults/
+VARIANTS=albino;algae;alien;anime;anomaly;astronaut;bananalotl;bee;cartoon;caterkillah;chadgeept;corgi;cowrolina;cthulotl;cyclops;dalmatian;debug;dough;draco;druid;ember;enigma;firefly;froggo;goldy;imp;imsomnia;junkcat;knight;koi;lavender;melanoid;metal;midas;mud_whooper;neon;original;pastel;pengu;piggy;poison;salamander;skull;slime;spirit;teedy_bear;tiger;trans;wild;wooper;x;zombie
+DEFAULT=original
+
+ANIM=VAR sit 10 9 0 3 FALSE
+ANIM=VAR walk 10 9 4 9 TRUE
+ANIM=VAR hit 10 9 10 11 FALSE
+ANIM=VAR death 10 9 12 21 FALSE
+ANIM=VAR idle 10 9 22 25 TRUE DEFAULT
+ANIM=VAR dash 10 9 26 32 FALSE
+ANIM=VAR dance 10 9 34 37 TRUE
+ANIM=VAR eat 10 9 38 47 FALSE
+ANIM=VAR regenerate 10 9 38 68 FALSE
+ANIM=VAR sacrifice 10 9 73 80 FALSE
