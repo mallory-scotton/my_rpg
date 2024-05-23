@@ -188,6 +188,8 @@ extern struct keybind_s {
     int wasHover;
     key_track_t inventory;
     bool_t keylease;
+    bool_t healtuto;
+    bool_t dashtuto;
 } Setting;
 
 ///////////////////////////////////////////////////////////////////////////////

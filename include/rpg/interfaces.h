@@ -204,4 +204,13 @@ bool_t exist_save(uint_t id);
 ///////////////////////////////////////////////////////////////////////////////
 void save_save(uint_t id);
 
+    #define HEAL_LINE1 "Hey you. It seems like you are hurt. You can"
+    #define HEAL_LINE2 "try to use the ability that you have ?"
+    #define DASH_LINE1 "Oh a river.. you can just jump over it. You are"
+    #define DASH_LINE2 "an axolotle no need to be afraid of water."
+
+void healing_tuto(void);
+void dash_tuto(void);
+void sign_tuto(void);
+
 #endif /* !INTERFACES_H_ */

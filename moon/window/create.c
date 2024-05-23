@@ -36,7 +36,7 @@ struct keybind_s Setting = {
     DEFAULT_KEY_SHOOT,
     false, 100.0f, 100.0f, 100.0f, NULL, 0, 2, 60, true, true, 0, false, 1.0f,
     false, SCENE_MAIN_MENU, -1,
-    (key_track_t){DEFAULT_KEY_INVENTORY, false}, false
+    (key_track_t){DEFAULT_KEY_INVENTORY, false}, false, false, false
 };
 
 ///////////////////////////////////////////////////////////////////////////////

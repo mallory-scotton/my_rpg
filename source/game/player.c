@@ -14,6 +14,6 @@
 struct player_s Player = {
     NULL, {0.0f, 0.0f}, {0.0f, -SPEED},
     {0.0f, 0.0f}, 0, 0.0f, 0, false, {0.0f, 0.0f},
-    WEAPON_RIFLE_COWPUP, {WEAPON_RIFLE_AK, WEAPON_RIFLE_COWPUP},
+    WEAPON_RIFLE_AK, {WEAPON_RIFLE_AK, WEAPON_EXPLOSIVE_GRENADE},
     {20, 20}, 23, 1.5f, 0, 0, 0U, 0U, 0U
 };

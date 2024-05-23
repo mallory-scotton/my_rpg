@@ -212,7 +212,8 @@ P_C_GAME	=	$(P_D_GAME)loop.c											\
 				$(P_D_GAME)debug.c											\
 				$(P_D_GAME)player.c											\
 				$(P_D_GAME)health.c											\
-				$(P_D_GAME)hud.c
+				$(P_D_GAME)hud.c											\
+				$(P_D_GAME)sign_tuto.c
 P_C_EDITOR	=	$(P_D_EDITOR)editor.c										\
 				$(P_D_EDITOR)events.c										\
 				$(P_D_EDITOR)loop.c											\

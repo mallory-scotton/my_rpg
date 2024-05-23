@@ -154,6 +154,10 @@ static void draw_hud(void)
     draw_health();
     draw_comp();
     draw_weapon_only();
+    if (Setting.healtuto)
+        healing_tuto();
+    if (Setting.dashtuto)
+        dash_tuto();
     draw_visor();
     draw_fade();
 }
