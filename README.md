@@ -91,3 +91,12 @@ The program __would__ be a real video game.
 
 > [!CAUTION]
 > The size of your repository (including the assets) must be as small as possible. Think of the format and the encoding of your resource files (sounds, music, images,...). An average maximal size might be 30MB, all included. Any repository exceeding this limit might not be evaluated at all.
+
+### Screenshots
+
+![](https://github.com/mallory-scotton/my_rpg/blob/main/screenshots/hub.png)
+![](https://github.com/mallory-scotton/my_rpg/blob/main/screenshots/fight.png)
+![](https://github.com/mallory-scotton/my_rpg/blob/main/screenshots/boss1.png)
+![](https://github.com/mallory-scotton/my_rpg/blob/main/screenshots/boss2.png)
+![](https://github.com/mallory-scotton/my_rpg/blob/main/screenshots/editor1.png)
+![](https://github.com/mallory-scotton/my_rpg/blob/main/screenshots/editor2.png)
