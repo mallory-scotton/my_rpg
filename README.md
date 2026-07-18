@@ -70,7 +70,7 @@ the game [AK-xolotl](https://www.akxolotl.com).
 > the game. The debug mode allows the player to have more information about the game, like the
 > player position, the enemy position, and the collision boxes.
 
-__ADD VIDEO HERE__
+https://github.com/user-attachments/assets/43d1a0db-5de2-4792-aadb-ede543d09e49
 
 > The game comes with a level editor that allows the player to create their own levels and dungeons.
 > The editor can even be used to modify the existing levels of the game, like the hub and the
@@ -80,7 +80,7 @@ __ADD VIDEO HERE__
 ![In Editor View 1](./screenshots/editor1.png)
 ![In Editor View 2](./screenshots/editor2.png)
 
-__ADD VIDEO HERE__
+https://github.com/user-attachments/assets/4cf4996c-af79-4393-970b-2b1e84e73bf7
 
 ### The Project
 
