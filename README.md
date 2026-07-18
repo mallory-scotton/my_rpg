@@ -1,4 +1,4 @@
-__ADD A BANNER HERE__
+![my_rpg](./screenshots/header.svg)
 
 # [@mallory-scotton](https://github.com/mallory-scotton)/my_rpg
 
